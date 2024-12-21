@@ -18,7 +18,7 @@
     <desc>Grande guérite bleue à côté de l arrêt des bus</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>Rond point de l étoile pont de crau, 13200 Arles, France</osmand:address>
+      <osmand:address>Rond point de l étoile   pont de crau, 13200 Arles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -90,7 +90,7 @@
     <desc></desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>place maréchal leclerc, 83260 La crau, France</osmand:address>
+      <osmand:address> place maréchal leclerc, 83260 La crau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -278,11 +278,11 @@
   </wpt>
   <wpt lat="43.636242" lon="6.643412">
     <time>2023-05-05T08:01:41Z</time>
-    <name>Association com collecte b9561</name>
+    <name>Association com  collecte b9561</name>
     <desc>Bibliothèque urbaine en libre accès, 24h/24. maintenance assurée par l association1901 com' collecte</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>Recyclerie l aquarium, parking du moulin à huile, chemin de la fabrique, 83440 Seillans, France</osmand:address>
+      <osmand:address>Recyclerie l  aquarium, parking du moulin à huile, chemin de la fabrique, 83440 Seillans, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -918,7 +918,7 @@
     <desc></desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>6 rue de la gaveliere , 13007 Marseille, France</osmand:address>
+      <osmand:address> 6 rue de la gaveliere , 13007 Marseille, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1710,7 +1710,7 @@
     <desc>Cabine téléphonique bleue située au vieux centre-ville sous les arcades. peu de choix, essentiellement des livres de espionnage. polar, roman noir</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>3 rue de valserres, 05000 gap, France</osmand:address>
+      <osmand:address>3 rue de valserres,  05000  gap, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1734,7 +1734,7 @@
     <desc>En face du guichet de retrait la poste.</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>place salvagno, 83520 Roquebrune-sur-argens, France</osmand:address>
+      <osmand:address> place salvagno,  83520 Roquebrune-sur-argens, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1890,7 +1890,7 @@
     <desc>boite à livres pour enfants</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>Rue denfert rochereau à côté de la rue pasteur, 84800 l isle sur la sorgue, France</osmand:address>
+      <osmand:address>Rue denfert rochereau à côté de la rue pasteur, 84800  l isle sur la sorgue, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2730,7 +2730,7 @@
     <desc>Installation créé par des élèves du bp florent mouret</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>Angle boulevard jacques monod et avenue de monclar, 84000 Avignon, France</osmand:address>
+      <osmand:address>Angle boulevard jacques monod  et avenue de monclar, 84000 Avignon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3918,7 +3918,7 @@
     <desc></desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>4 rue saint nazaire, 84380 Mazan, France</osmand:address>
+      <osmand:address> 4 rue saint nazaire, 84380 Mazan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4506,7 +4506,7 @@
     <desc>Deux grandes bibliothèques libres sont disponibles dans la galerie marchande de carrefour.</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>Hypermarché carrefour - route de jonquières, 84100 Orange, France</osmand:address>
+      <osmand:address>Hypermarché carrefour  - route de jonquières, 84100 Orange, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4850,7 +4850,7 @@
   </wpt>
   <wpt lat="43.929512" lon="4.995277">
     <time>2019-07-01T09:19:24Z</time>
-    <name>Juarez et bourbon b2154</name>
+    <name>Juarez  et  bourbon b2154</name>
     <desc>Boîte disponible hors jour de pluie</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
@@ -5274,7 +5274,7 @@
     <desc>A côté de l intersection lotissement le mamelonnet.</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>333 chemin de saint-jean, 84800 L'isle-sur-la-sorgue, France</osmand:address>
+      <osmand:address>333 chemin de saint-jean, 84800  L'isle-sur-la-sorgue, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5298,7 +5298,7 @@
     <desc>La boite est située dans la rue piétonne.</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>, 04360 Moustiers, France</osmand:address>
+      <osmand:address> , 04360 Moustiers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5310,7 +5310,7 @@
     <desc>Au dessus du parc de jeu, au niveau des escaliers.</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>, 04120 La palud sur verdon, France</osmand:address>
+      <osmand:address>  , 04120 La palud sur verdon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5394,7 +5394,7 @@
     <desc>Proposée par l'association litera, cercle d'échange sur la lecture et la littérature.</desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>rue du lavoir, 84800 Saumane-de-vaucluse, France</osmand:address>
+      <osmand:address> rue du lavoir, 84800 Saumane-de-vaucluse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

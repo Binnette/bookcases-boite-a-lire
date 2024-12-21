@@ -234,7 +234,7 @@
     <desc>Ancienne cabine téléphonique à l angle des deux voies</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Cours maubec d626 angle route du freche d11, 40131 Labastide d armagnac, France</osmand:address>
+      <osmand:address>Cours maubec d626   angle route du freche d11, 40131 Labastide d armagnac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3350,7 +3350,7 @@
   </wpt>
   <wpt lat="45.403152" lon="1.286624">
     <time>2022-03-21T09:38:02Z</time>
-    <name>Corinne bega b8648</name>
+    <name>Corinne  bega b8648</name>
     <desc>Une boîte à livres et à graines a été installée sur la place de l église.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
@@ -3570,7 +3570,7 @@
     <desc>Située à côté du parc de jeu pour enfants</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Parc de la jalles - rue du château, 33480 Castelnau de medoc, France</osmand:address>
+      <osmand:address>Parc  de la jalles - rue du château, 33480 Castelnau de medoc, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3582,7 +3582,7 @@
     <desc>Dans la parc treulon adossée à l espace treulon</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>rue du carros, 33520 Bruges, France</osmand:address>
+      <osmand:address> rue du carros, 33520 Bruges, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4314,7 +4314,7 @@
     <desc>À l angle de la rue des badines en face de la gendarmerie sous les arbres.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Route de bordeaux, 33271 Saint jean d illac, France</osmand:address>
+      <osmand:address>Route de bordeaux, 33271 Saint jean d  illac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5658,7 +5658,7 @@
     <desc>Grande armoire</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Près de la mairie et des ecoles, 33760 Escoussans, France</osmand:address>
+      <osmand:address>Près de la mairie  et des ecoles, 33760 Escoussans, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5910,7 +5910,7 @@
     <desc></desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>10 avenue bel air, 33200 bordeaux, France</osmand:address>
+      <osmand:address>10 avenue bel air, 33200  bordeaux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5994,7 +5994,7 @@
     <desc>Boîte à livres en face de la mairie</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>2 place de l Église, 87430 Erneuil-sur-vienne, France</osmand:address>
+      <osmand:address> 2 place de l Église, 87430 Erneuil-sur-vienne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6006,7 +6006,7 @@
     <desc>Situé derrière la mairie d anglet</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>le jardin d ansbach place jean-monnet, 64600 Anglet, France</osmand:address>
+      <osmand:address> le jardin d ansbach place jean-monnet, 64600 Anglet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6018,7 +6018,7 @@
     <desc>Au coeur du quartier de louillot, proche du cimetière de louillot et du lavoir de louillot</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>le jardin des primevères rue des primevères, 64600 Anglet, France</osmand:address>
+      <osmand:address> le jardin des primevères rue des primevères,  64600 Anglet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6042,7 +6042,7 @@
     <desc>La boîte se trouve devant le parc de jeux pour enfants.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>cité du stade, 19300 Egletons, France</osmand:address>
+      <osmand:address> cité du stade, 19300 Egletons, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6066,7 +6066,7 @@
     <desc>Dans le jardin public</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Place de la république, 17800 Pons, France</osmand:address>
+      <osmand:address>Place de la république,  17800 Pons, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6114,7 +6114,7 @@
     <desc>très fournie, et je fais toujours de belles trouvailles. de plus le cadre est superbe et possibilité de savoir tranquillement pour lire son livre</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Parc près de la mairie, 17250 Saint-porchaire, France</osmand:address>
+      <osmand:address>Parc près de la mairie,  17250 Saint-porchaire, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6138,7 +6138,7 @@
     <desc>100% recup! a côté du banc de palutopie, sur le chemin de promenade en bord de garonne.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>1 chemin des palus de garonne, 33640 Castres-gironde, France</osmand:address>
+      <osmand:address> 1 chemin des palus de garonne, 33640 Castres-gironde, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6150,7 +6150,7 @@
     <desc>Réalisé par repaircafe24 et les enfanst de villars</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Place de la mairie , 24530 Villars, France</osmand:address>
+      <osmand:address>Place de la mairie ,  24530 Villars, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6378,7 +6378,7 @@
     <desc>La boite se trouve en bordure du petit jardin public près du pont de la halle face au cinéma le rio.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>allée du boudigau, 40130 Capbreton, France</osmand:address>
+      <osmand:address> allée du boudigau,  40130 Capbreton, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6690,7 +6690,7 @@
     <desc>La boîte de trouve dans le fond du parc de feydit, face à la maison des associations.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>60 route de feydit, 33160 Saint-médard-en-jalles, France</osmand:address>
+      <osmand:address>60 route de feydit, 33160  Saint-médard-en-jalles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6858,7 +6858,7 @@
     <desc>2 boites à lire au camping les pastourelles" à claouey</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Camping les pastourelles, 33950 Lège-cap-ferret, France</osmand:address>
+      <osmand:address>Camping  les pastourelles, 33950 Lège-cap-ferret, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10182,7 +10182,7 @@
     <desc>Une cabane à lire a été mise en place depuis samedi 20 avril dans le potager des incroyables comestibles juste au bord de la dordogne. fabriquée avec des palettes de récup et avec amour par des amis passionnés de livres et l association lire et partage, elle était très attendue depuis longtemps. un instant livres dans un endroit idyllique qui s'y prête tout à fait.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Le potager des incroyables comestibles route de la palus de moulon, 33420 Moulon, France</osmand:address>
+      <osmand:address>Le potager des incroyables comestibles  route de la palus de moulon, 33420 Moulon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -12894,7 +12894,7 @@
     <desc>Boite à lire située à l'intérieur de la mjc</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>81 avenue du loup, , 64000 Pau, France</osmand:address>
+      <osmand:address> 81 avenue du loup,  , 64000 Pau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13794,7 +13794,7 @@
     <desc>A l'angle de la rue mirieu de labarre sur la place.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Avenue mirieu de labarre, 33140 Villenave d ornon, France</osmand:address>
+      <osmand:address>Avenue  mirieu de labarre, 33140 Villenave d ornon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13986,7 +13986,7 @@
     <desc>Au carrefour avec la route de la mothe. la fontaine abri bus</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>rue de la fontaine, 79260 La creche, France</osmand:address>
+      <osmand:address> rue de la fontaine, 79260 La creche, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14070,7 +14070,7 @@
     <desc>Il existe depuis quelques mois une boite à lire dans le village de bosdarros place du général parlange .</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>, 64290 Bosdarros, France</osmand:address>
+      <osmand:address> , 64290 Bosdarros, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14934,7 +14934,7 @@
     <desc>Grande boite à livre municipale en bois située derrière la mairie sur la promenade pietonne</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Parc de la mairie, 16470 Saint-michel, France</osmand:address>
+      <osmand:address>Parc de la  mairie, 16470 Saint-michel, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -15834,7 +15834,7 @@
     <desc>Plus qu une boîte, le lavoir entier constitue une petite bibliothèque sauvage.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>, 47000 Monclar, France</osmand:address>
+      <osmand:address> , 47000 Monclar, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16122,7 +16122,7 @@
     <desc>Au hédas, la boite est au bas de la maison des architectes, à gauche du fronton, et à gauche du petit parc à voitures. elle fait face au sud. voir mes photos. pam.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Place françois-récaborde, 64000 Pau, France</osmand:address>
+      <osmand:address>Place françois-récaborde,  64000 Pau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16278,7 +16278,7 @@
     <desc>La boîte à lire se trouve face au magasin de glaces, en allant sur la jetée.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Jetée du moulleau, 33120 Arcachon, France</osmand:address>
+      <osmand:address>Jetée du moulleau,  33120 Arcachon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16350,7 +16350,7 @@
     <desc>Il y a trois boîtes: une sur la place, une au niveau de l'éco musée, une dans le jardin de l'abbaye!</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>2 place saint-pierre, 33180 vertheuil, France</osmand:address>
+      <osmand:address>2 place saint-pierre, 33180  vertheuil, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16362,7 +16362,7 @@
     <desc>Dans une impasse en face de l'église, derrière un abri bus.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>place de la liberté , 33250 Saint sauveur, France</osmand:address>
+      <osmand:address> place de la liberté , 33250 Saint sauveur, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16374,7 +16374,7 @@
     <desc>Elle se trouve a côté de l'église, au niveau de l'aire de jeux.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>, 16130 Salles-d'angles, France</osmand:address>
+      <osmand:address> , 16130 Salles-d'angles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16494,7 +16494,7 @@
     <desc>Place beconnais. vous prenez, vous lisez, vous partagez</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>, 40210 luë, France</osmand:address>
+      <osmand:address> , 40210  luë, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16614,7 +16614,7 @@
     <desc>Sur la parking à côté de la mairie.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>2 place de la mairie, 87520 Veyrac, France</osmand:address>
+      <osmand:address> 2 place de la mairie, 87520 Veyrac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16650,7 +16650,7 @@
     <desc>Sur le parking de la mairie, de la poste et de l'école.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>1 place de la mairie, 87720 Saillat-sur-vienne, France</osmand:address>
+      <osmand:address> 1 place de la mairie, 87720 Saillat-sur-vienne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16698,7 +16698,7 @@
     <desc>Dans le square de la rue lafayette.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>2 rue lafayette, 87300 Bellac, France</osmand:address>
+      <osmand:address> 2 rue lafayette, 87300 Bellac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16746,7 +16746,7 @@
     <desc>Le conseil municipal des jeunes de brive a installé sur l'ensemble de la commune plusieurs boites à lire dont celle située devant l'office de tourisme de brive.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>Avenue du 14 juillet , 19100 Brive-la-gaillarde, France</osmand:address>
+      <osmand:address>Avenue du 14 juillet  , 19100 Brive-la-gaillarde, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -17082,7 +17082,7 @@
     <desc>Dans une cabine téléphonique près de la grande place et des containers de vêtements. il y a même une petite ardoise pour les demandes de livres en particulier.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>, 23110 Fontanières, France</osmand:address>
+      <osmand:address> , 23110 Fontanières, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -17190,7 +17190,7 @@
     <desc>La boite à lire se trouve dans une cabine téléphonique, sur le coté de la poste.</desc>
     <type>BoiteLire Nouvelle-Aquitaine</type>
     <extensions>
-      <osmand:address>12 avenue de la libération, 47140 Penne-d'agenais, France</osmand:address>
+      <osmand:address>12 avenue de la libération, 47140  Penne-d'agenais, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

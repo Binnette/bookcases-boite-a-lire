@@ -1,453 +1,437 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.451018,
-                    42.701123
-                ]
-            },
-            "properties": {
-                "id": "821",
-                "nom": "Bernadette",
-                "adresse": "Allée général fieschi",
-                "code_postal": "20200",
-                "ville": "Bastia",
-                "pays": "France",
-                "creditimage": "Bernadette",
-                "email": "",
-                "image": "20170223102221-3413226.jpg",
-                "image_admin": null,
-                "remarque": "La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. ",
-                "coord_gps": "42.701123, 9.451018",
-                "affichage": "1",
-                "date_created": "2017-02-23 10:24:18",
-                "date_updated": "2017-02-23 10:24:18",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Bernadette</b><br /><br />Allée général fieschi<br/>20200 Bastia<br/><b>. . .</b><br/>La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. <br/><br class=\"hideBr\" />Crédit photo :<br /> <b>Bernadette</b><br /><br />"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.738125,
-                    41.925466
-                ]
-            },
-            "properties": {
-                "id": "820",
-                "nom": "Bernadette",
-                "adresse": "Cours napoléon",
-                "code_postal": "20000",
-                "ville": "Ajaccio",
-                "pays": "France",
-                "creditimage": "Bernadette",
-                "email": "",
-                "image": "20170223101041-9893829.png",
-                "image_admin": null,
-                "remarque": "La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio",
-                "coord_gps": "41.9254665, 8.7381252",
-                "affichage": "1",
-                "date_created": "2017-02-23 10:07:56",
-                "date_updated": "2017-02-23 10:13:07",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Bernadette</b><br /><br />Cours napoléon<br/>20000 Ajaccio<br/><b>. . .</b><br/>La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio<br/><br class=\"hideBr\" />Crédit photo :<br /> <b>Bernadette</b><br /><br />"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.055062,
-                    41.491689
-                ]
-            },
-            "properties": {
-                "id": "8188",
-                "nom": "Celine",
-                "adresse": "Viagenti",
-                "code_postal": "20131",
-                "ville": "Pianottoli-caldarello",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Devant le spar\r\nune étagère à livres est présente à gauche de la sortie du magasin",
-                "coord_gps": "41.4916889, 9.0550619",
-                "affichage": "1",
-                "date_created": "2021-10-04 08:59:06",
-                "date_updated": "2021-10-04 08:59:06",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Celine</b><br /><br />Viagenti<br/>20131 Pianottoli-caldarello<br/><b>. . .</b><br/>Devant le spar\r\nune étagère à livres est présente à gauche de la sortie du magasin<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.938084,
-                    42.632604
-                ]
-            },
-            "properties": {
-                "id": "5132",
-                "nom": "Sophie noël",
-                "adresse": "Casino",
-                "code_postal": "20220",
-                "ville": "Île rousse",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !",
-                "coord_gps": "42.6326037, 8.9380841",
-                "affichage": "1",
-                "date_created": "2019-08-02 15:55:35",
-                "date_updated": "2019-08-02 15:55:35",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Sophie noël</b><br /><br />Casino<br/>20220 Île rousse<br/><b>. . .</b><br/>A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.840953,
-                    41.699064
-                ]
-            },
-            "properties": {
-                "id": "5102",
-                "nom": "Motel logis abbartello",
-                "adresse": "Résidence golfe du valinco, olmeto plage",
-                "code_postal": "20113",
-                "ville": "Olmeto",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.",
-                "coord_gps": "41.699063978799174, 8.840952515602114",
-                "affichage": "1",
-                "date_created": "2019-07-29 11:36:45",
-                "date_updated": "2019-07-29 11:36:45",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Motel logis abbartello</b><br /><br />Résidence golfe du valinco, olmeto plage<br/>20113 Olmeto<br/><b>. . .</b><br/>Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.451228,
-                    42.700586
-                ]
-            },
-            "properties": {
-                "id": "4615",
-                "nom": "Piereschi",
-                "adresse": "Place saint nicolas",
-                "code_postal": "20200",
-                "ville": "Bastia",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "En haut de la place dans une ancienne cabine téléphonique",
-                "coord_gps": "42.7005856, 9.4512278",
-                "affichage": "1",
-                "date_created": "2019-04-15 17:02:53",
-                "date_updated": "2019-04-15 17:02:53",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Piereschi</b><br /><br />Place saint nicolas<br/>20200 Bastia<br/><b>. . .</b><br/>En haut de la place dans une ancienne cabine téléphonique<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.060516,
-                    42.081804
-                ]
-            },
-            "properties": {
-                "id": "2183",
-                "nom": "Médiathèque de bocognano",
-                "adresse": "Bâtiment u palazzu",
-                "code_postal": "20136",
-                "ville": "Bocognano",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\r\nréapprovisionnée tous les jours ...une vrai mine ...",
-                "coord_gps": "42.081804, 9.060516",
-                "affichage": "1",
-                "date_created": "2018-01-25 17:28:57",
-                "date_updated": "2018-01-25 17:28:57",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Médiathèque de bocognano</b><br /><br />Bâtiment u palazzu<br/>20136 Bocognano<br/><b>. . .</b><br/>La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\r\nréapprovisionnée tous les jours ...une vrai mine ...<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.152837,
-                    42.298999
-                ]
-            },
-            "properties": {
-                "id": "1684",
-                "nom": "Le menn",
-                "adresse": "Université",
-                "code_postal": "20250",
-                "ville": "Corte",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.",
-                "coord_gps": "42.2989986, 9.1528366",
-                "affichage": "1",
-                "date_created": "2017-09-29 08:54:52",
-                "date_updated": "2017-09-29 08:54:52",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Le menn</b><br /><br />Université<br/>20250 Corte<br/><b>. . .</b><br/>A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.399904,
-                    41.997829
-                ]
-            },
-            "properties": {
-                "id": "1588",
-                "nom": "Florence",
-                "adresse": "Migliacciaro",
-                "code_postal": "20243",
-                "ville": "Prunelli-di-fiumorbo",
-                "pays": "France",
-                "creditimage": "Florence",
-                "email": "",
-                "image": "20170906150001-1150855.jpg",
-                "image_admin": null,
-                "remarque": "Armoire à lire près de la boutique bio sous les glycines.",
-                "coord_gps": "41.997829, 9.399904",
-                "affichage": "1",
-                "date_created": "2017-09-06 14:56:01",
-                "date_updated": "2017-09-06 14:56:01",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Florence</b><br /><br />Migliacciaro<br/>20243 Prunelli-di-fiumorbo<br/><b>. . .</b><br/>Armoire à lire près de la boutique bio sous les glycines.<br/><br class=\"hideBr\" />Crédit photo :<br /> <b>Florence</b><br /><br />"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.781164,
-                    42.536842
-                ]
-            },
-            "properties": {
-                "id": "10431",
-                "nom": "Elisa",
-                "adresse": "Parking du port",
-                "code_postal": "20260",
-                "ville": "Calvi",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "",
-                "coord_gps": "42.5368416, 8.7811645",
-                "affichage": "1",
-                "date_created": "2024-12-17 09:17:35",
-                "date_updated": "2024-12-17 09:17:35",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Elisa</b><br /><br />Parking du port<br/>20260 Calvi<br/><b>. . .</b><br/><br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.757222,
-                    42.567651
-                ]
-            },
-            "properties": {
-                "id": "10429",
-                "nom": "Elisa",
-                "adresse": "Carrefour de l hôpital",
-                "code_postal": "20260",
-                "ville": "Calvi",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Ancienne cabine téléphonique, au stop.",
-                "coord_gps": "42.567651, 8.757222",
-                "affichage": "1",
-                "date_created": "2024-12-17 09:17:13",
-                "date_updated": "2024-12-17 09:17:13",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Elisa</b><br /><br />Carrefour de l hôpital<br/>20260 Calvi<br/><b>. . .</b><br/>Ancienne cabine téléphonique, au stop.<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.727917,
-                    41.914627
-                ]
-            },
-            "properties": {
-                "id": "10348",
-                "nom": "Philippe caulier",
-                "adresse": "Boulevard adolphe landry",
-                "code_postal": "20000",
-                "ville": "Ajaccio",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Ancien frigo à l?entrée de l'école bonafedi",
-                "coord_gps": "41.9146267, 8.7279174",
-                "affichage": "1",
-                "date_created": "2024-10-10 09:44:50",
-                "date_updated": "2024-10-10 09:44:50",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Philippe caulier</b><br /><br />Boulevard adolphe landry<br/>20000 Ajaccio<br/><b>. . .</b><br/>Ancien frigo à l?entrée de l'école bonafedi<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.401481,
-                    42.020737
-                ]
-            },
-            "properties": {
-                "id": "10344",
-                "nom": "Philippe caulier",
-                "adresse": "675 route de ghisoni",
-                "code_postal": "20240",
-                "ville": "Ghisonaccia",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Un ancien frigidaire à l?entrée de la communité de communes",
-                "coord_gps": "42.0207368, 9.4014806",
-                "affichage": "1",
-                "date_created": "2024-10-03 09:50:28",
-                "date_updated": "2024-10-03 09:50:28",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Philippe caulier</b><br /><br />675 route de ghisoni<br/>20240 Ghisonaccia<br/><b>. . .</b><br/>Un ancien frigidaire à l?entrée de la communité de communes<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.298542,
-                    42.130179
-                ]
-            },
-            "properties": {
-                "id": "10343",
-                "nom": "Philippe caulier",
-                "adresse": "D 343",
-                "code_postal": "20242",
-                "ville": "Vezzani",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Dans le magasin alimentation générale,  au centre du village",
-                "coord_gps": "42.1301786, 9.2985424",
-                "affichage": "1",
-                "date_created": "2024-09-30 09:53:41",
-                "date_updated": "2024-09-30 09:53:41",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Philippe caulier</b><br /><br />D 343<br/>20242 Vezzani<br/><b>. . .</b><br/>Dans le magasin alimentation générale,  au centre du village<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.15859,
-                    42.30351
-                ]
-            },
-            "properties": {
-                "id": "10342",
-                "nom": "Philippe caulier",
-                "adresse": "Gare de corte",
-                "code_postal": "20250",
-                "ville": "Corte",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "Dans le hall, armoire plus étagère !",
-                "coord_gps": "42.30351, 9.15859",
-                "affichage": "1",
-                "date_created": "2024-09-30 09:53:29",
-                "date_updated": "2024-09-30 09:53:29",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Philippe caulier</b><br /><br />Gare de corte<br/>20250 Corte<br/><b>. . .</b><br/>Dans le hall, armoire plus étagère !<br/>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.907978,
-                    42.619411
-                ]
-            },
-            "properties": {
-                "id": "10334",
-                "nom": "Philippe caulier",
-                "adresse": "Piazza di l'ormu",
-                "code_postal": "20256",
-                "ville": "Corbara",
-                "pays": "France",
-                "creditimage": "",
-                "email": "",
-                "image": "boitealire_0.png",
-                "image_admin": null,
-                "remarque": "En face du restaurant la cantina",
-                "coord_gps": "42.6194115, 8.9079782",
-                "affichage": "1",
-                "date_created": "2024-09-20 09:28:43",
-                "date_updated": "2024-09-20 09:28:43",
-                "html": "<br class=\"hideBr\" />Dénichée par :<br /> <b>Philippe caulier</b><br /><br />Piazza di l'ormu<br/>20256 Corbara<br/><b>. . .</b><br/>En face du restaurant la cantina<br/>"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.451018,
+          42.701123
+        ]
+      },
+      "properties": {
+        "id": "821",
+        "nom": "Bernadette",
+        "adresse": "Allée général fieschi",
+        "code_postal": "20200",
+        "ville": "Bastia",
+        "pays": "France",
+        "creditimage": "Bernadette",
+        "email": "",
+        "image": "20170223102221-3413226.jpg",
+        "image_admin": null,
+        "remarque": "La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. ",
+        "coord_gps": "42.701123, 9.451018",
+        "affichage": "1",
+        "date_created": "2017-02-23 10:24:18",
+        "date_updated": "2017-02-23 10:24:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.738125,
+          41.925466
+        ]
+      },
+      "properties": {
+        "id": "820",
+        "nom": "Bernadette",
+        "adresse": "Cours napoléon",
+        "code_postal": "20000",
+        "ville": "Ajaccio",
+        "pays": "France",
+        "creditimage": "Bernadette",
+        "email": "",
+        "image": "20170223101041-9893829.png",
+        "image_admin": null,
+        "remarque": "La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio",
+        "coord_gps": "41.9254665, 8.7381252",
+        "affichage": "1",
+        "date_created": "2017-02-23 10:07:56",
+        "date_updated": "2017-02-23 10:13:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.055062,
+          41.491689
+        ]
+      },
+      "properties": {
+        "id": "8188",
+        "nom": "Celine",
+        "adresse": "Viagenti",
+        "code_postal": "20131",
+        "ville": "Pianottoli-caldarello",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant le spar\r\nune étagère à livres est présente à gauche de la sortie du magasin",
+        "coord_gps": "41.4916889, 9.0550619",
+        "affichage": "1",
+        "date_created": "2021-10-04 08:59:06",
+        "date_updated": "2021-10-04 08:59:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.938084,
+          42.632604
+        ]
+      },
+      "properties": {
+        "id": "5132",
+        "nom": "Sophie noël",
+        "adresse": "Casino",
+        "code_postal": "20220",
+        "ville": "Île rousse",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !",
+        "coord_gps": "42.6326037, 8.9380841",
+        "affichage": "1",
+        "date_created": "2019-08-02 15:55:35",
+        "date_updated": "2019-08-02 15:55:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840953,
+          41.699064
+        ]
+      },
+      "properties": {
+        "id": "5102",
+        "nom": "Motel logis abbartello",
+        "adresse": "Résidence golfe du valinco, olmeto plage",
+        "code_postal": "20113",
+        "ville": "Olmeto",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.",
+        "coord_gps": "41.699063978799174, 8.840952515602114",
+        "affichage": "1",
+        "date_created": "2019-07-29 11:36:45",
+        "date_updated": "2019-07-29 11:36:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.451228,
+          42.700586
+        ]
+      },
+      "properties": {
+        "id": "4615",
+        "nom": "Piereschi",
+        "adresse": "Place saint nicolas",
+        "code_postal": "20200",
+        "ville": "Bastia",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "En haut de la place dans une ancienne cabine téléphonique",
+        "coord_gps": "42.7005856, 9.4512278",
+        "affichage": "1",
+        "date_created": "2019-04-15 17:02:53",
+        "date_updated": "2019-04-15 17:02:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.060516,
+          42.081804
+        ]
+      },
+      "properties": {
+        "id": "2183",
+        "nom": "Médiathèque de bocognano",
+        "adresse": "Bâtiment u palazzu",
+        "code_postal": "20136",
+        "ville": "Bocognano",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\r\nréapprovisionnée tous les jours ...une vrai mine ...",
+        "coord_gps": "42.081804, 9.060516",
+        "affichage": "1",
+        "date_created": "2018-01-25 17:28:57",
+        "date_updated": "2018-01-25 17:28:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152837,
+          42.298999
+        ]
+      },
+      "properties": {
+        "id": "1684",
+        "nom": "Le menn",
+        "adresse": "Université",
+        "code_postal": "20250",
+        "ville": "Corte",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.",
+        "coord_gps": "42.2989986, 9.1528366",
+        "affichage": "1",
+        "date_created": "2017-09-29 08:54:52",
+        "date_updated": "2017-09-29 08:54:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.399904,
+          41.997829
+        ]
+      },
+      "properties": {
+        "id": "1588",
+        "nom": "Florence",
+        "adresse": "Migliacciaro",
+        "code_postal": "20243",
+        "ville": "Prunelli-di-fiumorbo",
+        "pays": "France",
+        "creditimage": "Florence",
+        "email": "",
+        "image": "20170906150001-1150855.jpg",
+        "image_admin": null,
+        "remarque": "Armoire à lire près de la boutique bio sous les glycines.",
+        "coord_gps": "41.997829, 9.399904",
+        "affichage": "1",
+        "date_created": "2017-09-06 14:56:01",
+        "date_updated": "2017-09-06 14:56:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.781164,
+          42.536842
+        ]
+      },
+      "properties": {
+        "id": "10431",
+        "nom": "Elisa",
+        "adresse": "Parking du port",
+        "code_postal": "20260",
+        "ville": "Calvi",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "42.5368416, 8.7811645",
+        "affichage": "1",
+        "date_created": "2024-12-17 09:17:35",
+        "date_updated": "2024-12-17 09:17:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757222,
+          42.567651
+        ]
+      },
+      "properties": {
+        "id": "10429",
+        "nom": "Elisa",
+        "adresse": "Carrefour de l hôpital",
+        "code_postal": "20260",
+        "ville": "Calvi",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ancienne cabine téléphonique, au stop.",
+        "coord_gps": "42.567651, 8.757222",
+        "affichage": "1",
+        "date_created": "2024-12-17 09:17:13",
+        "date_updated": "2024-12-17 09:17:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.727917,
+          41.914627
+        ]
+      },
+      "properties": {
+        "id": "10348",
+        "nom": "Philippe caulier",
+        "adresse": "Boulevard adolphe landry",
+        "code_postal": "20000",
+        "ville": "Ajaccio",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ancien frigo à l?entrée de l'école bonafedi",
+        "coord_gps": "41.9146267, 8.7279174",
+        "affichage": "1",
+        "date_created": "2024-10-10 09:44:50",
+        "date_updated": "2024-10-10 09:44:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.401481,
+          42.020737
+        ]
+      },
+      "properties": {
+        "id": "10344",
+        "nom": "Philippe caulier",
+        "adresse": "675 route de ghisoni",
+        "code_postal": "20240",
+        "ville": "Ghisonaccia",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Un ancien frigidaire à l?entrée de la communité de communes",
+        "coord_gps": "42.0207368, 9.4014806",
+        "affichage": "1",
+        "date_created": "2024-10-03 09:50:28",
+        "date_updated": "2024-10-03 09:50:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.298542,
+          42.130179
+        ]
+      },
+      "properties": {
+        "id": "10343",
+        "nom": "Philippe caulier",
+        "adresse": "D 343",
+        "code_postal": "20242",
+        "ville": "Vezzani",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans le magasin alimentation générale,  au centre du village",
+        "coord_gps": "42.1301786, 9.2985424",
+        "affichage": "1",
+        "date_created": "2024-09-30 09:53:41",
+        "date_updated": "2024-09-30 09:53:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15859,
+          42.30351
+        ]
+      },
+      "properties": {
+        "id": "10342",
+        "nom": "Philippe caulier",
+        "adresse": "Gare de corte",
+        "code_postal": "20250",
+        "ville": "Corte",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans le hall, armoire plus étagère !",
+        "coord_gps": "42.30351, 9.15859",
+        "affichage": "1",
+        "date_created": "2024-09-30 09:53:29",
+        "date_updated": "2024-09-30 09:53:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.907978,
+          42.619411
+        ]
+      },
+      "properties": {
+        "id": "10334",
+        "nom": "Philippe caulier",
+        "adresse": "Piazza di l'ormu",
+        "code_postal": "20256",
+        "ville": "Corbara",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "En face du restaurant la cantina",
+        "coord_gps": "42.6194115, 8.9079782",
+        "affichage": "1",
+        "date_created": "2024-09-20 09:28:43",
+        "date_updated": "2024-09-20 09:28:43"
+      }
+    }
+  ]
 }

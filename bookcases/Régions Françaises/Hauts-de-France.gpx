@@ -426,7 +426,7 @@
     <desc>A l entrée du parc municipal.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>Place roger dewambrechies, WANDIGNIES 59870, France</osmand:address>
+      <osmand:address>Place roger dewambrechies, WANDIGNIES  59870, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -450,7 +450,7 @@
     <desc>A l entrée du parc.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>8 place roger dewambrechies, WANDIGNIES 59870, France</osmand:address>
+      <osmand:address>8 place roger dewambrechies, WANDIGNIES  59870, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1590,7 +1590,7 @@
     <desc>Cette boite à lire est dans une salle de la mairie de fouilloy . ouverte le mardi matin de 10h30 à 12h et le vendredi après-midi de 14h à 15h30.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>14 rue jean jaures, 80800 Fouilloy, France</osmand:address>
+      <osmand:address> 14 rue jean jaures, 80800 Fouilloy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1638,7 +1638,7 @@
     <desc>La boite se situe dans la rue vauban , en face de l avenue du géneral de gaules et aussi en face du fidji , qui est dans l'avenue du pont rouge.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>rue vauban, 59440 Avesnes sur helpe, France</osmand:address>
+      <osmand:address> rue vauban,  59440 Avesnes sur helpe, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1650,7 +1650,7 @@
     <desc>Située sur la droite de l abbaye</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>parc de bayser, 60200 Compiègne, France</osmand:address>
+      <osmand:address> parc de bayser, 60200 Compiègne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1710,7 +1710,7 @@
     <desc>En face de l hôtel de ville !</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>85 avenue de la république, 59160 Lomme, France</osmand:address>
+      <osmand:address>85 avenue de la république,  59160 Lomme, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1722,7 +1722,7 @@
     <desc>Place de la mairie</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>1 place de la mairie, 62120 Racquinghem, France</osmand:address>
+      <osmand:address>1 place de la mairie,  62120 Racquinghem, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1806,7 +1806,7 @@
     <desc>A coter de l?glise la marie dans l?ancien village</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>A coter de l?glise la marie dans l?ancien village, 80200 Fay, France</osmand:address>
+      <osmand:address>A coter de l?glise  la marie dans l?ancien village, 80200 Fay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2178,7 +2178,7 @@
     <desc>InstallÉe par la ccgr</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>Aire de jeux place du jeu de paume a piennes, 80500 Piennes-onvillers, France</osmand:address>
+      <osmand:address>Aire de  jeux place du jeu de paume a piennes, 80500 Piennes-onvillers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3282,7 +3282,7 @@
     <desc>La boite se trouve face à la poste près de la mairie et près de la résidence des bords de canche. il y a trois boite à lire à frévent...une initiative bien sympathique de la médiathèque municipale.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>8 place jean jaurès , 62270 Frévent, France</osmand:address>
+      <osmand:address>8 place jean jaurès  , 62270 Frévent, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3294,7 +3294,7 @@
     <desc></desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>rue principale, 60360 DomÉliers, France</osmand:address>
+      <osmand:address> rue principale, 60360 DomÉliers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3546,7 +3546,7 @@
     <desc>Ancienne cabine téléphonique réhabilitée.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>rue de l'Église, 80115 Pont-noyelles, France</osmand:address>
+      <osmand:address> rue de l'Église, 80115 Pont-noyelles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3630,7 +3630,7 @@
     <desc>Dans le restaurant better très grande boîte à lire partagée!</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>3 avenue de la marque, 59650 Villeneuve d'ascq, France</osmand:address>
+      <osmand:address> 3 avenue de la marque, 59650 Villeneuve d'ascq, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3782,7 +3782,7 @@
   </wpt>
   <wpt lat="50.59567" lon="2.956536">
     <time>2019-07-19T14:54:24Z</time>
-    <name>Remy vandeweghe et christine nowak-huyghe b5057</name>
+    <name>Remy vandeweghe   et  christine nowak-huyghe b5057</name>
     <desc>Dans l ancienne cabine téléphonique, sur le trottoir de l'école notre dame. dédiée principalement aux livres pour enfants.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
@@ -3822,7 +3822,7 @@
     <desc></desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>, 60150 Montmacq, France</osmand:address>
+      <osmand:address> , 60150 Montmacq, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5622,7 +5622,7 @@
     <desc></desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>3 rue de grumesnil, 60220 Formerie, France</osmand:address>
+      <osmand:address> 3 rue de grumesnil, 60220 Formerie, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5706,7 +5706,7 @@
     <desc>Elle a été installée en 2013 dans le cadre de l'opération "lectures communes" initiée par l'association des maires ruraux de france. elle mène depuis une existence indépendante.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>6 grand rue, 02290 ressons le long, France</osmand:address>
+      <osmand:address>6 grand rue, 02290  ressons le long, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6282,7 +6282,7 @@
     <desc>Boite à lire dans l'abris bus de pisseloup.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>, 02310 Pisseloup, France</osmand:address>
+      <osmand:address> , 02310 Pisseloup, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6462,7 +6462,7 @@
     <desc>Au rez-de chaussée du centre commercial au niveau du salon devant l'accueil.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>12 rue de la halle, 59300 valenciennes, France</osmand:address>
+      <osmand:address>12 rue de la halle, 59300  valenciennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6474,7 +6474,7 @@
     <desc>Dans le cabinet de médecins "la rivière".</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>3 rue georges romain, 62930 wimereux, France</osmand:address>
+      <osmand:address>3 rue georges romain, 62930  wimereux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6534,7 +6534,7 @@
     <desc></desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>Mairie, 59320 radinghem en weppes, France</osmand:address>
+      <osmand:address>Mairie, 59320  radinghem en weppes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6702,7 +6702,7 @@
     <desc>La boite se situe dans la cabine téléphonique pas très loin de l'école.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>, 60530 Fresnoy en thelle , France</osmand:address>
+      <osmand:address> , 60530 Fresnoy en thelle , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6822,7 +6822,7 @@
     <desc>Fabriquée par g. leroy, compagnon et offerte gracieusement à la commune.</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>, 80500 Piennes-onvillers, France</osmand:address>
+      <osmand:address> , 80500 Piennes-onvillers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6858,7 +6858,7 @@
     <desc>Boîte à lire installée par un habitant du village devant son habitation</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>rue des verts cerisiers, 80680 Sains-en-amiénois, France</osmand:address>
+      <osmand:address> rue des verts cerisiers, 80680 Sains-en-amiénois, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6882,7 +6882,7 @@
     <desc></desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>1 rue de l'Église,, 80480 Pont-de-metz, France</osmand:address>
+      <osmand:address> 1 rue de l'Église,, 80480 Pont-de-metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6906,7 +6906,7 @@
     <desc>Boîte à lire installée dans le petit parc de la place du maréchal joffre</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>place du maréchal joffre, 80000 Amiens, France</osmand:address>
+      <osmand:address>  place du maréchal joffre, 80000 Amiens, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

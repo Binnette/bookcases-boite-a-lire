@@ -1202,7 +1202,7 @@
   </wpt>
   <wpt lat="48.544317" lon="7.495835">
     <time>2022-04-11T10:08:25Z</time>
-    <name>Ressourcerie aussitot dît, aussitot fee b8743</name>
+    <name>Ressourcerie aussitot dît,  aussitot fee b8743</name>
     <desc>Armoire a livres faite dans une armoire en bois</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
@@ -1710,7 +1710,7 @@
     <desc>Une devant la mairie et une cabine téléphonique devant la bibliothèque</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Grand rue, 57865 Amanvillers, France</osmand:address>
+      <osmand:address>Grand  rue, 57865 Amanvillers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2502,7 +2502,7 @@
     <desc>Dans la cour du magasin s?ladala</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>30 grand rue, 68150 Hunawihr, France</osmand:address>
+      <osmand:address> 30 grand rue, 68150 Hunawihr, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2514,7 +2514,7 @@
     <desc></desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Rue nelson mandela, 54110 varangé, France</osmand:address>
+      <osmand:address>Rue nelson mandela,  54110  varangé, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2730,7 +2730,7 @@
     <desc>Boîte à livres située à côté de la boulangerie, proche du range vélo</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>avenue de champagne, 51380 villers-marmery, France</osmand:address>
+      <osmand:address> avenue de champagne, 51380  villers-marmery, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3498,7 +3498,7 @@
     <desc>Sous l abri-bus</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>musée de la grande place, 57620 St louis les bitche, France</osmand:address>
+      <osmand:address> musée de la grande place, 57620 St louis les bitche, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3714,7 +3714,7 @@
     <desc>Elle se trouve dans la cour à l?arrière de la mairie, 20m après en restant sur la route principale.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Route de bruyeres 88640, 88640 Aumontzey, France</osmand:address>
+      <osmand:address>Route de bruyeres  88640, 88640 Aumontzey, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3870,7 +3870,7 @@
     <desc>Installée par l association le jardin du livre au point de départ de superbes balades</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Lieu dit le chêne sculpté, 68590 Thannenkirch, France</osmand:address>
+      <osmand:address>Lieu dit  le chêne sculpté, 68590 Thannenkirch, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4422,7 +4422,7 @@
     <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>boulevard poincaré , 57000 Metz, France</osmand:address>
+      <osmand:address> boulevard poincaré  , 57000 Metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4574,7 +4574,7 @@
   </wpt>
   <wpt lat="48.734726" lon="7.520905">
     <time>2019-10-07T09:23:21Z</time>
-    <name>Georges golik b5351</name>
+    <name>Georges  golik b5351</name>
     <desc>Boite d une capacite d'une centaine d'ouvrages les livres sont changes tous les trois semaines</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
@@ -4602,7 +4602,7 @@
     <desc>Elle se situe à gauche dans le couloir d entrée, après le secrétariat.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Foyer culturel rue roth, 57200 Sarreguemines, France</osmand:address>
+      <osmand:address>Foyer culturel     rue roth, 57200 Sarreguemines, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4718,7 +4718,7 @@
   </wpt>
   <wpt lat="48.886823" lon="6.392082">
     <time>2019-08-12T09:56:29Z</time>
-    <name>Vanessa lorfanfant b5189</name>
+    <name>Vanessa  lorfanfant b5189</name>
     <desc></desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
@@ -5622,7 +5622,7 @@
     <desc>2 boîtes une pour les livres jeunesse une autre pour les livres adultes</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>1 rue des seigneurs mairie, 68440 Steinbrunn-le-haut, France</osmand:address>
+      <osmand:address>1 rue des seigneurs            mairie, 68440 Steinbrunn-le-haut, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5982,7 +5982,7 @@
     <desc>Devant le cinéma du centre bel air. installée par le lions club mulhouse europe</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>31 rue fénelon , 68200 Mulhouse, France</osmand:address>
+      <osmand:address>31 rue fénelon  , 68200 Mulhouse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7062,7 +7062,7 @@
     <desc>Placée à l abri sous le porche de la mairie, cette boîte à lire et ses annexes, documentaires et magazines, livres jeunesse, attend les lecteurs.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>1 place de la mairie, 51220 Thil, France</osmand:address>
+      <osmand:address>1  place de la mairie, 51220 Thil, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8286,7 +8286,7 @@
     <desc>Sous l abri bus</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>51 rue principale , 67350 Schalkendorf , France</osmand:address>
+      <osmand:address> 51 rue principale , 67350 Schalkendorf , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8322,7 +8322,7 @@
     <desc>Devant la mairie.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Mercy le bas , 54960 Mercy le bas, France</osmand:address>
+      <osmand:address>Mercy le bas ,  54960 Mercy le bas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8442,7 +8442,7 @@
     <desc>2 boîtes dans le village : place de la mairie et sous un abris bus.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Place de la mairie, 10110 Landreville, France</osmand:address>
+      <osmand:address>Place de la mairie,  10110 Landreville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8502,7 +8502,7 @@
     <desc>Un bel arbre aux livres tout en palette à destination des étudiants. il se situe dans le hall du campus lettres et sciences humaines..</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>23 boulevard albert 1er, 54000 Nancy, France</osmand:address>
+      <osmand:address> 23 boulevard albert 1er, 54000 Nancy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8526,7 +8526,7 @@
     <desc>L'arbre aux livres est installé place saint epvre à nancy depuis le 7 septembre 2013. il est entretenue et alimenté par l'association "ville vieille en action" et la mjc lillebonne.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>place saint-epvre , 54000 nancy, France</osmand:address>
+      <osmand:address> place saint-epvre , 54000  nancy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8538,7 +8538,7 @@
     <desc>La boite se trouve pas très loin de l'église.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>, 52000 Choignes, France</osmand:address>
+      <osmand:address> , 52000 Choignes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8658,7 +8658,7 @@
     <desc>Située dans un petit renfoncement d une maison de village, beau choix de livres : romans, histoire, enfants, cuisine</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Rue jean baptiste clément, 08700 Neufmanil, France</osmand:address>
+      <osmand:address>Rue jean baptiste clément, 08700  Neufmanil, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8994,7 +8994,7 @@
     <desc>La boîte à livres est né d une idée citoyenne. elle a été inauguré à la 2ème fête du livre en juin 2024.</desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Parc plaine des jeux, 67800 Bischheim, France</osmand:address>
+      <osmand:address>Parc  plaine des jeux, 67800 Bischheim, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

@@ -1050,7 +1050,7 @@
     <desc>La boîte est à côté de la salle des fêtes</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>gancourt saint Étienne, 76220 Gancourt saint Étienne, France</osmand:address>
+      <osmand:address> gancourt saint Étienne, 76220 Gancourt saint Étienne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1062,7 +1062,7 @@
     <desc>La boite est située en plein milieu de la place, vers le parking, en face de la mairie de la capitale du lin !</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>place du général de gaule, 76560 Doudeville, France</osmand:address>
+      <osmand:address> place du général de gaule, 76560 Doudeville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1074,7 +1074,7 @@
     <desc>La boite se situe sue le petit parking en bas de la place, face à l abbaye saint georges de boscherville, une des abbayes romanes du val de seine.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>Place de l abbaye, 76840 Saint martin de boscherville, France</osmand:address>
+      <osmand:address>Place de l abbaye,  76840 Saint martin de boscherville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1098,7 +1098,7 @@
     <desc>Boîte fixée au mur d un petit bâtiment en pierre face à la boulangerie</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>Rue de normandie, 50400 yquelon, France</osmand:address>
+      <osmand:address>Rue de normandie, 50400  yquelon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1122,7 +1122,7 @@
     <desc>Près de l aire de jeux, face à la pharmacie</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>Rue jozeau-marigné, 50380 St-pair sur mer, France</osmand:address>
+      <osmand:address>Rue jozeau-marigné,  50380 St-pair sur mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1146,7 +1146,7 @@
     <desc>À proximité du lac de l andelle</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>rue olivier de montalen, 76440 Forges les eaux, France</osmand:address>
+      <osmand:address> rue olivier de montalen,  76440 Forges les eaux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1170,7 +1170,7 @@
     <desc></desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>8 rue des tisserands, 27570 le mesnil d acon, France</osmand:address>
+      <osmand:address>8 rue des tisserands, 27570  le mesnil d acon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1206,7 +1206,7 @@
     <desc>Située à côté du grand parking en face de l église. a proximité de la salle des fêtes...</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>place de l eglise, 76680 Saint martin osmonville, France</osmand:address>
+      <osmand:address> place de l eglise,  76680 Saint martin osmonville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1230,7 +1230,7 @@
     <desc>En arrivant de saint romain, de la nationale quand vous tournez à gauche, elle est là , tout de suite...près du distributeur de pain</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>d312, 76210 Saint eustache la forêt, France</osmand:address>
+      <osmand:address> d312, 76210 Saint eustache la forêt, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2418,7 +2418,7 @@
     <desc>Dans le jardin de la mairie, initiative de l intercom terre d auge</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>404 route de bourgeauille , 14950 Glanville, France</osmand:address>
+      <osmand:address> 404 route de bourgeauille , 14950 Glanville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2514,7 +2514,7 @@
     <desc>Il y a 3 boîtes à lire à sartilly .une près des écoles publiques et du lotissement les violettes, une sur la grande rue,près de l école privée et la dernière dans une rue adjacente à la grande rue. il y a aussi une boîte à lire à st jean le thomas sur la rue longeant la mer.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>, 50530 Sartilly baie bocage, France</osmand:address>
+      <osmand:address> , 50530 Sartilly baie bocage, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3066,7 +3066,7 @@
     <desc>Cabine téléphonique</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>Le village de l église, 27260 Bailleul-la-vallee, France</osmand:address>
+      <osmand:address>Le village de  l église, 27260 Bailleul-la-vallee, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4074,7 +4074,7 @@
     <desc>office de tourisme de saint-lô</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>60 rue de la poterne , 50500 Saint-lô, France</osmand:address>
+      <osmand:address> 60 rue de la poterne , 50500 Saint-lô, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4158,7 +4158,7 @@
     <desc>Sur la place à proximité de l'église, dans une cabine téléphonique reconvertie en boite à lire</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>, 76680 Saint-saëns, France</osmand:address>
+      <osmand:address> , 76680 Saint-saëns, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4182,7 +4182,7 @@
     <desc></desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>, 76550 Aubermesnil-beaumais, France</osmand:address>
+      <osmand:address> , 76550 Aubermesnil-beaumais, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4194,7 +4194,7 @@
     <desc>Les livres sont rangés dans une cabine téléphonique reconvertie en boite à livres</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>, 76590 Le catelier, France</osmand:address>
+      <osmand:address> , 76590 Le catelier, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4290,7 +4290,7 @@
     <desc></desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>, 50440 Gréville-hague, France</osmand:address>
+      <osmand:address> , 50440 Gréville-hague, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4478,7 +4478,7 @@
   </wpt>
   <wpt lat="49.039103" lon="-1.444764">
     <time>2018-11-19T09:50:35Z</time>
-    <name>Fred allanic et jacques c b2253</name>
+    <name>Fred allanic  et  jacques c b2253</name>
     <desc>En face de l école primaire par rapport à la route.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
@@ -4890,7 +4890,7 @@
     <desc>Avenue jacques chastellain, devant les commerces</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>ile lacroix , 76000 Rouen, France</osmand:address>
+      <osmand:address> ile lacroix , 76000 Rouen, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5154,7 +5154,7 @@
     <desc>La boite à lire se trouve à côté du restaurant le ströke, sur les quais de rouen droite. au pied du parking.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>quai de rouen droite, 76000 Rouen, France</osmand:address>
+      <osmand:address> quai de rouen droite, 76000 Rouen, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5178,7 +5178,7 @@
     <desc>Dans l'ancienne cabine téléphonique au croisement rue revel de bretteville et rue de la poste.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>rue revel de bretteville, 14210 Sainte honorine du fay , France</osmand:address>
+      <osmand:address> rue revel de bretteville, 14210 Sainte honorine du fay , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5226,7 +5226,7 @@
     <desc>La boite se situe dans le centre ville.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>, 14210 Saint honorine du fay, France</osmand:address>
+      <osmand:address> , 14210 Saint honorine du fay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5250,7 +5250,7 @@
     <desc>Petit point lecture local avec des ouvrages divers.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>8, rue des costils, 50800 villedieu-les-poêles, France</osmand:address>
+      <osmand:address> 8, rue des costils, 50800  villedieu-les-poêles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5310,7 +5310,7 @@
     <desc>Au milieu du village d art de guillaume le conquérant.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>Rue du général de gaulle , 14160 dives sur mer, France</osmand:address>
+      <osmand:address>Rue du général de gaulle , 14160  dives sur mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5394,7 +5394,7 @@
     <desc>Petite maison blanche dans un arbre.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>avenue de l'aquilon, 14390 Cabourg, France</osmand:address>
+      <osmand:address> avenue de l'aquilon, 14390 Cabourg, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

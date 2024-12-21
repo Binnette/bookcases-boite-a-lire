@@ -89,9 +89,10 @@ duplicates = 0
 # Check for duplicates and convert to GeoJSON
 for item in jsonArray:
     coordinates = tuple(map(float, item["coord_gps"].split(',')))
+    properties = {key: value for key, value in item.items() if key != "html"}
     feature = geojson.Feature(
         geometry=geojson.Point((coordinates[1], coordinates[0])),
-        properties=item
+        properties=properties
     )
     if coordinates not in seen_coordinates:
         seen_coordinates.add(coordinates)
@@ -105,7 +106,7 @@ geojson_data = geojson.FeatureCollection(features)
 # Save the GeoJSON to a file
 output_file_path = os.path.join(folder_path, "bookcases.geojson")
 with open(output_file_path, 'w', encoding='utf-8') as file:
-    geojson.dump(geojson_data, file, ensure_ascii=False, indent=4)
+    geojson.dump(geojson_data, file, ensure_ascii=False, indent=2)
 
 # Log the results
 print(f"GeoJSON created: {output_file_path}")

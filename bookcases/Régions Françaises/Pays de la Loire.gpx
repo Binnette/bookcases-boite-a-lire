@@ -1638,7 +1638,7 @@
     <desc>Dans l abri bus, une partie dédiée aux livres</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>30-32 rue des plantagenets, , 72610 Bourg-le-roi, France</osmand:address>
+      <osmand:address>30-32 rue des plantagenets,  , 72610 Bourg-le-roi, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2022,7 +2022,7 @@
     <desc>Devant la mairie</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>1 rue de l hotel de ville, 85400 Luçon , France</osmand:address>
+      <osmand:address> 1 rue de l hotel de ville, 85400 Luçon , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2142,7 +2142,7 @@
     <desc>Il en existe une deuxième à proximité du groupe scolaire de la généraudière et une troisième actuellement en réparation se trouve place albert 1er.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>rue dellile, 85000 La roche-sur-yon, France</osmand:address>
+      <osmand:address> rue dellile, 85000 La roche-sur-yon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2490,7 +2490,7 @@
     <desc>Cette boîte est installée tout près du cinéma le montagnard sur la place où se tient le marché le mercredi matin.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>place similien-guérin , 44620 La montagne, France</osmand:address>
+      <osmand:address> place similien-guérin , 44620 La montagne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2934,7 +2934,7 @@
     <desc></desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Laillé, route de tours, 72220 Marigné-laillé, France</osmand:address>
+      <osmand:address>Laillé,  route de tours, 72220 Marigné-laillé, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4034,7 +4034,7 @@
   </wpt>
   <wpt lat="47.237821" lon="-1.348446">
     <time>2018-11-14T12:17:17Z</time>
-    <name>Médiathèque les quatre vents b4003</name>
+    <name>Médiathèque  les quatre vents b4003</name>
     <desc>Au c?ur du village</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
@@ -4046,7 +4046,7 @@
   </wpt>
   <wpt lat="47.227226" lon="-1.313199">
     <time>2018-11-14T12:17:02Z</time>
-    <name>Médiathèque les quatre vents b4002</name>
+    <name>Médiathèque  les quatre vents b4002</name>
     <desc>Au c?ur du village, près de l arrêt du car.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
@@ -4058,7 +4058,7 @@
   </wpt>
   <wpt lat="47.235377" lon="-1.340462">
     <time>2018-11-14T12:16:46Z</time>
-    <name>Médiathèque les quatre vents b4001</name>
+    <name>Médiathèque  les quatre vents b4001</name>
     <desc>A l extérieur devant l'entrée principale du complexe</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
@@ -4070,7 +4070,7 @@
   </wpt>
   <wpt lat="47.232278" lon="-1.220506">
     <time>2018-11-14T12:16:01Z</time>
-    <name>Médiathèque les quatre vents b4000</name>
+    <name>Médiathèque  les quatre vents b4000</name>
     <desc></desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
@@ -4206,7 +4206,7 @@
     <desc>Très bon fonctionnement</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Durtal maine et loire, 49430 Durtal, France</osmand:address>
+      <osmand:address>Durtal    maine et loire, 49430 Durtal, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5322,7 +5322,7 @@
     <desc>Elle se trouve au départ de la rue du stade près de l église et de la boulangerie</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Rue du stade, 85130 Saint-aubin des ormeaux, France</osmand:address>
+      <osmand:address>Rue du  stade, 85130 Saint-aubin des ormeaux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5430,7 +5430,7 @@
     <desc>Un frigo en guise de boîte à livres, une belle initiatives de la bibliothèque de marigné!</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>64 rue des merisiers, 49330 Marigné, France</osmand:address>
+      <osmand:address> 64 rue des merisiers, 49330 Marigné, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5838,7 +5838,7 @@
     <desc>Située dans le square des poilus, près de la salle des fêtes.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>, 85490 Benet, France</osmand:address>
+      <osmand:address> , 85490 Benet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5862,7 +5862,7 @@
     <desc>Troc de livre de cuisine au sein d'une épicerie-bar-restaurant, la grande barge, sur l'île de nantes.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>8 rue grande biesse, 44200 Nantes, France</osmand:address>
+      <osmand:address>8 rue grande biesse,  44200 Nantes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5886,7 +5886,7 @@
     <desc>Nous avons créé cette boîte à livres pour tous les lecteurs , petits et grands.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>3 rue charles larrouil, 72000 Le mans , France</osmand:address>
+      <osmand:address> 3 rue charles larrouil, 72000 Le mans , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6006,7 +6006,7 @@
     <desc>À côté de l'église.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Ulmes, 49700 Saumur , France</osmand:address>
+      <osmand:address>Ulmes,  49700 Saumur , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6042,7 +6042,7 @@
     <desc>Elle se trouve sous le jardin sonore , derrière l'arrêt de tramway</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Place de la fraternité, 49100 Angers, France</osmand:address>
+      <osmand:address>Place de la fraternité,  49100 Angers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6078,7 +6078,7 @@
     <desc>Au pied du château.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>parc du chateau, 44190 Clisson, France</osmand:address>
+      <osmand:address> parc du chateau, 44190 Clisson, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6150,7 +6150,7 @@
     <desc>La boite à lire se trouve près du cinéma pax.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Rue du maréchal joffre, 44510 le pouliguen, France</osmand:address>
+      <osmand:address>Rue du maréchal joffre, 44510  le pouliguen, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6174,7 +6174,7 @@
     <desc>Une cabine à livres idéale pour emprunter ou déposer des livres en allant au marche</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Place du marché, 44500 la baule, France</osmand:address>
+      <osmand:address>Place du marché, 44500  la baule, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6390,7 +6390,7 @@
     <desc>Près du lavoir,jardin public</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Rue du lavoir, 49150 le guédeniau, France</osmand:address>
+      <osmand:address>Rue du lavoir, 49150  le guédeniau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6414,7 +6414,7 @@
     <desc>La cabane à livres sous un grand chêne et près d un banc ! projet initié par la bibliothèque municipale en associant les services techniques pour la mise à disposition de l'armoire et son installation et les ados du spot, espaces jeunes pour le relooking et la déco.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>, 44140 Montbert, France</osmand:address>
+      <osmand:address> , 44140 Montbert, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

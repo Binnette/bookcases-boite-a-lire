@@ -2070,7 +2070,7 @@
     <desc>Située a coté de l eglise</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Route de courcy gallerand, 45095 Chilleurs aux bois, France</osmand:address>
+      <osmand:address>Route de courcy  gallerand, 45095 Chilleurs aux bois, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2990,7 +2990,7 @@
   </wpt>
   <wpt lat="48.200125" lon="1.882899">
     <time>2019-03-11T09:49:11Z</time>
-    <name>Benoit m b4458</name>
+    <name>Benoit  m b4458</name>
     <desc>à gauche de l entrée de la mairie dans l'abri bus</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
@@ -3062,11 +3062,11 @@
   </wpt>
   <wpt lat="47.545891" lon="0.320922">
     <time>2019-02-21T14:10:01Z</time>
-    <name>Josette et abel b4373</name>
+    <name>Josette  et  abel b4373</name>
     <desc>La boite à lire se trouve dans la bibliothèque</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Mairie de château-la-vallière 6 rue lezay-marnesia, 37330 Château-la-vallière, France</osmand:address>
+      <osmand:address>Mairie de  château-la-vallière 6 rue lezay-marnesia, 37330 Château-la-vallière, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3306,7 +3306,7 @@
     <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>18 rue victor hugo , 37400 Amboise, France</osmand:address>
+      <osmand:address>18 rue victor hugo  , 37400 Amboise, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3630,7 +3630,7 @@
     <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>, 41210 Marcilly en gault, France</osmand:address>
+      <osmand:address> , 41210 Marcilly en gault, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3774,7 +3774,7 @@
     <desc>Vers l'accès aux trains</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>avenue de la gare, 28130 Maintenon, France</osmand:address>
+      <osmand:address> avenue de la gare, 28130 Maintenon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3882,7 +3882,7 @@
     <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>, 45620 Cerdon, France</osmand:address>
+      <osmand:address> , 45620 Cerdon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3894,7 +3894,7 @@
     <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>, 45570 Dampierre en burly, France</osmand:address>
+      <osmand:address> , 45570 Dampierre en burly, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3906,7 +3906,7 @@
     <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>, 18410 Brinon sur sauldre, France</osmand:address>
+      <osmand:address> , 18410 Brinon sur sauldre, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3918,7 +3918,7 @@
     <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>, 45510 Vannes sur cosson, France</osmand:address>
+      <osmand:address> , 45510 Vannes sur cosson, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4290,7 +4290,7 @@
     <desc>Très fournie.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Face centre commercial g20, 37270 Montlouis sur loire, France</osmand:address>
+      <osmand:address>Face centre commercial  g20, 37270 Montlouis sur loire, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5058,7 +5058,7 @@
     <desc>Dans une cabine téléphonique rouge.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue gambetta, 45150 jargeau, France</osmand:address>
+      <osmand:address>Rue gambetta, 45150  jargeau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5070,7 +5070,7 @@
     <desc>Devant l'église</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>place de l église saint-germain, 45600 sully sur loire, France</osmand:address>
+      <osmand:address> place de l église saint-germain, 45600  sully sur loire, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5262,7 +5262,7 @@
     <desc>Disponible aux heures d ouverture.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>médiathèque jules verne, 41170 Mondoubleau, France</osmand:address>
+      <osmand:address> médiathèque jules verne, 41170 Mondoubleau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

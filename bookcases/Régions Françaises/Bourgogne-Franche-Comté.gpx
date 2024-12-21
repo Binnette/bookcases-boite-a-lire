@@ -654,7 +654,7 @@
     <desc>Dans l abri bus du village de serley à coté de l'église</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>à coté de l'église, SERLEY 71310, France</osmand:address>
+      <osmand:address> à coté de l'église, SERLEY 71310, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1170,7 +1170,7 @@
     <desc>Boîte à livre du vival</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>4 rue de la carrière, 39570 Crancot, France</osmand:address>
+      <osmand:address> 4 rue de la carrière, 39570 Crancot, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1662,7 +1662,7 @@
     <desc>Avenue de la gare d eau a saint jean de losne</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>Avenue de la gare, Saint jean 21170, France</osmand:address>
+      <osmand:address>Avenue de la gare, Saint jean  21170, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2502,7 +2502,7 @@
     <desc>Se trouve sur une petite place au centre du village</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>Mairie, 70130 Fretigney et velloreille, France</osmand:address>
+      <osmand:address>Mairie, 70130 Fretigney  et velloreille, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2862,7 +2862,7 @@
     <desc>Au centre du bourg près du monument aux morts</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>76 route de st gengoux, 71250 Sigy le chatel, France</osmand:address>
+      <osmand:address>76  route de st gengoux, 71250 Sigy le chatel, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2886,7 +2886,7 @@
     <desc></desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>Place camille prost, 39300 Champagnole, France</osmand:address>
+      <osmand:address>Place camille  prost, 39300 Champagnole, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2910,7 +2910,7 @@
     <desc></desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>Avenue jean jaures , 39300 Champagnole, France</osmand:address>
+      <osmand:address>Avenue jean jaures  , 39300 Champagnole, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5190,7 +5190,7 @@
     <desc>Devant la poste des courlis, au rond point de la rue de la gare</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>58 bords de loire, 58000 Nevers, France</osmand:address>
+      <osmand:address>58 bords de loire,  58000 Nevers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5214,7 +5214,7 @@
     <desc>Parking et parc de jeux en face de la gendarmerie</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>2 rue de la fontaine des douis, 70150 Marnay, France</osmand:address>
+      <osmand:address>2 rue de la fontaine des douis, 70150  Marnay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5274,7 +5274,7 @@
     <desc>La boite à livre se trouve dans la salle hors sac, dans les locaux du point info de lamoura.</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>Grand rue, 39310 Lamoura, France</osmand:address>
+      <osmand:address>Grand rue, 39310  Lamoura, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5610,7 +5610,7 @@
     <desc>A l arrière du bâtiment dehors, dans le meuble décoré</desc>
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
-      <osmand:address>15 rue de dijon 70100 arc-les-gray, ARC LES GRA 70100, France</osmand:address>
+      <osmand:address>15 rue de dijon  70100 arc-les-gray, ARC LES GRA 70100, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

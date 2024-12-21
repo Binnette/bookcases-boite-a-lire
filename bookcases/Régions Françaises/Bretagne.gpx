@@ -114,7 +114,7 @@
     <desc></desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Parc rue du manoir, 35136 Saint jacques de la lande, France</osmand:address>
+      <osmand:address>Parc  rue du manoir, 35136 Saint jacques de la lande, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -138,7 +138,7 @@
     <desc></desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Rue joseph boussin angle rue honoré commerec, 35136 Saint jacques de la lande, France</osmand:address>
+      <osmand:address>Rue joseph boussin angle rue honoré  commerec, 35136 Saint jacques de la lande, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -750,7 +750,7 @@
     <desc>Armoire en bois sous le porche d entrée de la maire</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Entrée du porche mairie-bibliothèque, 29400 Bodilis, France</osmand:address>
+      <osmand:address>Entrée du porche  mairie-bibliothèque, 29400 Bodilis, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1146,7 +1146,7 @@
     <desc>Cette cabane est mise à disposition par l association des parents d'élèves de l'école publique emile cloarec</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Salle sociologie culturelle ploujean, 29600 29600, France</osmand:address>
+      <osmand:address>Salle sociologie culturelle  ploujean, 29600 29600, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1446,7 +1446,7 @@
     <desc>La boite est proche du carrefour contact.</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>square de la rance, 35000 Rennes, France</osmand:address>
+      <osmand:address> square de la rance, 35000 Rennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1614,7 +1614,7 @@
     <desc>Bibliothèque de rue avec des livres en libre service dans le petit parc de la place de la mairie</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Place de la mairie, 56880 Ploeren, France</osmand:address>
+      <osmand:address>Place de la mairie,  56880 Ploeren, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1626,7 +1626,7 @@
     <desc>Aire de jeux après la pharmacie</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>aire de jeux des charmilles, 35460 st etienne en cogles, France</osmand:address>
+      <osmand:address> aire de jeux des charmilles, 35460  st etienne en cogles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1650,7 +1650,7 @@
     <desc>Sur le mur de l aire</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>aire des campings cars, 35460 St brice en cogles, France</osmand:address>
+      <osmand:address> aire des campings cars, 35460 St brice en cogles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6042,7 +6042,7 @@
     <desc>Le kiosque à livre se situe dans le parc derrière la mairie.</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Le bourg, 29170 pleuven, France</osmand:address>
+      <osmand:address>Le bourg, 29170  pleuven, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6066,7 +6066,7 @@
     <desc>Facile à trouver sur la petite place.</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>place du bas pouldu, 56520 Guidel, France</osmand:address>
+      <osmand:address> place du bas pouldu, 56520 Guidel, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6870,7 +6870,7 @@
     <desc>Dans la petite cour derrière le fratellenza', rue de la liberté, a côté du disquaire, jolie armoire ancienne.</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Cour du bar le fratellenza', rue de la liberté, 22630 Evran, France</osmand:address>
+      <osmand:address>Cour du bar  le fratellenza', rue de la liberté, 22630 Evran, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

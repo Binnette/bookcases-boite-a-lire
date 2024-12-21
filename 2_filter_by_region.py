@@ -64,12 +64,12 @@ for bookcase in bookcases_data['features']:
 for region_name, bookcases in region_bookcases.items():
     geojson_output_path = os.path.join(output_dir, f'{region_name}.geojson')
     with open(geojson_output_path, 'w', encoding='utf-8') as f:
-        json.dump(bookcases, f, ensure_ascii=False, indent=4)
+        json.dump(bookcases, f, ensure_ascii=False, indent=2)
 
 # Export out-of-region bookcases to .geojson
 out_geojson_output_path = f'{folder}/out-france-metro.geojson'
 with open(out_geojson_output_path, 'w', encoding='utf-8') as f:
-    json.dump(out_of_region_bookcases, f, ensure_ascii=False, indent=4)
+    json.dump(out_of_region_bookcases, f, ensure_ascii=False, indent=2)
 
 # Create CSV header if the file doesn't exist
 if not os.path.exists(csv_output_path):
