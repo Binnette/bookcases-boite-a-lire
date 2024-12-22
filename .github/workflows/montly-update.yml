@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual triggering from the GitHub web interface
 
 jobs:
-  run-boite-a-lire:
+  run-monthly-update:
     runs-on: ubuntu-latest
 
     permissions:

@@ -13,6 +13,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import shutil
 
+# Constants
+folder = 'bookcases'
+url = 'https://www.boite-a-lire.com/'
+
 # Set up Selenium WebDriver options
 chrome_options = Options()
 chrome_options.add_argument('--headless')
@@ -28,7 +32,7 @@ def find_chromedriver_path():
                 return paths[0]
         raise FileNotFoundError("chromedriver.exe not found in PATH")
     else:  # Linux or macOS
-        return '/usr/bin/chromedriver'  # Update with the path to your chromedriver
+        return '/usr/bin/chromedriver'
 
 chromedriver_path = find_chromedriver_path()
 service = ChromeService(executable_path=chromedriver_path)
@@ -36,21 +40,15 @@ service = ChromeService(executable_path=chromedriver_path)
 # Set up WebDriver
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-# Constants
-URL = 'https://www.boite-a-lire.com/'
-
-# Set the folder path to "bookcases"
-folder_path = 'bookcases'
-
 # Delete the folder if it exists
-if os.path.exists(folder_path):
-    shutil.rmtree(folder_path)
+if os.path.exists(folder):
+    shutil.rmtree(folder)
 
 # Create the folder
-os.makedirs(folder_path, exist_ok=True)
+os.makedirs(folder, exist_ok=True)
 
 # Get the webpage content
-driver.get(URL)
+driver.get(url)
 
 # Wait for the relevant script tags to load
 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "script")))
@@ -58,6 +56,9 @@ WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "sc
 # Extract page source
 page_source = driver.page_source
 soup = BeautifulSoup(page_source, 'html.parser')
+
+# Close driver
+driver.quit()
 
 # Regex pattern to find JSON variables
 pattern = re.compile(r'var json[0-9]+ = ({.*?});', re.DOTALL)
@@ -76,6 +77,12 @@ for script in soup.find_all('script'):
                 print(f"JSON string: {match}")
 
 total_bookcases = len(jsonArray)
+
+# Exit with a non-zero status code if no bookcases were found
+if total_bookcases == 0:
+    print("No bookcases found. Exiting with an error.")
+    exit(1)
+
 print(f"Found {total_bookcases} bookcases on the webpage")
 
 # Sort data by id in descending order
@@ -104,7 +111,7 @@ for item in jsonArray:
 geojson_data = geojson.FeatureCollection(features)
 
 # Save the GeoJSON to a file
-output_file_path = os.path.join(folder_path, "bookcases.geojson")
+output_file_path = os.path.join(folder, "bookcases.geojson")
 with open(output_file_path, 'w', encoding='utf-8') as file:
     geojson.dump(geojson_data, file, ensure_ascii=False, indent=2)
 
@@ -113,10 +120,3 @@ print(f"GeoJSON created: {output_file_path}")
 print(f"Total bookcases: {total_bookcases}")
 print(f"Unique bookcases: {len(geojson_data['features'])}")
 print(f"Duplicate bookcases: {duplicates}")
-
-# Exit with a non-zero status code if no bookcases were found
-if len(geojson_data['features']) == 0:
-    print("No bookcases found. Exiting with an error.")
-    exit(1)
-
-driver.quit()
