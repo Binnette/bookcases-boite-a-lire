@@ -1,6 +1,6 @@
 # bookcases-boite-a-lire
 
-**Data last updated on: 2024-12-19**
+**Data last updated on: 2025-01-01**
 
 This repository hosts public bookcases exported from [boite-a-lire.com](https://www.boite-a-lire.com/), which publishes this data under the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/) license.
 
