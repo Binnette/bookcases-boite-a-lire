@@ -17280,6 +17280,66 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="44.297929" lon="-0.257371">
+    <time>2025-01-30T10:01:59Z</time>
+    <name>Tiers lieu la boussole b10453</name>
+    <desc></desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>74 route de bazas, 33840 Captieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.714632" lon="-0.543161">
+    <time>2025-01-21T09:45:04Z</time>
+    <name>Laurence druelle b10452</name>
+    <desc>La boîte à livres se trouve devant le parking de l école</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>École mille sources, 33650 Martillac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.547619" lon="0.317583">
+    <time>2025-01-16T09:56:53Z</time>
+    <name>Guingambrésil b10451</name>
+    <desc>À l arrêt de bus fief clairet.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue de chantejau, 86280 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.593581" lon="0.322998">
+    <time>2025-01-16T09:56:44Z</time>
+    <name>Guingambrésil b10450</name>
+    <desc>Boîte s ouvrant par le haut, derrière la clôture d'une habitation.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>1 rue louis breguet, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.586929" lon="0.387415">
+    <time>2025-01-02T09:03:41Z</time>
+    <name>Guingambrésil b10436</name>
+    <desc>Cabine téléphonique derrière les jardins familiaux de saint-Éloi, sur la route entre les rues de la croix galipeau et de la vallée.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>40 rue de la vallée, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.651062" lon="0.155894">
     <time>2024-12-13T10:06:42Z</time>
     <name>Philippe caulier b10426</name>

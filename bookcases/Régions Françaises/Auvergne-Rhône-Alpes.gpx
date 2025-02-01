@@ -15600,6 +15600,30 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="45.773614" lon="4.861731">
+    <time>2025-01-31T09:43:55Z</time>
+    <name>Audrey b10455</name>
+    <desc>Devant l école maternelle le caméléon</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>6 avenue dutrievoz, 69100 Villeurbanne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.773988" lon="4.864323">
+    <time>2025-01-31T09:43:46Z</time>
+    <name>Audrey b10454</name>
+    <desc>En haut de la rue, en allant vers les samouraïs</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue jacques brel,, 69100 Villeurbanne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.534662" lon="6.578537">
     <time>2024-12-19T09:29:15Z</time>
     <name>Françoise b10435</name>

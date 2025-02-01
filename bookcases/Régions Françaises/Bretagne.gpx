@@ -6480,6 +6480,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="48.117817" lon="-1.668635">
+    <time>2025-01-08T10:00:01Z</time>
+    <name>Samantha b10448</name>
+    <desc>Réservée aux étudiants de l igr-iae, elle est située au 2ème de son bâtiment.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>11 rue jean macé, 35700 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.80023" lon="-4.357018">
     <time>2024-12-11T10:23:02Z</time>
     <name>Office de tourisme b10425</name>

@@ -30867,6 +30867,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.666388,
+          49.010342
+        ]
+      },
+      "properties": {
+        "id": "10446",
+        "nom": "Ced",
+        "adresse": "30 grande rue",
+        "code_postal": "77230",
+        "ville": "Thieux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "49.0103424, 2.6663879",
+        "affichage": "1",
+        "date_created": "2025-01-03 09:52:06",
+        "date_updated": "2025-01-03 09:52:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.043611,
           48.789772
         ]

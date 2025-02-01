@@ -12102,6 +12102,222 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.618038,
+          47.348223
+        ]
+      },
+      "properties": {
+        "id": "10444",
+        "nom": "Guingambrésil",
+        "adresse": "41 boulevard des prés",
+        "code_postal": "37510",
+        "ville": "Ballan-miré",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l intersection de la rue de l'adamine et du boulevard des prés.",
+        "coord_gps": "47.3482233, 0.6180375",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:06:04",
+        "date_updated": "2025-01-02 09:43:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.612213,
+          47.340528
+        ]
+      },
+      "properties": {
+        "id": "10443",
+        "nom": "Guingambrésil",
+        "adresse": "Place de l Église",
+        "code_postal": "37510",
+        "ville": "Ballan-miré",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l entrée de l'église.",
+        "coord_gps": "47.3405279, 0.6122126",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:05:53",
+        "date_updated": "2025-01-02 09:05:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.614336,
+          47.340831
+        ]
+      },
+      "properties": {
+        "id": "10442",
+        "nom": "Guingambrésil",
+        "adresse": "3 rue du général leclerc",
+        "code_postal": "37510",
+        "ville": "Ballan-miré",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur la clôture d un particulier.",
+        "coord_gps": "47.3408314, 0.6143357",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:05:40",
+        "date_updated": "2025-01-02 09:05:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.662315,
+          47.346312
+        ]
+      },
+      "properties": {
+        "id": "10441",
+        "nom": "Guingambrésil",
+        "adresse": "Rue de la rotière",
+        "code_postal": "37300",
+        "ville": "Joué-les-tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant le centre social de la rabière.",
+        "coord_gps": "47.3463117, 0.6623152",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:05:05",
+        "date_updated": "2025-01-02 09:05:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.664613,
+          47.336197
+        ]
+      },
+      "properties": {
+        "id": "10440",
+        "nom": "Guingambrésil",
+        "adresse": "6 route de monts",
+        "code_postal": "37300",
+        "ville": "Joué-les-tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la boulangerie maison nardeux.",
+        "coord_gps": "47.3361969, 0.6646127",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:04:55",
+        "date_updated": "2025-01-02 09:04:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.664126,
+          47.354525
+        ]
+      },
+      "properties": {
+        "id": "10439",
+        "nom": "Guingambrésil",
+        "adresse": "Avenue de la république",
+        "code_postal": "37300",
+        "ville": "Joué-les-tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l intersection de la rue aristide briand, du boulevard gambetta et de l'avenue de la république, devant la cour de l'école république liberté.",
+        "coord_gps": "47.3545248, 0.6641265",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:04:32",
+        "date_updated": "2025-01-02 09:04:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663708,
+          47.356868
+        ]
+      },
+      "properties": {
+        "id": "10438",
+        "nom": "Guingambrésil",
+        "adresse": "Place de la grange",
+        "code_postal": "37300",
+        "ville": "Joué-les-tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking du centre commercial de la grange.",
+        "coord_gps": "47.356868, 0.6637082",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:04:20",
+        "date_updated": "2025-01-02 09:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.688284,
+          47.388579
+        ]
+      },
+      "properties": {
+        "id": "10437",
+        "nom": "Guingambrésil",
+        "adresse": "19 place jean jaurès",
+        "code_postal": "37000",
+        "ville": "Tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au passage du palais, au salon près de la cabine de photomaton.",
+        "coord_gps": "47.3885792, 0.6882838",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:04:00",
+        "date_updated": "2025-01-02 09:04:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.686307,
           47.421485
         ]

@@ -14586,6 +14586,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.668635,
+          48.117817
+        ]
+      },
+      "properties": {
+        "id": "10448",
+        "nom": "Samantha",
+        "adresse": "11 rue jean macé",
+        "code_postal": "35700",
+        "ville": "Rennes",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Réservée aux étudiants de l igr-iae, elle est située au 2ème de son bâtiment.",
+        "coord_gps": "48.1178169, -1.6686347",
+        "affichage": "1",
+        "date_created": "2025-01-08 10:00:01",
+        "date_updated": "2025-01-08 10:00:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.357018,
           47.80023
         ]

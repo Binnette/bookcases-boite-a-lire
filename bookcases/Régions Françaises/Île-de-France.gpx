@@ -13716,6 +13716,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="49.010342" lon="2.666388">
+    <time>2025-01-03T09:52:06Z</time>
+    <name>Ced b10446</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>30 grande rue, 77230 Thieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.789772" lon="2.043611">
     <time>2024-12-18T09:13:01Z</time>
     <name>Gaëlle gauchet b10433</name>

@@ -12453,6 +12453,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.977187,
+          47.279689
+        ]
+      },
+      "properties": {
+        "id": "10447",
+        "nom": "École miserey-salines",
+        "adresse": "Les nuelles",
+        "code_postal": "25480",
+        "ville": "Miserey-salines",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Vers le parc à côté de l?école le long de la route. derrière l?arrêt de bus « les nuelles »",
+        "coord_gps": "47.279689, 5.977187",
+        "affichage": "1",
+        "date_created": "2025-01-06 09:43:56",
+        "date_updated": "2025-01-06 09:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.969817,
           47.225955
         ]

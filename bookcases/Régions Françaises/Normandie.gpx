@@ -5520,6 +5520,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="49.205594" lon="-0.297943">
+    <time>2025-01-09T09:41:40Z</time>
+    <name>Gaëlle gauchet b10449</name>
+    <desc>La boite à livres se trouve à l entrée de la médiathèque le phénix.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>10 rue elsa triolet, 14460 Colombelles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.204758" lon="-0.296415">
     <time>2024-12-16T09:52:02Z</time>
     <name>Gaëlle gauchet b10427</name>

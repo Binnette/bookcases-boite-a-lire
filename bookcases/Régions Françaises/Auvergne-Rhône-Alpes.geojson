@@ -35106,6 +35106,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.861731,
+          45.773614
+        ]
+      },
+      "properties": {
+        "id": "10455",
+        "nom": "Audrey",
+        "adresse": "6 avenue dutrievoz",
+        "code_postal": "69100",
+        "ville": "Villeurbanne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l école maternelle le caméléon",
+        "coord_gps": "45.7736137, 4.8617313",
+        "affichage": "1",
+        "date_created": "2025-01-31 09:43:55",
+        "date_updated": "2025-01-31 09:43:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.864323,
+          45.773988
+        ]
+      },
+      "properties": {
+        "id": "10454",
+        "nom": "Audrey",
+        "adresse": "Rue jacques brel,",
+        "code_postal": "69100",
+        "ville": "Villeurbanne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "En haut de la rue, en allant vers les samouraïs",
+        "coord_gps": "45.7739877, 4.8643228",
+        "affichage": "1",
+        "date_created": "2025-01-31 09:43:46",
+        "date_updated": "2025-01-31 09:43:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.578537,
           45.534662
         ]

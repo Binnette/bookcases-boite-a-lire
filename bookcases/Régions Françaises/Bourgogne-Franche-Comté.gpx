@@ -5532,6 +5532,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.279689" lon="5.977187">
+    <time>2025-01-06T09:43:56Z</time>
+    <name>École miserey-salines b10447</name>
+    <desc>Vers le parc à côté de l?école le long de la route. derrière l?arrêt de bus « les nuelles »</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Les nuelles, 25480 Miserey-salines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.225955" lon="4.969817">
     <time>2017-04-18T12:38:29Z</time>
     <name>Sandy b1027</name>

@@ -12426,6 +12426,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.297943,
+          49.205594
+        ]
+      },
+      "properties": {
+        "id": "10449",
+        "nom": "Gaëlle gauchet",
+        "adresse": "10 rue elsa triolet",
+        "code_postal": "14460",
+        "ville": "Colombelles",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boite à livres se trouve à l entrée de la médiathèque le phénix.",
+        "coord_gps": "49.2055944, -0.2979433",
+        "affichage": "1",
+        "date_created": "2025-01-09 09:41:40",
+        "date_updated": "2025-01-09 09:41:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.296415,
           49.204758
         ]

@@ -38886,6 +38886,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.257371,
+          44.297929
+        ]
+      },
+      "properties": {
+        "id": "10453",
+        "nom": "Tiers lieu la boussole",
+        "adresse": "74 route de bazas",
+        "code_postal": "33840",
+        "ville": "Captieux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "44.297929, -0.2573714",
+        "affichage": "1",
+        "date_created": "2025-01-30 10:01:59",
+        "date_updated": "2025-01-30 10:01:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.543161,
+          44.714632
+        ]
+      },
+      "properties": {
+        "id": "10452",
+        "nom": "Laurence druelle",
+        "adresse": "École mille sources",
+        "code_postal": "33650",
+        "ville": "Martillac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte à livres se trouve devant le parking de l école",
+        "coord_gps": "44.7146318, -0.5431612",
+        "affichage": "1",
+        "date_created": "2025-01-21 09:45:04",
+        "date_updated": "2025-01-21 09:45:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.317583,
+          46.547619
+        ]
+      },
+      "properties": {
+        "id": "10451",
+        "nom": "Guingambrésil",
+        "adresse": "Rue de chantejau",
+        "code_postal": "86280",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l arrêt de bus fief clairet.",
+        "coord_gps": "46.547619, 0.317583",
+        "affichage": "1",
+        "date_created": "2025-01-16 09:56:53",
+        "date_updated": "2025-01-16 09:56:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.322998,
+          46.593581
+        ]
+      },
+      "properties": {
+        "id": "10450",
+        "nom": "Guingambrésil",
+        "adresse": "1 rue louis breguet",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boîte s ouvrant par le haut, derrière la clôture d'une habitation.",
+        "coord_gps": "46.5935805, 0.3229977",
+        "affichage": "1",
+        "date_created": "2025-01-16 09:56:44",
+        "date_updated": "2025-01-16 09:56:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.387415,
+          46.586929
+        ]
+      },
+      "properties": {
+        "id": "10436",
+        "nom": "Guingambrésil",
+        "adresse": "40 rue de la vallée",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Cabine téléphonique derrière les jardins familiaux de saint-Éloi, sur la route entre les rues de la croix galipeau et de la vallée.",
+        "coord_gps": "46.5869286, 0.3874151",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:02:27",
+        "date_updated": "2025-01-02 09:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.155894,
           45.651062
         ]

@@ -9321,6 +9321,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          55.290846,
+          -20.937703
+        ]
+      },
+      "properties": {
+        "id": "10445",
+        "nom": "Lecoquierre",
+        "adresse": "4 avenue de la commune de paris",
+        "code_postal": "97420",
+        "ville": "Le port",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "-20.9377029, 55.2908463",
+        "affichage": "1",
+        "date_created": "2025-01-02 09:44:08",
+        "date_updated": "2025-01-02 09:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.545455,
           45.527815
         ]

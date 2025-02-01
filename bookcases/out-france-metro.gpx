@@ -4140,6 +4140,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="-20.937703" lon="55.290846">
+    <time>2025-01-02T09:44:08Z</time>
+    <name>Lecoquierre b10445</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>4 avenue de la commune de paris, 97420 Le port, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.527815" lon="-73.545455">
     <time>2024-05-12T14:38:48Z</time>
     <name>Terrystad b10144</name>
