@@ -5520,6 +5520,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.448001" lon="6.583223">
+    <time>2025-02-04T09:47:14Z</time>
+    <name>La vie claire b10462</name>
+    <desc>A l intérieur du magasin la vie claire 14 rue du magny 25250 l'isle sur le doubs ,car notre précédente boîte, devant le magasin, avait été vandalisée</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>14 rue du magny, 25250 L isle sur le doubs, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.491219" lon="3.909248">
     <time>2017-04-25T17:03:39Z</time>
     <name>Emilie b1046</name>

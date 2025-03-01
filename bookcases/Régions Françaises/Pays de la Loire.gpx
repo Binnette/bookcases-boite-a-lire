@@ -6492,6 +6492,30 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.555511" lon="-1.061522">
+    <time>2025-02-10T09:51:10Z</time>
+    <name>Un lecteur b10465</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Parking des halles, 08510 Sainte-hermine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.181382" lon="-2.154116">
+    <time>2025-02-07T10:20:35Z</time>
+    <name>Christophe b10464</name>
+    <desc>Sur le muret d?un particulier</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>57 rue du redois, 44730 Saint michel chef chef, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.470933" lon="-0.551382">
     <time></time>
     <name>Reineri b104</name>

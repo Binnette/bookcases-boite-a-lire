@@ -15801,6 +15801,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.487511,
+          50.403497
+        ]
+      },
+      "properties": {
+        "id": "10474",
+        "nom": "Christophe",
+        "adresse": "5 rue de l europe",
+        "code_postal": "Magnicourt-",
+        "ville": "62127",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "50.4034968, 2.487511",
+        "affichage": "1",
+        "date_created": "2025-02-28 10:04:39",
+        "date_updated": "2025-02-28 10:04:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.829846,
           50.893504
         ]

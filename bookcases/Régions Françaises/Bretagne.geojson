@@ -14559,6 +14559,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.977302,
+          47.909859
+        ]
+      },
+      "properties": {
+        "id": "10466",
+        "nom": "Tina revamp",
+        "adresse": "Place de la baie",
+        "code_postal": "029",
+        "ville": "La forêt fouesnant",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Barque à livres",
+        "coord_gps": "47.909859, -3.977302",
+        "affichage": "1",
+        "date_created": "2025-02-10 09:51:18",
+        "date_updated": "2025-02-10 09:51:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.957767,
+          47.955901
+        ]
+      },
+      "properties": {
+        "id": "10461",
+        "nom": "Fd",
+        "adresse": "Résidence du bois de pleuven",
+        "code_postal": "29140",
+        "ville": "Saint yvi",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "47.955901, -3.957767",
+        "affichage": "1",
+        "date_created": "2025-02-03 10:06:57",
+        "date_updated": "2025-02-03 10:06:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.469452,
           48.404214
         ]

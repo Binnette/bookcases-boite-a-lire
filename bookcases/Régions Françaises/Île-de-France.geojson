@@ -30867,6 +30867,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.98886,
+          48.584649
+        ]
+      },
+      "properties": {
+        "id": "10470",
+        "nom": "Felbacq kevin",
+        "adresse": "Rue des halles",
+        "code_postal": "78730",
+        "ville": "Rochefort en yvelines",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le coté de la mairie",
+        "coord_gps": "48.5846492, 1.98886",
+        "affichage": "1",
+        "date_created": "2025-02-20 09:44:20",
+        "date_updated": "2025-02-20 09:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.666388,
           49.010342
         ]

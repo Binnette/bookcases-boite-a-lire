@@ -35106,6 +35106,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.653081,
+          46.026026
+        ]
+      },
+      "properties": {
+        "id": "10472",
+        "nom": "Claude",
+        "adresse": "Place de la mairie",
+        "code_postal": "69640",
+        "ville": "Saint julien",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Un peu encombrée , demanderait à être agrandie !",
+        "coord_gps": "46.026026, 4.653081",
+        "affichage": "1",
+        "date_created": "2025-02-26 09:37:05",
+        "date_updated": "2025-02-26 09:37:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.376512,
+          45.526519
+        ]
+      },
+      "properties": {
+        "id": "10471",
+        "nom": "Claire b",
+        "adresse": "A côté de la statue de notre dame de chez nous, mont pailloux",
+        "code_postal": "42570",
+        "ville": "St héand",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Chaises, bancs et transat double en bois pour lire au soleil et devant un joli paysage !",
+        "coord_gps": "45.526519, 4.3765121",
+        "affichage": "1",
+        "date_created": "2025-02-21 09:44:39",
+        "date_updated": "2025-02-21 09:44:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.155681,
+          45.569244
+        ]
+      },
+      "properties": {
+        "id": "10468",
+        "nom": "Françoise",
+        "adresse": "97 rue louis blanc pinget",
+        "code_postal": "73250",
+        "ville": "Saint pierre d albigny",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Contre une maison, en pleine ville",
+        "coord_gps": "45.5692441, 6.1556811",
+        "affichage": "1",
+        "date_created": "2025-02-13 11:07:08",
+        "date_updated": "2025-02-13 11:07:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.417755,
+          44.966572
+        ]
+      },
+      "properties": {
+        "id": "10463",
+        "nom": "Sophie",
+        "adresse": "Hotel bellier - rue du calvaire",
+        "code_postal": "26420",
+        "ville": "La chapelle en vercors",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "A l entrée du jardin de l'hotel bellier :d",
+        "coord_gps": "44.9665718, 5.4177551",
+        "affichage": "1",
+        "date_created": "2025-02-05 10:01:48",
+        "date_updated": "2025-02-05 10:01:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.113455,
+          46.255452
+        ]
+      },
+      "properties": {
+        "id": "10456",
+        "nom": "Maryse",
+        "adresse": "Place de la mairie",
+        "code_postal": "24240",
+        "ville": "Monestier",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ancienne cabine de téléphone",
+        "coord_gps": "46.2554525, 3.1134549",
+        "affichage": "1",
+        "date_created": "2025-02-03 09:41:52",
+        "date_updated": "2025-02-03 09:41:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.861731,
           45.773614
         ]

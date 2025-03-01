@@ -38886,6 +38886,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.324085,
+          46.549246
+        ]
+      },
+      "properties": {
+        "id": "10473",
+        "nom": "Guingambrésil",
+        "adresse": "Place des résistants",
+        "code_postal": "86280",
+        "ville": "Saint-benoît",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la route",
+        "coord_gps": "46.5492461, 0.3240849",
+        "affichage": "1",
+        "date_created": "2025-02-27 09:38:52",
+        "date_updated": "2025-02-27 09:38:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.488329,
+          45.3241
+        ]
+      },
+      "properties": {
+        "id": "10469",
+        "nom": "Kti",
+        "adresse": "Fontaine 44 rue principale",
+        "code_postal": "17130",
+        "ville": "Courpignac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte à livres est sous l abri de la fontaine",
+        "coord_gps": "45.3240999, -0.4883291",
+        "affichage": "1",
+        "date_created": "2025-02-18 09:42:07",
+        "date_updated": "2025-02-18 09:42:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.211161,
+          45.861235
+        ]
+      },
+      "properties": {
+        "id": "10460",
+        "nom": "Guingambrésil",
+        "adresse": "2 grand rue",
+        "code_postal": "16230",
+        "ville": "Puyréaux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement de la rue eugène de thiac, devant l école.",
+        "coord_gps": "45.8612347, 0.2111609",
+        "affichage": "1",
+        "date_created": "2025-02-03 09:56:35",
+        "date_updated": "2025-02-03 09:56:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.326462,
+          45.793591
+        ]
+      },
+      "properties": {
+        "id": "10459",
+        "nom": "Guingambrésil",
+        "adresse": "475 rue des colporteurs",
+        "code_postal": "16110",
+        "ville": "La rochette",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au mur d une habitation, au centre du hameau de villemalet.",
+        "coord_gps": "45.793591, 0.3264619",
+        "affichage": "1",
+        "date_created": "2025-02-03 09:56:25",
+        "date_updated": "2025-02-03 09:56:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.287908,
+          45.847083
+        ]
+      },
+      "properties": {
+        "id": "10458",
+        "nom": "Guingambrésil",
+        "adresse": "6 cour marchande",
+        "code_postal": "16230",
+        "ville": "Val-de-bonnieure, saint-angeau",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous le passage le long de la maison de la santé.",
+        "coord_gps": "45.847083, 0.287908",
+        "affichage": "1",
+        "date_created": "2025-02-03 09:42:16",
+        "date_updated": "2025-02-03 09:56:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.50483,
+          44.720081
+        ]
+      },
+      "properties": {
+        "id": "10457",
+        "nom": "Maryse",
+        "adresse": "Croisement rue de l ancienne école et route de campsacrat",
+        "code_postal": "24500",
+        "ville": "Saint capraise d  eymet",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le grand parking dans une cabine téléphonique",
+        "coord_gps": "44.7200805, 0.5048302",
+        "affichage": "1",
+        "date_created": "2025-02-03 09:42:00",
+        "date_updated": "2025-02-03 09:42:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.257371,
           44.297929
         ]

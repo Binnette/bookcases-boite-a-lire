@@ -17280,6 +17280,78 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.549246" lon="0.324085">
+    <time>2025-02-27T09:38:52Z</time>
+    <name>Guingambrésil b10473</name>
+    <desc>Le long de la route</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place des résistants, 86280 Saint-benoît, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.3241" lon="-0.488329">
+    <time>2025-02-18T09:42:07Z</time>
+    <name>Kti b10469</name>
+    <desc>La boîte à livres est sous l abri de la fontaine</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Fontaine 44 rue principale, 17130 Courpignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.861235" lon="0.211161">
+    <time>2025-02-03T09:56:35Z</time>
+    <name>Guingambrésil b10460</name>
+    <desc>Au croisement de la rue eugène de thiac, devant l école.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 grand rue, 16230 Puyréaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.793591" lon="0.326462">
+    <time>2025-02-03T09:56:25Z</time>
+    <name>Guingambrésil b10459</name>
+    <desc>Au mur d une habitation, au centre du hameau de villemalet.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>475 rue des colporteurs, 16110 La rochette, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.847083" lon="0.287908">
+    <time>2025-02-03T09:56:07Z</time>
+    <name>Guingambrésil b10458</name>
+    <desc>Sous le passage le long de la maison de la santé.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>6 cour marchande, 16230 Val-de-bonnieure, saint-angeau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.720081" lon="0.50483">
+    <time>2025-02-03T09:42:00Z</time>
+    <name>Maryse b10457</name>
+    <desc>Sur le grand parking dans une cabine téléphonique</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Croisement rue de l ancienne école et route de campsacrat, 24500 Saint capraise d  eymet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.297929" lon="-0.257371">
     <time>2025-01-30T10:01:59Z</time>
     <name>Tiers lieu la boussole b10453</name>

@@ -6468,6 +6468,30 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.909859" lon="-3.977302">
+    <time>2025-02-10T09:51:18Z</time>
+    <name>Tina revamp b10466</name>
+    <desc>Barque à livres</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la baie, 029 La forêt fouesnant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.955901" lon="-3.957767">
+    <time>2025-02-03T10:06:57Z</time>
+    <name>Fd b10461</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Résidence du bois de pleuven, 29140 Saint yvi, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.404214" lon="-4.469452">
     <time>2017-04-25T17:02:53Z</time>
     <name>Noémie b1045</name>

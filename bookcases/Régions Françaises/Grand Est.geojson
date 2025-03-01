@@ -19986,6 +19986,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.353927,
+          49.084752
+        ]
+      },
+      "properties": {
+        "id": "10467",
+        "nom": "Trombi",
+        "adresse": "1 all. des tilleuls",
+        "code_postal": "57350",
+        "ville": "Pange",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte à lire se trouve sous un petit kiosque, à côté de la mairie.",
+        "coord_gps": "49.0847524, 6.3539274",
+        "affichage": "1",
+        "date_created": "2025-02-11 09:49:57",
+        "date_updated": "2025-02-11 09:49:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.350753,
           47.865335
         ]

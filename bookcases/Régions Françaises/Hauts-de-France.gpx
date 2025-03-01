@@ -7020,6 +7020,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="50.403497" lon="2.487511">
+    <time>2025-02-28T10:04:39Z</time>
+    <name>Christophe b10474</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>5 rue de l europe, Magnicourt- 62127, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.893504" lon="1.829846">
     <time>2024-11-13T21:10:19Z</time>
     <name>Fréthun b10386</name>

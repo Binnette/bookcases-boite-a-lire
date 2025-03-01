@@ -12426,6 +12426,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.583223,
+          47.448001
+        ]
+      },
+      "properties": {
+        "id": "10462",
+        "nom": "La vie claire",
+        "adresse": "14 rue du magny",
+        "code_postal": "25250",
+        "ville": "L isle sur le doubs",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "A l intérieur du magasin la vie claire 14 rue du magny 25250 l'isle sur le doubs ,car notre précédente boîte, devant le magasin, avait été vandalisée",
+        "coord_gps": "47.4480006, 6.5832226",
+        "affichage": "1",
+        "date_created": "2025-02-04 09:47:14",
+        "date_updated": "2025-02-04 09:47:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.909248,
           47.491219
         ]

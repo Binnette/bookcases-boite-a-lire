@@ -15600,6 +15600,66 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.026026" lon="4.653081">
+    <time>2025-02-26T09:37:05Z</time>
+    <name>Claude b10472</name>
+    <desc>Un peu encombrée , demanderait à être agrandie !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 69640 Saint julien, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.526519" lon="4.376512">
+    <time>2025-02-21T09:44:39Z</time>
+    <name>Claire b b10471</name>
+    <desc>Chaises, bancs et transat double en bois pour lire au soleil et devant un joli paysage !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>A côté de la statue de notre dame de chez nous, mont pailloux, 42570 St héand, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.569244" lon="6.155681">
+    <time>2025-02-13T11:07:08Z</time>
+    <name>Françoise b10468</name>
+    <desc>Contre une maison, en pleine ville</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>97 rue louis blanc pinget, 73250 Saint pierre d albigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.966572" lon="5.417755">
+    <time>2025-02-05T10:01:48Z</time>
+    <name>Sophie b10463</name>
+    <desc>A l entrée du jardin de l'hotel bellier :d</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Hotel bellier - rue du calvaire, 26420 La chapelle en vercors, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.255452" lon="3.113455">
+    <time>2025-02-03T09:41:52Z</time>
+    <name>Maryse b10456</name>
+    <desc>Ancienne cabine de téléphone</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 24240 Monestier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.773614" lon="4.861731">
     <time>2025-01-31T09:43:55Z</time>
     <name>Audrey b10455</name>

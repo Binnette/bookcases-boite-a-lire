@@ -14613,6 +14613,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.061522,
+          46.555511
+        ]
+      },
+      "properties": {
+        "id": "10465",
+        "nom": "Un lecteur",
+        "adresse": "Parking des halles",
+        "code_postal": "08510",
+        "ville": "Sainte-hermine",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "46.5555107, -1.0615217",
+        "affichage": "1",
+        "date_created": "2025-02-10 09:51:10",
+        "date_updated": "2025-02-10 09:51:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.154116,
+          47.181382
+        ]
+      },
+      "properties": {
+        "id": "10464",
+        "nom": "Christophe",
+        "adresse": "57 rue du redois",
+        "code_postal": "44730",
+        "ville": "Saint michel chef chef",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le muret d?un particulier",
+        "coord_gps": "47.1813825, -2.1541164",
+        "affichage": "1",
+        "date_created": "2025-02-07 10:20:35",
+        "date_updated": "2025-02-07 10:20:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.551382,
           47.470933
         ]
