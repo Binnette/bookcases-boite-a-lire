@@ -14559,6 +14559,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.408436,
+          47.832725
+        ]
+      },
+      "properties": {
+        "id": "10481",
+        "nom": "Sören le marre",
+        "adresse": "Soren.le.marre@gmail.com",
+        "code_postal": "56100",
+        "ville": "Lorient",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Près de l église de kerentrech",
+        "coord_gps": "47.8327254, -3.4084359",
+        "affichage": "1",
+        "date_created": "2025-03-12 09:34:49",
+        "date_updated": "2025-03-12 09:34:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.421076,
+          48.614393
+        ]
+      },
+      "properties": {
+        "id": "10478",
+        "nom": "Marc elusse",
+        "adresse": "Marcelusse@gmail.com",
+        "code_postal": "29880",
+        "ville": "Guisseny",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite  à livres située en plein centre-bourg, place st sezny à guissény, finistère,  entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en construire une autre, plus attractive et pérenne, au sein de l agglomération.",
+        "coord_gps": "48.6143925, -4.4210758",
+        "affichage": "1",
+        "date_created": "2025-03-06 09:55:00",
+        "date_updated": "2025-03-06 09:55:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.409724,
+          48.634465
+        ]
+      },
+      "properties": {
+        "id": "10477",
+        "nom": "Marc elusse",
+        "adresse": "Place st sezny",
+        "code_postal": "29880",
+        "ville": "Guisseny",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boîte\" à livre située en plein centre bourg de guissény. entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en installer une autre dans l'agglomération, plus attractive et plus pérenne.",
+        "coord_gps": "48.6344653, -4.409724",
+        "affichage": "1",
+        "date_created": "2025-03-06 09:49:30",
+        "date_updated": "2025-03-06 09:49:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986636,
+          48.685908
+        ]
+      },
+      "properties": {
+        "id": "10476",
+        "nom": "Marc elusse",
+        "adresse": "Place de l evêché",
+        "code_postal": "29250",
+        "ville": "Saint-pol-de-léon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Juste au pied de l office de tourisme",
+        "coord_gps": "48.6859082, -3.9866362",
+        "affichage": "1",
+        "date_created": "2025-03-06 09:44:29",
+        "date_updated": "2025-03-06 09:44:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.357271,
+          48.231671
+        ]
+      },
+      "properties": {
+        "id": "10475",
+        "nom": "Mairie",
+        "adresse": "Terraindekeraudren@gmail.com",
+        "code_postal": "Telgruc sur",
+        "ville": "29560",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boite à livres se trouve à côté de l abri de bus en face de la mairie.",
+        "coord_gps": "48.231671, -4.357271",
+        "affichage": "1",
+        "date_created": "2025-03-06 09:44:21",
+        "date_updated": "2025-03-06 09:44:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.977302,
           47.909859
         ]
@@ -15092,33 +15227,6 @@
         "affichage": "1",
         "date_created": "2024-12-09 09:51:24",
         "date_updated": "2024-12-09 09:51:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.408436,
-          47.832725
-        ]
-      },
-      "properties": {
-        "id": "10406",
-        "nom": "Sören le marre",
-        "adresse": "Soren.le.marre@gmail.com",
-        "code_postal": "56530",
-        "ville": "Queven",
-        "pays": "France",
-        "creditimage": "",
-        "email": "",
-        "image": "boitealire_0.png",
-        "image_admin": null,
-        "remarque": "Sur la rambla du parc jules ferry près de l espace nayel.",
-        "coord_gps": "47.8327254, -3.4084359",
-        "affichage": "1",
-        "date_created": "2024-12-04 09:49:42",
-        "date_updated": "2024-12-04 09:49:42"
       }
     },
     {

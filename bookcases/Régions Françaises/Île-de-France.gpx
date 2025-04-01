@@ -13704,6 +13704,78 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="48.466691" lon="2.607023">
+    <time>2025-03-31T09:54:45Z</time>
+    <name>B lahaie b10502</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue de melun, 77930 Chailly en bière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.670508" lon="2.378757">
+    <time>2025-03-25T09:49:28Z</time>
+    <name>Lisa l b10496</name>
+    <desc>Située à l intersection entre la rue du 8 mai 1945 et la rue octave longuet.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue du 8 mai 1945, 91170 Viry-châtillon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.861667" lon="2.377367">
+    <time>2025-03-17T09:57:22Z</time>
+    <name>Guingambrésil b10492</name>
+    <desc>Le long de l église saint-ambroise.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue lacharrière, 75011 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.856558" lon="2.387027">
+    <time>2025-03-17T09:57:11Z</time>
+    <name>Guingambrésil b10491</name>
+    <desc>Deux boîtes face à face au bas des immeubles 9 et 14 de la rue.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue carrière mainguet, 75011 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.851841" lon="2.347706">
+    <time>2025-03-17T09:56:47Z</time>
+    <name>Guingambrésil b10490</name>
+    <desc>Au square rené viviani.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue du fouarre, 75005 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.838857" lon="2.321942">
+    <time>2025-03-17T09:56:37Z</time>
+    <name>Guingambrésil b10489</name>
+    <desc>Au centre commercial de la gaîté-montparnasse.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>68 avenue du maine, 75014 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.811084" lon="2.384889">
     <time>2017-04-27T11:29:06Z</time>
     <name>Nathalie b1048</name>

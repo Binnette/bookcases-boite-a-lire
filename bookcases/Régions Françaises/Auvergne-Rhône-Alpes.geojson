@@ -35106,6 +35106,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.008032,
+          44.726677
+        ]
+      },
+      "properties": {
+        "id": "10501",
+        "nom": "Kloé - clara - estelle",
+        "adresse": "2 chemin de revesz-long 26400 crest",
+        "code_postal": "26400",
+        "ville": "Crest",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à livres réalisé par les élèves de l atelier habitat.\r\nelle se situe dans la cour du collège revesz-long à proximité du foyer des élèves.",
+        "coord_gps": "44.7266766, 5.0080318",
+        "affichage": "1",
+        "date_created": "2025-03-26 09:40:35",
+        "date_updated": "2025-03-26 09:40:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.653081,
           46.026026
         ]

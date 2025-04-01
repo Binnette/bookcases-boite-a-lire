@@ -12102,6 +12102,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.680757,
+          47.4093
+        ]
+      },
+      "properties": {
+        "id": "10488",
+        "nom": "Guingambrésil",
+        "adresse": "1 avenue du mans",
+        "code_postal": "37100",
+        "ville": "Tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement de la rue des bordiers.",
+        "coord_gps": "47.4092996, 0.6807572",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:56:09",
+        "date_updated": "2025-03-17 09:56:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.719281,
+          47.390797
+        ]
+      },
+      "properties": {
+        "id": "10487",
+        "nom": "Guingambrésil",
+        "adresse": "Rue henri barbusse",
+        "code_postal": "37700",
+        "ville": "Saint-pierre-des-corps",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au petit mail, devant l école maternelle république.",
+        "coord_gps": "47.3907972, 0.7192806",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:56:02",
+        "date_updated": "2025-03-17 09:56:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.741653,
+          47.394937
+        ]
+      },
+      "properties": {
+        "id": "10486",
+        "nom": "Guingambrésil",
+        "adresse": "67 rue jeanne labrune",
+        "code_postal": "37700",
+        "ville": "Saint-pierre-des-corps",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l entrée du lycée martin nadaud.",
+        "coord_gps": "47.3949365, 0.7416527",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:55:55",
+        "date_updated": "2025-03-17 09:55:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.692344,
+          47.382436
+        ]
+      },
+      "properties": {
+        "id": "10485",
+        "nom": "Guingambrésil",
+        "adresse": "88 avenue de grammont",
+        "code_postal": "37000",
+        "ville": "Tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l intérieur de la laverie my co'laverie",
+        "coord_gps": "47.3824364, 0.6923435",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:55:48",
+        "date_updated": "2025-03-17 09:55:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.71633,
+          47.349996
+        ]
+      },
+      "properties": {
+        "id": "10484",
+        "nom": "Guingambrésil",
+        "adresse": "Rue de la petite alouette",
+        "code_postal": "37550",
+        "ville": "Saint-avertin",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l entrée du bâtiment t01 de l'hôpital trousseau.",
+        "coord_gps": "47.349996, 0.71633",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:55:40",
+        "date_updated": "2025-03-17 09:55:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.693042,
+          47.355614
+        ]
+      },
+      "properties": {
+        "id": "10483",
+        "nom": "Guingambrésil",
+        "adresse": "18 rue de la croix porchette",
+        "code_postal": "37300",
+        "ville": "Joué-les-tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking de l espace alouette.",
+        "coord_gps": "47.355614, 0.693042",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:55:31",
+        "date_updated": "2025-03-17 09:55:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.618038,
           47.348223
         ]

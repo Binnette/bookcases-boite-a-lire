@@ -6492,6 +6492,42 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.595267" lon="-1.180912">
+    <time>2025-03-26T09:40:25Z</time>
+    <name>Bibliothèque municipale b10500</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>29 bis rue de l océan, 85320 Les pineaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.561639" lon="-1.138977">
+    <time>2025-03-26T09:40:09Z</time>
+    <name>Commune de sainte pexine b10499</name>
+    <desc>Sur la place devant la mairie</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>4 rue du pont, 85320 Sainte pexine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.548239" lon="-1.007123">
+    <time>2025-03-26T09:39:59Z</time>
+    <name>À thiré par les livres b10498</name>
+    <desc>Située face à la mairie.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Mairie de thiré - 32 rue de la mairie, 85210 Thire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.555511" lon="-1.061522">
     <time>2025-02-10T09:51:10Z</time>
     <name>Un lecteur b10465</name>

@@ -12399,6 +12399,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.76886,
+          46.278026
+        ]
+      },
+      "properties": {
+        "id": "10479",
+        "nom": "Fd",
+        "adresse": "Chemin des pouilly",
+        "code_postal": "71000",
+        "ville": "Loché",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous l arrêt de bus",
+        "coord_gps": "46.2780261, 4.76886",
+        "affichage": "1",
+        "date_created": "2025-03-07 09:39:59",
+        "date_updated": "2025-03-07 09:39:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.022069,
           47.243148
         ]

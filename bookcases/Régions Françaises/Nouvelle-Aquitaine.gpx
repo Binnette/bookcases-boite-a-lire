@@ -17280,6 +17280,54 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.162395" lon="-1.177019">
+    <time>2025-03-25T09:49:36Z</time>
+    <name>Flore b10497</name>
+    <desc>Se trouve à côté du parking</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place st maurice, 17000 La rochelle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.692424" lon="-0.086249">
+    <time>2025-03-24T09:58:42Z</time>
+    <name>Philippe caulier b10495</name>
+    <desc>À droite de l?entrée de la résidence hôtel de france, sous la halle</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Halle, 33540 Sauveterre de guyenne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.395502" lon="0.341845">
+    <time>2025-03-17T09:55:23Z</time>
+    <name>Guingambrésil b10482</name>
+    <desc>Sous le préau devant la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 rue des Écoles, 86160 Marnay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.724718" lon="0.757838">
+    <time>2025-03-10T09:20:20Z</time>
+    <name>Sébastien b10480</name>
+    <desc></desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Mairie, 24440 Nojals et clotte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.549246" lon="0.324085">
     <time>2025-02-27T09:38:52Z</time>
     <name>Guingambrésil b10473</name>

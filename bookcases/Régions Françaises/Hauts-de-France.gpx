@@ -7020,6 +7020,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="50.897961" lon="2.35">
+    <time>2025-03-24T09:58:09Z</time>
+    <name>Carole b10494</name>
+    <desc>Dans l abri bus</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue des tilleuls, 59470 Eringhem, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.403497" lon="2.487511">
     <time>2025-02-28T10:04:39Z</time>
     <name>Christophe b10474</name>

@@ -6468,6 +6468,66 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.832725" lon="-3.408436">
+    <time>2025-03-12T09:34:49Z</time>
+    <name>Sören le marre b10481</name>
+    <desc>Près de l église de kerentrech</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Soren.le.marre@gmail.com, 56100 Lorient, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.614393" lon="-4.421076">
+    <time>2025-03-06T09:55:00Z</time>
+    <name>Marc elusse b10478</name>
+    <desc>Boite à livres située en plein centre-bourg, place st sezny à guissény, finistère, entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en construire une autre, plus attractive et pérenne, au sein de l agglomération.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Marcelusse@gmail.com, 29880 Guisseny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.634465" lon="-4.409724">
+    <time>2025-03-06T09:49:30Z</time>
+    <name>Marc elusse b10477</name>
+    <desc>Boîte" à livre située en plein centre bourg de guissény. entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en installer une autre dans l'agglomération, plus attractive et plus pérenne.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place st sezny, 29880 Guisseny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.685908" lon="-3.986636">
+    <time>2025-03-06T09:44:29Z</time>
+    <name>Marc elusse b10476</name>
+    <desc>Juste au pied de l office de tourisme</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de l evêché, 29250 Saint-pol-de-léon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.231671" lon="-4.357271">
+    <time>2025-03-06T09:44:21Z</time>
+    <name>Mairie b10475</name>
+    <desc>La boite à livres se trouve à côté de l abri de bus en face de la mairie.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Terraindekeraudren@gmail.com, Telgruc sur 29560, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.909859" lon="-3.977302">
     <time>2025-02-10T09:51:18Z</time>
     <name>Tina revamp b10466</name>
@@ -6703,18 +6763,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Saint-démet, 29710 Plozevet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.832725" lon="-3.408436">
-    <time>2024-12-04T09:49:42Z</time>
-    <name>Sören le marre b10406</name>
-    <desc>Sur la rambla du parc jules ferry près de l espace nayel.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Soren.le.marre@gmail.com, 56530 Queven, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

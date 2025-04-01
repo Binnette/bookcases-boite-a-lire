@@ -30840,6 +30840,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.607023,
+          48.466691
+        ]
+      },
+      "properties": {
+        "id": "10502",
+        "nom": "B lahaie",
+        "adresse": "2 rue de melun",
+        "code_postal": "77930",
+        "ville": "Chailly en bière",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "48.4666909, 2.6070228",
+        "affichage": "1",
+        "date_created": "2025-03-31 09:54:45",
+        "date_updated": "2025-03-31 09:54:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.378757,
+          48.670508
+        ]
+      },
+      "properties": {
+        "id": "10496",
+        "nom": "Lisa l",
+        "adresse": "Rue du 8 mai 1945",
+        "code_postal": "91170",
+        "ville": "Viry-châtillon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Située à l intersection entre la rue du 8 mai 1945 et la rue octave longuet.",
+        "coord_gps": "48.6705081, 2.3787571",
+        "affichage": "1",
+        "date_created": "2025-03-25 09:49:28",
+        "date_updated": "2025-03-25 09:49:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377367,
+          48.861667
+        ]
+      },
+      "properties": {
+        "id": "10492",
+        "nom": "Guingambrésil",
+        "adresse": "Rue lacharrière",
+        "code_postal": "75011",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de l église saint-ambroise.",
+        "coord_gps": "48.8616671, 2.3773666",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:57:22",
+        "date_updated": "2025-03-17 09:57:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387027,
+          48.856558
+        ]
+      },
+      "properties": {
+        "id": "10491",
+        "nom": "Guingambrésil",
+        "adresse": "Rue carrière mainguet",
+        "code_postal": "75011",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Deux boîtes face à face au bas des immeubles 9 et 14 de la rue.",
+        "coord_gps": "48.8565575, 2.3870274",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:57:11",
+        "date_updated": "2025-03-17 09:57:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347706,
+          48.851841
+        ]
+      },
+      "properties": {
+        "id": "10490",
+        "nom": "Guingambrésil",
+        "adresse": "2 rue du fouarre",
+        "code_postal": "75005",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au square rené viviani.",
+        "coord_gps": "48.851841, 2.347706",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:56:47",
+        "date_updated": "2025-03-17 09:56:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.321942,
+          48.838857
+        ]
+      },
+      "properties": {
+        "id": "10489",
+        "nom": "Guingambrésil",
+        "adresse": "68 avenue du maine",
+        "code_postal": "75014",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au centre commercial de la gaîté-montparnasse.",
+        "coord_gps": "48.838857, 2.3219421",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:56:37",
+        "date_updated": "2025-03-17 09:56:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.384889,
           48.811084
         ]

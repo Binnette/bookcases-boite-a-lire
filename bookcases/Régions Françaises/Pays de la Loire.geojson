@@ -14613,6 +14613,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.180912,
+          46.595267
+        ]
+      },
+      "properties": {
+        "id": "10500",
+        "nom": "Bibliothèque municipale",
+        "adresse": "29 bis rue de l océan",
+        "code_postal": "85320",
+        "ville": "Les pineaux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "46.5952666, -1.180912",
+        "affichage": "1",
+        "date_created": "2025-03-26 09:40:25",
+        "date_updated": "2025-03-26 09:40:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.138977,
+          46.561639
+        ]
+      },
+      "properties": {
+        "id": "10499",
+        "nom": "Commune de sainte pexine",
+        "adresse": "4 rue du pont",
+        "code_postal": "85320",
+        "ville": "Sainte pexine",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur la place devant la mairie",
+        "coord_gps": "46.5616389, -1.1389774",
+        "affichage": "1",
+        "date_created": "2025-03-26 09:40:09",
+        "date_updated": "2025-03-26 09:40:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.007123,
+          46.548239
+        ]
+      },
+      "properties": {
+        "id": "10498",
+        "nom": "À thiré par les livres",
+        "adresse": "Mairie de thiré - 32 rue de la mairie",
+        "code_postal": "85210",
+        "ville": "Thire",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Située face à la mairie.",
+        "coord_gps": "46.5482394, -1.0071233",
+        "affichage": "1",
+        "date_created": "2025-03-26 09:39:59",
+        "date_updated": "2025-03-26 09:39:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.061522,
           46.555511
         ]

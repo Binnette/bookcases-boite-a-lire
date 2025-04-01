@@ -15801,6 +15801,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.35,
+          50.897961
+        ]
+      },
+      "properties": {
+        "id": "10494",
+        "nom": "Carole",
+        "adresse": "Rue des tilleuls",
+        "code_postal": "59470",
+        "ville": "Eringhem",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans l abri bus",
+        "coord_gps": "50.8979605, 2.3500001",
+        "affichage": "1",
+        "date_created": "2025-03-24 09:58:09",
+        "date_updated": "2025-03-24 09:58:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.487511,
           50.403497
         ]

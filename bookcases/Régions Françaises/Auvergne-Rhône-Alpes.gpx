@@ -15600,6 +15600,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="44.726677" lon="5.008032">
+    <time>2025-03-26T09:40:35Z</time>
+    <name>Kloé - clara - estelle b10501</name>
+    <desc>Boite à livres réalisé par les élèves de l atelier habitat. elle se situe dans la cour du collège revesz-long à proximité du foyer des élèves.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 chemin de revesz-long 26400 crest, 26400 Crest, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.026026" lon="4.653081">
     <time>2025-02-26T09:37:05Z</time>
     <name>Claude b10472</name>

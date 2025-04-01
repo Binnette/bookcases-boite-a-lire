@@ -5508,6 +5508,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.278026" lon="4.76886">
+    <time>2025-03-07T09:39:59Z</time>
+    <name>Fd b10479</name>
+    <desc>Sous l arrêt de bus</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Chemin des pouilly, 71000 Loché, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.243148" lon="6.022069">
     <time>2017-04-26T10:50:01Z</time>
     <name>Thomas dupoux b1047</name>

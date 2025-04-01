@@ -38886,6 +38886,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.177019,
+          46.162395
+        ]
+      },
+      "properties": {
+        "id": "10497",
+        "nom": "Flore",
+        "adresse": "Place st maurice",
+        "code_postal": "17000",
+        "ville": "La rochelle",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Se trouve à côté du parking",
+        "coord_gps": "46.1623949, -1.177019",
+        "affichage": "1",
+        "date_created": "2025-03-25 09:49:36",
+        "date_updated": "2025-03-25 09:49:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.086249,
+          44.692424
+        ]
+      },
+      "properties": {
+        "id": "10495",
+        "nom": "Philippe caulier",
+        "adresse": "Halle",
+        "code_postal": "33540",
+        "ville": "Sauveterre de guyenne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À droite de l?entrée de la résidence hôtel de france, sous la halle",
+        "coord_gps": "44.6924239, -0.0862485",
+        "affichage": "1",
+        "date_created": "2025-03-24 09:58:21",
+        "date_updated": "2025-03-24 09:58:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.341845,
+          46.395502
+        ]
+      },
+      "properties": {
+        "id": "10482",
+        "nom": "Guingambrésil",
+        "adresse": "2 rue des Écoles",
+        "code_postal": "86160",
+        "ville": "Marnay",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous le préau devant la mairie.",
+        "coord_gps": "46.3955025, 0.3418448",
+        "affichage": "1",
+        "date_created": "2025-03-17 09:55:23",
+        "date_updated": "2025-03-17 09:55:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.757838,
+          44.724718
+        ]
+      },
+      "properties": {
+        "id": "10480",
+        "nom": "Sébastien",
+        "adresse": "Mairie",
+        "code_postal": "24440",
+        "ville": "Nojals et clotte",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "44.724718, 0.757838",
+        "affichage": "1",
+        "date_created": "2025-03-10 09:20:20",
+        "date_updated": "2025-03-10 09:20:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.324085,
           46.549246
         ]

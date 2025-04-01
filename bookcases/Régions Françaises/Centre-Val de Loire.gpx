@@ -5376,6 +5376,78 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.4093" lon="0.680757">
+    <time>2025-03-17T09:56:09Z</time>
+    <name>Guingambrésil b10488</name>
+    <desc>Au croisement de la rue des bordiers.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>1 avenue du mans, 37100 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.390797" lon="0.719281">
+    <time>2025-03-17T09:56:02Z</time>
+    <name>Guingambrésil b10487</name>
+    <desc>Au petit mail, devant l école maternelle république.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue henri barbusse, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.394937" lon="0.741653">
+    <time>2025-03-17T09:55:55Z</time>
+    <name>Guingambrésil b10486</name>
+    <desc>Devant l entrée du lycée martin nadaud.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>67 rue jeanne labrune, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.382436" lon="0.692344">
+    <time>2025-03-17T09:55:48Z</time>
+    <name>Guingambrésil b10485</name>
+    <desc>À l intérieur de la laverie my co'laverie</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>88 avenue de grammont, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.349996" lon="0.71633">
+    <time>2025-03-17T09:55:40Z</time>
+    <name>Guingambrésil b10484</name>
+    <desc>Devant l entrée du bâtiment t01 de l'hôpital trousseau.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue de la petite alouette, 37550 Saint-avertin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.355614" lon="0.693042">
+    <time>2025-03-17T09:55:31Z</time>
+    <name>Guingambrésil b10483</name>
+    <desc>Sur le parking de l espace alouette.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>18 rue de la croix porchette, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.348223" lon="0.618038">
     <time>2025-01-02T09:43:46Z</time>
     <name>Guingambrésil b10444</name>
