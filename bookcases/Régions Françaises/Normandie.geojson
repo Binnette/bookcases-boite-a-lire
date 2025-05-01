@@ -12426,6 +12426,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.702801,
+          49.281837
+        ]
+      },
+      "properties": {
+        "id": "10528",
+        "nom": "A livres ouverts",
+        "adresse": "1 rue d anjou",
+        "code_postal": "14400",
+        "ville": "Bayeux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Faite par les enfants de l association l outil en main en partenariat avec caritas france",
+        "coord_gps": "49.2818374, -0.7028011",
+        "affichage": "1",
+        "date_created": "2025-04-22 10:17:22",
+        "date_updated": "2025-04-22 10:17:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.123891,
+          48.614296
+        ]
+      },
+      "properties": {
+        "id": "10522",
+        "nom": "Balmat laurette",
+        "adresse": "Les vergers de l'yvrande, 1 chemin la gravelle martigny",
+        "code_postal": "50600",
+        "ville": "Grandparigny",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ferme cidricole en conversion à l agriculture biologique, nous vous proposons un espace de lecture à la campagne avec notre boîte à livre, situé dans le four à pain,  les mots du levain\"\r\n10h00/ 17h00 tous les jours, renseignements au 0613346709",
+        "coord_gps": "48.6142957, -1.1238914",
+        "affichage": "1",
+        "date_created": "2025-04-14 11:40:51",
+        "date_updated": "2025-04-14 11:40:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.297943,
           49.205594
         ]

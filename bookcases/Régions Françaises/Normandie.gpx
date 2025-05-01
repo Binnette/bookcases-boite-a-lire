@@ -5520,6 +5520,30 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="49.281837" lon="-0.702801">
+    <time>2025-04-22T10:17:22Z</time>
+    <name>A livres ouverts b10528</name>
+    <desc>Faite par les enfants de l association l outil en main en partenariat avec caritas france</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>1 rue d anjou, 14400 Bayeux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.614296" lon="-1.123891">
+    <time>2025-04-14T11:40:51Z</time>
+    <name>Balmat laurette b10522</name>
+    <desc>Ferme cidricole en conversion à l agriculture biologique, nous vous proposons un espace de lecture à la campagne avec notre boîte à livre, situé dans le four à pain, les mots du levain" 10h00/ 17h00 tous les jours, renseignements au 0613346709</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Les vergers de l'yvrande, 1 chemin la gravelle martigny, 50600 Grandparigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.205594" lon="-0.297943">
     <time>2025-01-09T09:41:40Z</time>
     <name>Gaëlle gauchet b10449</name>

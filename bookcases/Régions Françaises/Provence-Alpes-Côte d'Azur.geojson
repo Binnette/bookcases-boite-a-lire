@@ -12075,6 +12075,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.941404,
+          43.130159
+        ]
+      },
+      "properties": {
+        "id": "10508",
+        "nom": "Gaëlle",
+        "adresse": "153 rue romain",
+        "code_postal": "83000",
+        "ville": "Toulon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "43.1301585, 5.9414045",
+        "affichage": "1",
+        "date_created": "2025-04-03 09:58:58",
+        "date_updated": "2025-04-03 09:58:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.142733,
           43.641157
         ]

@@ -14613,6 +14613,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.084083,
+          46.523828
+        ]
+      },
+      "properties": {
+        "id": "10516",
+        "nom": "Dupuy tiphanie",
+        "adresse": "4 rue de la petite vigne",
+        "code_postal": "85210",
+        "ville": "Saint jean d hermine",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "2 boîtes à livres:\r\n- 1 enfant\r\n- 1 adultes\r\nelles ont été réalisées par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels.",
+        "coord_gps": "46.5238284, -1.0840831",
+        "affichage": "1",
+        "date_created": "2025-04-07 09:40:03",
+        "date_updated": "2025-04-07 09:40:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.121013,
+          46.526343
+        ]
+      },
+      "properties": {
+        "id": "10515",
+        "nom": "Tiphanie dupuy",
+        "adresse": "Les mottes",
+        "code_postal": "85210",
+        "ville": "Saint jean d hermine",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Une ancienne armoire transformée en boîte à livres par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels.\r\nelle se trouve sous le préau à côté de la salle.",
+        "coord_gps": "46.526343, -1.121013",
+        "affichage": "1",
+        "date_created": "2025-04-07 09:39:51",
+        "date_updated": "2025-04-07 09:39:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.949437,
+          46.331432
+        ]
+      },
+      "properties": {
+        "id": "10514",
+        "nom": "Isabelle vivier",
+        "adresse": "En face de l annexe de la poste",
+        "code_postal": "85770",
+        "ville": "L ile d'elle",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "46.331432, -0.949437",
+        "affichage": "1",
+        "date_created": "2025-04-07 09:39:39",
+        "date_updated": "2025-04-07 09:39:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.946063,
+          46.330028
+        ]
+      },
+      "properties": {
+        "id": "10513",
+        "nom": "Isabelle vivier",
+        "adresse": "Médiathèque rue de l eglise",
+        "code_postal": "85770",
+        "ville": "L ile d'elle",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "46.3300279, -0.946063",
+        "affichage": "1",
+        "date_created": "2025-04-07 09:39:26",
+        "date_updated": "2025-04-07 09:39:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.284362,
+          46.31211
+        ]
+      },
+      "properties": {
+        "id": "10504",
+        "nom": "Mairie de l aiguillon la presqu'île",
+        "adresse": "Plan d eau de l'aiguillon-sur-mer",
+        "code_postal": "85460",
+        "ville": "L aiguillon-la-presqu'île",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ancienne cabine téléphonique anglaise transformée en boîte à livres, au bord du plan d eau",
+        "coord_gps": "46.3121098, -1.284362",
+        "affichage": "1",
+        "date_created": "2025-04-01 09:23:59",
+        "date_updated": "2025-04-01 09:23:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.180912,
           46.595267
         ]

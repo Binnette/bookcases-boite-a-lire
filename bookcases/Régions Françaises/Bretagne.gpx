@@ -6468,6 +6468,54 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="48.240138" lon="-4.065268">
+    <time>2025-04-28T09:42:47Z</time>
+    <name>Le rapid b10534</name>
+    <desc>Située à l intérieur du bar le rapid</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>3 place de l église, 29590 Saint-segal, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.793179" lon="-3.766156">
+    <time>2025-04-10T09:34:00Z</time>
+    <name>Fillonneau b10520</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Plage de rospico, 29920 Nevez, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.870704" lon="-4.058006">
+    <time>2025-04-01T09:24:16Z</time>
+    <name>Emda b10506</name>
+    <desc>Boite à livres située à côté de la chapelle saint sébastien, à gauche de la maison saint sébastien</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Chemin de saint sébastien, 29170 Fouesnant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.862875" lon="-4.040039">
+    <time>2025-04-01T09:24:07Z</time>
+    <name>Emda b10505</name>
+    <desc>Boite à lire située au niveau du portail de l école</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>école publique de mousterlin, route de mestrezec, 29170 Fouesnant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.832725" lon="-3.408436">
     <time>2025-03-12T09:34:49Z</time>
     <name>Sören le marre b10481</name>

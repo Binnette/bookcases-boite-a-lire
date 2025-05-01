@@ -13704,6 +13704,42 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="48.825715" lon="2.271779">
+    <time>2025-04-29T09:26:48Z</time>
+    <name>Chaitanya b10536</name>
+    <desc>La boite à livres se situe dans la cour de l espace jeunes anne frank.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>15 rue diderot, 92130 Issy-les-moulineaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.805652" lon="2.186838">
+    <time>2025-04-25T09:54:12Z</time>
+    <name>Brice ouazan b10531</name>
+    <desc>Se trouve au niveau de l école maternelle le muguet à chaville : angle rue du colonel marchand / rue anatole france</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue du colonel marchand, 92370 Chaville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.83063" lon="2.245209">
+    <time>2025-04-25T09:55:07Z</time>
+    <name>Brice ouazan b10530</name>
+    <desc>Place solferino à boulogne billancourt 92100</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place solferino, 92100 Boulogne billancourt, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.466691" lon="2.607023">
     <time>2025-03-31T09:54:45Z</time>
     <name>B lahaie b10502</name>

@@ -17280,6 +17280,102 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="45.158143" lon="1.529814">
+    <time>2025-04-17T09:45:15Z</time>
+    <name>Guingambrésil b10524</name>
+    <desc>Devant l entrée du cinéma rex.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>3 boulevard général koenig, 19100 Brive-la-gaillarde, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.855047" lon="-0.653073">
+    <time>2025-04-14T11:40:13Z</time>
+    <name>Henrio b10521</name>
+    <desc>La boîte à livres se situe dans la laverie cosyclean</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>73, avenue du château-d?eau, 33700 Merignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.324333" lon="-0.343807">
+    <time>2025-04-08T09:54:31Z</time>
+    <name>Favreau b10518</name>
+    <desc>Dans le nouveau parc de jeu</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des combeaux, 79230 Vouillé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.345736" lon="-0.322887">
+    <time>2025-04-08T09:54:24Z</time>
+    <name>Favreau b10517</name>
+    <desc>Sous un preau" point de départ d une superbe randonné la carte est affiché</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>85 chemin de la dibe chavagné, 79260 La crèche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.332786" lon="-0.339191">
+    <time>2025-04-07T09:39:00Z</time>
+    <name>Favreau b10512</name>
+    <desc>Coller a l arrêt de bus. et a côté d'un temple</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>134 rue du temple villeneuve, 79260 La crèche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.339112" lon="-0.323417">
+    <time>2025-04-07T09:38:49Z</time>
+    <name>Favreau b10511</name>
+    <desc>Bel endroit avec des arbre fleuris et un banc dans une ruelle</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>20 chemin du plumail chavagné, 79260 La crèche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.330909" lon="-0.308793">
+    <time>2025-04-07T09:38:40Z</time>
+    <name>Favreau b10510</name>
+    <desc>Coller a l arrêt de bus en face vous avez un château et un pigeonnier</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>79 rue du château, 79370 Fressines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.472815" lon="-0.926087">
+    <time>2025-04-03T09:58:49Z</time>
+    <name>Malouine b10507</name>
+    <desc>Ancienne cabine téléphonique</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des bains, 64 270 Salies de béarn, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.162395" lon="-1.177019">
     <time>2025-03-25T09:49:36Z</time>
     <name>Flore b10497</name>

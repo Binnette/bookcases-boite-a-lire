@@ -5376,6 +5376,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.809228" lon="1.083087">
+    <time>2025-04-22T10:17:39Z</time>
+    <name>Ludina b10529</name>
+    <desc>La boîte est située sur le parking de la résidence soleil.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>8bis rue condorcet, 41100 Saint ouen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.4093" lon="0.680757">
     <time>2025-03-17T09:56:09Z</time>
     <name>Guingambrésil b10488</name>

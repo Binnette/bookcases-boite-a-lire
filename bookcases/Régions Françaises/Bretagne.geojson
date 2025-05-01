@@ -14559,6 +14559,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.065268,
+          48.240138
+        ]
+      },
+      "properties": {
+        "id": "10534",
+        "nom": "Le rapid",
+        "adresse": "3 place de l église",
+        "code_postal": "29590",
+        "ville": "Saint-segal",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Située à l intérieur du bar le rapid",
+        "coord_gps": "48.2401379, -4.0652677",
+        "affichage": "1",
+        "date_created": "2025-04-28 09:42:47",
+        "date_updated": "2025-04-28 09:42:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.766156,
+          47.793179
+        ]
+      },
+      "properties": {
+        "id": "10520",
+        "nom": "Fillonneau",
+        "adresse": "Plage de rospico",
+        "code_postal": "29920",
+        "ville": "Nevez",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "47.7931788, -3.7661559",
+        "affichage": "1",
+        "date_created": "2025-04-10 09:34:00",
+        "date_updated": "2025-04-10 09:34:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.058006,
+          47.870704
+        ]
+      },
+      "properties": {
+        "id": "10506",
+        "nom": "Emda",
+        "adresse": "Chemin de saint sébastien",
+        "code_postal": "29170",
+        "ville": "Fouesnant",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à livres située à côté de la chapelle saint sébastien, à gauche de la maison saint sébastien",
+        "coord_gps": "47.8707038, -4.0580059",
+        "affichage": "1",
+        "date_created": "2025-04-01 09:24:16",
+        "date_updated": "2025-04-01 09:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.040039,
+          47.862875
+        ]
+      },
+      "properties": {
+        "id": "10505",
+        "nom": "Emda",
+        "adresse": "école publique de mousterlin, route de mestrezec",
+        "code_postal": "29170",
+        "ville": "Fouesnant",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située au niveau du portail de l école",
+        "coord_gps": "47.8628749, -4.0400395",
+        "affichage": "1",
+        "date_created": "2025-04-01 09:24:07",
+        "date_updated": "2025-04-01 09:24:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.408436,
           47.832725
         ]

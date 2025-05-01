@@ -22578,6 +22578,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.433975,
+          44.276858
+        ]
+      },
+      "properties": {
+        "id": "10535",
+        "nom": "Lolo",
+        "adresse": "231 pl. françois mitterand",
+        "code_postal": "12160",
+        "ville": "Baraqueville",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boîte à lire se trouve sur la place à côté du kiosque",
+        "coord_gps": "44.2768582, 2.4339746",
+        "affichage": "1",
+        "date_created": "2025-04-29 09:26:40",
+        "date_updated": "2025-04-29 09:26:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.784323,
           43.366676
         ]
@@ -22598,6 +22625,87 @@
         "affichage": "1",
         "date_created": "2017-04-27 17:41:44",
         "date_updated": "2017-04-27 17:41:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.675788,
+          43.394265
+        ]
+      },
+      "properties": {
+        "id": "10527",
+        "nom": "Jérémie",
+        "adresse": "83 rue du pasteur lucien benoît",
+        "code_postal": "34200",
+        "ville": "Sète",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Réfrigérateur décoré reconverti en boite à lire.",
+        "coord_gps": "43.394265, 3.6757885",
+        "affichage": "1",
+        "date_created": "2025-04-17 09:45:41",
+        "date_updated": "2025-04-17 09:45:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.37807,
+          43.608385
+        ]
+      },
+      "properties": {
+        "id": "10525",
+        "nom": "Francois p",
+        "adresse": "Place bertier route de bayonne",
+        "code_postal": "31300",
+        "ville": "Toulouse",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking devant l école quasi-face à l'arrêt de bus.",
+        "coord_gps": "43.608385, 1.3780699",
+        "affichage": "1",
+        "date_created": "2025-04-17 09:45:22",
+        "date_updated": "2025-04-17 09:45:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.467831,
+          43.623392
+        ]
+      },
+      "properties": {
+        "id": "10523",
+        "nom": "Jérémie",
+        "adresse": "Place rosine bet",
+        "code_postal": "31500",
+        "ville": "Toulouse",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire municipale située au milieu du parc de la place rosine bet.",
+        "coord_gps": "43.6233923, 1.4678311",
+        "affichage": "1",
+        "date_created": "2025-04-15 10:07:50",
+        "date_updated": "2025-04-15 10:07:50"
       }
     },
     {

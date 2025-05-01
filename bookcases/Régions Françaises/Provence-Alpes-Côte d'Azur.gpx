@@ -5364,6 +5364,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="43.130159" lon="5.941404">
+    <time>2025-04-03T09:58:58Z</time>
+    <name>Gaëlle b10508</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>153 rue romain, 83000 Toulon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.641157" lon="7.142733">
     <time>2017-04-25T10:19:21Z</time>
     <name>Manue b1044</name>

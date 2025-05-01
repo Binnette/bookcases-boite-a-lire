@@ -6492,6 +6492,66 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.523828" lon="-1.084083">
+    <time>2025-04-07T09:40:03Z</time>
+    <name>Dupuy tiphanie b10516</name>
+    <desc>2 boîtes à livres: - 1 enfant - 1 adultes elles ont été réalisées par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>4 rue de la petite vigne, 85210 Saint jean d hermine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.526343" lon="-1.121013">
+    <time>2025-04-07T09:39:51Z</time>
+    <name>Tiphanie dupuy b10515</name>
+    <desc>Une ancienne armoire transformée en boîte à livres par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels. elle se trouve sous le préau à côté de la salle.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Les mottes, 85210 Saint jean d hermine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.331432" lon="-0.949437">
+    <time>2025-04-07T09:39:39Z</time>
+    <name>Isabelle vivier b10514</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>En face de l annexe de la poste, 85770 L ile d'elle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.330028" lon="-0.946063">
+    <time>2025-04-07T09:39:26Z</time>
+    <name>Isabelle vivier b10513</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Médiathèque rue de l eglise, 85770 L ile d'elle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.31211" lon="-1.284362">
+    <time>2025-04-01T09:23:59Z</time>
+    <name>Mairie de l aiguillon la presqu'île b10504</name>
+    <desc>Ancienne cabine téléphonique anglaise transformée en boîte à livres, au bord du plan d eau</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Plan d eau de l'aiguillon-sur-mer, 85460 L aiguillon-la-presqu'île, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.595267" lon="-1.180912">
     <time>2025-03-26T09:40:25Z</time>
     <name>Bibliothèque municipale b10500</name>

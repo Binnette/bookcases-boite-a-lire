@@ -30840,6 +30840,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.271779,
+          48.825715
+        ]
+      },
+      "properties": {
+        "id": "10536",
+        "nom": "Chaitanya",
+        "adresse": "15 rue diderot",
+        "code_postal": "92130",
+        "ville": "Issy-les-moulineaux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boite à livres se situe dans la cour de l espace jeunes anne frank.",
+        "coord_gps": "48.825715, 2.271779",
+        "affichage": "1",
+        "date_created": "2025-04-29 09:26:48",
+        "date_updated": "2025-04-29 09:26:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.186838,
+          48.805652
+        ]
+      },
+      "properties": {
+        "id": "10531",
+        "nom": "Brice ouazan",
+        "adresse": "Rue du colonel marchand",
+        "code_postal": "92370",
+        "ville": "Chaville",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Se trouve au niveau de l école maternelle le muguet à chaville : angle rue du colonel marchand / rue anatole france",
+        "coord_gps": "48.8056521, 2.1868379",
+        "affichage": "1",
+        "date_created": "2025-04-25 09:54:12",
+        "date_updated": "2025-04-25 09:54:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.245209,
+          48.83063
+        ]
+      },
+      "properties": {
+        "id": "10530",
+        "nom": "Brice ouazan",
+        "adresse": "Place solferino",
+        "code_postal": "92100",
+        "ville": "Boulogne billancourt",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Place solferino à boulogne billancourt 92100",
+        "coord_gps": "48.8306303, 2.2452094",
+        "affichage": "1",
+        "date_created": "2025-04-25 09:53:20",
+        "date_updated": "2025-04-25 09:55:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.607023,
           48.466691
         ]

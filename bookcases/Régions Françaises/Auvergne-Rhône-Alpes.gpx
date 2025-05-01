@@ -15600,6 +15600,54 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="45.563003" lon="3.105087">
+    <time>2025-04-28T09:42:38Z</time>
+    <name>Chloé b10533</name>
+    <desc>Boîte à livres dans une ancienne cabine téléphonique, assez bien fournie et qui bouge de temps en temps. divers types de livres ,parfois des livres de bibliothèque.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1 rue de montrose, 63320 Clémensat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.259804" lon="6.805749">
+    <time>2025-04-17T09:45:30Z</time>
+    <name>Sandra rosaz b10526</name>
+    <desc>En façade du musée d archéologie de sollières</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>425, rue du châtel, sollières envers, 73500 Val-cenis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.573052" lon="4.391613">
+    <time>2025-04-10T09:33:30Z</time>
+    <name>Elisa b10519</name>
+    <desc>Grand espace avec chaises pour lire sortie du bourg direction duras</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Saint sernin, 07200 Saint sernin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.126056" lon="3.573298">
+    <time>2025-04-03T10:06:05Z</time>
+    <name>Victor b10509</name>
+    <desc>Située sous le lavoir du hameau et sur le chemin de randonnée robe de bure et cotte de maille gérée par episerm association pour l etude du patrimoine et de l'identité de saint-eble, reilhac, mazeyrat-d'allier</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Cizières, 43300 Mazeyrat d allier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.726677" lon="5.008032">
     <time>2025-03-26T09:40:35Z</time>
     <name>Kloé - clara - estelle b10501</name>

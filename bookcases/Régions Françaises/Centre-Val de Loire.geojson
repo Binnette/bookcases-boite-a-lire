@@ -12102,6 +12102,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.083087,
+          47.809228
+        ]
+      },
+      "properties": {
+        "id": "10529",
+        "nom": "Ludina",
+        "adresse": "8bis rue condorcet",
+        "code_postal": "41100",
+        "ville": "Saint ouen",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte est située sur le parking de la résidence soleil.",
+        "coord_gps": "47.809228, 1.083087",
+        "affichage": "1",
+        "date_created": "2025-04-22 10:17:39",
+        "date_updated": "2025-04-22 10:17:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.680757,
           47.4093
         ]

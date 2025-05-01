@@ -35106,6 +35106,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.105087,
+          45.563003
+        ]
+      },
+      "properties": {
+        "id": "10533",
+        "nom": "Chloé",
+        "adresse": "1 rue de montrose",
+        "code_postal": "63320",
+        "ville": "Clémensat",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boîte à livres dans une ancienne cabine téléphonique, assez bien fournie et qui bouge de temps en temps.\r\ndivers types de livres ,parfois des livres de bibliothèque.",
+        "coord_gps": "45.5630027, 3.1050874",
+        "affichage": "1",
+        "date_created": "2025-04-28 09:42:38",
+        "date_updated": "2025-04-28 09:42:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805749,
+          45.259804
+        ]
+      },
+      "properties": {
+        "id": "10526",
+        "nom": "Sandra rosaz",
+        "adresse": "425, rue du châtel, sollières envers",
+        "code_postal": "73500",
+        "ville": "Val-cenis",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "En façade du musée d archéologie de sollières",
+        "coord_gps": "45.2598038, 6.805749",
+        "affichage": "1",
+        "date_created": "2025-04-17 09:45:30",
+        "date_updated": "2025-04-17 09:45:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.391613,
+          44.573052
+        ]
+      },
+      "properties": {
+        "id": "10519",
+        "nom": "Elisa",
+        "adresse": "Saint sernin",
+        "code_postal": "07200",
+        "ville": "Saint sernin",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Grand espace avec chaises pour lire\r\nsortie du bourg direction duras",
+        "coord_gps": "44.5730519, 4.391613",
+        "affichage": "1",
+        "date_created": "2025-04-10 09:33:30",
+        "date_updated": "2025-04-10 09:33:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.573298,
+          45.126056
+        ]
+      },
+      "properties": {
+        "id": "10509",
+        "nom": "Victor",
+        "adresse": "Cizières",
+        "code_postal": "43300",
+        "ville": "Mazeyrat d allier",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Située sous le lavoir du hameau et sur le chemin de randonnée robe de bure et cotte de maille  gérée par episerm association pour l etude du patrimoine et de l'identité de saint-eble, reilhac, mazeyrat-d'allier",
+        "coord_gps": "45.126056, 3.573298",
+        "affichage": "1",
+        "date_created": "2025-04-03 10:06:05",
+        "date_updated": "2025-04-03 10:06:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.008032,
           44.726677
         ]

@@ -10032,6 +10032,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="44.276858" lon="2.433975">
+    <time>2025-04-29T09:26:40Z</time>
+    <name>Lolo b10535</name>
+    <desc>Boîte à lire se trouve sur la place à côté du kiosque</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>231 pl. françois mitterand, 12160 Baraqueville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.366676" lon="1.784323">
     <time>2017-04-27T17:41:44Z</time>
     <name>Berquiere b1053</name>
@@ -10039,6 +10051,42 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place de la république , 31290 Avignonet lauragais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.394265" lon="3.675788">
+    <time>2025-04-17T09:45:41Z</time>
+    <name>Jérémie b10527</name>
+    <desc>Réfrigérateur décoré reconverti en boite à lire.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>83 rue du pasteur lucien benoît, 34200 Sète, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.608385" lon="1.37807">
+    <time>2025-04-17T09:45:22Z</time>
+    <name>Francois p b10525</name>
+    <desc>Sur le parking devant l école quasi-face à l'arrêt de bus.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place bertier route de bayonne, 31300 Toulouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.623392" lon="1.467831">
+    <time>2025-04-15T10:07:50Z</time>
+    <name>Jérémie b10523</name>
+    <desc>Boite à lire municipale située au milieu du parc de la place rosine bet.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place rosine bet, 31500 Toulouse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
