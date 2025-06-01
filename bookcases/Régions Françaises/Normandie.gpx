@@ -1,5 +1,89 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.281837" lon="-0.702801">
+    <time>2025-04-22T10:17:22Z</time>
+    <name>A livres ouverts b10528</name>
+    <desc>Faite par les enfants de l association l outil en main en partenariat avec caritas france</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>1 rue d anjou, 14400 Bayeux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.614296" lon="-1.123891">
+    <time>2025-04-14T11:40:51Z</time>
+    <name>Balmat laurette b10522</name>
+    <desc>Ferme cidricole en conversion à l agriculture biologique, nous vous proposons un espace de lecture à la campagne avec notre boîte à livre, situé dans le four à pain, les mots du levain" 10h00/ 17h00 tous les jours, renseignements au 0613346709</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Les vergers de l'yvrande, 1 chemin la gravelle martigny, 50600 Grandparigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.205594" lon="-0.297943">
+    <time>2025-01-09T09:41:40Z</time>
+    <name>Gaëlle gauchet b10449</name>
+    <desc>La boite à livres se trouve à l entrée de la médiathèque le phénix.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>10 rue elsa triolet, 14460 Colombelles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.204758" lon="-0.296415">
+    <time>2024-12-16T09:52:02Z</time>
+    <name>Gaëlle gauchet b10427</name>
+    <desc>La boite à livres se trouve dans le magasin la boite à idées place françois mitterrand à colombelles.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>14 place françois mitterrand, 14460 Colombelles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.329804" lon="-0.473197">
+    <time>2024-09-02T10:02:36Z</time>
+    <name>Sirius the tiger b10311</name>
+    <desc>Cabine téléphonique anglaise</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>48 rue grande, 14470 Graye_sur_mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.170194" lon="-0.353576">
+    <time>2024-08-05T09:32:10Z</time>
+    <name>Gaëlle b10245</name>
+    <desc>Petite boite à livres dans une laverie mise en place par une cliente</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>1 bd maréchal lyautey, 14000 Caen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.340948" lon="-0.741456">
+    <time>2024-04-09T09:28:06Z</time>
+    <name>Cathy p b10098</name>
+    <desc>Ancienne cabine téléphonique rouge à côté de la mairie</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>D 514 place de la salle des fêtes, 14520 Commes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.086838" lon="0.595724">
     <time>2023-12-01T09:30:39Z</time>
     <name>Champollion b9929</name>
@@ -31,18 +115,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Place castel, 14500 Vire normandie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.17254" lon="1.177011">
-    <time>2017-04-11T09:25:46Z</time>
-    <name>Vival livres b981</name>
-    <desc>Dans le magasin vival casino.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>50 rue aristide briand, 27400 Acquigny, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -564,18 +636,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.448467" lon="1.093875">
-    <time>2017-10-25T09:39:19Z</time>
-    <name>Mairie rouen b868</name>
-    <desc>Située juste à la sortie de la gare</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Place bernard tissot, 76000 Rouen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.600504" lon="0.167464">
     <time>2022-03-21T09:41:20Z</time>
     <name>Boite à lire 49 b8654</name>
@@ -595,30 +655,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Poste de secours de la plage de tourgéville deauville, 14600 Barneville la bertran, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.63107" lon="1.53828">
-    <time>2017-02-28T09:53:35Z</time>
-    <name>Hermand b861</name>
-    <desc>La ville de serqueux a mis à la disposition une boîte à lire.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>1058 route de neufchâtel, 76440 Serqueux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.021752" lon="1.149003">
-    <time>2017-02-28T09:46:17Z</time>
-    <name>Fb b858</name>
-    <desc>Dans le jardin public françois mitterand</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Rue du jardin botanique, 27000 Evreux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1020,18 +1056,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.047897" lon="-1.596229">
-    <time>2017-01-09T16:20:58Z</time>
-    <name>Thierry marié b758</name>
-    <desc>Livres de poches et toutes catégories.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>40 rue amiral tourville, 50230 Agon-coutainville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.361145" lon="0.086316">
     <time>2021-05-28T14:00:33Z</time>
     <name>Jules dallant b7566</name>
@@ -1152,18 +1176,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.764884" lon="0.62916">
-    <time></time>
-    <name>Charles mauger b743</name>
-    <desc>Boite disponible en place publique et ouverte à tous</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Place fulbert de beina, 61300 L'aigle, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.779655" lon="1.104178">
     <time>2021-04-27T09:31:39Z</time>
     <name>dominque b7428</name>
@@ -1188,18 +1200,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.91868" lon="1.068373">
-    <time>2017-10-24T16:04:34Z</time>
-    <name>Sylvain b741</name>
-    <desc>Elle se trouve dans le square en face de l'école de broglie.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Square perotte, 76200 Dieppe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.611786" lon="1.249939">
     <time>2021-04-22T10:57:20Z</time>
     <name>Béatrice b7402</name>
@@ -1212,18 +1212,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.092571" lon="0.97328">
-    <time></time>
-    <name>Martine lajoye b738</name>
-    <desc>Cabine téléphonique transformée en cabane à lire devant la mairie et face à l arrêt de car</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>1 avenue de turgère, 27110 Graveron-semerville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.547191" lon="0.450179">
     <time>2021-04-19T10:32:16Z</time>
     <name>Ouali b7378</name>
@@ -1231,18 +1219,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address> d312, 76210 Saint eustache la forêt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.261203" lon="-0.287222">
-    <time></time>
-    <name>Philipo b737</name>
-    <desc>Installée sous ancien arrêt de bus.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Place boisset, 14970 Saint-aubin-d'arquenay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1327,18 +1303,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Le bourg, 14410 Vassy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.027072" lon="1.151076">
-    <time></time>
-    <name>Martine lajoye b703</name>
-    <desc>Située face à l hôtel de ville près du théâtre et de la maison des arts</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Place du général de gaulle, 27000 Evreux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1476,18 +1440,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.838589" lon="-0.886082">
-    <time></time>
-    <name>Eije b665</name>
-    <desc>Mise en place par les élèves de 4g</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Place saint thomas, 14500 Vire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.698318" lon="0.32316">
     <time>2020-08-28T10:13:25Z</time>
     <name>Raph b6638</name>
@@ -1608,18 +1560,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.301467" lon="-0.465443">
-    <time></time>
-    <name>Reviers b644</name>
-    <desc></desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Grand rue, 14470 Reviers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.593001" lon="-1.687303">
     <time>2020-07-28T17:33:34Z</time>
     <name>Nathalie b6422</name>
@@ -1723,18 +1663,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Bosc le hard, 76850 Bosc le hard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.182486" lon="-0.371935">
-    <time></time>
-    <name>Caroline b62</name>
-    <desc>La boite à lire se trouve au sein du café sauvage (café associatif). ce n'est pas une boîte à lire à proprement parler mais c'est ce qui s'en rapproche le plus pour le moment sur la ville de caen de vraies boîtes sont en projet.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>36 rue saint manvieu, 14000 Caen, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2095,18 +2023,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Rue de la mairie, 76540 Saint-pierre-en-port, france, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.191068" lon="0.721803">
-    <time></time>
-    <name>Le pays des merveilles b562</name>
-    <desc>Au lac près des sanitaires. une belle et grande boite qui je l'espère restera longtemps en état.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>6 bis avenue de la république, 27800 Brionne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2515,18 +2431,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address> , 50530 Sartilly baie bocage, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.118087" lon="1.636832">
-    <time></time>
-    <name>Landreau b526</name>
-    <desc>Au carrefour de la voie verte et de la route de gasny</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Route de gasny, 27630 Fourges, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3216,18 +3120,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.344566" lon="-0.702697">
-    <time></time>
-    <name>Corine b440</name>
-    <desc>L'espace incroyables comestibles à longues-sur-mer évolue... il compte désormais une boîte à livres... partage de plantes échange de livres semons des graines d idées...</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>119 les parcs, 14400 Longues-sur-mer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.48382" lon="1.723007">
     <time>2019-02-22T09:29:15Z</time>
     <name>Lemonnier b4384</name>
@@ -3271,18 +3163,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Avenue de la gare, 76220 Ferrières en bray, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.336387" lon="-0.696318">
-    <time></time>
-    <name>Corine b436</name>
-    <desc>La boîte est complétée d un espace de partage de végétaux. Échange de plantes partage de livres... semons des graines d'idées</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Chemin des merisiers, 14400 Longues-sur-mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3552,18 +3432,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.507131" lon="-1.470443">
-    <time></time>
-    <name>Office de tourisme b388</name>
-    <desc>Boîte à lire à l office de tourisme</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>25 rue de l'église, 50700 Valognes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.306298" lon="-1.239792">
     <time>2018-10-08T09:53:44Z</time>
     <name>Lpjf b3840</name>
@@ -3751,18 +3619,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Bourg, 50450 Le mesnil villeman, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.605919" lon="0.172625">
-    <time></time>
-    <name>Médiathèque emile zola b342</name>
-    <desc>La boîte à livres est située au c?ur des jardins du palais d'argentré endroit propice à la lecture... vous y trouverez des romans des magazines des bd pour les enfants mais aussi plus les plus grands ! partager découvrir et surtout lire sont les maîtres-mots de cette aventure !</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Parc d argentré, 61500 Sées , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4015,30 +3871,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>515 rue andre mallet, 76890 Biville la baignarde, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.149157" lon="0.508143">
-    <time></time>
-    <name>Wilena b299</name>
-    <desc>Boîte à lire devant la mairie dans une ancienne cabine téléphonique projet initié par la mairie.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>6 grande-rue , 37340 Rillé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.642336" lon="-1.666816">
-    <time></time>
-    <name>Catherine b298</name>
-    <desc>Elle se trouve à côté du centre social le totem.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Rue des hauts varengs, 50120 Équeurdreville-hainneville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4308,18 +4140,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.443066" lon="1.107912">
-    <time></time>
-    <name>Salinger3 b274</name>
-    <desc></desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Square marcel halbout, 76000 Rouen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.117158" lon="-1.084661">
     <time>2018-08-27T09:24:43Z</time>
     <name>Claire lq b2688</name>
@@ -4488,54 +4308,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.143692" lon="0.254976">
-    <time>2019-11-27T13:29:33Z</time>
-    <name>Ville de lisieux b223</name>
-    <desc></desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>21 place mozart, 14100 Lisieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.1437" lon="0.243521">
-    <time></time>
-    <name>Gigi hou b222</name>
-    <desc>Boite à lire dans le hall d'entrée de l'hôpital. mise en place par l'hôpital.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>4 rue roger aini, 14100 Lisieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.14288" lon="0.240483">
-    <time></time>
-    <name>Gigi vou b221</name>
-    <desc>A l intérieur du centre socioculturel caf</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>1 avenue taunton, 14100 Lisieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.143456" lon="0.21304">
-    <time></time>
-    <name>Gigi nou b220</name>
-    <desc>Boite installée à l'initiative d'un habitant</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Rue henri poincaré, 14100 Lisieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.640799" lon="-1.579834">
     <time>2018-01-22T09:48:38Z</time>
     <name>Nathalie b2174</name>
@@ -4567,18 +4339,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Place de l église, 14740 Secqueville en bessin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.487408" lon="0.135536">
-    <time></time>
-    <name>Sandrine b207</name>
-    <desc>Elle se trouve dans le hall d'entrée de la clinique des ormeaux à droite à disposition de tous résidents ou non.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>36 rue marceau, 76600 Le havre, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5328,30 +5088,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.416892" lon="0.230756">
-    <time>2017-03-15T11:54:53Z</time>
-    <name>Odile reant b145</name>
-    <desc>Elle est rue de la république la grande rue qui aboutit au port sur la droite en allant vers le port.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Rue de la république, 14600 Honfleur, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.42194" lon="1.079476">
-    <time></time>
-    <name>Zombylamouche b144</name>
-    <desc>La boite se situe dans le jardin des plantes.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>114ter avenue des martyrs de la résistance, 76100 Rouen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.443195" lon="1.088408">
     <time>2017-11-08T16:40:33Z</time>
     <name>Simone b1408</name>
@@ -5359,18 +5095,6 @@
     <type>BoiteLire Normandie</type>
     <extensions>
       <osmand:address>Place du vieux marché, 76000 Rouen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.432856" lon="0.091266">
-    <time></time>
-    <name>Sabine michel b137</name>
-    <desc>La boîte à lire est une ancienne cabine téléphonique anglaise offerte par la municipalité de basingstoke à la ville d alençon. elle entame donc une deuxième vie tout comme les livres qu on peut y trouver ! elle se trouve près de la médiathèque aveline.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Cour bernadette et jean mars, 61000 Alençon , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5520,78 +5244,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.281837" lon="-0.702801">
-    <time>2025-04-22T10:17:22Z</time>
-    <name>A livres ouverts b10528</name>
-    <desc>Faite par les enfants de l association l outil en main en partenariat avec caritas france</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>1 rue d anjou, 14400 Bayeux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.614296" lon="-1.123891">
-    <time>2025-04-14T11:40:51Z</time>
-    <name>Balmat laurette b10522</name>
-    <desc>Ferme cidricole en conversion à l agriculture biologique, nous vous proposons un espace de lecture à la campagne avec notre boîte à livre, situé dans le four à pain, les mots du levain" 10h00/ 17h00 tous les jours, renseignements au 0613346709</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>Les vergers de l'yvrande, 1 chemin la gravelle martigny, 50600 Grandparigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.205594" lon="-0.297943">
-    <time>2025-01-09T09:41:40Z</time>
-    <name>Gaëlle gauchet b10449</name>
-    <desc>La boite à livres se trouve à l entrée de la médiathèque le phénix.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>10 rue elsa triolet, 14460 Colombelles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.204758" lon="-0.296415">
-    <time>2024-12-16T09:52:02Z</time>
-    <name>Gaëlle gauchet b10427</name>
-    <desc>La boite à livres se trouve dans le magasin la boite à idées place françois mitterrand à colombelles.</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>14 place françois mitterrand, 14460 Colombelles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.329804" lon="-0.473197">
-    <time>2024-09-02T10:02:36Z</time>
-    <name>Sirius the tiger b10311</name>
-    <desc>Cabine téléphonique anglaise</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>48 rue grande, 14470 Graye_sur_mer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.170194" lon="-0.353576">
-    <time>2024-08-05T09:32:10Z</time>
-    <name>Gaëlle b10245</name>
-    <desc>Petite boite à livres dans une laverie mise en place par une cliente</desc>
-    <type>BoiteLire Normandie</type>
-    <extensions>
-      <osmand:address>1 bd maréchal lyautey, 14000 Caen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.49527" lon="0.360131">
     <time>2017-04-11T12:36:53Z</time>
     <name>Vival de st vigor d’ymonville b1010</name>
@@ -5604,13 +5256,361 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.340948" lon="-0.741456">
-    <time>2024-04-09T09:28:06Z</time>
-    <name>Cathy p b10098</name>
-    <desc>Ancienne cabine téléphonique rouge à côté de la mairie</desc>
+  <wpt lat="49.17254" lon="1.177011">
+    <time>2017-04-11T09:25:46Z</time>
+    <name>Vival livres b981</name>
+    <desc>Dans le magasin vival casino.</desc>
     <type>BoiteLire Normandie</type>
     <extensions>
-      <osmand:address>D 514 place de la salle des fêtes, 14520 Commes, France</osmand:address>
+      <osmand:address>50 rue aristide briand, 27400 Acquigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.448467" lon="1.093875">
+    <time>2017-10-25T09:39:19Z</time>
+    <name>Mairie rouen b868</name>
+    <desc>Située juste à la sortie de la gare</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Place bernard tissot, 76000 Rouen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.63107" lon="1.53828">
+    <time>2017-02-28T09:53:35Z</time>
+    <name>Hermand b861</name>
+    <desc>La ville de serqueux a mis à la disposition une boîte à lire.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>1058 route de neufchâtel, 76440 Serqueux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.021752" lon="1.149003">
+    <time>2017-02-28T09:46:17Z</time>
+    <name>Fb b858</name>
+    <desc>Dans le jardin public françois mitterand</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Rue du jardin botanique, 27000 Evreux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.047897" lon="-1.596229">
+    <time>2017-01-09T16:20:58Z</time>
+    <name>Thierry marié b758</name>
+    <desc>Livres de poches et toutes catégories.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>40 rue amiral tourville, 50230 Agon-coutainville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.764884" lon="0.62916">
+    <time></time>
+    <name>Charles mauger b743</name>
+    <desc>Boite disponible en place publique et ouverte à tous</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Place fulbert de beina, 61300 L'aigle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.91868" lon="1.068373">
+    <time>2017-10-24T16:04:34Z</time>
+    <name>Sylvain b741</name>
+    <desc>Elle se trouve dans le square en face de l'école de broglie.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Square perotte, 76200 Dieppe, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.092571" lon="0.97328">
+    <time></time>
+    <name>Martine lajoye b738</name>
+    <desc>Cabine téléphonique transformée en cabane à lire devant la mairie et face à l arrêt de car</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>1 avenue de turgère, 27110 Graveron-semerville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.261203" lon="-0.287222">
+    <time></time>
+    <name>Philipo b737</name>
+    <desc>Installée sous ancien arrêt de bus.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Place boisset, 14970 Saint-aubin-d'arquenay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.027072" lon="1.151076">
+    <time></time>
+    <name>Martine lajoye b703</name>
+    <desc>Située face à l hôtel de ville près du théâtre et de la maison des arts</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Place du général de gaulle, 27000 Evreux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.838589" lon="-0.886082">
+    <time></time>
+    <name>Eije b665</name>
+    <desc>Mise en place par les élèves de 4g</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Place saint thomas, 14500 Vire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.301467" lon="-0.465443">
+    <time></time>
+    <name>Reviers b644</name>
+    <desc></desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Grand rue, 14470 Reviers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.191068" lon="0.721803">
+    <time></time>
+    <name>Le pays des merveilles b562</name>
+    <desc>Au lac près des sanitaires. une belle et grande boite qui je l'espère restera longtemps en état.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>6 bis avenue de la république, 27800 Brionne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.118087" lon="1.636832">
+    <time></time>
+    <name>Landreau b526</name>
+    <desc>Au carrefour de la voie verte et de la route de gasny</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Route de gasny, 27630 Fourges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.344566" lon="-0.702697">
+    <time></time>
+    <name>Corine b440</name>
+    <desc>L'espace incroyables comestibles à longues-sur-mer évolue... il compte désormais une boîte à livres... partage de plantes échange de livres semons des graines d idées...</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>119 les parcs, 14400 Longues-sur-mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.336387" lon="-0.696318">
+    <time></time>
+    <name>Corine b436</name>
+    <desc>La boîte est complétée d un espace de partage de végétaux. Échange de plantes partage de livres... semons des graines d'idées</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Chemin des merisiers, 14400 Longues-sur-mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.507131" lon="-1.470443">
+    <time></time>
+    <name>Office de tourisme b388</name>
+    <desc>Boîte à lire à l office de tourisme</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>25 rue de l'église, 50700 Valognes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.605919" lon="0.172625">
+    <time></time>
+    <name>Médiathèque emile zola b342</name>
+    <desc>La boîte à livres est située au c?ur des jardins du palais d'argentré endroit propice à la lecture... vous y trouverez des romans des magazines des bd pour les enfants mais aussi plus les plus grands ! partager découvrir et surtout lire sont les maîtres-mots de cette aventure !</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Parc d argentré, 61500 Sées , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.149157" lon="0.508143">
+    <time></time>
+    <name>Wilena b299</name>
+    <desc>Boîte à lire devant la mairie dans une ancienne cabine téléphonique projet initié par la mairie.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>6 grande-rue , 37340 Rillé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.642336" lon="-1.666816">
+    <time></time>
+    <name>Catherine b298</name>
+    <desc>Elle se trouve à côté du centre social le totem.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Rue des hauts varengs, 50120 Équeurdreville-hainneville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.443066" lon="1.107912">
+    <time></time>
+    <name>Salinger3 b274</name>
+    <desc></desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Square marcel halbout, 76000 Rouen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.143692" lon="0.254976">
+    <time>2019-11-27T13:29:33Z</time>
+    <name>Ville de lisieux b223</name>
+    <desc></desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>21 place mozart, 14100 Lisieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.1437" lon="0.243521">
+    <time></time>
+    <name>Gigi hou b222</name>
+    <desc>Boite à lire dans le hall d'entrée de l'hôpital. mise en place par l'hôpital.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>4 rue roger aini, 14100 Lisieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.14288" lon="0.240483">
+    <time></time>
+    <name>Gigi vou b221</name>
+    <desc>A l intérieur du centre socioculturel caf</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>1 avenue taunton, 14100 Lisieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.143456" lon="0.21304">
+    <time></time>
+    <name>Gigi nou b220</name>
+    <desc>Boite installée à l'initiative d'un habitant</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Rue henri poincaré, 14100 Lisieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.487408" lon="0.135536">
+    <time></time>
+    <name>Sandrine b207</name>
+    <desc>Elle se trouve dans le hall d'entrée de la clinique des ormeaux à droite à disposition de tous résidents ou non.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>36 rue marceau, 76600 Le havre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.416892" lon="0.230756">
+    <time>2017-03-15T11:54:53Z</time>
+    <name>Odile reant b145</name>
+    <desc>Elle est rue de la république la grande rue qui aboutit au port sur la droite en allant vers le port.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Rue de la république, 14600 Honfleur, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.42194" lon="1.079476">
+    <time></time>
+    <name>Zombylamouche b144</name>
+    <desc>La boite se situe dans le jardin des plantes.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>114ter avenue des martyrs de la résistance, 76100 Rouen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.432856" lon="0.091266">
+    <time></time>
+    <name>Sabine michel b137</name>
+    <desc>La boîte à lire est une ancienne cabine téléphonique anglaise offerte par la municipalité de basingstoke à la ville d alençon. elle entame donc une deuxième vie tout comme les livres qu on peut y trouver ! elle se trouve près de la médiathèque aveline.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Cour bernadette et jean mars, 61000 Alençon , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.182486" lon="-0.371935">
+    <time></time>
+    <name>Caroline b62</name>
+    <desc>La boite à lire se trouve au sein du café sauvage (café associatif). ce n'est pas une boîte à lire à proprement parler mais c'est ce qui s'en rapproche le plus pour le moment sur la ville de caen de vraies boîtes sont en projet.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>36 rue saint manvieu, 14000 Caen, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

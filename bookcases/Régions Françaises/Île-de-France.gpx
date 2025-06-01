@@ -1,5 +1,797 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.829882" lon="2.263269">
+    <time>2025-05-19T09:45:28Z</time>
+    <name>Chaitanya b10546</name>
+    <desc>La boite à livres se trouve à l entrée de la gare issy - val de seine.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare issy - val de seine, 92130 Issy-les-moulineaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.973859" lon="3.21995">
+    <time>2025-05-14T14:30:37Z</time>
+    <name>Emilie b10545</name>
+    <desc>Cette boîte se trouve à la gare, à côté du guichet automatique.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare de nanteuil-saâcy, 77730 Saâcy-sur-marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.825715" lon="2.271779">
+    <time>2025-04-29T09:26:48Z</time>
+    <name>Chaitanya b10536</name>
+    <desc>La boite à livres se situe dans la cour de l espace jeunes anne frank.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>15 rue diderot, 92130 Issy-les-moulineaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.805652" lon="2.186838">
+    <time>2025-04-25T09:54:12Z</time>
+    <name>Brice ouazan b10531</name>
+    <desc>Se trouve au niveau de l école maternelle le muguet à chaville : angle rue du colonel marchand / rue anatole france</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue du colonel marchand, 92370 Chaville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.83063" lon="2.245209">
+    <time>2025-04-25T09:55:07Z</time>
+    <name>Brice ouazan b10530</name>
+    <desc>Place solferino à boulogne billancourt 92100</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place solferino, 92100 Boulogne billancourt, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.466691" lon="2.607023">
+    <time>2025-03-31T09:54:45Z</time>
+    <name>B lahaie b10502</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue de melun, 77930 Chailly en bière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.670508" lon="2.378757">
+    <time>2025-03-25T09:49:28Z</time>
+    <name>Lisa l b10496</name>
+    <desc>Située à l intersection entre la rue du 8 mai 1945 et la rue octave longuet.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue du 8 mai 1945, 91170 Viry-châtillon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.86496" lon="2.405193">
+    <time>2025-03-17T09:57:44Z</time>
+    <name>Guingambrésil b10493</name>
+    <desc>Deux boîtes disposées sur la place.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place Édith piaf, 75020 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.861667" lon="2.377367">
+    <time>2025-03-17T09:57:22Z</time>
+    <name>Guingambrésil b10492</name>
+    <desc>Le long de l église saint-ambroise.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue lacharrière, 75011 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.856558" lon="2.387027">
+    <time>2025-03-17T09:57:11Z</time>
+    <name>Guingambrésil b10491</name>
+    <desc>Deux boîtes face à face au bas des immeubles 9 et 14 de la rue.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue carrière mainguet, 75011 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.851841" lon="2.347706">
+    <time>2025-03-17T09:56:47Z</time>
+    <name>Guingambrésil b10490</name>
+    <desc>Au square rené viviani.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue du fouarre, 75005 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.838857" lon="2.321942">
+    <time>2025-03-17T09:56:37Z</time>
+    <name>Guingambrésil b10489</name>
+    <desc>Au centre commercial de la gaîté-montparnasse.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>68 avenue du maine, 75014 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.584649" lon="1.98886">
+    <time>2025-02-20T09:44:20Z</time>
+    <name>Felbacq kevin b10470</name>
+    <desc>Sur le coté de la mairie</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue des halles, 78730 Rochefort en yvelines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.010342" lon="2.666388">
+    <time>2025-01-03T09:52:06Z</time>
+    <name>Ced b10446</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>30 grande rue, 77230 Thieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.789772" lon="2.043611">
+    <time>2024-12-18T09:13:01Z</time>
+    <name>Gaëlle gauchet b10433</name>
+    <desc>La boite à livres se trouve dans le parc erasme, près de la gare de saint-quentin en yvelines. sa localisation gps est 48.789508, 2.043511.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Parc erasme, 78180 Montigny-le-bretonneux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.841929" lon="2.285784">
+    <time>2024-12-18T09:12:35Z</time>
+    <name>Ambassadeurs du livre b10432</name>
+    <desc>La boite à livre se trouve dans une épicerie</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>88 rue de la convention, 75015 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.762078" lon="3.345783">
+    <time>2024-12-10T09:38:42Z</time>
+    <name>Vhan b10422</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>A coté de la mairie, 77247 Lescherolle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.838459" lon="2.317149">
+    <time>2024-09-16T10:03:57Z</time>
+    <name>Guingambrésil b10327</name>
+    <desc>Au jardin atlantique, sur le toit de la gare montparnasse.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place des 5 martyrs du lycée buffon, 75015 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.847995" lon="2.377123">
+    <time>2024-09-16T10:03:41Z</time>
+    <name>Guingambrésil b10326</name>
+    <desc>À l entrée du café la commune.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>3 rue d aligre, 75012 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.799707" lon="2.438503">
+    <time>2024-09-16T10:03:34Z</time>
+    <name>Guingambrésil b10325</name>
+    <desc>En face de l arrêt de bus de la mairie, au début d'un chemin piéton.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>ç rue victor hugo, 94700 Maisons-alfort, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.807732" lon="2.442288">
+    <time>2024-09-16T10:03:00Z</time>
+    <name>Guingambrésil b10322</name>
+    <desc>À la grille de l église notre-dame-du-sacré-c?ur</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>41 rue cécile, 94700 Maisons-alfort, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.835432" lon="2.384321">
+    <time>2024-09-16T10:02:52Z</time>
+    <name>Guingambrésil b10321</name>
+    <desc>Au jardin ytzhak rabin, derrière l orangerie.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>14 rue paul belmondo, 75012 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.8232" lon="2.39867">
+    <time>2024-09-06T09:09:29Z</time>
+    <name>Gilles merrer b10317</name>
+    <desc>A droite de l entrée du parking et à gauche de l'entrée de l'école maternelle du port aux lions</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>8 rue du port aux lions, 94220 Charenton le pont, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.763279" lon="2.665274">
+    <time>2024-09-05T09:51:53Z</time>
+    <name>Alexandra b10316</name>
+    <desc>Dans le parc du château de la doutre, près de l entrée côté cinema.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Avenue du général de gaulle, 77330 Ozoir-la-ferrière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.342754" lon="2.601806">
+    <time>2024-09-05T09:50:37Z</time>
+    <name>Fin de semaine b10315</name>
+    <desc>Devant la boulangerie</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>7 place du général de gaulle, 77760 Ury, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.994774" lon="2.221195">
+    <time>2024-09-02T10:02:27Z</time>
+    <name>Alicia b10310</name>
+    <desc>En entrant dans le bâtiment, sur la gauche</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Avenue des marais, 95130 Franconville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.346248" lon="2.458356">
+    <time>2024-09-02T09:58:57Z</time>
+    <name>Zaho b10297</name>
+    <desc>A coté de la boucherie dans l abri bus</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>7 rue de la mairie, 77123 Tousson, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.214918" lon="2.610248">
+    <time>2024-09-02T09:58:28Z</time>
+    <name>Fin de semaine b10294</name>
+    <desc>Entrée du jardin de jeux pour les enfants</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue de l église, 77570 Aufferville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.724714" lon="1.899959">
+    <time>2024-07-18T10:04:48Z</time>
+    <name>Rouchut b10221</name>
+    <desc>Parking du complexe culturel et sportif rue jean ferrat</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Complexe sportif  parking rue jean ferrat, 78690 Les essarts le roi, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.675468" lon="2.552685">
+    <time>2024-07-04T10:08:21Z</time>
+    <name>Ondine b10200</name>
+    <desc>Petit conseil pro : on évite la première étagère par temps de pluie.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>32 rue vaux la reine, 91480 Varennes-jarcy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.044038" lon="2.068921">
+    <time>2024-07-02T09:48:08Z</time>
+    <name>Julien barbier b10199</name>
+    <desc>Située à l'entrée de la maison de quartier des linandes</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>6 rue des linandes beiges, 95000 cergy, 95000 Cergy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.90237" lon="2.572068">
+    <time>2024-07-01T10:00:08Z</time>
+    <name>Lefevre constance b10198</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>1 place jean mermoz, 93370 Montfermeil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.763418" lon="2.328815">
+    <time>2024-06-11T11:34:49Z</time>
+    <name>Ville de fresnes b10175</name>
+    <desc>Boite à lire installée dans le cadre du premier budget participatif de la ville de fresnes</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place charcot, 94260 Fresnes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.991726" lon="2.112405">
+    <time>2024-05-28T09:23:38Z</time>
+    <name>Bookranger b10163</name>
+    <desc>Se nomme le livre vagabond" à l entrée de la péniche</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>30 bis quai de gaillon, 78700 Conflans sainte honorine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.683362" lon="2.360301">
+    <time>2024-05-22T10:54:36Z</time>
+    <name>Alix b10158</name>
+    <desc>Dans le parc pour enfants</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>1 avenue de fromenteau, 91600 Savigny sur orge, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.677826" lon="2.347817">
+    <time>2024-05-22T10:53:55Z</time>
+    <name>Alix b10157</name>
+    <desc>Dans le parc à jeux pour enfants</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>33 avenue charles de gaulle, 91600 Savigny sur orge, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.823836" lon="2.423312">
+    <time>2024-05-12T14:39:05Z</time>
+    <name>Flavie b10145</name>
+    <desc>Ancienne cabine téléphonique anglaise reconvertie en boîte-à-lire. elle est plus exactement située sur le trottoir entre le square du val d osne et l'avenue de gravelle.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Square du val d osne, 94410 Saint-maurice, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.802718" lon="2.42591">
+    <time>2024-05-02T09:41:50Z</time>
+    <name>Mentitophe b10121</name>
+    <desc>Cette boîte à lire est situé du côté d alfortville, juste à la grande sortie de la gare. vous ne pouvez pas la rater, c'est une série de cube empiler les uns sur les autres.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>15 av. du général malleret-joinville, 94140 Alfortville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.975372" lon="2.199178">
+    <time>2024-04-30T09:36:31Z</time>
+    <name>Steph b10119</name>
+    <desc>A l?entrée de l?école primaire maurice berteaux.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>1 avenue maurice berteaux, 95240 Cormeilles-en-parisis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.679838" lon="2.321887">
+    <time>2024-04-19T09:38:54Z</time>
+    <name>Supermaîtresse b10109</name>
+    <desc>La boîte se trouve devant la chapelle saint dominique savio</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>18 rue du mauregard, 91360 Epinay sur orge, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.71088" lon="2.164706">
+    <time>2024-04-08T09:43:48Z</time>
+    <name>Samantha b10095</name>
+    <desc>Elle est située à l intersection avec la rue sébastienne guyot et en face du restaurant fo pizza</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>49 mail pierre pottier, 91190 Gif-sur-yvette, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.858436" lon="2.40104">
+    <time>2024-03-25T11:27:27Z</time>
+    <name>Lectrice du 20ème b10074</name>
+    <desc>Boîte à livre installée à l intérieur d'un lavomatic.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>80 rue de bagnolet, 75020 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.803647" lon="2.331704">
+    <time>2024-03-21T09:06:03Z</time>
+    <name>Samantha moy b10061</name>
+    <desc>Elle est située à côté de la gare rer b de laplace maison des examens</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Samoy22600@gmail.com, 94110 Arcueil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.893956" lon="2.26574">
+    <time>2024-03-21T09:05:43Z</time>
+    <name>Bookranger b10060</name>
+    <desc>Face au 4 boulevard du parc</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>10 boulevard du parc, 92200 Neuilly sur seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.878823" lon="2.245723">
+    <time>2024-03-21T09:05:12Z</time>
+    <name>Bookranger b10059</name>
+    <desc>À gauche de l entrée du palais des sports</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Palais des sports - ile de puteaux, 92800 Puteaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.94679" lon="2.257134">
+    <time>2024-03-21T09:03:46Z</time>
+    <name>Bookranger b10058</name>
+    <desc>A gauche de l entrée de l'association aide aux devoirs, à gauche de l'entrée de la gare.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare d argenteuil, 95100 Argenteuil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.989085" lon="2.16068">
+    <time>2024-03-21T09:02:46Z</time>
+    <name>Bookranger b10057</name>
+    <desc>Coincée dans le mur</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>17 avenue de la martinière, 95220 Herblay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.98035" lon="2.27076">
+    <time>2024-03-18T09:34:30Z</time>
+    <name>Bookranger b10046</name>
+    <desc>Dans le hall de la gare</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare d ermont eaubonne, 95120 Ermont, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.077762" lon="2.205327">
+    <time>2024-03-18T09:34:20Z</time>
+    <name>Bookranger b10045</name>
+    <desc>À l entrée de la gare</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare de mériel, 95630 Mériel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.850354" lon="2.344328">
+    <time>2024-03-15T09:52:17Z</time>
+    <name>Guingambrésil b10043</name>
+    <desc>Au square samuel paty.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 place paul painlevé, 75005 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.885794" lon="2.352913">
+    <time>2024-03-15T09:52:07Z</time>
+    <name>Guingambrésil b10042</name>
+    <desc>Devant l association pour le dialogue et l'orientation scolaire.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>24 rue polonceau, 75018 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.839145" lon="2.382696">
+    <time>2024-03-15T09:51:57Z</time>
+    <name>Guingambrésil b10041</name>
+    <desc>Dans la salle d attente à l'étage de la gare de bercy.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>48 bis boulevard de bercy, 75012 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.914166" lon="2.272327">
+    <time>2024-03-13T09:37:31Z</time>
+    <name>Bookranger b10036</name>
+    <desc>Le long de la voix ferrée, après la place du marché.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Impasse doussineau, 92270 Bois-colombes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.845009" lon="2.292997">
+    <time>2024-03-13T09:35:29Z</time>
+    <name>Bookranger b10035</name>
+    <desc>Dans le square, sur la droite, après être sorti du métro commerce.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Square yvette chauviré, 75015 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.945089" lon="1.811514">
+    <time>2024-03-04T16:52:33Z</time>
+    <name>Caniot laetitia b10030</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Velannes route départemental à l arrêt de bus, 78680 Epone, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.973174" lon="1.835422">
+    <time>2024-03-04T16:52:25Z</time>
+    <name>Caniot laetitia b10029</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Avenue foch - ecole perce neige, 78680 Epone, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.870379" lon="2.212357">
+    <time>2024-03-04T16:49:44Z</time>
+    <name>Bookranger b10028</name>
+    <desc>Promenade jacques baumel</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>12 rue des landes, 92150 Suresnes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.955103" lon="1.814056">
+    <time>2024-02-28T10:14:23Z</time>
+    <name>Caniot laetitia b10020</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place des fêtes, 78680 Epone, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.254746" lon="2.943163">
+    <time>2024-02-26T09:33:03Z</time>
+    <name>Wilibre b10017</name>
+    <desc>Grande boite à livres situé à l arret de bus eglise chevry".</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue de la croix saint-marc, 77710 Chevry-en-sereine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.923882" lon="2.259388">
+    <time>2024-02-26T09:32:36Z</time>
+    <name>Bookranger b10016</name>
+    <desc>Dans le hall, à droite en entrant</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare de colombes, 92700 Colombes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.906033" lon="2.282267">
+    <time>2024-02-26T09:32:28Z</time>
+    <name>Bookranger b10015</name>
+    <desc>Dans le hall du guichet, au fond à gauche</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare d asnieres sur seine, 92600 Asnieres sur seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.84534" lon="2.21698">
+    <time>2024-02-26T09:32:20Z</time>
+    <name>Bookranger b10014</name>
+    <desc>Juste à droite, contre le mur de la gare sncf.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Gare de saint-cloud, 92210 Saint-cloud, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.932568" lon="2.260751">
+    <time>2024-02-26T09:32:11Z</time>
+    <name>Bookranger b10013</name>
+    <desc>Dans le parc, après l entrée qui se trouve face au tunnel de la voie ferrée, à la gare du stade.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue auguste renoir, 92700 Colombes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.896372" lon="2.25199">
+    <time>2024-02-20T09:31:12Z</time>
+    <name>Bookranger b10003</name>
+    <desc>Contre l aire de jeux pour enfants.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>9 rue baudin, 92400 Courbevoie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.895696" lon="2.249027">
+    <time>2024-02-20T09:30:35Z</time>
+    <name>Bookranger b10002</name>
+    <desc>Derrière subway</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>1 promenade saint nicolas, 92400 Courbevoie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.035936" lon="2.058236">
+    <time>2024-02-19T09:46:06Z</time>
+    <name>Acjab b10000</name>
+    <desc>La boite est située sur le trottoir attenant au parking public</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue pierre vogler, 95000 Cergy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.9145" lon="2.25862">
     <time>2024-02-15T14:21:39Z</time>
     <name>Bookranger b9994</name>
@@ -1056,18 +1848,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.810871" lon="2.04574">
-    <time>2017-04-06T09:45:19Z</time>
-    <name>Preux b925</name>
-    <desc>Plusieurs étagères, remplies d ouvrages anciens ou récents, format poche ou non, situées au fond du hall d'entrée, à côté de l'escalier.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place du 8 mai 45, 78330 Fontenay-le-fleury, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.783467" lon="2.055751">
     <time>2022-10-10T09:46:47Z</time>
     <name>Mai b9233</name>
@@ -1087,30 +1867,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Allée georges melies, 94080 Vincennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.979099" lon="1.976743">
-    <time>2017-04-05T16:00:32Z</time>
-    <name>Fabienne b923</name>
-    <desc>Située dans le parc du champclos, au bord de la promenade</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue delapierre, 78480 Verneuil sur seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.977465" lon="1.969185">
-    <time>2017-04-05T15:53:07Z</time>
-    <name>Fabienne b922</name>
-    <desc>Boite à lire située dans le parc de la mairie, côté place du marché.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Parc de la mairie, 78480 Verneuil sur seine, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1332,18 +2088,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.863988" lon="2.361527">
-    <time></time>
-    <name>Laurence hugues b91</name>
-    <desc>Nous avons installé une boîte à livres végétalisée dans la cour d'honneur de la mairie du 3e rue eugène spuller. n'hésitez pas !</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 rue eugène spuller, 75003 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.851074" lon="2.613816">
     <time>2022-08-17T17:32:55Z</time>
     <name>Gregory b9077</name>
@@ -1495,18 +2239,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Square martial massiani, 92200 Neuilly-sur-seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.957507" lon="3.206174">
-    <time>2017-03-10T14:50:51Z</time>
-    <name>Jean-marie holvoet b888</name>
-    <desc>Cette boîte à lire implantée depuis le 8 mars 2017 contient environ 150 livres tant en ouvrages documentaires qu'en ouvrages de fiction. seuls sont exclus les ouvrages incitant à la violence ou à la haine et les ouvrages pornographiques.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>25 rue de laval, 77730 Saâcy sur marne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1764,18 +2496,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.006552" lon="1.915076">
-    <time>2017-03-06T09:18:49Z</time>
-    <name>Pauline b864</name>
-    <desc>Dans la gare sncf</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue des annonciades, 78250 Meulan-en-yvelines, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.883025" lon="2.389488">
     <time>2022-03-09T09:40:11Z</time>
     <name>Pavel b8629</name>
@@ -1980,18 +2700,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.856339" lon="2.355674">
-    <time>2018-08-29T11:23:56Z</time>
-    <name>Anita recyclivre b848</name>
-    <desc>Boite à lire mise en place par le lions club paris ile de la cité, dans la cour de la mairie du 4ème arrondissement.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 place baudoyer, 75004 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.015909" lon="2.209772">
     <time>2022-02-01T09:34:28Z</time>
     <name>Nickyto b8476</name>
@@ -1999,18 +2707,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Place verdun, 95150 Taverny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.861818" lon="2.347427">
-    <time>2017-02-24T09:36:57Z</time>
-    <name>Lucie b846</name>
-    <desc>La boite se situe dans le forum des halles, dans la bibliothèque de la canopée, à côté de la section bd.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>10 rue de la canopée, 75001 Paris, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2148,18 +2844,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.890419" lon="2.369272">
-    <time>2017-02-23T17:09:47Z</time>
-    <name>Cestsilya b836</name>
-    <desc>La boite à lire se situe au centre culturel du 104 dans une cariole de travaux réaménagé pour l échange de livre</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>104 avenue d aubervilliers, 75019 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.782879" lon="2.469844">
     <time>2021-11-24T15:31:17Z</time>
     <name>Cédric dos santos b8335</name>
@@ -2227,18 +2911,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>5 place de la gare des saules, 94310 Orly, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.740261" lon="2.73546">
-    <time>2017-02-23T12:51:33Z</time>
-    <name>Bibliotheque b831</name>
-    <desc>Jolie boite aux livres sous forme d une valise vintage.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>17 rue docteur hutinel, 77220 Gretz-armainvilliers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2364,18 +3036,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86496" lon="2.405193">
-    <time>2021-09-28T09:23:27Z</time>
-    <name>Emmanuelle b8161</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place édith piaf, 75020 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.658077" lon="2.2701">
     <time>2021-09-27T11:44:11Z</time>
     <name>Mairie de la ville du bois b8157</name>
@@ -2407,18 +3067,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Square d?anvers, 75009 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.954957" lon="2.878834">
-    <time>2017-02-20T09:28:32Z</time>
-    <name>Maria b814</name>
-    <desc>La boite à lire se trouve dans la cafétéria de la médiathèque luxembourg. en plus de livres variés, on trouve parfois des cd.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 rue cornillon, 77100 Meaux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2736,18 +3384,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.803738" lon="2.429486">
-    <time>2017-02-06T10:11:07Z</time>
-    <name>Jean-claude caillette b799</name>
-    <desc>Au 10 rue louis braille, dans l embrasement de ma fenêtre de sous-sol. une centaine de livres sur le chemin des écoles. gros succès.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>10 rue louis braille, 94700 Maisons-alfort, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.74143" lon="1.661056">
     <time>2021-08-09T09:05:37Z</time>
     <name>Camille b7939</name>
@@ -2892,18 +3528,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.767516" lon="2.406505">
-    <time>2017-01-23T10:30:34Z</time>
-    <name>Lory b783</name>
-    <desc>Installée dans nous, vous, iles - espace culturel outremer ouvert du mardi au dimanche de 14h à 18h !</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>35 ter rue emile zola, 94600  choisy le roi , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.702575" lon="2.069613">
     <time>2021-07-23T15:29:04Z</time>
     <name>Gabi b7802</name>
@@ -2911,18 +3535,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Gabi.kreh-brettel@wanadoo.fr, 78470 St. rémy lès chèvreuse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.657879" lon="2.716823">
-    <time>2017-01-23T10:17:20Z</time>
-    <name>Lemoine celia b780</name>
-    <desc>Ancienne cabane de plage, cette nouvelle boite à lire se trouve devant la mairie !</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 77111 Solers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2983,18 +3595,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Place du président franklin roosevelt, 91700 Sainte geneviève des bois, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.857249" lon="2.421691">
-    <time>2017-01-19T09:17:16Z</time>
-    <name>Marie b779</name>
-    <desc>Elle se trouve plus précisément à l'angle de la rue Étienne marcel et de la rue robespierre.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>198 rue etienne marcel, 93170 Bagnolet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3204,18 +3804,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.817973" lon="2.377518">
-    <time>2017-01-12T09:20:33Z</time>
-    <name>Thierry b762</name>
-    <desc>Mise en place par l association du sentier des vignes.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>27 rue antoine thomas , 94200 Ivry-sur-seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.870638" lon="2.291655">
     <time>2021-06-10T10:17:01Z</time>
     <name>Mgxbl b7609</name>
@@ -3223,18 +3811,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>37 rue lauriston, 75116 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.888115" lon="2.362747">
-    <time>2018-08-29T11:24:03Z</time>
-    <name>Anita recyclivre b760</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>26 esplanade nathalie sarraute, 75018 Paris, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3324,18 +3900,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.888034" lon="2.383888">
-    <time></time>
-    <name>Pelte nathalie b752</name>
-    <desc>E19 ourcq</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>20 rue léon giraud, 75019 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.922507" lon="2.185161">
     <time>2021-05-19T11:29:56Z</time>
     <name>Hugueta b7502</name>
@@ -3348,30 +3912,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.881308" lon="2.416925">
-    <time></time>
-    <name>Sarah b750</name>
-    <desc>La boite à lire se trouve à l'angle de la rue du tapis vert et de la république.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>22 rue du tapis vert , 93260 Les lilas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.878859" lon="2.417794">
-    <time></time>
-    <name>Sarah b749</name>
-    <desc>La boite se trouve dans le parc lucie-aubrac.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>50 rue romain-rolland, 93260 Les lilas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.827512" lon="2.312615">
     <time>2021-05-11T17:18:36Z</time>
     <name>Thomas a b7488</name>
@@ -3379,18 +3919,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Promenade nardal, 75014 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.881684" lon="2.425227">
-    <time></time>
-    <name>Sarah b748</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address> allée du dr calmette, 93260 Les lilas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3960,18 +4488,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.782706" lon="2.189203">
-    <time></time>
-    <name>Mediatheque b711</name>
-    <desc>Située dans la médiathèque une étagère pour les échanges livres revues dvd jeunesse dans le hall et une armoire pour les documents adultes en salle d exposition. accessibles aux horaires d ouverture de la mediatheque 15h-18h du mardi au samedi et mercredi et samedi 10h-12h30.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>3 place bernard dautier, 78140 Velizy-villacoublay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.874294" lon="2.454727">
     <time>2021-01-12T15:13:58Z</time>
     <name>Lefebvre loïc b7109</name>
@@ -4056,18 +4572,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.752094" lon="2.215264">
-    <time></time>
-    <name>Madmarsu b705</name>
-    <desc>Sur la partie herbue près de la rue de la gare et du parking près du panneau d information</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>3b avenue de la gare, 91570 Bièvres, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.894859" lon="2.353562">
     <time>2020-12-18T09:03:10Z</time>
     <name>Julien b7049</name>
@@ -4116,18 +4620,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.755451" lon="2.219491">
-    <time></time>
-    <name>Madmarsu b702</name>
-    <desc>Devant l'école entre son panneau d'affichage et l'abri</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 allée des castors, 91570 Bièvres, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.778583" lon="2.603824">
     <time>2020-12-07T15:40:24Z</time>
     <name>Camille b7015</name>
@@ -4171,18 +4663,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Rue du dr zamenhof, 78800 Houilles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.875536" lon="2.179003">
-    <time></time>
-    <name>Recyclivre b7</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue jean le coz, 92500 Reuil malmaison, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4512,18 +4992,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84357" lon="2.604281">
-    <time></time>
-    <name>Jeannine b68</name>
-    <desc>La boite à lire est placée dans la haie qui donne sur un petit rond point.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>31 allee pierre mendes france, 77420 Champs sur marne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.572375" lon="1.937576">
     <time>2020-10-12T08:38:57Z</time>
     <name>Ayleine b6798</name>
@@ -4692,18 +5160,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.893744" lon="2.315549">
-    <time></time>
-    <name>Recyclivre b672</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>190 avenue de clichy, 75017 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.379498" lon="2.882378">
     <time>2020-09-11T15:50:40Z</time>
     <name>Amaury lucas iad b6712</name>
@@ -4759,18 +5215,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>1 rue django reinhardt, 95310 Saint-ouen-l aumône, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.811163" lon="2.142879">
-    <time></time>
-    <name>Justine b669</name>
-    <desc>Devant le gymnase richard mique. pas vraiment une boîte une étagère plutôt bien fournie en plus ! de tout même des titres récents et best-sellers.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>1 rue solférino, 78000 Versailles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4879,18 +5323,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Parc salle des fêtes château, 77140 Montcourt fromonville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.916114" lon="2.358442">
-    <time></time>
-    <name>Priscille b66</name>
-    <desc>Plusieurs étagères vous attendent pour échanger livres magazines et journaux au local du pont comm'un ancienne gare rer aux heures d'ouverture. l'occasion aussi de découvrir les assos du lieu.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>1 rue paul lafargue, 93210 Saint-denis, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5035,18 +5467,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Rue marcel petit, 95670 Marly la ville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.805027" lon="1.765638">
-    <time>2017-03-27T09:57:25Z</time>
-    <name>Alexandra b654</name>
-    <desc>Une cabine téléphonique repeinte en jaune sur le parking en face de la place du marché côté champs.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place du marché, 78940 La queue-les-yvelines, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5760,18 +6180,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.842984" lon="2.418377">
-    <time></time>
-    <name>Stéphanie b632</name>
-    <desc>Boîte à lire à droite de la statue du square de la mairie.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 place charles digeon, 94160 Saint-mandé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.790048" lon="1.851359">
     <time>2020-07-02T14:08:27Z</time>
     <name>Pascale973 b6291</name>
@@ -5832,18 +6240,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.882188" lon="2.720203">
-    <time></time>
-    <name>Arthure b625</name>
-    <desc>Situé sur l aire de jeux tout près de l'embarcadère du quai saint père</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Quai de la gourdine, 77243 Lagny sur marne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.705973" lon="2.072743">
     <time>2020-06-12T16:58:48Z</time>
     <name>Teamdelphe92 b6249</name>
@@ -5875,18 +6271,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Rond point de juin 1936, 78370 Plaisir, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.764326" lon="1.93599">
-    <time></time>
-    <name>Fonty b624</name>
-    <desc>Sur le mail au dessus de la rue de gâtine devant l'aire de jeux pirate.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Avenue de gatine, 78310 Maurepas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6223,18 +6607,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Rue de l'yvette, 91400 Orsay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.867712" lon="2.514792">
-    <time></time>
-    <name>David l. b6</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place du marché, 93360 Neuilly plaisance, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6732,18 +7104,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.875519" lon="2.327935">
-    <time></time>
-    <name>Stéphanie b573</name>
-    <desc>Bibliothèque dans la salle du café du cinéma les 5 caumartins.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>101 rue saint-lazare, 75009 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.899166" lon="2.336896">
     <time>2020-01-14T08:33:26Z</time>
     <name>Gwenmetalfly b5729</name>
@@ -6864,18 +7224,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.997599" lon="2.098247">
-    <time></time>
-    <name>Rachel b560</name>
-    <desc>Mise en place par la ville depuis mai 2016</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue eugène berrurier, 78700 Conflans-sainte-honorine , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.867663" lon="2.36403">
     <time>2019-12-04T16:51:17Z</time>
     <name>Diane belpaume b5596</name>
@@ -6883,30 +7231,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Place de la république, 80390 Fressenneville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.992516" lon="2.100192">
-    <time></time>
-    <name>Rachel b559</name>
-    <desc>Mise en place par la ville de conflans-sainte-honorine en mai 2016 dans le parc du prieuré</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue aux moines, 78700 Conflans-sainte-honorine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.919439" lon="2.328397">
-    <time></time>
-    <name>Wilson moi b557</name>
-    <desc>Ce sont des pochettes pour contenir et protéger les livres.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>4 quai du chatelier , 93450 L'Île-saint-denis, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6984,18 +7308,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.894468" lon="2.249351">
-    <time></time>
-    <name>Alison w. b549</name>
-    <desc>Une jolie boite a lire bien protégée par la pluie dans le parc freudenstadt merci a la ville de courbevoie !</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place charras, 92400 Courbevoie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.843894" lon="2.330503">
     <time>2019-10-30T09:22:05Z</time>
     <name>Valerie s. b5463</name>
@@ -7068,18 +7380,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.662023" lon="2.576792">
-    <time></time>
-    <name>Loiseau b542</name>
-    <desc>Boite 2 vitres coulissantes</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue du chêne , 77380 Combs-la-ville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.867381" lon="2.354913">
     <time>2019-10-16T09:46:01Z</time>
     <name>Cnam b5419</name>
@@ -7087,18 +7387,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>292 rue saint martin, 75003 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.549504" lon="2.65055">
-    <time></time>
-    <name>Assita b541</name>
-    <desc>A l'entrée du conservatoire vous pouvez prendre et déposer un livre gratuitement.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>26 avenue georges pompidou, 77000 Melun, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7296,18 +7584,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.779044" lon="2.323779">
-    <time></time>
-    <name>Vanessa cassin b529</name>
-    <desc>Boîte à lire dans un chouette parc avec jeux enfants.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>16 avenue de lattre de tassigny , 92340 Bourg-la-reine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.80404" lon="2.444494">
     <time>2022-10-25T13:54:53Z</time>
     <name>Agnès delaby b5278</name>
@@ -7363,18 +7639,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>89 rue faidherbe, 78500 Sartrouville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.813759" lon="2.6216">
-    <time></time>
-    <name>Mowgouaille b524</name>
-    <desc>A l'angle de la rue d'emery et de la rue de la ferme. petite librairie où il est facile de se servir.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>7 rue d'emery, 77184 Emerainville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7447,18 +7711,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Parc de la mairie, avenue du parc, 77124 Villenoy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.793199" lon="2.395266">
-    <time></time>
-    <name>Mariana b521</name>
-    <desc>Installée dans le hall d entrée du musée exploradôme la boîte à lire est à la disposition des visiteurs du musée mais aussi des passants et des habitants du quartier.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>18 avenue henri barbusse, 94400 Vitry-sur-seine, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7603,18 +7855,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Parc pablo neruda, 94800 Villejuif, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.846426" lon="3.232392">
-    <time></time>
-    <name>Parmentier b51</name>
-    <desc>C'est une petite boite clouées contre le mur du syndicat d'initiative de la commune de rebais.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place du marché, 77510 Rebais, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8232,18 +8472,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.841969" lon="2.366594">
-    <time></time>
-    <name>Gégé b474</name>
-    <desc>Salle d attente gare. elle se situe en face des quais. très joliment décorée et en particulier réservée à la clientèle de la sncf mais consultation possible sur place.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>85 quai d'austerlitz, 75013 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.898046" lon="2.338147">
     <time>2019-05-07T09:35:16Z</time>
     <name>Gwenmetalfly b4729</name>
@@ -8784,18 +9012,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.055383" lon="2.676242">
-    <time></time>
-    <name>Estelle a b443</name>
-    <desc>Boite à lire à l'entrée du parc de la corbie</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue eugène hémar, 77230 Dammartin en goële, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.895412" lon="2.286015">
     <time>2019-03-01T10:44:28Z</time>
     <name>Lhomme b4408</name>
@@ -8839,18 +9055,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>31 rue d alsace, 92300 Levallois, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.896375" lon="2.109788">
-    <time></time>
-    <name>Clin b439</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Quai de l'orme de sully, 78230 Le pecq, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -9564,18 +9768,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.771837" lon="2.266621">
-    <time></time>
-    <name>Florence b41</name>
-    <desc>La boite à lire est aménagée dans le tronc d'un arbre au milieu du parc de la maison de chateaubriand.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>87 rue chateaubriand, 92290 Châtenay-malabry, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.862475" lon="2.208468">
     <time>2018-12-04T11:48:23Z</time>
     <name>Lions club suresnes b4087</name>
@@ -9660,18 +9852,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.981081" lon="2.005337">
-    <time></time>
-    <name>Baptiste b408</name>
-    <desc>Dans la gare sncf</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place de la gare, 78510 Triel sur seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.843781" lon="2.307244">
     <time>2018-12-04T10:31:38Z</time>
     <name>Marie-helene leroy b4079</name>
@@ -9751,18 +9931,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Jardin d aimé, 77340 Pontault combault, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.974728" lon="2.04961">
-    <time></time>
-    <name>Gaudeul b395</name>
-    <desc>À l intérieur de la gare</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place de la gare, 78570 Andrésy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -9979,18 +10147,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>133/135 boulevard sérurier, 75019 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.406313" lon="2.789084">
-    <time></time>
-    <name>Mowgouaille b384</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>64 rue du 4 septembre, 77810 Thomery, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10356,18 +10512,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.869798" lon="2.219033">
-    <time></time>
-    <name>Frater'cité b352</name>
-    <desc>Création du lycée louis blériot sur une idée de l'association frater'cité</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place bardin, 92150 Suresnes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.879788" lon="2.114353">
     <time>2018-08-24T12:15:45Z</time>
     <name>Séverine ninou b3519</name>
@@ -10435,18 +10579,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>80 avenue marceau, 93130 Noisy-le-sec, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.590005" lon="1.730573">
-    <time></time>
-    <name>Pitch b349</name>
-    <desc>Ancienne cabine téléphonique transformée en boite à lire.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue du village , 78125 émancé, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10632,18 +10764,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.699807" lon="2.50676">
-    <time></time>
-    <name>Agoaye b332</name>
-    <desc>Un totem lecture derrière la gare à côté de l aire de jeu pour les enfants</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place de l arrivée, 91800 Brunoy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.926115" lon="2.718951">
     <time>2018-08-03T14:31:15Z</time>
     <name>Hirschy b3310</name>
@@ -10812,18 +10932,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.761488" lon="2.671766">
-    <time></time>
-    <name>Aurore laprade b321</name>
-    <desc>Une grande boite a livre dans le petit parc à coté de la mairie une autre plus petite disponible dans le parc à coté de l église.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>45 avenue du gnéral de gaulle, 77330 Ozoir la ferrière , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.989739" lon="2.322004">
     <time>2020-08-21T16:51:10Z</time>
     <name>Fanfan b3208</name>
@@ -10836,18 +10944,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.4096" lon="2.782975">
-    <time></time>
-    <name>Mowgouaille b320</name>
-    <desc>Il y a deux boites à lire sur cette commune. une autre se situe au 162 rue du 4 septembtre</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>14 rue neuve, 77810 Thomery, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.89085" lon="2.307644">
     <time>2018-07-23T09:58:44Z</time>
     <name>Atchoum b3197</name>
@@ -10855,18 +10951,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>132 rue saussure, 75017 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.840544" lon="2.653409">
-    <time></time>
-    <name>Marie b317</name>
-    <desc>Boite a lire dans la boulangerie la fournée de torcy</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>17 promenade du belvédère, 77200 Torcy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11059,18 +11143,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Complexe sportif d'artagon, 78560 Le port-marly, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.720258" lon="2.533827">
-    <time></time>
-    <name>Magali b306</name>
-    <desc>Nouvelle boite à lire ! elle se trouve juste devant la bibliothèque.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>75 rue du lieutenant dagorno , 94440 Villecresnes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11328,18 +11400,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.790554" lon="2.387926">
-    <time></time>
-    <name>Recyclivre b29</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>20 avenue maximilien robespierre, 94400 Vitry-sur-seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.686072" lon="2.379363">
     <time>2018-06-04T09:27:17Z</time>
     <name>Aurélien samson b2883</name>
@@ -11359,18 +11419,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Mairie du 9 ème arrondissement, 75009 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.959629" lon="2.545226">
-    <time></time>
-    <name>Claire b284</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue pierre audat, 93420 Villepinte, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11556,18 +11604,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.929584" lon="2.046982">
-    <time></time>
-    <name>Philippe b273</name>
-    <desc>Square à l'angle du boulevard victor hugo et de la rue de la paix. avec en prime des bancs!</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Square des frères rose , 78300 Poissy , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.706059" lon="2.212479">
     <time>2018-05-11T09:24:07Z</time>
     <name>Claire b2709</name>
@@ -11628,30 +11664,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.860057" lon="2.509752">
-    <time></time>
-    <name>Fonds decitre b260</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Voie lamarque , 93360 Neuilly-plaisance, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.86516" lon="2.509355">
-    <time></time>
-    <name>Fonds decitre b259</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue des renouilleres, 93360 Neuilly-plaisance, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.02533" lon="2.221804">
     <time>2018-04-24T09:46:32Z</time>
     <name>Aurélien samson b2584</name>
@@ -11659,18 +11671,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Gare de taverny, 95150 Taverny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.873058" lon="2.510832">
-    <time></time>
-    <name>Fonds decitre b258</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rond-point stalingrad, 93360 Neuilly-plaisance, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11868,18 +11868,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.833842" lon="2.492135">
-    <time></time>
-    <name>Line b241</name>
-    <desc>Devant la police et la poste</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue hoche, 94130 Nogent sur marne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.533476" lon="2.009733">
     <time>2018-05-17T10:27:56Z</time>
     <name>Vincent dechartres b2402</name>
@@ -11899,18 +11887,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>3 avenue séverine, 92400 Courbevoie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.882182" lon="2.394438">
-    <time></time>
-    <name>Rafik slama b239</name>
-    <desc>Boite à lire installée dans le jardin herold par la cie par has arts</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>11 rue francis-ponge, 75019 Paris, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -12252,18 +12228,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.839585" lon="2.396109">
-    <time>2021-07-13T10:28:18Z</time>
-    <name>Fred b211</name>
-    <desc>À côté de la mairie du 12ème</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>130 avenue daumesnil, 75012 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.872489" lon="2.196155">
     <time>2018-01-07T19:42:28Z</time>
     <name>Laurence b2106</name>
@@ -12336,18 +12300,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.851778" lon="2.515496">
-    <time></time>
-    <name>Michaël b205</name>
-    <desc>Petite boîte à lire située sur un chemin piéton en bord de marne.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Promenade andré devambez, 93360 Neuilly-plaisance, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.781543" lon="3.307729">
     <time>2017-12-15T16:52:31Z</time>
     <name>Catherine barranger b2043</name>
@@ -12372,18 +12324,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.107593" lon="2.217518">
-    <time></time>
-    <name>Vitrac b204</name>
-    <desc>Passage saint-lazare</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address> rue saint-lazare, 95290 L'isle-adam, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.718665" lon="1.893015">
     <time>2017-12-13T09:02:12Z</time>
     <name>Vincent dechartres b2035</name>
@@ -12391,18 +12331,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Rue du feu de la st jean, 78690 Les essarts le roi, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.112288" lon="2.217872">
-    <time></time>
-    <name>Vitrac b203</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place hubert jolivet, 95290 L'isle-adam, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -12900,18 +12828,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.823826" lon="2.261062">
-    <time></time>
-    <name>Conseil de quartier b161</name>
-    <desc>Une cabine téléphonique transformée en bibliothèque partagée !</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place jacques madaule, 92130 Issy-les-moulineaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.829657" lon="2.514012">
     <time>2017-09-05T09:51:51Z</time>
     <name>Antonin b1579</name>
@@ -13056,18 +12972,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.835369" lon="2.473693">
-    <time></time>
-    <name>Virginie b151</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place du général leclerc, 94130 Nogent sur marne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.045289" lon="2.51027">
     <time>2017-08-21T09:39:21Z</time>
     <name>Pommerock b1506</name>
@@ -13075,18 +12979,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>84 rue de paris, 95380 Louvres , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.83773" lon="2.487327">
-    <time></time>
-    <name>Virginie b150</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place de l'ancien marché, 94130 Nogent sur marne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13147,18 +13039,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Cc régional belle epine, 94651 Thiais, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.960985" lon="2.0673">
-    <time></time>
-    <name>Carole guelfucci b146</name>
-    <desc>Elle est localisée à 2 mètres du cinéma le pandora. elle est petite haute sur pattes et bien décorée.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>6 allée simone signoret, 78260 Achères, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13255,18 +13135,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address> gare de juziers, 78820 Juziers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.761473" lon="1.943066">
-    <time></time>
-    <name>Bulle b138</name>
-    <desc>Dans le jardin des senteurs" à côté de la poste</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Allée du bourbonnais, 78310 Maurepas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13704,114 +13572,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.825715" lon="2.271779">
-    <time>2025-04-29T09:26:48Z</time>
-    <name>Chaitanya b10536</name>
-    <desc>La boite à livres se situe dans la cour de l espace jeunes anne frank.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>15 rue diderot, 92130 Issy-les-moulineaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.805652" lon="2.186838">
-    <time>2025-04-25T09:54:12Z</time>
-    <name>Brice ouazan b10531</name>
-    <desc>Se trouve au niveau de l école maternelle le muguet à chaville : angle rue du colonel marchand / rue anatole france</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue du colonel marchand, 92370 Chaville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.83063" lon="2.245209">
-    <time>2025-04-25T09:55:07Z</time>
-    <name>Brice ouazan b10530</name>
-    <desc>Place solferino à boulogne billancourt 92100</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place solferino, 92100 Boulogne billancourt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.466691" lon="2.607023">
-    <time>2025-03-31T09:54:45Z</time>
-    <name>B lahaie b10502</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 rue de melun, 77930 Chailly en bière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.670508" lon="2.378757">
-    <time>2025-03-25T09:49:28Z</time>
-    <name>Lisa l b10496</name>
-    <desc>Située à l intersection entre la rue du 8 mai 1945 et la rue octave longuet.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue du 8 mai 1945, 91170 Viry-châtillon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.861667" lon="2.377367">
-    <time>2025-03-17T09:57:22Z</time>
-    <name>Guingambrésil b10492</name>
-    <desc>Le long de l église saint-ambroise.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue lacharrière, 75011 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.856558" lon="2.387027">
-    <time>2025-03-17T09:57:11Z</time>
-    <name>Guingambrésil b10491</name>
-    <desc>Deux boîtes face à face au bas des immeubles 9 et 14 de la rue.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue carrière mainguet, 75011 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.851841" lon="2.347706">
-    <time>2025-03-17T09:56:47Z</time>
-    <name>Guingambrésil b10490</name>
-    <desc>Au square rené viviani.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 rue du fouarre, 75005 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.838857" lon="2.321942">
-    <time>2025-03-17T09:56:37Z</time>
-    <name>Guingambrésil b10489</name>
-    <desc>Au centre commercial de la gaîté-montparnasse.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>68 avenue du maine, 75014 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.811084" lon="2.384889">
     <time>2017-04-27T11:29:06Z</time>
     <name>Nathalie b1048</name>
@@ -13819,66 +13579,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>5 promenée marat, 94200 Ivry-sur-seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.584649" lon="1.98886">
-    <time>2025-02-20T09:44:20Z</time>
-    <name>Felbacq kevin b10470</name>
-    <desc>Sur le coté de la mairie</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue des halles, 78730 Rochefort en yvelines, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.010342" lon="2.666388">
-    <time>2025-01-03T09:52:06Z</time>
-    <name>Ced b10446</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>30 grande rue, 77230 Thieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.789772" lon="2.043611">
-    <time>2024-12-18T09:13:01Z</time>
-    <name>Gaëlle gauchet b10433</name>
-    <desc>La boite à livres se trouve dans le parc erasme, près de la gare de saint-quentin en yvelines. sa localisation gps est 48.789508, 2.043511.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Parc erasme, 78180 Montigny-le-bretonneux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.841929" lon="2.285784">
-    <time>2024-12-18T09:12:35Z</time>
-    <name>Ambassadeurs du livre b10432</name>
-    <desc>La boite à livre se trouve dans une épicerie</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>88 rue de la convention, 75015 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.762078" lon="3.345783">
-    <time>2024-12-10T09:38:42Z</time>
-    <name>Vhan b10422</name>
-    <desc></desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>A coté de la mairie, 77247 Lescherolle, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13908,138 +13608,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.838459" lon="2.317149">
-    <time>2024-09-16T10:03:57Z</time>
-    <name>Guingambrésil b10327</name>
-    <desc>Au jardin atlantique, sur le toit de la gare montparnasse.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Place des 5 martyrs du lycée buffon, 75015 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.847995" lon="2.377123">
-    <time>2024-09-16T10:03:41Z</time>
-    <name>Guingambrésil b10326</name>
-    <desc>À l entrée du café la commune.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>3 rue d aligre, 75012 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.799707" lon="2.438503">
-    <time>2024-09-16T10:03:34Z</time>
-    <name>Guingambrésil b10325</name>
-    <desc>En face de l arrêt de bus de la mairie, au début d'un chemin piéton.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>ç rue victor hugo, 94700 Maisons-alfort, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.807732" lon="2.442288">
-    <time>2024-09-16T10:03:00Z</time>
-    <name>Guingambrésil b10322</name>
-    <desc>À la grille de l église notre-dame-du-sacré-c?ur</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>41 rue cécile, 94700 Maisons-alfort, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.835432" lon="2.384321">
-    <time>2024-09-16T10:02:52Z</time>
-    <name>Guingambrésil b10321</name>
-    <desc>Au jardin ytzhak rabin, derrière l orangerie.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>14 rue paul belmondo, 75012 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.8232" lon="2.39867">
-    <time>2024-09-06T09:09:29Z</time>
-    <name>Gilles merrer b10317</name>
-    <desc>A droite de l entrée du parking et à gauche de l'entrée de l'école maternelle du port aux lions</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>8 rue du port aux lions, 94220 Charenton le pont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.763279" lon="2.665274">
-    <time>2024-09-05T09:51:53Z</time>
-    <name>Alexandra b10316</name>
-    <desc>Dans le parc du château de la doutre, près de l entrée côté cinema.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Avenue du général de gaulle, 77330 Ozoir-la-ferrière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.342754" lon="2.601806">
-    <time>2024-09-05T09:50:37Z</time>
-    <name>Fin de semaine b10315</name>
-    <desc>Devant la boulangerie</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>7 place du général de gaulle, 77760 Ury, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.994774" lon="2.221195">
-    <time>2024-09-02T10:02:27Z</time>
-    <name>Alicia b10310</name>
-    <desc>En entrant dans le bâtiment, sur la gauche</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Avenue des marais, 95130 Franconville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.346248" lon="2.458356">
-    <time>2024-09-02T09:58:57Z</time>
-    <name>Zaho b10297</name>
-    <desc>A coté de la boucherie dans l abri bus</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>7 rue de la mairie, 77123 Tousson, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.214918" lon="2.610248">
-    <time>2024-09-02T09:58:28Z</time>
-    <name>Fin de semaine b10294</name>
-    <desc>Entrée du jardin de jeux pour les enfants</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Rue de l église, 77570 Aufferville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.756629" lon="2.371993">
     <time>2017-04-18T12:28:51Z</time>
     <name>Nathalie b1025</name>
@@ -14047,18 +13615,6 @@
     <type>BoiteLire Île-de-France</type>
     <extensions>
       <osmand:address>Belle epine, 94320 Thiais, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.724714" lon="1.899959">
-    <time>2024-07-18T10:04:48Z</time>
-    <name>Rouchut b10221</name>
-    <desc>Parking du complexe culturel et sportif rue jean ferrat</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Complexe sportif  parking rue jean ferrat, 78690 Les essarts le roi, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14076,18 +13632,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.675468" lon="2.552685">
-    <time>2024-07-04T10:08:21Z</time>
-    <name>Ondine b10200</name>
-    <desc>Petit conseil pro : on évite la première étagère par temps de pluie.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>32 rue vaux la reine, 91480 Varennes-jarcy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.816188" lon="2.267136">
     <time>2017-04-13T15:02:29Z</time>
     <name>Camille s. b1020</name>
@@ -14100,433 +13644,913 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.044038" lon="2.068921">
-    <time>2024-07-02T09:48:08Z</time>
-    <name>Julien barbier b10199</name>
-    <desc>Située à l'entrée de la maison de quartier des linandes</desc>
+  <wpt lat="48.810871" lon="2.04574">
+    <time>2017-04-06T09:45:19Z</time>
+    <name>Preux b925</name>
+    <desc>Plusieurs étagères, remplies d ouvrages anciens ou récents, format poche ou non, situées au fond du hall d'entrée, à côté de l'escalier.</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>6 rue des linandes beiges, 95000 cergy, 95000 Cergy, France</osmand:address>
+      <osmand:address>Place du 8 mai 45, 78330 Fontenay-le-fleury, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90237" lon="2.572068">
-    <time>2024-07-01T10:00:08Z</time>
-    <name>Lefevre constance b10198</name>
+  <wpt lat="48.979099" lon="1.976743">
+    <time>2017-04-05T16:00:32Z</time>
+    <name>Fabienne b923</name>
+    <desc>Située dans le parc du champclos, au bord de la promenade</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue delapierre, 78480 Verneuil sur seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.977465" lon="1.969185">
+    <time>2017-04-05T15:53:07Z</time>
+    <name>Fabienne b922</name>
+    <desc>Boite à lire située dans le parc de la mairie, côté place du marché.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Parc de la mairie, 78480 Verneuil sur seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.957507" lon="3.206174">
+    <time>2017-03-10T14:50:51Z</time>
+    <name>Jean-marie holvoet b888</name>
+    <desc>Cette boîte à lire implantée depuis le 8 mars 2017 contient environ 150 livres tant en ouvrages documentaires qu'en ouvrages de fiction. seuls sont exclus les ouvrages incitant à la violence ou à la haine et les ouvrages pornographiques.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>25 rue de laval, 77730 Saâcy sur marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.006552" lon="1.915076">
+    <time>2017-03-06T09:18:49Z</time>
+    <name>Pauline b864</name>
+    <desc>Dans la gare sncf</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue des annonciades, 78250 Meulan-en-yvelines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.856339" lon="2.355674">
+    <time>2018-08-29T11:23:56Z</time>
+    <name>Anita recyclivre b848</name>
+    <desc>Boite à lire mise en place par le lions club paris ile de la cité, dans la cour de la mairie du 4ème arrondissement.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 place baudoyer, 75004 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.861818" lon="2.347427">
+    <time>2017-02-24T09:36:57Z</time>
+    <name>Lucie b846</name>
+    <desc>La boite se situe dans le forum des halles, dans la bibliothèque de la canopée, à côté de la section bd.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>10 rue de la canopée, 75001 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.890419" lon="2.369272">
+    <time>2017-02-23T17:09:47Z</time>
+    <name>Cestsilya b836</name>
+    <desc>La boite à lire se situe au centre culturel du 104 dans une cariole de travaux réaménagé pour l échange de livre</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>104 avenue d aubervilliers, 75019 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.740261" lon="2.73546">
+    <time>2017-02-23T12:51:33Z</time>
+    <name>Bibliotheque b831</name>
+    <desc>Jolie boite aux livres sous forme d une valise vintage.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>17 rue docteur hutinel, 77220 Gretz-armainvilliers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.954957" lon="2.878834">
+    <time>2017-02-20T09:28:32Z</time>
+    <name>Maria b814</name>
+    <desc>La boite à lire se trouve dans la cafétéria de la médiathèque luxembourg. en plus de livres variés, on trouve parfois des cd.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue cornillon, 77100 Meaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.803738" lon="2.429486">
+    <time>2017-02-06T10:11:07Z</time>
+    <name>Jean-claude caillette b799</name>
+    <desc>Au 10 rue louis braille, dans l embrasement de ma fenêtre de sous-sol. une centaine de livres sur le chemin des écoles. gros succès.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>10 rue louis braille, 94700 Maisons-alfort, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.767516" lon="2.406505">
+    <time>2017-01-23T10:30:34Z</time>
+    <name>Lory b783</name>
+    <desc>Installée dans nous, vous, iles - espace culturel outremer ouvert du mardi au dimanche de 14h à 18h !</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>35 ter rue emile zola, 94600  choisy le roi , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.657879" lon="2.716823">
+    <time>2017-01-23T10:17:20Z</time>
+    <name>Lemoine celia b780</name>
+    <desc>Ancienne cabane de plage, cette nouvelle boite à lire se trouve devant la mairie !</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 77111 Solers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.857249" lon="2.421691">
+    <time>2017-01-19T09:17:16Z</time>
+    <name>Marie b779</name>
+    <desc>Elle se trouve plus précisément à l'angle de la rue Étienne marcel et de la rue robespierre.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>198 rue etienne marcel, 93170 Bagnolet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.817973" lon="2.377518">
+    <time>2017-01-12T09:20:33Z</time>
+    <name>Thierry b762</name>
+    <desc>Mise en place par l association du sentier des vignes.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>27 rue antoine thomas , 94200 Ivry-sur-seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.888115" lon="2.362747">
+    <time>2018-08-29T11:24:03Z</time>
+    <name>Anita recyclivre b760</name>
     <desc></desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>1 place jean mermoz, 93370 Montfermeil, France</osmand:address>
+      <osmand:address>26 esplanade nathalie sarraute, 75018 Paris, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.763418" lon="2.328815">
-    <time>2024-06-11T11:34:49Z</time>
-    <name>Ville de fresnes b10175</name>
-    <desc>Boite à lire installée dans le cadre du premier budget participatif de la ville de fresnes</desc>
+  <wpt lat="48.888034" lon="2.383888">
+    <time></time>
+    <name>Pelte nathalie b752</name>
+    <desc>E19 ourcq</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Place charcot, 94260 Fresnes, France</osmand:address>
+      <osmand:address>20 rue léon giraud, 75019 Paris, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.991726" lon="2.112405">
-    <time>2024-05-28T09:23:38Z</time>
-    <name>Bookranger b10163</name>
-    <desc>Se nomme le livre vagabond" à l entrée de la péniche</desc>
+  <wpt lat="48.881308" lon="2.416925">
+    <time></time>
+    <name>Sarah b750</name>
+    <desc>La boite à lire se trouve à l'angle de la rue du tapis vert et de la république.</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>30 bis quai de gaillon, 78700 Conflans sainte honorine, France</osmand:address>
+      <osmand:address>22 rue du tapis vert , 93260 Les lilas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.683362" lon="2.360301">
-    <time>2024-05-22T10:54:36Z</time>
-    <name>Alix b10158</name>
-    <desc>Dans le parc pour enfants</desc>
+  <wpt lat="48.878859" lon="2.417794">
+    <time></time>
+    <name>Sarah b749</name>
+    <desc>La boite se trouve dans le parc lucie-aubrac.</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>1 avenue de fromenteau, 91600 Savigny sur orge, France</osmand:address>
+      <osmand:address>50 rue romain-rolland, 93260 Les lilas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.677826" lon="2.347817">
-    <time>2024-05-22T10:53:55Z</time>
-    <name>Alix b10157</name>
-    <desc>Dans le parc à jeux pour enfants</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>33 avenue charles de gaulle, 91600 Savigny sur orge, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.823836" lon="2.423312">
-    <time>2024-05-12T14:39:05Z</time>
-    <name>Flavie b10145</name>
-    <desc>Ancienne cabine téléphonique anglaise reconvertie en boîte-à-lire. elle est plus exactement située sur le trottoir entre le square du val d osne et l'avenue de gravelle.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Square du val d osne, 94410 Saint-maurice, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.802718" lon="2.42591">
-    <time>2024-05-02T09:41:50Z</time>
-    <name>Mentitophe b10121</name>
-    <desc>Cette boîte à lire est situé du côté d alfortville, juste à la grande sortie de la gare. vous ne pouvez pas la rater, c'est une série de cube empiler les uns sur les autres.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>15 av. du général malleret-joinville, 94140 Alfortville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.975372" lon="2.199178">
-    <time>2024-04-30T09:36:31Z</time>
-    <name>Steph b10119</name>
-    <desc>A l?entrée de l?école primaire maurice berteaux.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>1 avenue maurice berteaux, 95240 Cormeilles-en-parisis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.679838" lon="2.321887">
-    <time>2024-04-19T09:38:54Z</time>
-    <name>Supermaîtresse b10109</name>
-    <desc>La boîte se trouve devant la chapelle saint dominique savio</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>18 rue du mauregard, 91360 Epinay sur orge, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.71088" lon="2.164706">
-    <time>2024-04-08T09:43:48Z</time>
-    <name>Samantha b10095</name>
-    <desc>Elle est située à l intersection avec la rue sébastienne guyot et en face du restaurant fo pizza</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>49 mail pierre pottier, 91190 Gif-sur-yvette, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.858436" lon="2.40104">
-    <time>2024-03-25T11:27:27Z</time>
-    <name>Lectrice du 20ème b10074</name>
-    <desc>Boîte à livre installée à l intérieur d'un lavomatic.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>80 rue de bagnolet, 75020 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.803647" lon="2.331704">
-    <time>2024-03-21T09:06:03Z</time>
-    <name>Samantha moy b10061</name>
-    <desc>Elle est située à côté de la gare rer b de laplace maison des examens</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Samoy22600@gmail.com, 94110 Arcueil, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.893956" lon="2.26574">
-    <time>2024-03-21T09:05:43Z</time>
-    <name>Bookranger b10060</name>
-    <desc>Face au 4 boulevard du parc</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>10 boulevard du parc, 92200 Neuilly sur seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.878823" lon="2.245723">
-    <time>2024-03-21T09:05:12Z</time>
-    <name>Bookranger b10059</name>
-    <desc>À gauche de l entrée du palais des sports</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Palais des sports - ile de puteaux, 92800 Puteaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.94679" lon="2.257134">
-    <time>2024-03-21T09:03:46Z</time>
-    <name>Bookranger b10058</name>
-    <desc>A gauche de l entrée de l'association aide aux devoirs, à gauche de l'entrée de la gare.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Gare d argenteuil, 95100 Argenteuil, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.989085" lon="2.16068">
-    <time>2024-03-21T09:02:46Z</time>
-    <name>Bookranger b10057</name>
-    <desc>Coincée dans le mur</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>17 avenue de la martinière, 95220 Herblay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.98035" lon="2.27076">
-    <time>2024-03-18T09:34:30Z</time>
-    <name>Bookranger b10046</name>
-    <desc>Dans le hall de la gare</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Gare d ermont eaubonne, 95120 Ermont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.077762" lon="2.205327">
-    <time>2024-03-18T09:34:20Z</time>
-    <name>Bookranger b10045</name>
-    <desc>À l entrée de la gare</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Gare de mériel, 95630 Mériel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.850354" lon="2.344328">
-    <time>2024-03-15T09:52:17Z</time>
-    <name>Guingambrésil b10043</name>
-    <desc>Au square samuel paty.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>2 place paul painlevé, 75005 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.885794" lon="2.352913">
-    <time>2024-03-15T09:52:07Z</time>
-    <name>Guingambrésil b10042</name>
-    <desc>Devant l association pour le dialogue et l'orientation scolaire.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>24 rue polonceau, 75018 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.839145" lon="2.382696">
-    <time>2024-03-15T09:51:57Z</time>
-    <name>Guingambrésil b10041</name>
-    <desc>Dans la salle d attente à l'étage de la gare de bercy.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>48 bis boulevard de bercy, 75012 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.914166" lon="2.272327">
-    <time>2024-03-13T09:37:31Z</time>
-    <name>Bookranger b10036</name>
-    <desc>Le long de la voix ferrée, après la place du marché.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Impasse doussineau, 92270 Bois-colombes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.845009" lon="2.292997">
-    <time>2024-03-13T09:35:29Z</time>
-    <name>Bookranger b10035</name>
-    <desc>Dans le square, sur la droite, après être sorti du métro commerce.</desc>
-    <type>BoiteLire Île-de-France</type>
-    <extensions>
-      <osmand:address>Square yvette chauviré, 75015 Paris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.945089" lon="1.811514">
-    <time>2024-03-04T16:52:33Z</time>
-    <name>Caniot laetitia b10030</name>
+  <wpt lat="48.881684" lon="2.425227">
+    <time></time>
+    <name>Sarah b748</name>
     <desc></desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Velannes route départemental à l arrêt de bus, 78680 Epone, France</osmand:address>
+      <osmand:address> allée du dr calmette, 93260 Les lilas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.973174" lon="1.835422">
-    <time>2024-03-04T16:52:25Z</time>
-    <name>Caniot laetitia b10029</name>
+  <wpt lat="48.782706" lon="2.189203">
+    <time></time>
+    <name>Mediatheque b711</name>
+    <desc>Située dans la médiathèque une étagère pour les échanges livres revues dvd jeunesse dans le hall et une armoire pour les documents adultes en salle d exposition. accessibles aux horaires d ouverture de la mediatheque 15h-18h du mardi au samedi et mercredi et samedi 10h-12h30.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>3 place bernard dautier, 78140 Velizy-villacoublay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.752094" lon="2.215264">
+    <time></time>
+    <name>Madmarsu b705</name>
+    <desc>Sur la partie herbue près de la rue de la gare et du parking près du panneau d information</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>3b avenue de la gare, 91570 Bièvres, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.755451" lon="2.219491">
+    <time></time>
+    <name>Madmarsu b702</name>
+    <desc>Devant l'école entre son panneau d'affichage et l'abri</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 allée des castors, 91570 Bièvres, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.893744" lon="2.315549">
+    <time></time>
+    <name>Recyclivre b672</name>
     <desc></desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Avenue foch - ecole perce neige, 78680 Epone, France</osmand:address>
+      <osmand:address>190 avenue de clichy, 75017 Paris, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.870379" lon="2.212357">
-    <time>2024-03-04T16:49:44Z</time>
-    <name>Bookranger b10028</name>
-    <desc>Promenade jacques baumel</desc>
+  <wpt lat="48.811163" lon="2.142879">
+    <time></time>
+    <name>Justine b669</name>
+    <desc>Devant le gymnase richard mique. pas vraiment une boîte une étagère plutôt bien fournie en plus ! de tout même des titres récents et best-sellers.</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>12 rue des landes, 92150 Suresnes, France</osmand:address>
+      <osmand:address>1 rue solférino, 78000 Versailles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.955103" lon="1.814056">
-    <time>2024-02-28T10:14:23Z</time>
-    <name>Caniot laetitia b10020</name>
+  <wpt lat="48.805027" lon="1.765638">
+    <time>2017-03-27T09:57:25Z</time>
+    <name>Alexandra b654</name>
+    <desc>Une cabine téléphonique repeinte en jaune sur le parking en face de la place du marché côté champs.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place du marché, 78940 La queue-les-yvelines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.842984" lon="2.418377">
+    <time></time>
+    <name>Stéphanie b632</name>
+    <desc>Boîte à lire à droite de la statue du square de la mairie.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 place charles digeon, 94160 Saint-mandé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.882188" lon="2.720203">
+    <time></time>
+    <name>Arthure b625</name>
+    <desc>Situé sur l aire de jeux tout près de l'embarcadère du quai saint père</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Quai de la gourdine, 77243 Lagny sur marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.764326" lon="1.93599">
+    <time></time>
+    <name>Fonty b624</name>
+    <desc>Sur le mail au dessus de la rue de gâtine devant l'aire de jeux pirate.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Avenue de gatine, 78310 Maurepas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.875519" lon="2.327935">
+    <time></time>
+    <name>Stéphanie b573</name>
+    <desc>Bibliothèque dans la salle du café du cinéma les 5 caumartins.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>101 rue saint-lazare, 75009 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.997599" lon="2.098247">
+    <time></time>
+    <name>Rachel b560</name>
+    <desc>Mise en place par la ville depuis mai 2016</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue eugène berrurier, 78700 Conflans-sainte-honorine , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.992516" lon="2.100192">
+    <time></time>
+    <name>Rachel b559</name>
+    <desc>Mise en place par la ville de conflans-sainte-honorine en mai 2016 dans le parc du prieuré</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue aux moines, 78700 Conflans-sainte-honorine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.919439" lon="2.328397">
+    <time></time>
+    <name>Wilson moi b557</name>
+    <desc>Ce sont des pochettes pour contenir et protéger les livres.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>4 quai du chatelier , 93450 L'Île-saint-denis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.894468" lon="2.249351">
+    <time></time>
+    <name>Alison w. b549</name>
+    <desc>Une jolie boite a lire bien protégée par la pluie dans le parc freudenstadt merci a la ville de courbevoie !</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place charras, 92400 Courbevoie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.662023" lon="2.576792">
+    <time></time>
+    <name>Loiseau b542</name>
+    <desc>Boite 2 vitres coulissantes</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue du chêne , 77380 Combs-la-ville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.549504" lon="2.65055">
+    <time></time>
+    <name>Assita b541</name>
+    <desc>A l'entrée du conservatoire vous pouvez prendre et déposer un livre gratuitement.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>26 avenue georges pompidou, 77000 Melun, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.779044" lon="2.323779">
+    <time></time>
+    <name>Vanessa cassin b529</name>
+    <desc>Boîte à lire dans un chouette parc avec jeux enfants.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>16 avenue de lattre de tassigny , 92340 Bourg-la-reine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.813759" lon="2.6216">
+    <time></time>
+    <name>Mowgouaille b524</name>
+    <desc>A l'angle de la rue d'emery et de la rue de la ferme. petite librairie où il est facile de se servir.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>7 rue d'emery, 77184 Emerainville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.793199" lon="2.395266">
+    <time></time>
+    <name>Mariana b521</name>
+    <desc>Installée dans le hall d entrée du musée exploradôme la boîte à lire est à la disposition des visiteurs du musée mais aussi des passants et des habitants du quartier.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>18 avenue henri barbusse, 94400 Vitry-sur-seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.841969" lon="2.366594">
+    <time></time>
+    <name>Gégé b474</name>
+    <desc>Salle d attente gare. elle se situe en face des quais. très joliment décorée et en particulier réservée à la clientèle de la sncf mais consultation possible sur place.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>85 quai d'austerlitz, 75013 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.055383" lon="2.676242">
+    <time></time>
+    <name>Estelle a b443</name>
+    <desc>Boite à lire à l'entrée du parc de la corbie</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue eugène hémar, 77230 Dammartin en goële, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.896375" lon="2.109788">
+    <time></time>
+    <name>Clin b439</name>
     <desc></desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Place des fêtes, 78680 Epone, France</osmand:address>
+      <osmand:address>Quai de l'orme de sully, 78230 Le pecq, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.254746" lon="2.943163">
-    <time>2024-02-26T09:33:03Z</time>
-    <name>Wilibre b10017</name>
-    <desc>Grande boite à livres situé à l arret de bus eglise chevry".</desc>
+  <wpt lat="48.981081" lon="2.005337">
+    <time></time>
+    <name>Baptiste b408</name>
+    <desc>Dans la gare sncf</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Rue de la croix saint-marc, 77710 Chevry-en-sereine, France</osmand:address>
+      <osmand:address>Place de la gare, 78510 Triel sur seine, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.923882" lon="2.259388">
-    <time>2024-02-26T09:32:36Z</time>
-    <name>Bookranger b10016</name>
-    <desc>Dans le hall, à droite en entrant</desc>
+  <wpt lat="48.974728" lon="2.04961">
+    <time></time>
+    <name>Gaudeul b395</name>
+    <desc>À l intérieur de la gare</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Gare de colombes, 92700 Colombes, France</osmand:address>
+      <osmand:address>Place de la gare, 78570 Andrésy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.906033" lon="2.282267">
-    <time>2024-02-26T09:32:28Z</time>
-    <name>Bookranger b10015</name>
-    <desc>Dans le hall du guichet, au fond à gauche</desc>
+  <wpt lat="48.406313" lon="2.789084">
+    <time></time>
+    <name>Mowgouaille b384</name>
+    <desc></desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Gare d asnieres sur seine, 92600 Asnieres sur seine, France</osmand:address>
+      <osmand:address>64 rue du 4 septembre, 77810 Thomery, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84534" lon="2.21698">
-    <time>2024-02-26T09:32:20Z</time>
-    <name>Bookranger b10014</name>
-    <desc>Juste à droite, contre le mur de la gare sncf.</desc>
+  <wpt lat="48.869798" lon="2.219033">
+    <time></time>
+    <name>Frater'cité b352</name>
+    <desc>Création du lycée louis blériot sur une idée de l'association frater'cité</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Gare de saint-cloud, 92210 Saint-cloud, France</osmand:address>
+      <osmand:address>Place bardin, 92150 Suresnes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.932568" lon="2.260751">
-    <time>2024-02-26T09:32:11Z</time>
-    <name>Bookranger b10013</name>
-    <desc>Dans le parc, après l entrée qui se trouve face au tunnel de la voie ferrée, à la gare du stade.</desc>
+  <wpt lat="48.590005" lon="1.730573">
+    <time></time>
+    <name>Pitch b349</name>
+    <desc>Ancienne cabine téléphonique transformée en boite à lire.</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Rue auguste renoir, 92700 Colombes, France</osmand:address>
+      <osmand:address>Rue du village , 78125 émancé, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.896372" lon="2.25199">
-    <time>2024-02-20T09:31:12Z</time>
-    <name>Bookranger b10003</name>
-    <desc>Contre l aire de jeux pour enfants.</desc>
+  <wpt lat="48.699807" lon="2.50676">
+    <time></time>
+    <name>Agoaye b332</name>
+    <desc>Un totem lecture derrière la gare à côté de l aire de jeu pour les enfants</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>9 rue baudin, 92400 Courbevoie, France</osmand:address>
+      <osmand:address>Place de l arrivée, 91800 Brunoy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.895696" lon="2.249027">
-    <time>2024-02-20T09:30:35Z</time>
-    <name>Bookranger b10002</name>
-    <desc>Derrière subway</desc>
+  <wpt lat="48.761488" lon="2.671766">
+    <time></time>
+    <name>Aurore laprade b321</name>
+    <desc>Une grande boite a livre dans le petit parc à coté de la mairie une autre plus petite disponible dans le parc à coté de l église.</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>1 promenade saint nicolas, 92400 Courbevoie, France</osmand:address>
+      <osmand:address>45 avenue du gnéral de gaulle, 77330 Ozoir la ferrière , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.035936" lon="2.058236">
-    <time>2024-02-19T09:46:06Z</time>
-    <name>Acjab b10000</name>
-    <desc>La boite est située sur le trottoir attenant au parking public</desc>
+  <wpt lat="48.4096" lon="2.782975">
+    <time></time>
+    <name>Mowgouaille b320</name>
+    <desc>Il y a deux boites à lire sur cette commune. une autre se situe au 162 rue du 4 septembtre</desc>
     <type>BoiteLire Île-de-France</type>
     <extensions>
-      <osmand:address>Rue pierre vogler, 95000 Cergy, France</osmand:address>
+      <osmand:address>14 rue neuve, 77810 Thomery, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.840544" lon="2.653409">
+    <time></time>
+    <name>Marie b317</name>
+    <desc>Boite a lire dans la boulangerie la fournée de torcy</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>17 promenade du belvédère, 77200 Torcy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.720258" lon="2.533827">
+    <time></time>
+    <name>Magali b306</name>
+    <desc>Nouvelle boite à lire ! elle se trouve juste devant la bibliothèque.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>75 rue du lieutenant dagorno , 94440 Villecresnes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.959629" lon="2.545226">
+    <time></time>
+    <name>Claire b284</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue pierre audat, 93420 Villepinte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.929584" lon="2.046982">
+    <time></time>
+    <name>Philippe b273</name>
+    <desc>Square à l'angle du boulevard victor hugo et de la rue de la paix. avec en prime des bancs!</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Square des frères rose , 78300 Poissy , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.860057" lon="2.509752">
+    <time></time>
+    <name>Fonds decitre b260</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Voie lamarque , 93360 Neuilly-plaisance, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.86516" lon="2.509355">
+    <time></time>
+    <name>Fonds decitre b259</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue des renouilleres, 93360 Neuilly-plaisance, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.873058" lon="2.510832">
+    <time></time>
+    <name>Fonds decitre b258</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rond-point stalingrad, 93360 Neuilly-plaisance, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.833842" lon="2.492135">
+    <time></time>
+    <name>Line b241</name>
+    <desc>Devant la police et la poste</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue hoche, 94130 Nogent sur marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.882182" lon="2.394438">
+    <time></time>
+    <name>Rafik slama b239</name>
+    <desc>Boite à lire installée dans le jardin herold par la cie par has arts</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>11 rue francis-ponge, 75019 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.839585" lon="2.396109">
+    <time>2021-07-13T10:28:18Z</time>
+    <name>Fred b211</name>
+    <desc>À côté de la mairie du 12ème</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>130 avenue daumesnil, 75012 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.851778" lon="2.515496">
+    <time></time>
+    <name>Michaël b205</name>
+    <desc>Petite boîte à lire située sur un chemin piéton en bord de marne.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Promenade andré devambez, 93360 Neuilly-plaisance, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.107593" lon="2.217518">
+    <time></time>
+    <name>Vitrac b204</name>
+    <desc>Passage saint-lazare</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address> rue saint-lazare, 95290 L'isle-adam, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.112288" lon="2.217872">
+    <time></time>
+    <name>Vitrac b203</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place hubert jolivet, 95290 L'isle-adam, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.823826" lon="2.261062">
+    <time></time>
+    <name>Conseil de quartier b161</name>
+    <desc>Une cabine téléphonique transformée en bibliothèque partagée !</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place jacques madaule, 92130 Issy-les-moulineaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.835369" lon="2.473693">
+    <time></time>
+    <name>Virginie b151</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place du général leclerc, 94130 Nogent sur marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.83773" lon="2.487327">
+    <time></time>
+    <name>Virginie b150</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place de l'ancien marché, 94130 Nogent sur marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.960985" lon="2.0673">
+    <time></time>
+    <name>Carole guelfucci b146</name>
+    <desc>Elle est localisée à 2 mètres du cinéma le pandora. elle est petite haute sur pattes et bien décorée.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>6 allée simone signoret, 78260 Achères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.761473" lon="1.943066">
+    <time></time>
+    <name>Bulle b138</name>
+    <desc>Dans le jardin des senteurs" à côté de la poste</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Allée du bourbonnais, 78310 Maurepas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.863988" lon="2.361527">
+    <time></time>
+    <name>Laurence hugues b91</name>
+    <desc>Nous avons installé une boîte à livres végétalisée dans la cour d'honneur de la mairie du 3e rue eugène spuller. n'hésitez pas !</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue eugène spuller, 75003 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.84357" lon="2.604281">
+    <time></time>
+    <name>Jeannine b68</name>
+    <desc>La boite à lire est placée dans la haie qui donne sur un petit rond point.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>31 allee pierre mendes france, 77420 Champs sur marne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.916114" lon="2.358442">
+    <time></time>
+    <name>Priscille b66</name>
+    <desc>Plusieurs étagères vous attendent pour échanger livres magazines et journaux au local du pont comm'un ancienne gare rer aux heures d'ouverture. l'occasion aussi de découvrir les assos du lieu.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>1 rue paul lafargue, 93210 Saint-denis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.846426" lon="3.232392">
+    <time></time>
+    <name>Parmentier b51</name>
+    <desc>C'est une petite boite clouées contre le mur du syndicat d'initiative de la commune de rebais.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place du marché, 77510 Rebais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.771837" lon="2.266621">
+    <time></time>
+    <name>Florence b41</name>
+    <desc>La boite à lire est aménagée dans le tronc d'un arbre au milieu du parc de la maison de chateaubriand.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>87 rue chateaubriand, 92290 Châtenay-malabry, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.790554" lon="2.387926">
+    <time></time>
+    <name>Recyclivre b29</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>20 avenue maximilien robespierre, 94400 Vitry-sur-seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.875536" lon="2.179003">
+    <time></time>
+    <name>Recyclivre b7</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue jean le coz, 92500 Reuil malmaison, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.867712" lon="2.514792">
+    <time></time>
+    <name>David l. b6</name>
+    <desc></desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place du marché, 93360 Neuilly plaisance, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

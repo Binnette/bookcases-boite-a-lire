@@ -1,5 +1,521 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.240138" lon="-4.065268">
+    <time>2025-04-28T09:42:47Z</time>
+    <name>Le rapid b10534</name>
+    <desc>Située à l intérieur du bar le rapid</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>3 place de l église, 29590 Saint-segal, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.793179" lon="-3.766156">
+    <time>2025-04-10T09:34:00Z</time>
+    <name>Fillonneau b10520</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Plage de rospico, 29920 Nevez, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.870704" lon="-4.058006">
+    <time>2025-04-01T09:24:16Z</time>
+    <name>Emda b10506</name>
+    <desc>Boite à livres située à côté de la chapelle saint sébastien, à gauche de la maison saint sébastien</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Chemin de saint sébastien, 29170 Fouesnant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.862875" lon="-4.040039">
+    <time>2025-04-01T09:24:07Z</time>
+    <name>Emda b10505</name>
+    <desc>Boite à lire située au niveau du portail de l école</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>école publique de mousterlin, route de mestrezec, 29170 Fouesnant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.832725" lon="-3.408436">
+    <time>2025-03-12T09:34:49Z</time>
+    <name>Sören le marre b10481</name>
+    <desc>Près de l église de kerentrech</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Soren.le.marre@gmail.com, 56100 Lorient, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.614393" lon="-4.421076">
+    <time>2025-03-06T09:55:00Z</time>
+    <name>Marc elusse b10478</name>
+    <desc>Boite à livres située en plein centre-bourg, place st sezny à guissény, finistère, entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en construire une autre, plus attractive et pérenne, au sein de l agglomération.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Marcelusse@gmail.com, 29880 Guisseny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.634465" lon="-4.409724">
+    <time>2025-03-06T09:49:30Z</time>
+    <name>Marc elusse b10477</name>
+    <desc>Boîte" à livre située en plein centre bourg de guissény. entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en installer une autre dans l'agglomération, plus attractive et plus pérenne.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place st sezny, 29880 Guisseny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.685908" lon="-3.986636">
+    <time>2025-03-06T09:44:29Z</time>
+    <name>Marc elusse b10476</name>
+    <desc>Juste au pied de l office de tourisme</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de l evêché, 29250 Saint-pol-de-léon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.231671" lon="-4.357271">
+    <time>2025-03-06T09:44:21Z</time>
+    <name>Mairie b10475</name>
+    <desc>La boite à livres se trouve à côté de l abri de bus en face de la mairie.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Terraindekeraudren@gmail.com, Telgruc sur 29560, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.909859" lon="-3.977302">
+    <time>2025-02-10T09:51:18Z</time>
+    <name>Tina revamp b10466</name>
+    <desc>Barque à livres</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la baie, 029 La forêt fouesnant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.955901" lon="-3.957767">
+    <time>2025-02-03T10:06:57Z</time>
+    <name>Fd b10461</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Résidence du bois de pleuven, 29140 Saint yvi, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.117817" lon="-1.668635">
+    <time>2025-01-08T10:00:01Z</time>
+    <name>Samantha b10448</name>
+    <desc>Réservée aux étudiants de l igr-iae, elle est située au 2ème de son bâtiment.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>11 rue jean macé, 35700 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80023" lon="-4.357018">
+    <time>2024-12-11T10:23:02Z</time>
+    <name>Office de tourisme b10425</name>
+    <desc>Au niveau de l ancienne librairie du large"</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>167 rue du port - kérity, 29760 Penmarc h, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.793273" lon="-4.272395">
+    <time>2024-12-09T09:57:08Z</time>
+    <name>Office de tourisme b10421</name>
+    <desc>Au bout de la rue, sur le petit parking d accès à la plage, dans une ancienne cabine téléphonique.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue de la plage, 29730 Treffiagat-léchiagat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.866986" lon="-4.228319">
+    <time>2024-12-09T09:57:00Z</time>
+    <name>Office de tourisme b10420</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Maison pour tous, rue du petit train, 29120 Pont-l abbé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.822107" lon="-4.228206">
+    <time>2024-12-09T09:56:51Z</time>
+    <name>Office de tourisme b10419</name>
+    <desc>Près du parc de jeux pour enfants</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>11 place du 19 mars 1962, 29740 Plobannalec-lesconil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.83169" lon="-4.167167">
+    <time>2024-12-09T09:56:43Z</time>
+    <name>Office de tourisme b10418</name>
+    <desc>Centre culturel de loctudy</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Ar poul gleut, 788 rue hent, pontual vihan, 29750 Loctudy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.831397" lon="-4.164536">
+    <time>2024-12-09T09:56:37Z</time>
+    <name>Office de tourisme b10417</name>
+    <desc>Près de l aire de jeux</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue de langoz, 29750 Loctudy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.815907" lon="-4.173916">
+    <time>2024-12-09T09:56:31Z</time>
+    <name>Office de tourisme b10416</name>
+    <desc>Sur le parking</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue de l ezer, 29750 Loctudy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.800365" lon="-4.190093">
+    <time>2024-12-09T09:56:23Z</time>
+    <name>Office de tourisme b10415</name>
+    <desc>Sur le parking en face de la grève</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Route du traon, 29750 Loctudy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.800325" lon="-4.197091">
+    <time>2024-12-09T09:56:03Z</time>
+    <name>Office de tourisme b10414</name>
+    <desc>Parking de la plage des sables blancs</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue du beau rivage, 29750 Loctudy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.809887" lon="-4.18861">
+    <time>2024-12-09T09:55:49Z</time>
+    <name>Office de tourisme b10413</name>
+    <desc>Sur le parking de l école de larvor.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Route de kernizan, 29750 Loctudy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90639" lon="-4.212351">
+    <time>2024-12-09T09:55:43Z</time>
+    <name>Office de tourisme b10412</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>5 rue du manoir, 29120 Tremeoc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.883994" lon="-4.15595">
+    <time>2024-12-09T09:55:37Z</time>
+    <name>Office de tourisme b10411</name>
+    <desc>Au niveau de la médiathèque</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>2 rue du stade, 29120 Combrit, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.902096" lon="-4.2799">
+    <time>2024-12-09T09:55:29Z</time>
+    <name>Office de tourisme b10410</name>
+    <desc>Près de l espace raphalen</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>14 rue yann ar goff, 29720 Plonéour-lanvern, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88218" lon="-4.250091">
+    <time>2024-12-09T09:51:55Z</time>
+    <name>Office de tourisme b10409</name>
+    <desc>À l?intersection de moitié route et de la route de kerruc, dans un ancien congélateur joliment décoré.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Moitié route, 29720 Plonéour-lanvern, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.797645" lon="-4.214909">
+    <time>2024-12-09T09:51:45Z</time>
+    <name>Office de tourisme b10408</name>
+    <desc>Dans le jardin de l usine</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue des équipages, 29740 Plobannalec lesconil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.958886" lon="-4.3976">
+    <time>2024-12-09T09:51:24Z</time>
+    <name>Office de tourisme b10407</name>
+    <desc>Près de la chapelle, dans un frigo repeint en vert foncé.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Saint-démet, 29710 Plozevet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.663513" lon="-2.87539">
+    <time>2024-11-25T10:50:24Z</time>
+    <name>Florian b10396</name>
+    <desc>Dans l arrêt de bus centre, ligne 1 breizhgo, face à la corbeille à pain</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue de kerezen, 22410 Tréveneuc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.06331" lon="-1.77225">
+    <time>2024-11-14T10:23:57Z</time>
+    <name>Meunier sébastien b10383</name>
+    <desc>Boîte située à proximité immédiate de l abri bus mare doux" en direction de rennes. coordonnées gps : 48.06331,-1.77225</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>La mare doux, 35310 Chavagne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.122007" lon="-1.649497">
+    <time>2024-08-27T10:27:43Z</time>
+    <name>Samantha b10293</name>
+    <desc>Elle est située à côté de l église saint-augustin et du côté du parking en face de la mjc.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>10 rue mirabeau, 35700 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.788346" lon="-3.413627">
+    <time>2024-08-23T09:35:53Z</time>
+    <name>Sören le marre b10290</name>
+    <desc>Elle est collée à l épicerie solidaire.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Anatole france, 56530 Quéven, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.597288" lon="-2.288799">
+    <time>2024-08-20T09:52:07Z</time>
+    <name>Sdm94 b10284</name>
+    <desc>Sous le préau</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>33 rue saint pierre, 22550 Matignon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.681344" lon="-2.810913">
+    <time>2024-07-25T10:30:34Z</time>
+    <name>Jlg b10234</name>
+    <desc>Près des boites aux lettres.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>37 le grand moustoir, 56890 Plescop, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.67587" lon="-3.168706">
+    <time>2024-07-25T10:14:22Z</time>
+    <name>Sonia t b10233</name>
+    <desc>Boite à livres en forme de cabane, rayée bleu et blanc accroché à la clôture de l aire de jeux.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place Édouard gilliouard, 56550 Belz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.801728" lon="-4.268511">
+    <time>2024-06-19T10:32:16Z</time>
+    <name>Office de tourisme b10183</name>
+    <desc>Près des jeux pour enfants</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Vallon du moulin mer, 29730 Guilvinec, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.332834" lon="-1.535525">
+    <time>2024-05-07T09:48:46Z</time>
+    <name>Sandrine b10138</name>
+    <desc>Ancienne cabine téléphonique sur le côté de la mairie</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>9 place de la mairie, 35490 Sens de bretagne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.078009" lon="-4.329488">
+    <time>2024-04-26T09:43:04Z</time>
+    <name>Madeleine b10115</name>
+    <desc>à la porte d entrée du centre.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Ctre gradlon à pouldavid, 29100 Douarnenez, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.912374" lon="-1.378402">
+    <time>2024-04-22T09:46:41Z</time>
+    <name>Association récréations resteriennes b10114</name>
+    <desc>Dans la cour de la mairie sous le préau.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Mairie de retiers 19 bis rue georges clémenceau, 35240 Retiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.786156" lon="-3.105979">
+    <time>2024-03-14T09:37:06Z</time>
+    <name>Anthony b10038</name>
+    <desc>Une boîte se trouve sur le parking de l église et une autre au centre de la place du bourg</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place du centre, 22740 Lézardrieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.625459" lon="-2.262433">
+    <time>2024-08-20T10:04:23Z</time>
+    <name>Sdm94 b10011</name>
+    <desc>Derrière le gite, sur la liaison douce vers la mairie, devant l entrée du jardin partagé</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue du chanoine ribault, 22380 Saint cast le guildo, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.381281" lon="-1.979999">
+    <time>2024-02-22T09:49:21Z</time>
+    <name>Lucy b10006</name>
+    <desc>Dans la petite cour derrière le fratellenza', rue de la liberté, a côté du disquaire, jolie armoire ancienne.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Cour du bar  le fratellenza', rue de la liberté, 22630 Evran, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.084892" lon="-1.645845">
+    <time>2024-02-21T15:41:56Z</time>
+    <name>Celine feillel dauvier b10005</name>
+    <desc>Bonjour il s agit de deux boites à livres rouges en bord de rue une pour les livres enfants, une pour les livres adultes elle est située dans le quartier le blosne à rennes métro poterie elle est liée à des ateliers d'écriture menés à l'année au même endroit elle a été inaugurée avec les habitants du quartier</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>16 allee de lituanie, 35200 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.578971" lon="-2.221481">
     <time>2024-08-20T09:54:49Z</time>
     <name>Sdm94 b9999</name>
@@ -7,18 +523,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>7 bd de l arguenon, 22380 Saint cast le guildo, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.675537" lon="-1.911482">
-    <time>2017-04-11T12:18:51Z</time>
-    <name>Vival de st coulomb b998</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>5 place de l’église, 35350 St coulomb , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -588,18 +1092,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.103426" lon="-1.672417">
-    <time>2017-03-27T10:27:43Z</time>
-    <name>Anouk b912</name>
-    <desc>Bibliothèque de la gare routière</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Gare routiere, 35000 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.653577" lon="-2.092454">
     <time>2022-08-17T17:03:21Z</time>
     <name>Le costevec b9044</name>
@@ -696,30 +1188,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.072404" lon="-1.708119">
-    <time></time>
-    <name>Gervaisot b89</name>
-    <desc>La boite se situe dans la campagne le long d'un chemin piétonnier avec un banc devant. autour il y a des bacs incroyables avec des plantes aromatiques comestibles à disposition. elle est plus spécialisée dans les magazines</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>La basse teillais, 35136 Saint jacques de la lande, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.797303" lon="-3.022023">
-    <time></time>
-    <name>Fanny b88</name>
-    <desc>Cette boite à lire tourne depuis février 2016 et est régulièrement garnie et l'été en plus quelques fines herbes à emporter !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>14 rue de toul broc'h, 22620 Ploubazlanec, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.449505" lon="-2.047982">
     <time>2022-05-05T09:33:18Z</time>
     <name>Anouk b8797</name>
@@ -804,18 +1272,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.481606" lon="-3.120615">
-    <time>2017-03-02T08:49:46Z</time>
-    <name>Annie91 b866</name>
-    <desc>Près de l office de tourisme, une jolie boite à lire décorée découverte pendant des vacances...</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>14 rue de verdun, 56170 Quiberon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.521431" lon="-2.732066">
     <time>2022-03-07T09:25:51Z</time>
     <name>Tardivel b8621</name>
@@ -840,30 +1296,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.519953" lon="-3.129368">
-    <time></time>
-    <name>Eléo b86</name>
-    <desc>Jolie boîte près du restaurant le petit st pierre.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>38 rue de l'église, 56510 Saintt pierre quiberon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.104768" lon="-1.679274">
-    <time>2017-02-28T09:39:44Z</time>
-    <name>François rocher b854</name>
-    <desc>Devant nature et découvertes</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>40 place du colombier, 35000 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.557198" lon="-4.700161">
     <time>2022-02-08T11:19:26Z</time>
     <name>Mercier b8495</name>
@@ -871,18 +1303,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Port de portsall, 29830 Lampaul-ploudalmézeau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.085186" lon="-1.617714">
-    <time>2017-02-24T12:23:53Z</time>
-    <name>Nicole p. b849</name>
-    <desc>La boite est située du côté de l'avenue des meliettes !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>5 rue de la boucaudais, 35135 Chantepie, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1068,42 +1488,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.044938" lon="-1.603441">
-    <time>2017-02-23T12:57:48Z</time>
-    <name>Julie b833</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de la poste, 35770 Vern sur seiche, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.645969" lon="-2.087241">
-    <time>2017-02-23T12:08:06Z</time>
-    <name>Laetitia b825</name>
-    <desc>La boite se situé juste devant le café du ciné manivel avec banc et espace public.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place garnier, 35600 Redon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.646757" lon="-2.085612">
-    <time>2017-02-23T12:06:14Z</time>
-    <name>Laetitia b824</name>
-    <desc>La boite se trouve juste auprès de la vilaine avec un banc pour se poser.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Quai duguay trouin, 35600 Redon , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.628245" lon="-3.991707">
     <time>2021-10-18T17:27:42Z</time>
     <name>Jean-françois b8227</name>
@@ -1188,18 +1572,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.133337" lon="-1.533786">
-    <time>2017-02-17T16:39:14Z</time>
-    <name>Charlotte b811</name>
-    <desc>Boite à lire construite sur la place de la mairie</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 35690 Acigné, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.558285" lon="-2.907953">
     <time>2021-09-09T15:05:59Z</time>
     <name>Boite à lire 49 b8109</name>
@@ -1207,18 +1579,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Rue du port douar, 56640 Arzon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.120228" lon="-1.699591">
-    <time>2017-02-17T15:04:49Z</time>
-    <name>Françoise b810</name>
-    <desc>La boite se situe à l'accueil de l'etablissement français du sang villejean.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue pierre jean gineste, 35000 Rennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1440,18 +1800,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.118406" lon="-1.680947">
-    <time>2017-01-23T10:25:45Z</time>
-    <name>Victor b781</name>
-    <desc>La boite est proche du carrefour contact.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address> square de la rance, 35000 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.58308" lon="-2.632668">
     <time>2021-07-23T15:30:04Z</time>
     <name>Cathy p b7807</name>
@@ -1500,18 +1848,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.001368" lon="-1.775519">
-    <time>2017-01-16T10:34:56Z</time>
-    <name>Médiathèque de guichen b771</name>
-    <desc>Le livre voyageur : n hésitez pas à prendre un livre, le lire, et / ou déposer un livre. echangeons des livres librement et gratuitement dans la boîte à livres.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>81 rue de redon, 35580 Guichen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.995548" lon="-3.393336">
     <time>2021-06-17T15:25:35Z</time>
     <name>Chauvin fabrice b7642</name>
@@ -1555,18 +1891,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Place du bourg, 22870 Ile de bréhat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.65182" lon="-2.837661">
-    <time>2017-01-13T10:15:04Z</time>
-    <name>Isabelle b759</name>
-    <desc>Une fresque et un décor sublime pour y déposer des livres !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Parc de la duchesse anne, 22410 Saint-quay-portrieux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1627,18 +1951,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address> aire de jeux des charmilles, 35460  st etienne en cogles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.209666" lon="-1.630318">
-    <time></time>
-    <name>Biblothèque de chevaigné b740</name>
-    <desc>La bibliothèque de chevaigné a choisi de déposer de petites boites à livres dans divers lieux de rencontre de chevaigné: cécilia coiffure et le club de l amitié sont les deux premiers points.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>18 rue d'lle et rance, 35250 Chevaigné, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2160,18 +2472,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.9576" lon="-3.827302">
-    <time></time>
-    <name>Mael b664</name>
-    <desc>Un grand bac à lire dans l'espace culturel. accessible aux heures d'ouverture.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>17 rue alsace lorraine, 29140 Rosporden, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.675481" lon="-3.191802">
     <time>2020-08-28T10:04:22Z</time>
     <name>Céline b6615</name>
@@ -2215,18 +2515,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>15, rue du dr calmette, 22400 Lamballe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.532441" lon="-2.0567">
-    <time></time>
-    <name>Vadis sylvie b658</name>
-    <desc>Une petite boîte certes mais pleine de lecture gratuite !!</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>2 place du dr louis jourdan, 22490 Pleslin-trigavou, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2376,18 +2664,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.731176" lon="-2.587191">
-    <time></time>
-    <name>Vanessa b637</name>
-    <desc>En majorité des livres à destination de la jeunesse.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Chemin des écoliers, 56250 Elven, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.580361" lon="-2.05915">
     <time>2020-07-10T14:52:34Z</time>
     <name>Médiathèque pleurtuit b6343</name>
@@ -2407,18 +2683,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Rue jean boyer, 35730 Pleurtuit, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.657055" lon="-2.755017">
-    <time></time>
-    <name>Stephanie b631</name>
-    <desc>Boîte à lire située dans le jardin des remparts au niveau des jeux pour enfants côté porte prison.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue francis decker, 56000 Vannes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2491,18 +2755,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Rond-point de la croix des gardiens, 29000 Quimper, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.183016" lon="-1.644382">
-    <time></time>
-    <name>Amélie m. b61</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place du vieux marché, 35830 Betton, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2604,18 +2856,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.74633" lon="-3.467742">
-    <time></time>
-    <name>Vincent recyclivre b603</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Boulevard d'armor, 22300 Lannion, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.798966" lon="-4.212885">
     <time>2020-03-16T13:01:40Z</time>
     <name>Boistault b6014</name>
@@ -2700,18 +2940,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.994386" lon="-1.612467">
-    <time></time>
-    <name>Cacrineb b588</name>
-    <desc>À utiliser sans modération !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>1 rue des sports, 35230 Bourgbarre , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.354725" lon="-1.202859">
     <time>2020-02-22T14:53:29Z</time>
     <name>Claire en vadrouille b5877</name>
@@ -2760,18 +2988,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.182829" lon="-1.643459">
-    <time></time>
-    <name>Monique martin b576</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de la cale, 35830 Betton, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.363024" lon="-1.952877">
     <time>2020-01-20T14:50:01Z</time>
     <name>Lericheux laurianne b5744</name>
@@ -2779,18 +2995,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Le bourg, 22630 Le quiou, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.262153" lon="-1.602737">
-    <time></time>
-    <name>Mary b574</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue de l étang , 35250 Saint-aubin-d'aubigné, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2808,18 +3012,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.437297" lon="-2.016299">
-    <time></time>
-    <name>Marianne b567</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>14 rue saint-james , 22100 Lanvallay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.507008" lon="-1.244676">
     <time>2020-01-02T10:12:50Z</time>
     <name>Mam b5669</name>
@@ -2827,18 +3019,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Rue jean janvier, 35420 35420, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.436014" lon="-2.056447">
-    <time></time>
-    <name>Marianne b566</name>
-    <desc>Située dans le square derrière la mairie.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>1 rue du 19 mars 1962, 22100 Lanvallay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3288,30 +3468,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.292548" lon="-4.459849">
-    <time></time>
-    <name>Journée citoyenne b489</name>
-    <desc>Mise en place le 1er octobre 2016</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Cale, 29160 Lanvéoc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.287579" lon="-4.464403">
-    <time></time>
-    <name>Journée citoyenne b488</name>
-    <desc>Mise en place 1er octobre 2016</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>20 rue de ecoles, 29160 Lanvéoc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.114085" lon="-4.12137">
     <time>2019-06-06T10:38:01Z</time>
     <name>Torillec monique b4876</name>
@@ -3319,18 +3475,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Hent park marichal kemeneven, 29180 Quemeneven, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.286952" lon="-4.462041">
-    <time></time>
-    <name>Journée citoyenne b487</name>
-    <desc>Mise en place le 1er octobre 2016</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>2 grande rue, 29160 Lanveoc, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3403,18 +3547,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Cours de l école, 22240 Plévenon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.758552" lon="-2.845377">
-    <time></time>
-    <name>Anonyme b486</name>
-    <desc>Il s agit d'une cabine téléphonique transformée en boite à lire</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de l'eglise, 56390 Grandchamp, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3612,18 +3744,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.735403" lon="-3.499963">
-    <time></time>
-    <name>Dorothee b471</name>
-    <desc>Devant la plage face au fort bloqué près des wc public</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>15 boulevard de l'ocean, 56270 Ploemeur, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.534142" lon="-3.792132">
     <time>2019-05-03T09:45:02Z</time>
     <name>Ag b4704</name>
@@ -3672,18 +3792,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.545653" lon="-2.731301">
-    <time></time>
-    <name>Lumino b465</name>
-    <desc>Beau panorama sur la baie de saint brieuc en bonus</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Chemin des faudours , 22190 Plerin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.640268" lon="-3.822343">
     <time>2019-04-23T09:56:07Z</time>
     <name>Valérie rey b4647</name>
@@ -3703,30 +3811,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Place clara zetkin, 35000 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.530683" lon="-2.748476">
-    <time>2018-08-16T16:52:27Z</time>
-    <name>Lumino b464</name>
-    <desc>Elle contient également une boite à messages</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue du chêne vert, 22190 Plerin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.17591" lon="-1.303698">
-    <time></time>
-    <name>Sylvie truffault b460</name>
-    <desc>La boite est située dans la pharmacie.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>12 place pierre poupard, 35450 Val-d'izé, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3864,6 +3948,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="48.262153" lon="-1.602737">
+    <time>2019-03-04T09:52:35Z</time>
+    <name>Altomist b4425</name>
+    <desc>La cabane est situee au bord de l etang</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue de l étang, 35250 Saint aubin d  aubigne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.090037" lon="-1.617331">
     <time>2019-03-04T09:52:24Z</time>
     <name>Altomist b4423</name>
@@ -3883,6 +3979,18 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>14 allée jean cocteau, 35135 Chantepie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.085186" lon="-1.617714">
+    <time>2019-03-04T09:49:14Z</time>
+    <name>Altomist b4421</name>
+    <desc>Elle est située sur le trottoir</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>3/5 rue boucaudais, 35135 Chantepie, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3972,18 +4080,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.996789" lon="-4.107258">
-    <time></time>
-    <name>Helene b435</name>
-    <desc>A l entrée de la crêperie book'n'billig</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>7, rue de la providence, 29000 Quimper, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.574055" lon="-4.326416">
     <time>2019-01-21T09:41:15Z</time>
     <name>Nathalie b4215</name>
@@ -4032,30 +4128,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.366166" lon="-1.182073">
-    <time></time>
-    <name>Béatrice b418</name>
-    <desc>Devant l'entrée de la maison de quartier des cotterets</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>12 rue de saint-lô, 35300 Fougères, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.343505" lon="-1.196091">
-    <time></time>
-    <name>Béatrice b417</name>
-    <desc>Maison de quartier de la chattière à coté du centre juliette drouet</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue du gué maheu, 35300 Fougères, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.654938" lon="-2.754542">
     <time>2019-01-07T10:28:18Z</time>
     <name>Maryse b4168</name>
@@ -4080,18 +4152,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.343916" lon="-1.201195">
-    <time></time>
-    <name>Béatrice b416</name>
-    <desc>Le square est situé face à l'école de la madeleine</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Square de la madeleine, 35300 Fougères, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.704916" lon="-3.145813">
     <time>2019-01-07T10:25:47Z</time>
     <name>Mairie de locoal-mendon b4158</name>
@@ -4104,18 +4164,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.351561" lon="-1.204626">
-    <time></time>
-    <name>Béatrice b415</name>
-    <desc>A coté de l'aire de jeux</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Parc des orières, 35300 Fougères, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.779108" lon="-3.046104">
     <time>2018-12-30T11:38:05Z</time>
     <name>Céline b4146</name>
@@ -4123,18 +4171,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Rue georges brassens, 22500 Paimpol, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.354651" lon="-1.208428">
-    <time></time>
-    <name>Béatrice b414</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place pierre symon, 35300 Fougères, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4428,18 +4464,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.35266" lon="-2.913502">
-    <time></time>
-    <name>Fouque b377</name>
-    <desc>Boîte à livre installée en mars qui connaît un bon accueil. un large choix de livre de cd et même parfois de cassette. tout cela au c?ur de notre petit bourg...</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>1 place saint guyganton, 22800 Lanfains, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.675897" lon="-2.932047">
     <time>2018-09-20T09:31:54Z</time>
     <name>Kmad b3693</name>
@@ -4507,18 +4531,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Routes des 7 iles, 56870 Larmor baden, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.183829" lon="-1.436454">
-    <time></time>
-    <name>Médiathèque de la bouëxière b360</name>
-    <desc>Boite à lire dans une cabine téléphonique anglaise. livres magazines papier adultes et enfants. livres et musiques numériques libres de droits à télécharger via une biblio intégrée à la boîte à lire.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue théophile rémond, 35340 La bouëxière, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4632,30 +4644,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.650439" lon="-2.085008">
-    <time></time>
-    <name>Médiathèque jean-michel bollé b348</name>
-    <desc>Mise en place par la mairie</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de la duchesse anne, 35600 Redon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.651778" lon="-2.083405">
-    <time></time>
-    <name>Médiathèque jean-michel bollé b347</name>
-    <desc>Mise en place par la mairie</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de bretagne, 35600 Redon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.430638" lon="-4.31418">
     <time>2018-08-16T16:52:47Z</time>
     <name>Sand b3461</name>
@@ -4675,18 +4663,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>26 route de vannes, 58870 Larmor-baden, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.39858" lon="-1.512774">
-    <time></time>
-    <name>Bibliotheques d antrain communaute b339</name>
-    <desc>Une boite à lire à l'initiative du réseau des bibliothèques pour partager le plaisir de la lecture. n'hésitez pas c'est en livre-échange ! lisez gardez offrez redéposez !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de l'église, 35560 Rimou, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4980,18 +4956,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.802741" lon="-2.220603">
-    <time></time>
-    <name>Fabienne rivière b319</name>
-    <desc>Boite à livres mise en place par les bénévoles de la bibliothèque de st nicolas du tertre</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Etang de la guette, 56910 Saint nicolas du tertre, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.576084" lon="-1.883344">
     <time>2018-07-23T09:52:36Z</time>
     <name>Bibounine b3177</name>
@@ -4999,18 +4963,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>8 rue de la mairie, 35430 St guinoux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.630345" lon="-3.178009">
-    <time></time>
-    <name>Nathalie b316</name>
-    <desc>Fabriquée dans un vieux frigo elle est fixée au mur d'une maison. quand on va vers la plage après l'élevage de chèvres il faut tourner à droite dans un petit village. la boite est un peu plus loin sur la droite.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Kerouriec, 56410 Erdeven, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5100,18 +5052,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.517753" lon="-2.298613">
-    <time></time>
-    <name>Dzmzngzon b297</name>
-    <desc>Elle est à côté de l'église.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Route de nantes, 56130 La roche bernard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.10753" lon="-1.705448">
     <time>2018-06-12T10:30:29Z</time>
     <name>Aurélien b2938</name>
@@ -5131,18 +5071,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Parc intergénérationel, 22980 Languedias, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.653371" lon="-2.917321">
-    <time></time>
-    <name>Lenabat b291</name>
-    <desc>Boite aux lettres situées près du plan de la commune</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>5 rue yves de pont sal, 56400 Plougoumelen, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5232,18 +5160,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.092047" lon="-1.653398">
-    <time></time>
-    <name>Gwenael f. b27</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue gérard philippe, 35200 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.299252" lon="-3.589804">
     <time>2018-05-09T09:29:53Z</time>
     <name>Mariel b2695</name>
@@ -5287,30 +5203,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>23 rue du commandant avril, 29000 Quimper, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.810173" lon="-2.383339">
-    <time></time>
-    <name>Quatreville b267</name>
-    <desc>Une boîte qui comporte beaucoup d anciens livres la littérature anglaise est aussi présente et quelques livres plus récents très intéressant</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Bord du halage, 56000 Malestroit, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.73228" lon="-2.590816">
-    <time></time>
-    <name>Anonyme b266</name>
-    <desc>Livres de qualité il y a des lecteurs qui aiment les beaux livres très certainement</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de l'eglise, 56250 Elven, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5395,30 +5287,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>132 rue eugène pottier, 35000 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.099667" lon="-2.032868">
-    <time></time>
-    <name>Céline b250</name>
-    <desc>Quatre boites disposées autour du lac : plage office de tourisme ponton et devant l'aparté</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Lac de trémelin, 35750 Iffendic, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.3539" lon="-1.209357">
-    <time></time>
-    <name>Leconte cécile b248</name>
-    <desc>La boite à lire se trouve près de l'entrée du jardin public à gauche de l'église saint léonard.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Jardin public de fougères, 35300 Fougères, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5592,18 +5460,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.769253" lon="-3.566092">
-    <time></time>
-    <name>Nelly b228</name>
-    <desc>Cette boite à lire est sur le terre plein en face de la mairie juste à côté de la poste...</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de la poste, 22560 Trébeurden , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.873662" lon="-4.121675">
     <time>2018-02-15T09:53:41Z</time>
     <name>Breizh up! b2273</name>
@@ -5700,18 +5556,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.812821" lon="-2.382426">
-    <time></time>
-    <name>Lucie b210</name>
-    <desc>Boite à lire créée à l'initiative de la médiathèque de malestroit située près de l'écluse au bord du canal de nantes à brest.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Chemin de l écluse, 56140 Malestroit , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.903816" lon="-2.120262">
     <time>2018-01-03T17:19:08Z</time>
     <name>Freddu56 b2099</name>
@@ -5791,30 +5635,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Rue du port, 29570 Roscanvel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.666609" lon="-2.986383">
-    <time></time>
-    <name>Médiathèque d'auray b198</name>
-    <desc>Cabine livre réalisée par les menuisiers et les peintres de la ville d'auray. installées en extérieur dans un lieu de passage chacun peut venir y retirer un livre avec pour seule contrainte d en déposer un autre à la place...</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place notre dame, 56400 Auray, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.670454" lon="-2.997539">
-    <time></time>
-    <name>Médiathèque d'auray b197</name>
-    <desc>Dans le quartier du gumenen maison livre réalisée par une classe de 3ème du lycée kerplouz installées en extérieur dans un lieu de passage chacun peut venir y retirer un livre avec pour seule contrainte d'en déposer un autre à la place...</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue du général auguste la houlle , 56400 Auray, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6276,18 +6096,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.374157" lon="-4.369362">
-    <time></time>
-    <name>Collectif arz en place b124</name>
-    <desc>Une ancienne cabine téléphonique anglaise.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place du calvaire, 29470 Plougastel-daoulas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.984988" lon="-4.083552">
     <time>2017-07-12T15:09:12Z</time>
     <name>Jce b1239</name>
@@ -6307,18 +6115,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Parc de gorem goz, 29470 Plougastel-daoulas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.472222" lon="-1.561389">
-    <time></time>
-    <name>Antrain communauté b120</name>
-    <desc>Mise en place par le réseau des bibliothèques d'antrain communauté cette boite à lire se trouve au c?ur de la base de loisirs récrénature en forêt de villecartier. a l'entrée de l espace ludique vous trouverez cette petite maisonnette contenant des dizaines de livres! servez-vous et bonne lecture à tous !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Forêt de villecartier , 35560 Bazouges-la-pérouse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6372,30 +6168,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.579205" lon="-3.824714">
-    <time></time>
-    <name>Totor b113</name>
-    <desc>Le troc lavoir est un espace dédié à la lecture et au partage de livres au sein de l'ancien lavoir du créou. un beau projet de voisinage !</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Venelle du créou, 29600 Morlaix, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.390394" lon="-4.486076">
-    <time></time>
-    <name>Totor b112</name>
-    <desc>Bibliothèque de rue adossée à l espace solidaire alternatif au coin d'la rue à l'entrée de la rue de saint malo.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>10 rue abbé rochon, 29200 Brest, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.572099" lon="-4.321828">
     <time>2017-05-22T09:17:14Z</time>
     <name>Simon claude b1112</name>
@@ -6403,30 +6175,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>Place du château , 29260 Lesneven, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.665765" lon="-2.977299">
-    <time></time>
-    <name>Médiathèque d'auray b111</name>
-    <desc>Cette bib. de rue est installée à saint-goustan sur le port près de la maison de quartier. venez emprunter et déposer ce qui vous fait plaisir...</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Port de saint-goustan, 56400 Auray, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.097153" lon="-1.667129">
-    <time></time>
-    <name>Lou b110</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>26 bis rue bigot de préameneu, 35000 Rennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6456,150 +6204,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.107872" lon="-1.658769">
-    <time></time>
-    <name>Leuleu b109</name>
-    <desc>La boîte est située à l'angle de la rue henri delaborde et de la rue bertrand robidou</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue henri delaborde, 35000 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.240138" lon="-4.065268">
-    <time>2025-04-28T09:42:47Z</time>
-    <name>Le rapid b10534</name>
-    <desc>Située à l intérieur du bar le rapid</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>3 place de l église, 29590 Saint-segal, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.793179" lon="-3.766156">
-    <time>2025-04-10T09:34:00Z</time>
-    <name>Fillonneau b10520</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Plage de rospico, 29920 Nevez, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.870704" lon="-4.058006">
-    <time>2025-04-01T09:24:16Z</time>
-    <name>Emda b10506</name>
-    <desc>Boite à livres située à côté de la chapelle saint sébastien, à gauche de la maison saint sébastien</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Chemin de saint sébastien, 29170 Fouesnant, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.862875" lon="-4.040039">
-    <time>2025-04-01T09:24:07Z</time>
-    <name>Emda b10505</name>
-    <desc>Boite à lire située au niveau du portail de l école</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>école publique de mousterlin, route de mestrezec, 29170 Fouesnant, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.832725" lon="-3.408436">
-    <time>2025-03-12T09:34:49Z</time>
-    <name>Sören le marre b10481</name>
-    <desc>Près de l église de kerentrech</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Soren.le.marre@gmail.com, 56100 Lorient, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.614393" lon="-4.421076">
-    <time>2025-03-06T09:55:00Z</time>
-    <name>Marc elusse b10478</name>
-    <desc>Boite à livres située en plein centre-bourg, place st sezny à guissény, finistère, entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en construire une autre, plus attractive et pérenne, au sein de l agglomération.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Marcelusse@gmail.com, 29880 Guisseny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.634465" lon="-4.409724">
-    <time>2025-03-06T09:49:30Z</time>
-    <name>Marc elusse b10477</name>
-    <desc>Boîte" à livre située en plein centre bourg de guissény. entretenue par quelques trop rares bénévoles de l agglomération. elle connait plus de succès en période estivale. je réfléchis de mon côté à en installer une autre dans l'agglomération, plus attractive et plus pérenne.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place st sezny, 29880 Guisseny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.685908" lon="-3.986636">
-    <time>2025-03-06T09:44:29Z</time>
-    <name>Marc elusse b10476</name>
-    <desc>Juste au pied de l office de tourisme</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de l evêché, 29250 Saint-pol-de-léon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.231671" lon="-4.357271">
-    <time>2025-03-06T09:44:21Z</time>
-    <name>Mairie b10475</name>
-    <desc>La boite à livres se trouve à côté de l abri de bus en face de la mairie.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Terraindekeraudren@gmail.com, Telgruc sur 29560, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.909859" lon="-3.977302">
-    <time>2025-02-10T09:51:18Z</time>
-    <name>Tina revamp b10466</name>
-    <desc>Barque à livres</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place de la baie, 029 La forêt fouesnant, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.955901" lon="-3.957767">
-    <time>2025-02-03T10:06:57Z</time>
-    <name>Fd b10461</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Résidence du bois de pleuven, 29140 Saint yvi, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.404214" lon="-4.469452">
     <time>2017-04-25T17:02:53Z</time>
     <name>Noémie b1045</name>
@@ -6607,366 +6211,6 @@
     <type>BoiteLire Bretagne</type>
     <extensions>
       <osmand:address>13 rue du professeur chrétien, 29200 Brest, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.117817" lon="-1.668635">
-    <time>2025-01-08T10:00:01Z</time>
-    <name>Samantha b10448</name>
-    <desc>Réservée aux étudiants de l igr-iae, elle est située au 2ème de son bâtiment.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>11 rue jean macé, 35700 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.80023" lon="-4.357018">
-    <time>2024-12-11T10:23:02Z</time>
-    <name>Office de tourisme b10425</name>
-    <desc>Au niveau de l ancienne librairie du large"</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>167 rue du port - kérity, 29760 Penmarc h, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.793273" lon="-4.272395">
-    <time>2024-12-09T09:57:08Z</time>
-    <name>Office de tourisme b10421</name>
-    <desc>Au bout de la rue, sur le petit parking d accès à la plage, dans une ancienne cabine téléphonique.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue de la plage, 29730 Treffiagat-léchiagat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.866986" lon="-4.228319">
-    <time>2024-12-09T09:57:00Z</time>
-    <name>Office de tourisme b10420</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Maison pour tous, rue du petit train, 29120 Pont-l abbé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.822107" lon="-4.228206">
-    <time>2024-12-09T09:56:51Z</time>
-    <name>Office de tourisme b10419</name>
-    <desc>Près du parc de jeux pour enfants</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>11 place du 19 mars 1962, 29740 Plobannalec-lesconil, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.83169" lon="-4.167167">
-    <time>2024-12-09T09:56:43Z</time>
-    <name>Office de tourisme b10418</name>
-    <desc>Centre culturel de loctudy</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Ar poul gleut, 788 rue hent, pontual vihan, 29750 Loctudy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.831397" lon="-4.164536">
-    <time>2024-12-09T09:56:37Z</time>
-    <name>Office de tourisme b10417</name>
-    <desc>Près de l aire de jeux</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue de langoz, 29750 Loctudy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.815907" lon="-4.173916">
-    <time>2024-12-09T09:56:31Z</time>
-    <name>Office de tourisme b10416</name>
-    <desc>Sur le parking</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue de l ezer, 29750 Loctudy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.800365" lon="-4.190093">
-    <time>2024-12-09T09:56:23Z</time>
-    <name>Office de tourisme b10415</name>
-    <desc>Sur le parking en face de la grève</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Route du traon, 29750 Loctudy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.800325" lon="-4.197091">
-    <time>2024-12-09T09:56:03Z</time>
-    <name>Office de tourisme b10414</name>
-    <desc>Parking de la plage des sables blancs</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue du beau rivage, 29750 Loctudy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.809887" lon="-4.18861">
-    <time>2024-12-09T09:55:49Z</time>
-    <name>Office de tourisme b10413</name>
-    <desc>Sur le parking de l école de larvor.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Route de kernizan, 29750 Loctudy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.90639" lon="-4.212351">
-    <time>2024-12-09T09:55:43Z</time>
-    <name>Office de tourisme b10412</name>
-    <desc></desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>5 rue du manoir, 29120 Tremeoc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.883994" lon="-4.15595">
-    <time>2024-12-09T09:55:37Z</time>
-    <name>Office de tourisme b10411</name>
-    <desc>Au niveau de la médiathèque</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>2 rue du stade, 29120 Combrit, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.902096" lon="-4.2799">
-    <time>2024-12-09T09:55:29Z</time>
-    <name>Office de tourisme b10410</name>
-    <desc>Près de l espace raphalen</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>14 rue yann ar goff, 29720 Plonéour-lanvern, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.88218" lon="-4.250091">
-    <time>2024-12-09T09:51:55Z</time>
-    <name>Office de tourisme b10409</name>
-    <desc>À l?intersection de moitié route et de la route de kerruc, dans un ancien congélateur joliment décoré.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Moitié route, 29720 Plonéour-lanvern, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.797645" lon="-4.214909">
-    <time>2024-12-09T09:51:45Z</time>
-    <name>Office de tourisme b10408</name>
-    <desc>Dans le jardin de l usine</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue des équipages, 29740 Plobannalec lesconil, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.958886" lon="-4.3976">
-    <time>2024-12-09T09:51:24Z</time>
-    <name>Office de tourisme b10407</name>
-    <desc>Près de la chapelle, dans un frigo repeint en vert foncé.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Saint-démet, 29710 Plozevet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.663513" lon="-2.87539">
-    <time>2024-11-25T10:50:24Z</time>
-    <name>Florian b10396</name>
-    <desc>Dans l arrêt de bus centre, ligne 1 breizhgo, face à la corbeille à pain</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Rue de kerezen, 22410 Tréveneuc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.06331" lon="-1.77225">
-    <time>2024-11-14T10:23:57Z</time>
-    <name>Meunier sébastien b10383</name>
-    <desc>Boîte située à proximité immédiate de l abri bus mare doux" en direction de rennes. coordonnées gps : 48.06331,-1.77225</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>La mare doux, 35310 Chavagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.122007" lon="-1.649497">
-    <time>2024-08-27T10:27:43Z</time>
-    <name>Samantha b10293</name>
-    <desc>Elle est située à côté de l église saint-augustin et du côté du parking en face de la mjc.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>10 rue mirabeau, 35700 Rennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.788346" lon="-3.413627">
-    <time>2024-08-23T09:35:53Z</time>
-    <name>Sören le marre b10290</name>
-    <desc>Elle est collée à l épicerie solidaire.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Anatole france, 56530 Quéven, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.597288" lon="-2.288799">
-    <time>2024-08-20T09:52:07Z</time>
-    <name>Sdm94 b10284</name>
-    <desc>Sous le préau</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>33 rue saint pierre, 22550 Matignon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.681344" lon="-2.810913">
-    <time>2024-07-25T10:30:34Z</time>
-    <name>Jlg b10234</name>
-    <desc>Près des boites aux lettres.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>37 le grand moustoir, 56890 Plescop, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.67587" lon="-3.168706">
-    <time>2024-07-25T10:14:22Z</time>
-    <name>Sonia t b10233</name>
-    <desc>Boite à livres en forme de cabane, rayée bleu et blanc accroché à la clôture de l aire de jeux.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place Édouard gilliouard, 56550 Belz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.137245" lon="-1.664629">
-    <time></time>
-    <name>Yzabo b102</name>
-    <desc>Au coeur du parc de la coulée verte.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Coulée verte, 56150 Baud, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.801728" lon="-4.268511">
-    <time>2024-06-19T10:32:16Z</time>
-    <name>Office de tourisme b10183</name>
-    <desc>Près des jeux pour enfants</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Vallon du moulin mer, 29730 Guilvinec, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.332834" lon="-1.535525">
-    <time>2024-05-07T09:48:46Z</time>
-    <name>Sandrine b10138</name>
-    <desc>Ancienne cabine téléphonique sur le côté de la mairie</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>9 place de la mairie, 35490 Sens de bretagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.078009" lon="-4.329488">
-    <time>2024-04-26T09:43:04Z</time>
-    <name>Madeleine b10115</name>
-    <desc>à la porte d entrée du centre.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Ctre gradlon à pouldavid, 29100 Douarnenez, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.912374" lon="-1.378402">
-    <time>2024-04-22T09:46:41Z</time>
-    <name>Association récréations resteriennes b10114</name>
-    <desc>Dans la cour de la mairie sous le préau.</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Mairie de retiers 19 bis rue georges clémenceau, 35240 Retiers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.786156" lon="-3.105979">
-    <time>2024-03-14T09:37:06Z</time>
-    <name>Anthony b10038</name>
-    <desc>Une boîte se trouve sur le parking de l église et une autre au centre de la place du bourg</desc>
-    <type>BoiteLire Bretagne</type>
-    <extensions>
-      <osmand:address>Place du centre, 22740 Lézardrieux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6984,37 +6228,793 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.625459" lon="-2.262433">
-    <time>2024-08-20T10:04:23Z</time>
-    <name>Sdm94 b10011</name>
-    <desc>Derrière le gite, sur la liaison douce vers la mairie, devant l entrée du jardin partagé</desc>
+  <wpt lat="48.675537" lon="-1.911482">
+    <time>2017-04-11T12:18:51Z</time>
+    <name>Vival de st coulomb b998</name>
+    <desc></desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Rue du chanoine ribault, 22380 Saint cast le guildo, France</osmand:address>
+      <osmand:address>5 place de l’église, 35350 St coulomb , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.381281" lon="-1.979999">
-    <time>2024-02-22T09:49:21Z</time>
-    <name>Lucy b10006</name>
-    <desc>Dans la petite cour derrière le fratellenza', rue de la liberté, a côté du disquaire, jolie armoire ancienne.</desc>
+  <wpt lat="48.103426" lon="-1.672417">
+    <time>2017-03-27T10:27:43Z</time>
+    <name>Anouk b912</name>
+    <desc>Bibliothèque de la gare routière</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>Cour du bar  le fratellenza', rue de la liberté, 22630 Evran, France</osmand:address>
+      <osmand:address>Gare routiere, 35000 Rennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.084892" lon="-1.645845">
-    <time>2024-02-21T15:41:56Z</time>
-    <name>Celine feillel dauvier b10005</name>
-    <desc>Bonjour il s agit de deux boites à livres rouges en bord de rue une pour les livres enfants, une pour les livres adultes elle est située dans le quartier le blosne à rennes métro poterie elle est liée à des ateliers d'écriture menés à l'année au même endroit elle a été inaugurée avec les habitants du quartier</desc>
+  <wpt lat="47.481606" lon="-3.120615">
+    <time>2017-03-02T08:49:46Z</time>
+    <name>Annie91 b866</name>
+    <desc>Près de l office de tourisme, une jolie boite à lire décorée découverte pendant des vacances...</desc>
     <type>BoiteLire Bretagne</type>
     <extensions>
-      <osmand:address>16 allee de lituanie, 35200 Rennes, France</osmand:address>
+      <osmand:address>14 rue de verdun, 56170 Quiberon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.104768" lon="-1.679274">
+    <time>2017-02-28T09:39:44Z</time>
+    <name>François rocher b854</name>
+    <desc>Devant nature et découvertes</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>40 place du colombier, 35000 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.044938" lon="-1.603441">
+    <time>2017-02-23T12:57:48Z</time>
+    <name>Julie b833</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la poste, 35770 Vern sur seiche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.645969" lon="-2.087241">
+    <time>2017-02-23T12:08:06Z</time>
+    <name>Laetitia b825</name>
+    <desc>La boite se situé juste devant le café du ciné manivel avec banc et espace public.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place garnier, 35600 Redon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.646757" lon="-2.085612">
+    <time>2017-02-23T12:06:14Z</time>
+    <name>Laetitia b824</name>
+    <desc>La boite se trouve juste auprès de la vilaine avec un banc pour se poser.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Quai duguay trouin, 35600 Redon , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.133337" lon="-1.533786">
+    <time>2017-02-17T16:39:14Z</time>
+    <name>Charlotte b811</name>
+    <desc>Boite à lire construite sur la place de la mairie</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 35690 Acigné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.120228" lon="-1.699591">
+    <time>2017-02-17T15:04:49Z</time>
+    <name>Françoise b810</name>
+    <desc>La boite se situe à l'accueil de l'etablissement français du sang villejean.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue pierre jean gineste, 35000 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.118406" lon="-1.680947">
+    <time>2017-01-23T10:25:45Z</time>
+    <name>Victor b781</name>
+    <desc>La boite est proche du carrefour contact.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address> square de la rance, 35000 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.001368" lon="-1.775519">
+    <time>2017-01-16T10:34:56Z</time>
+    <name>Médiathèque de guichen b771</name>
+    <desc>Le livre voyageur : n hésitez pas à prendre un livre, le lire, et / ou déposer un livre. echangeons des livres librement et gratuitement dans la boîte à livres.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>81 rue de redon, 35580 Guichen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.65182" lon="-2.837661">
+    <time>2017-01-13T10:15:04Z</time>
+    <name>Isabelle b759</name>
+    <desc>Une fresque et un décor sublime pour y déposer des livres !</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Parc de la duchesse anne, 22410 Saint-quay-portrieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.209666" lon="-1.630318">
+    <time></time>
+    <name>Biblothèque de chevaigné b740</name>
+    <desc>La bibliothèque de chevaigné a choisi de déposer de petites boites à livres dans divers lieux de rencontre de chevaigné: cécilia coiffure et le club de l amitié sont les deux premiers points.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>18 rue d'lle et rance, 35250 Chevaigné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9576" lon="-3.827302">
+    <time></time>
+    <name>Mael b664</name>
+    <desc>Un grand bac à lire dans l'espace culturel. accessible aux heures d'ouverture.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>17 rue alsace lorraine, 29140 Rosporden, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.532441" lon="-2.0567">
+    <time></time>
+    <name>Vadis sylvie b658</name>
+    <desc>Une petite boîte certes mais pleine de lecture gratuite !!</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>2 place du dr louis jourdan, 22490 Pleslin-trigavou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.731176" lon="-2.587191">
+    <time></time>
+    <name>Vanessa b637</name>
+    <desc>En majorité des livres à destination de la jeunesse.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Chemin des écoliers, 56250 Elven, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.657055" lon="-2.755017">
+    <time></time>
+    <name>Stephanie b631</name>
+    <desc>Boîte à lire située dans le jardin des remparts au niveau des jeux pour enfants côté porte prison.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue francis decker, 56000 Vannes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.74633" lon="-3.467742">
+    <time></time>
+    <name>Vincent recyclivre b603</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Boulevard d'armor, 22300 Lannion, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.994386" lon="-1.612467">
+    <time></time>
+    <name>Cacrineb b588</name>
+    <desc>À utiliser sans modération !</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>1 rue des sports, 35230 Bourgbarre , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.182829" lon="-1.643459">
+    <time></time>
+    <name>Monique martin b576</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la cale, 35830 Betton, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.437297" lon="-2.016299">
+    <time></time>
+    <name>Marianne b567</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>14 rue saint-james , 22100 Lanvallay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.436014" lon="-2.056447">
+    <time></time>
+    <name>Marianne b566</name>
+    <desc>Située dans le square derrière la mairie.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>1 rue du 19 mars 1962, 22100 Lanvallay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.292548" lon="-4.459849">
+    <time></time>
+    <name>Journée citoyenne b489</name>
+    <desc>Mise en place le 1er octobre 2016</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Cale, 29160 Lanvéoc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.287579" lon="-4.464403">
+    <time></time>
+    <name>Journée citoyenne b488</name>
+    <desc>Mise en place 1er octobre 2016</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>20 rue de ecoles, 29160 Lanvéoc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.286952" lon="-4.462041">
+    <time></time>
+    <name>Journée citoyenne b487</name>
+    <desc>Mise en place le 1er octobre 2016</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>2 grande rue, 29160 Lanveoc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.758552" lon="-2.845377">
+    <time></time>
+    <name>Anonyme b486</name>
+    <desc>Il s agit d'une cabine téléphonique transformée en boite à lire</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de l'eglise, 56390 Grandchamp, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.735403" lon="-3.499963">
+    <time></time>
+    <name>Dorothee b471</name>
+    <desc>Devant la plage face au fort bloqué près des wc public</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>15 boulevard de l'ocean, 56270 Ploemeur, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.545653" lon="-2.731301">
+    <time></time>
+    <name>Lumino b465</name>
+    <desc>Beau panorama sur la baie de saint brieuc en bonus</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Chemin des faudours , 22190 Plerin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.530683" lon="-2.748476">
+    <time>2018-08-16T16:52:27Z</time>
+    <name>Lumino b464</name>
+    <desc>Elle contient également une boite à messages</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue du chêne vert, 22190 Plerin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17591" lon="-1.303698">
+    <time></time>
+    <name>Sylvie truffault b460</name>
+    <desc>La boite est située dans la pharmacie.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>12 place pierre poupard, 35450 Val-d'izé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.996789" lon="-4.107258">
+    <time></time>
+    <name>Helene b435</name>
+    <desc>A l entrée de la crêperie book'n'billig</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>7, rue de la providence, 29000 Quimper, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.366166" lon="-1.182073">
+    <time></time>
+    <name>Béatrice b418</name>
+    <desc>Devant l'entrée de la maison de quartier des cotterets</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>12 rue de saint-lô, 35300 Fougères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.343505" lon="-1.196091">
+    <time></time>
+    <name>Béatrice b417</name>
+    <desc>Maison de quartier de la chattière à coté du centre juliette drouet</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue du gué maheu, 35300 Fougères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.343916" lon="-1.201195">
+    <time></time>
+    <name>Béatrice b416</name>
+    <desc>Le square est situé face à l'école de la madeleine</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Square de la madeleine, 35300 Fougères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.351561" lon="-1.204626">
+    <time></time>
+    <name>Béatrice b415</name>
+    <desc>A coté de l'aire de jeux</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Parc des orières, 35300 Fougères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.354651" lon="-1.208428">
+    <time></time>
+    <name>Béatrice b414</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place pierre symon, 35300 Fougères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.35266" lon="-2.913502">
+    <time></time>
+    <name>Fouque b377</name>
+    <desc>Boîte à livre installée en mars qui connaît un bon accueil. un large choix de livre de cd et même parfois de cassette. tout cela au c?ur de notre petit bourg...</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>1 place saint guyganton, 22800 Lanfains, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.183829" lon="-1.436454">
+    <time></time>
+    <name>Médiathèque de la bouëxière b360</name>
+    <desc>Boite à lire dans une cabine téléphonique anglaise. livres magazines papier adultes et enfants. livres et musiques numériques libres de droits à télécharger via une biblio intégrée à la boîte à lire.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue théophile rémond, 35340 La bouëxière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.650439" lon="-2.085008">
+    <time></time>
+    <name>Médiathèque jean-michel bollé b348</name>
+    <desc>Mise en place par la mairie</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la duchesse anne, 35600 Redon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.651778" lon="-2.083405">
+    <time></time>
+    <name>Médiathèque jean-michel bollé b347</name>
+    <desc>Mise en place par la mairie</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de bretagne, 35600 Redon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.39858" lon="-1.512774">
+    <time></time>
+    <name>Bibliotheques d antrain communaute b339</name>
+    <desc>Une boite à lire à l'initiative du réseau des bibliothèques pour partager le plaisir de la lecture. n'hésitez pas c'est en livre-échange ! lisez gardez offrez redéposez !</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de l'église, 35560 Rimou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.802741" lon="-2.220603">
+    <time></time>
+    <name>Fabienne rivière b319</name>
+    <desc>Boite à livres mise en place par les bénévoles de la bibliothèque de st nicolas du tertre</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Etang de la guette, 56910 Saint nicolas du tertre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.630345" lon="-3.178009">
+    <time></time>
+    <name>Nathalie b316</name>
+    <desc>Fabriquée dans un vieux frigo elle est fixée au mur d'une maison. quand on va vers la plage après l'élevage de chèvres il faut tourner à droite dans un petit village. la boite est un peu plus loin sur la droite.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Kerouriec, 56410 Erdeven, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.517753" lon="-2.298613">
+    <time></time>
+    <name>Dzmzngzon b297</name>
+    <desc>Elle est à côté de l'église.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Route de nantes, 56130 La roche bernard, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.653371" lon="-2.917321">
+    <time></time>
+    <name>Lenabat b291</name>
+    <desc>Boite aux lettres situées près du plan de la commune</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>5 rue yves de pont sal, 56400 Plougoumelen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.519953" lon="-3.129368">
+    <time></time>
+    <name>Nathalie roussel b290</name>
+    <desc>Elle est orange vous ne pouvez pas la louper.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>38 rue de l'église , 56510 Saint-pierre-quiberon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.810173" lon="-2.383339">
+    <time></time>
+    <name>Quatreville b267</name>
+    <desc>Une boîte qui comporte beaucoup d anciens livres la littérature anglaise est aussi présente et quelques livres plus récents très intéressant</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Bord du halage, 56000 Malestroit, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73228" lon="-2.590816">
+    <time></time>
+    <name>Anonyme b266</name>
+    <desc>Livres de qualité il y a des lecteurs qui aiment les beaux livres très certainement</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de l'eglise, 56250 Elven, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.099667" lon="-2.032868">
+    <time></time>
+    <name>Céline b250</name>
+    <desc>Quatre boites disposées autour du lac : plage office de tourisme ponton et devant l'aparté</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Lac de trémelin, 35750 Iffendic, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3539" lon="-1.209357">
+    <time></time>
+    <name>Leconte cécile b248</name>
+    <desc>La boite à lire se trouve près de l'entrée du jardin public à gauche de l'église saint léonard.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Jardin public de fougères, 35300 Fougères, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.769253" lon="-3.566092">
+    <time></time>
+    <name>Nelly b228</name>
+    <desc>Cette boite à lire est sur le terre plein en face de la mairie juste à côté de la poste...</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place de la poste, 22560 Trébeurden , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.812821" lon="-2.382426">
+    <time></time>
+    <name>Lucie b210</name>
+    <desc>Boite à lire créée à l'initiative de la médiathèque de malestroit située près de l'écluse au bord du canal de nantes à brest.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Chemin de l écluse, 56140 Malestroit , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.666609" lon="-2.986383">
+    <time></time>
+    <name>Médiathèque d'auray b198</name>
+    <desc>Cabine livre réalisée par les menuisiers et les peintres de la ville d'auray. installées en extérieur dans un lieu de passage chacun peut venir y retirer un livre avec pour seule contrainte d en déposer un autre à la place...</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place notre dame, 56400 Auray, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.670454" lon="-2.997539">
+    <time></time>
+    <name>Médiathèque d'auray b197</name>
+    <desc>Dans le quartier du gumenen maison livre réalisée par une classe de 3ème du lycée kerplouz installées en extérieur dans un lieu de passage chacun peut venir y retirer un livre avec pour seule contrainte d'en déposer un autre à la place...</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue du général auguste la houlle , 56400 Auray, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.374157" lon="-4.369362">
+    <time></time>
+    <name>Collectif arz en place b124</name>
+    <desc>Une ancienne cabine téléphonique anglaise.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place du calvaire, 29470 Plougastel-daoulas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.472222" lon="-1.561389">
+    <time></time>
+    <name>Antrain communauté b120</name>
+    <desc>Mise en place par le réseau des bibliothèques d'antrain communauté cette boite à lire se trouve au c?ur de la base de loisirs récrénature en forêt de villecartier. a l'entrée de l espace ludique vous trouverez cette petite maisonnette contenant des dizaines de livres! servez-vous et bonne lecture à tous !</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Forêt de villecartier , 35560 Bazouges-la-pérouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.579205" lon="-3.824714">
+    <time></time>
+    <name>Totor b113</name>
+    <desc>Le troc lavoir est un espace dédié à la lecture et au partage de livres au sein de l'ancien lavoir du créou. un beau projet de voisinage !</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Venelle du créou, 29600 Morlaix, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.390394" lon="-4.486076">
+    <time></time>
+    <name>Totor b112</name>
+    <desc>Bibliothèque de rue adossée à l espace solidaire alternatif au coin d'la rue à l'entrée de la rue de saint malo.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>10 rue abbé rochon, 29200 Brest, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.665765" lon="-2.977299">
+    <time></time>
+    <name>Médiathèque d'auray b111</name>
+    <desc>Cette bib. de rue est installée à saint-goustan sur le port près de la maison de quartier. venez emprunter et déposer ce qui vous fait plaisir...</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Port de saint-goustan, 56400 Auray, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.097153" lon="-1.667129">
+    <time></time>
+    <name>Lou b110</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>26 bis rue bigot de préameneu, 35000 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.107872" lon="-1.658769">
+    <time></time>
+    <name>Leuleu b109</name>
+    <desc>La boîte est située à l'angle de la rue henri delaborde et de la rue bertrand robidou</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue henri delaborde, 35000 Rennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.137245" lon="-1.664629">
+    <time></time>
+    <name>Yzabo b102</name>
+    <desc>Au coeur du parc de la coulée verte.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Coulée verte, 56150 Baud, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.072404" lon="-1.708119">
+    <time></time>
+    <name>Gervaisot b89</name>
+    <desc>La boite se situe dans la campagne le long d'un chemin piétonnier avec un banc devant. autour il y a des bacs incroyables avec des plantes aromatiques comestibles à disposition. elle est plus spécialisée dans les magazines</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>La basse teillais, 35136 Saint jacques de la lande, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.797303" lon="-3.022023">
+    <time></time>
+    <name>Fanny b88</name>
+    <desc>Cette boite à lire tourne depuis février 2016 et est régulièrement garnie et l'été en plus quelques fines herbes à emporter !</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>14 rue de toul broc'h, 22620 Ploubazlanec, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.183016" lon="-1.644382">
+    <time></time>
+    <name>Amélie m. b61</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Place du vieux marché, 35830 Betton, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.092047" lon="-1.653398">
+    <time></time>
+    <name>Gwenael f. b27</name>
+    <desc></desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Rue gérard philippe, 35200 Rennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

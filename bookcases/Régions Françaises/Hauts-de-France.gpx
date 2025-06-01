@@ -1,5 +1,173 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.695488" lon="2.866824">
+    <time>2025-05-09T18:09:06Z</time>
+    <name>Près du hem b10540</name>
+    <desc>Une boite à lire vous attend aux prés du hem elle est située au niveau de l entrée. prenez le chemin qui va vers le lac elle sera sur votre droite</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>150 rue des résistants, 59280 Armentières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.897961" lon="2.35">
+    <time>2025-03-24T09:58:09Z</time>
+    <name>Carole b10494</name>
+    <desc>Dans l abri bus</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue des tilleuls, 59470 Eringhem, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.403497" lon="2.487511">
+    <time>2025-02-28T10:04:39Z</time>
+    <name>Christophe b10474</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>5 rue de l europe, Magnicourt- 62127, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.893504" lon="1.829846">
+    <time>2024-11-13T21:10:19Z</time>
+    <name>Fréthun b10386</name>
+    <desc>Se situe juste sur le parking devant la mairie derrière l abris de bus face au numéro de maison 156</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>186 rue de l église, 62185 Frethun, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.613811" lon="3.04236">
+    <time>2024-09-16T10:02:34Z</time>
+    <name>Pichard olivier b10320</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Seligeria4@gmail.com, 59000 59000 - lille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.35517" lon="2.16923">
+    <time>2024-09-02T10:01:41Z</time>
+    <name>Anonyme b10308</name>
+    <desc>Dans l arrêt de bus au croisement de la rue de la demoiselle et de la rue de villers.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>1 rue de la demoiselle, 60430 Pondron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.284156" lon="2.919506">
+    <time>2024-08-19T09:42:40Z</time>
+    <name>Anonyme b10286</name>
+    <desc>Dans l arrêt de bus, face à la mairie.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue de l automne, 60127 Fresnoy-la-rivière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.297769" lon="2.921202">
+    <time>2024-08-16T09:30:34Z</time>
+    <name>Patrice b10274</name>
+    <desc>A droite de l abbaye</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place de l eglise, 60127 Morienval, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.203781" lon="1.821232">
+    <time>2024-08-16T09:30:27Z</time>
+    <name>Céline b10273</name>
+    <desc>Des livres jeunesse sont recherchés pour équilibrer l offre de cette boîte.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue de la mairie, 80150 Forest-l abbaye, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.587779" lon="2.842224">
+    <time>2024-08-05T09:35:30Z</time>
+    <name>Médaithèque des fontinettes b10257</name>
+    <desc>Située dans le parc de jeux enfants à côté du terrain de pétanque</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Impasse pierre dubois, 60310 Lassigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.615378" lon="2.857898">
+    <time>2024-08-05T09:35:12Z</time>
+    <name>Médaithèque des fontinettes b10256</name>
+    <desc>Situé à coté du parc de jeux hameau de la potière</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue principale la potière, 60310 Lassigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.05471" lon="1.903163">
+    <time>2024-08-05T09:32:39Z</time>
+    <name>Lily b10248</name>
+    <desc>Elle est située avant le point, non loin en face de la marie et l eglise de pont-remy.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>1 rue jules barni, 80580 Pont-remy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.046133" lon="2.050805">
+    <time>2024-08-05T09:32:32Z</time>
+    <name>Lily b10247</name>
+    <desc>Elle est situé au début de la rue, sous une sorte d abris de bus.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue de bouchon, 80690 Mouflers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.671365" lon="3.21304">
+    <time>2024-06-05T10:16:55Z</time>
+    <name>Cathfoisrien b10172</name>
+    <desc>La boîte à lire se situe au-dessus du muret de la maison 71</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>71 avenue paul bert, 59390 Lys-lez-lannoy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.483107" lon="2.406458">
     <time>2024-01-29T09:34:10Z</time>
     <name>Lily b9975</name>
@@ -55,30 +223,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Place de l église, 59710 Ennevelin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.489028" lon="3.446615">
-    <time>2017-04-11T11:31:53Z</time>
-    <name>Picardie des chateaux b984</name>
-    <desc>Au siege de la maison intercommunale</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>6 place charles de gaulle, 02320 Pinon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.474197" lon="3.300378">
-    <time>2017-04-11T09:28:12Z</time>
-    <name>Alice b982</name>
-    <desc>Livres à croquer à l'initiative du conseil municipal des jeunes.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>75 rue du général de gaulle, 59310 Landas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -319,18 +463,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Quartier maillebois, 62219 Longuenesse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.624319" lon="3.081155">
-    <time>2017-03-28T09:51:14Z</time>
-    <name>Filiatrault mathieu b915</name>
-    <desc>Une toute nouvelle boîte à lire vient d ouvrir ses portes dans l enceinte de l'auberge de jeunesse hi lille ! venez échanger des livres avec des voyageurs du monde entier !</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>235 boulevard paul painlevé , 59000 Lille, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -708,18 +840,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.821491" lon="2.192452">
-    <time>2017-03-06T09:17:02Z</time>
-    <name>Christelle cornec b874</name>
-    <desc>La boite se situe face au carrefour market</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue de bleue maison, 62910 Éperlecques, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.948822" lon="1.853102">
     <time>2022-03-22T11:51:00Z</time>
     <name>S. cugny b8677</name>
@@ -847,18 +967,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Parc songeons, 60200 Compiegne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.614098" lon="3.112634">
-    <time>2017-02-28T09:41:01Z</time>
-    <name>Emilie b855</name>
-    <desc>Découvrez une ancienne cabinet téléphonique où vous trouvez livres, jouets, etc.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>32 rue paul vaillant couturier, 59260 Lezennes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1015,18 +1123,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Résidence guy mollets, 62138 Bauvin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.67886" lon="3.191968">
-    <time>2017-02-23T17:13:37Z</time>
-    <name>Marquise b838</name>
-    <desc>La boite à lire se situe à l'entrée de l'église saint michel.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Eglise saint-michel, 59100 Roubaix, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1332,18 +1428,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.367478" lon="3.080378">
-    <time>2017-01-23T10:28:02Z</time>
-    <name>Cathy b782</name>
-    <desc>Située sous porche de douai mairie du beffroi.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>83 rue de la mairie, 59500 Douai, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.725039" lon="3.105161">
     <time>2021-07-23T15:25:25Z</time>
     <name>Beeshop b7791</name>
@@ -1387,18 +1471,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>13 rue jules ferry, 62120 Norrent-fontes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.528638" lon="3.175672">
-    <time>2017-01-16T10:50:15Z</time>
-    <name>Alice b772</name>
-    <desc>Kiosque belle époque.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place de la gare, 59242 Templeuve, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1488,18 +1560,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.613408" lon="3.073225">
-    <time>2017-01-13T10:17:19Z</time>
-    <name>Recyclivre b767</name>
-    <desc>2 étagères régulièrement pleines de lvires vous attendent dans nos locaux de 09h00 à 17h00 du lundi au vendredi</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>99, rue du jardin des plantes, 59000 Lille, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.390264" lon="2.430351">
     <time>2021-06-17T15:26:58Z</time>
     <name>Benoit chagnon b7646</name>
@@ -1579,18 +1639,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Rue claude bernard, 59145 Berlaimont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.907498" lon="2.499976">
-    <time>2017-01-05T18:18:43Z</time>
-    <name>Beaudelain aimée b753</name>
-    <desc>Cette boite à lire est dans une salle de la mairie de fouilloy . ouverte le mardi matin de 10h30 à 12h et le vendredi après-midi de 14h à 15h30.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address> 14 rue jean jaures, 80800 Fouilloy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1711,18 +1759,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>85 avenue de la république,  59160 Lomme, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.671063" lon="2.341496">
-    <time></time>
-    <name>Gilliers b736</name>
-    <desc>Place de la mairie</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>1 place de la mairie,  62120 Racquinghem, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1872,18 +1908,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.342621" lon="2.604557">
-    <time></time>
-    <name>Marine machu b717</name>
-    <desc>Boîte à lire dans une ancienne cabine téléphonique près de la mairie et de la bibliothèque du village de saint martin longueau dans l'oise.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>8 rue de la république, 60700 Saint-martin-longueau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.877666" lon="2.320042">
     <time>2021-02-01T14:14:45Z</time>
     <name>Martine truffier b7169</name>
@@ -1915,18 +1939,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Rue des arts, 62910 Moulle, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.582672" lon="3.079391">
-    <time></time>
-    <name>Johann b707</name>
-    <desc>La boite à lire se trouve devant le auchan à côté du magasin swarovski</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Chemin de templemars, 59155 Faches-thumesnil, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2256,18 +2268,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.691273" lon="3.160423">
-    <time></time>
-    <name>Jardin de traverse livres en liberté b668</name>
-    <desc>Pour déposer pour consulter ou lire les horaires d ouvertures du jardin ont été revus élargis et se répartissent comme suit mercredi de 10 à 12 h et de 14 à 16 h - vendredi de 10 à 14 h - samedi de 10 à 12 et de 14 à 16 h.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue du vivier, 59100 Roubaix, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="51.01997" lon="2.345933">
     <time>2020-08-28T10:04:56Z</time>
     <name>Valérie strojwas b6617</name>
@@ -2287,18 +2287,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Grand place, 59280 Armentières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.883866" lon="2.306193">
-    <time></time>
-    <name>Teddy b657</name>
-    <desc>La boite a lire est au milieu du parc jean rostand près de l aire de jeux.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Parc jean rostand, 80000 Amiens, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2328,18 +2316,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.637889" lon="3.127036">
-    <time></time>
-    <name>Amelie b65</name>
-    <desc>La boite à lire se situe juste à l'entrée de la mairie de quartier de flers bourg dans un meuble à porte vitrée.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>33 rue du general leclerc, 59650 Villeneuve d ascq, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.525959" lon="2.926792">
     <time>2020-08-06T14:34:23Z</time>
     <name>Moukni b6492</name>
@@ -2359,18 +2335,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>984 rue saint-gervais, 60700 Pontpoint, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.709432" lon="2.229335">
-    <time></time>
-    <name>Virginia b649</name>
-    <desc>Elle se situe derrière la mairie face à la place.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place jean jaurès , 62570 Wizernes , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2467,18 +2431,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Grande rue, 80560 Marieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.212603" lon="3.856343">
-    <time>2018-04-06T09:23:15Z</time>
-    <name>Demeure b633</name>
-    <desc>Boîte à lire tout public.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue de la cavée, 59138 Bachant, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3084,18 +3036,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.414252" lon="3.403235">
-    <time></time>
-    <name>Albert sandrine b563</name>
-    <desc>A côté de l'école marcelle et paul françois.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>19 rue fernand pelloutier, 59178 Hasnon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.673448" lon="3.208766">
     <time>2019-12-16T09:32:29Z</time>
     <name>Jérémy b5627</name>
@@ -3276,18 +3216,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.278407" lon="2.293331">
-    <time></time>
-    <name>Anonyme b55</name>
-    <desc>La boite se trouve face à la poste près de la mairie et près de la résidence des bords de canche. il y a trois boite à lire à frévent...une initiative bien sympathique de la médiathèque municipale.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>8 place jean jaurès  , 62270 Frévent, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.63258" lon="2.164219">
     <time>2019-11-07T14:58:31Z</time>
     <name>Fabien b5499</name>
@@ -3372,30 +3300,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.688768" lon="2.87187">
-    <time></time>
-    <name>Ifsi ifas b546</name>
-    <desc>Entrée de l ifsi à droite des batiments.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>96 rue jules lebleu, 59280 Armentières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.68683" lon="2.870267">
-    <time></time>
-    <name>Maternité du cha b545</name>
-    <desc>A droite du sas de la maternité.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue jules lebleu, 59280 Armentières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.503379" lon="2.429898">
     <time>2019-10-25T14:31:13Z</time>
     <name>Flow60 b5445</name>
@@ -3415,18 +3319,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Rue du général de gaulle, 60700 Fleurines, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.683656" lon="2.868914">
-    <time></time>
-    <name>Centre hospitalier d armentières b544</name>
-    <desc>A côté de l'entrée principale du centre hospitalier à droite côté parking.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>112 rue sadi carnot, 59280 Armentières, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3535,18 +3427,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Parc de la plaine, 59470 Wormhout, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.940473" lon="2.440513">
-    <time></time>
-    <name>Mkl b531</name>
-    <desc>Ancienne cabine téléphonique réhabilitée.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address> rue de l'Église, 80115 Pont-noyelles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3667,30 +3547,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>6 rue sais carnot, 62400 Béthune, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.239967" lon="4.016309">
-    <time></time>
-    <name>Vincent herlemont b520</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>44 rue du lieutenant boucly, 59680 Ferrière-la-petite, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.298807" lon="3.794451">
-    <time></time>
-    <name>Valérie fromont b519</name>
-    <desc>Dans une ancienne cabine téléphonique ! !</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place charles de gaulle , 59570 Bavay-la-romaine, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3828,30 +3684,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.910756" lon="2.312432">
-    <time></time>
-    <name>Josée b504</name>
-    <desc>Devant l'entrée de la piscine le nautilus.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>35 rue léo lagrange, 80000 Amiens, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.893243" lon="2.297608">
-    <time></time>
-    <name>Josée b503</name>
-    <desc>Boite à lire mise en place par amiens métropole place gambetta à côté du magasin de chaussure jeff</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place gambetta , 80000 Amiens, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.46832" lon="2.813078">
     <time>2019-07-04T09:47:02Z</time>
     <name>Parc des cytises b5002</name>
@@ -3864,18 +3696,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.318903" lon="2.32324">
-    <time></time>
-    <name>Marlène b498</name>
-    <desc>Square jean moulin</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Avenue du 8 mai 1945, 60250 Mouy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.197594" lon="3.379154">
     <time>2019-06-26T15:30:54Z</time>
     <name>Cécilia b4974</name>
@@ -3883,30 +3703,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Rue camélinat, 59129 Avesnes-les-aubert, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.322834" lon="2.306008">
-    <time></time>
-    <name>Marlène b497</name>
-    <desc>Place de coincourt</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue de heilles, 60250 Mouy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.312662" lon="2.317643">
-    <time></time>
-    <name>Marlène b496</name>
-    <desc>Place des platanes</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue roland bouchinet, 60250 Mouy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3960,18 +3756,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.806228" lon="2.052143">
-    <time></time>
-    <name>Vanhove b485</name>
-    <desc>A côté de la bibliothèque</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>89 rue saint gilles, 62890 Tournehem, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.775725" lon="1.978485">
     <time>2019-05-28T17:33:41Z</time>
     <name>Flahaut delphine b4834</name>
@@ -4015,18 +3799,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Place de la mairie, 60580 Coye-la-foret, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.718397" lon="2.334237">
-    <time></time>
-    <name>Thorel b480</name>
-    <desc>Parking de la mairie</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>616 rue principale, 62120 Campagne lez wardrecques, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4087,18 +3859,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Rue des houppeux, 02410 Saint nicolas aux bois, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.72263" lon="2.2933">
-    <time></time>
-    <name>Dydy b469</name>
-    <desc>Coin de rue</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue du maréchal leclerc, 62575 Blendecques, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4356,18 +4116,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.320486" lon="2.32343">
-    <time></time>
-    <name>Coint b438</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place de la gare, 60250 Mouy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.564102" lon="3.624475">
     <time>2019-02-22T09:28:10Z</time>
     <name>Hennequin b4378</name>
@@ -4459,18 +4207,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>41 rue des grenadiers, 59123 Bray dunes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.278457" lon="2.292931">
-    <time></time>
-    <name>Frederique patezour b432</name>
-    <desc>Une boite qui ressemble à un nichoir à oiseaux remplie de livres</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place louis ducatel, 62270 Frevent, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4884,18 +4620,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.318554" lon="1.5894">
-    <time></time>
-    <name>Collin b372</name>
-    <desc>Installée par la médiathèque elle permet à tous de lire à la plage et ailleurs</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Avenue de la plage, 80120 Fort mahon plage, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.734341" lon="3.080474">
     <time>2018-09-24T10:26:59Z</time>
     <name>Courquin b3719</name>
@@ -5172,18 +4896,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.887938" lon="2.30347">
-    <time></time>
-    <name>Amélie d. b327</name>
-    <desc>Boîte à lire rouge installée dans le petit parc de la place du maréchal joffre</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place du maréchal joffre, 80000 Amiens, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.640698" lon="2.392782">
     <time>2018-07-23T09:58:21Z</time>
     <name>Albane b3196</name>
@@ -5215,18 +4927,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>18, rue jean-jaurès, 02800 Charmes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.904843" lon="1.931972">
-    <time></time>
-    <name>Marine b315</name>
-    <desc>Vieille cabine téléphonique transformée en cabine à livres juste à côté de la poste aux attaques.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>389 route d andres , 62730 Les attaques, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5604,30 +5304,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15986" lon="2.95212">
-    <time></time>
-    <name>Fonds decitre b265</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>1 rue de la fraternité, 60620 Betz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.648193" lon="1.726391">
-    <time></time>
-    <name>Fonds decitre b264</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address> 3 rue de grumesnil, 60220 Formerie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.73668" lon="3.084938">
     <time>2018-04-30T10:54:59Z</time>
     <name>Courquin b2606</name>
@@ -5635,18 +5311,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Rue du docteur schweitzer, 59126 Linselles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.529084" lon="2.931834">
-    <time>2017-04-06T15:27:55Z</time>
-    <name>Fonds decitre b256</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place du général de gaulle, 59112 Annœullin, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5688,30 +5352,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.405538" lon="3.155393">
-    <time>2019-06-25T14:51:36Z</time>
-    <name>Association croq livres b253</name>
-    <desc>Seconde boîte à lire voyageur installée dans le village en mai 2014.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place de la fontaine, 02290 Ressons le long, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.387546" lon="3.148493">
-    <time>2019-06-25T14:51:43Z</time>
-    <name>Médiathèque croq livres b251</name>
-    <desc>Elle a été installée en 2013 dans le cadre de l'opération "lectures communes" initiée par l'association des maires ruraux de france. elle mène depuis une existence indépendante.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>6 grand rue, 02290  ressons le long, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.570646" lon="3.62451">
     <time>2018-04-05T17:22:11Z</time>
     <name>Hennequin b2508</name>
@@ -5719,18 +5359,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>Gare de laon, 02000 Laon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.226284" lon="2.882288">
-    <time></time>
-    <name>Mathilde froment b249</name>
-    <desc>Boîte à lire située à l intérieur de l'espace rameau près de l'entrée de la bibliothèque municipale.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>1 place jean-philippe rameau, 60800 Crépy-en-valois, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5892,18 +5520,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.300352" lon="2.606025">
-    <time></time>
-    <name>Guilbert b234</name>
-    <desc>Ancienne cabine téléphonique anglaise recyclée en cabane à lire.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place de l'église, 60550 Verneuil en halatte, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.613635" lon="2.962492">
     <time>2018-02-26T11:18:48Z</time>
     <name>Christine nowak-huyghe b2326</name>
@@ -5988,30 +5604,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.915068" lon="2.252129">
-    <time></time>
-    <name>Jules v. b219</name>
-    <desc>Une nouvelle boîte à lire installée par amiens métropole devant le diapason école de musique d'etouvie.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Avenue de bourgogne , 80090 Amiens, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.884237" lon="2.32377">
-    <time></time>
-    <name>Jules v. b218</name>
-    <desc>La cabine anglaise de la chaussée jules ferry s'est refaite une beauté ! transformée en boîte à lire elle fait le bonheur de ses nouveaux usagers !</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>45 chaussée jules ferry, 80090 Amiens, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.729074" lon="1.610596">
     <time>2018-01-22T09:46:28Z</time>
     <name>Orthok62 b2172</name>
@@ -6031,18 +5623,6 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>27 rue heureuse, 59610 Feron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.881022" lon="2.243275">
-    <time></time>
-    <name>Emilie vautrin b215</name>
-    <desc>Devant la mairie de pont de metz.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>2 rue du château, 80480 Pont-de-metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6456,18 +6036,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.357031" lon="3.524572">
-    <time></time>
-    <name>Coralie b156</name>
-    <desc>Au rez-de chaussée du centre commercial au niveau du salon devant l'accueil.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>12 rue de la halle, 59300  valenciennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.770721" lon="1.612239">
     <time>2017-08-23T10:40:16Z</time>
     <name>Dagormir b1516</name>
@@ -6792,30 +6360,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.509553" lon="3.1715">
-    <time></time>
-    <name>Alice b117</name>
-    <desc>Cabane en bois mobile</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>47 rue du général de gaulle, 59242 Cappelle-en-pévèle, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.530631" lon="3.213229">
-    <time></time>
-    <name>Alice b116</name>
-    <desc>Cabine de plage</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>951 rue de la libération, 59242 Genech, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.62695" lon="2.64132">
     <time>2017-05-31T17:46:10Z</time>
     <name>Devismes brigitte b1143</name>
@@ -6888,6 +6432,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="49.915068" lon="2.252129">
+    <time>2017-05-23T12:51:25Z</time>
+    <name>Emilie b1120</name>
+    <desc>Merci d’ajouter la photo « boîte à lire ») - les coursives etouvie - avenue de bourgogne: une nouvelle boîte à lire installée par amiens métropole devant le diapason ecole de musique d'etouvie</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Avenue de bourgogne:, 80000 Amiens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.88364" lon="2.307355">
     <time>2017-05-23T12:45:58Z</time>
     <name>Emilie b1119</name>
@@ -6907,6 +6463,18 @@
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
       <osmand:address>  place du maréchal joffre, 80000 Amiens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.884237" lon="2.32377">
+    <time>2019-06-25T15:50:17Z</time>
+    <name>Emilie b1116</name>
+    <desc>ancienne cabine téléphonique anglaise réhabilitée en boîte à lire</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address> 45, chaussée jules ferry , 80000 Amiens, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6960,18 +6528,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.708467" lon="2.599357">
-    <time></time>
-    <name>Recyclivre b11</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Hameau de sec-bois, 59232 Vieux-berquin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.24534" lon="3.274621">
     <time>2017-05-15T10:35:09Z</time>
     <name>Matthieu fontaine b1096</name>
@@ -7008,162 +6564,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.638861" lon="3.075713">
-    <time></time>
-    <name>Coralie b106</name>
-    <desc>Entre les halls 1 et 2 de la gare lille europe.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Gare de lille europe, 59800 Lille, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.897961" lon="2.35">
-    <time>2025-03-24T09:58:09Z</time>
-    <name>Carole b10494</name>
-    <desc>Dans l abri bus</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue des tilleuls, 59470 Eringhem, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.403497" lon="2.487511">
-    <time>2025-02-28T10:04:39Z</time>
-    <name>Christophe b10474</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>5 rue de l europe, Magnicourt- 62127, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.893504" lon="1.829846">
-    <time>2024-11-13T21:10:19Z</time>
-    <name>Fréthun b10386</name>
-    <desc>Se situe juste sur le parking devant la mairie derrière l abris de bus face au numéro de maison 156</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>186 rue de l église, 62185 Frethun, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.613811" lon="3.04236">
-    <time>2024-09-16T10:02:34Z</time>
-    <name>Pichard olivier b10320</name>
-    <desc></desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Seligeria4@gmail.com, 59000 59000 - lille, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.35517" lon="2.16923">
-    <time>2024-09-02T10:01:41Z</time>
-    <name>Anonyme b10308</name>
-    <desc>Dans l arrêt de bus au croisement de la rue de la demoiselle et de la rue de villers.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>1 rue de la demoiselle, 60430 Pondron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.284156" lon="2.919506">
-    <time>2024-08-19T09:42:40Z</time>
-    <name>Anonyme b10286</name>
-    <desc>Dans l arrêt de bus, face à la mairie.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue de l automne, 60127 Fresnoy-la-rivière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.297769" lon="2.921202">
-    <time>2024-08-16T09:30:34Z</time>
-    <name>Patrice b10274</name>
-    <desc>A droite de l abbaye</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Place de l eglise, 60127 Morienval, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.203781" lon="1.821232">
-    <time>2024-08-16T09:30:27Z</time>
-    <name>Céline b10273</name>
-    <desc>Des livres jeunesse sont recherchés pour équilibrer l offre de cette boîte.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue de la mairie, 80150 Forest-l abbaye, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.587779" lon="2.842224">
-    <time>2024-08-05T09:35:30Z</time>
-    <name>Médaithèque des fontinettes b10257</name>
-    <desc>Située dans le parc de jeux enfants à côté du terrain de pétanque</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Impasse pierre dubois, 60310 Lassigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.615378" lon="2.857898">
-    <time>2024-08-05T09:35:12Z</time>
-    <name>Médaithèque des fontinettes b10256</name>
-    <desc>Situé à coté du parc de jeux hameau de la potière</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue principale la potière, 60310 Lassigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.05471" lon="1.903163">
-    <time>2024-08-05T09:32:39Z</time>
-    <name>Lily b10248</name>
-    <desc>Elle est située avant le point, non loin en face de la marie et l eglise de pont-remy.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>1 rue jules barni, 80580 Pont-remy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.046133" lon="2.050805">
-    <time>2024-08-05T09:32:32Z</time>
-    <name>Lily b10247</name>
-    <desc>Elle est situé au début de la rue, sous une sorte d abris de bus.</desc>
-    <type>BoiteLire Hauts-de-France</type>
-    <extensions>
-      <osmand:address>Rue de bouchon, 80690 Mouflers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.74433" lon="1.733115">
     <time>2017-04-14T10:18:49Z</time>
     <name>Sandrine b. b1021</name>
@@ -7176,13 +6576,625 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.671365" lon="3.21304">
-    <time>2024-06-05T10:16:55Z</time>
-    <name>Cathfoisrien b10172</name>
-    <desc>La boîte à lire se situe au-dessus du muret de la maison 71</desc>
+  <wpt lat="49.489028" lon="3.446615">
+    <time>2017-04-11T11:31:53Z</time>
+    <name>Picardie des chateaux b984</name>
+    <desc>Au siege de la maison intercommunale</desc>
     <type>BoiteLire Hauts-de-France</type>
     <extensions>
-      <osmand:address>71 avenue paul bert, 59390 Lys-lez-lannoy, France</osmand:address>
+      <osmand:address>6 place charles de gaulle, 02320 Pinon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.474197" lon="3.300378">
+    <time>2017-04-11T09:28:12Z</time>
+    <name>Alice b982</name>
+    <desc>Livres à croquer à l'initiative du conseil municipal des jeunes.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>75 rue du général de gaulle, 59310 Landas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.624319" lon="3.081155">
+    <time>2017-03-28T09:51:14Z</time>
+    <name>Filiatrault mathieu b915</name>
+    <desc>Une toute nouvelle boîte à lire vient d ouvrir ses portes dans l enceinte de l'auberge de jeunesse hi lille ! venez échanger des livres avec des voyageurs du monde entier !</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>235 boulevard paul painlevé , 59000 Lille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.821491" lon="2.192452">
+    <time>2017-03-06T09:17:02Z</time>
+    <name>Christelle cornec b874</name>
+    <desc>La boite se situe face au carrefour market</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue de bleue maison, 62910 Éperlecques, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.614098" lon="3.112634">
+    <time>2017-02-28T09:41:01Z</time>
+    <name>Emilie b855</name>
+    <desc>Découvrez une ancienne cabinet téléphonique où vous trouvez livres, jouets, etc.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>32 rue paul vaillant couturier, 59260 Lezennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.67886" lon="3.191968">
+    <time>2017-02-23T17:13:37Z</time>
+    <name>Marquise b838</name>
+    <desc>La boite à lire se situe à l'entrée de l'église saint michel.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Eglise saint-michel, 59100 Roubaix, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.367478" lon="3.080378">
+    <time>2017-01-23T10:28:02Z</time>
+    <name>Cathy b782</name>
+    <desc>Située sous porche de douai mairie du beffroi.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>83 rue de la mairie, 59500 Douai, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.528638" lon="3.175672">
+    <time>2017-01-16T10:50:15Z</time>
+    <name>Alice b772</name>
+    <desc>Kiosque belle époque.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place de la gare, 59242 Templeuve, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.613408" lon="3.073225">
+    <time>2017-01-13T10:17:19Z</time>
+    <name>Recyclivre b767</name>
+    <desc>2 étagères régulièrement pleines de lvires vous attendent dans nos locaux de 09h00 à 17h00 du lundi au vendredi</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>99, rue du jardin des plantes, 59000 Lille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.907498" lon="2.499976">
+    <time>2017-01-05T18:18:43Z</time>
+    <name>Beaudelain aimée b753</name>
+    <desc>Cette boite à lire est dans une salle de la mairie de fouilloy . ouverte le mardi matin de 10h30 à 12h et le vendredi après-midi de 14h à 15h30.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address> 14 rue jean jaures, 80800 Fouilloy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.671063" lon="2.341496">
+    <time></time>
+    <name>Gilliers b736</name>
+    <desc>Place de la mairie</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>1 place de la mairie,  62120 Racquinghem, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.342621" lon="2.604557">
+    <time></time>
+    <name>Marine machu b717</name>
+    <desc>Boîte à lire dans une ancienne cabine téléphonique près de la mairie et de la bibliothèque du village de saint martin longueau dans l'oise.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>8 rue de la république, 60700 Saint-martin-longueau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.582672" lon="3.079391">
+    <time></time>
+    <name>Johann b707</name>
+    <desc>La boite à lire se trouve devant le auchan à côté du magasin swarovski</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Chemin de templemars, 59155 Faches-thumesnil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.691273" lon="3.160423">
+    <time></time>
+    <name>Jardin de traverse livres en liberté b668</name>
+    <desc>Pour déposer pour consulter ou lire les horaires d ouvertures du jardin ont été revus élargis et se répartissent comme suit mercredi de 10 à 12 h et de 14 à 16 h - vendredi de 10 à 14 h - samedi de 10 à 12 et de 14 à 16 h.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue du vivier, 59100 Roubaix, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.883866" lon="2.306193">
+    <time></time>
+    <name>Teddy b657</name>
+    <desc>La boite a lire est au milieu du parc jean rostand près de l aire de jeux.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Parc jean rostand, 80000 Amiens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.709432" lon="2.229335">
+    <time></time>
+    <name>Virginia b649</name>
+    <desc>Elle se situe derrière la mairie face à la place.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place jean jaurès , 62570 Wizernes , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.212603" lon="3.856343">
+    <time>2018-04-06T09:23:15Z</time>
+    <name>Demeure b633</name>
+    <desc>Boîte à lire tout public.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue de la cavée, 59138 Bachant, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.414252" lon="3.403235">
+    <time></time>
+    <name>Albert sandrine b563</name>
+    <desc>A côté de l'école marcelle et paul françois.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>19 rue fernand pelloutier, 59178 Hasnon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.688768" lon="2.87187">
+    <time></time>
+    <name>Ifsi ifas b546</name>
+    <desc>Entrée de l ifsi à droite des batiments.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>96 rue jules lebleu, 59280 Armentières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.68683" lon="2.870267">
+    <time></time>
+    <name>Maternité du cha b545</name>
+    <desc>A droite du sas de la maternité.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue jules lebleu, 59280 Armentières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.683656" lon="2.868914">
+    <time></time>
+    <name>Centre hospitalier d armentières b544</name>
+    <desc>A côté de l'entrée principale du centre hospitalier à droite côté parking.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>112 rue sadi carnot, 59280 Armentières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.940473" lon="2.440513">
+    <time></time>
+    <name>Mkl b531</name>
+    <desc>Ancienne cabine téléphonique réhabilitée.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address> rue de l'Église, 80115 Pont-noyelles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.239967" lon="4.016309">
+    <time></time>
+    <name>Vincent herlemont b520</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>44 rue du lieutenant boucly, 59680 Ferrière-la-petite, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.298807" lon="3.794451">
+    <time></time>
+    <name>Valérie fromont b519</name>
+    <desc>Dans une ancienne cabine téléphonique ! !</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place charles de gaulle , 59570 Bavay-la-romaine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.910756" lon="2.312432">
+    <time></time>
+    <name>Josée b504</name>
+    <desc>Devant l'entrée de la piscine le nautilus.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>35 rue léo lagrange, 80000 Amiens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.893243" lon="2.297608">
+    <time></time>
+    <name>Josée b503</name>
+    <desc>Boite à lire mise en place par amiens métropole place gambetta à côté du magasin de chaussure jeff</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place gambetta , 80000 Amiens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.318903" lon="2.32324">
+    <time></time>
+    <name>Marlène b498</name>
+    <desc>Square jean moulin</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Avenue du 8 mai 1945, 60250 Mouy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.322834" lon="2.306008">
+    <time></time>
+    <name>Marlène b497</name>
+    <desc>Place de coincourt</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue de heilles, 60250 Mouy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.312662" lon="2.317643">
+    <time></time>
+    <name>Marlène b496</name>
+    <desc>Place des platanes</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue roland bouchinet, 60250 Mouy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.806228" lon="2.052143">
+    <time></time>
+    <name>Vanhove b485</name>
+    <desc>A côté de la bibliothèque</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>89 rue saint gilles, 62890 Tournehem, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.718397" lon="2.334237">
+    <time></time>
+    <name>Thorel b480</name>
+    <desc>Parking de la mairie</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>616 rue principale, 62120 Campagne lez wardrecques, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.72263" lon="2.2933">
+    <time></time>
+    <name>Dydy b469</name>
+    <desc>Coin de rue</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Rue du maréchal leclerc, 62575 Blendecques, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.320486" lon="2.32343">
+    <time></time>
+    <name>Coint b438</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place de la gare, 60250 Mouy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.278457" lon="2.292931">
+    <time></time>
+    <name>Frederique patezour b432</name>
+    <desc>Une boite qui ressemble à un nichoir à oiseaux remplie de livres</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place louis ducatel, 62270 Frevent, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.318554" lon="1.5894">
+    <time></time>
+    <name>Collin b372</name>
+    <desc>Installée par la médiathèque elle permet à tous de lire à la plage et ailleurs</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Avenue de la plage, 80120 Fort mahon plage, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.887938" lon="2.30347">
+    <time></time>
+    <name>Amélie d. b327</name>
+    <desc>Boîte à lire rouge installée dans le petit parc de la place du maréchal joffre</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place du maréchal joffre, 80000 Amiens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.904843" lon="1.931972">
+    <time></time>
+    <name>Marine b315</name>
+    <desc>Vieille cabine téléphonique transformée en cabine à livres juste à côté de la poste aux attaques.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>389 route d andres , 62730 Les attaques, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.15986" lon="2.95212">
+    <time></time>
+    <name>Fonds decitre b265</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>1 rue de la fraternité, 60620 Betz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.648193" lon="1.726391">
+    <time></time>
+    <name>Fonds decitre b264</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address> 3 rue de grumesnil, 60220 Formerie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.529084" lon="2.931834">
+    <time>2017-04-06T15:27:55Z</time>
+    <name>Fonds decitre b256</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place du général de gaulle, 59112 Annœullin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.405538" lon="3.155393">
+    <time>2019-06-25T14:51:36Z</time>
+    <name>Association croq livres b253</name>
+    <desc>Seconde boîte à lire voyageur installée dans le village en mai 2014.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place de la fontaine, 02290 Ressons le long, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.387546" lon="3.148493">
+    <time>2019-06-25T14:51:43Z</time>
+    <name>Médiathèque croq livres b251</name>
+    <desc>Elle a été installée en 2013 dans le cadre de l'opération "lectures communes" initiée par l'association des maires ruraux de france. elle mène depuis une existence indépendante.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>6 grand rue, 02290  ressons le long, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.226284" lon="2.882288">
+    <time></time>
+    <name>Mathilde froment b249</name>
+    <desc>Boîte à lire située à l intérieur de l'espace rameau près de l'entrée de la bibliothèque municipale.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>1 place jean-philippe rameau, 60800 Crépy-en-valois, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.300352" lon="2.606025">
+    <time></time>
+    <name>Guilbert b234</name>
+    <desc>Ancienne cabine téléphonique anglaise recyclée en cabane à lire.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Place de l'église, 60550 Verneuil en halatte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.881022" lon="2.243275">
+    <time></time>
+    <name>Emilie vautrin b215</name>
+    <desc>Devant la mairie de pont de metz.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>2 rue du château, 80480 Pont-de-metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.357031" lon="3.524572">
+    <time></time>
+    <name>Coralie b156</name>
+    <desc>Au rez-de chaussée du centre commercial au niveau du salon devant l'accueil.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>12 rue de la halle, 59300  valenciennes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.509553" lon="3.1715">
+    <time></time>
+    <name>Alice b117</name>
+    <desc>Cabane en bois mobile</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>47 rue du général de gaulle, 59242 Cappelle-en-pévèle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.530631" lon="3.213229">
+    <time></time>
+    <name>Alice b116</name>
+    <desc>Cabine de plage</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>951 rue de la libération, 59242 Genech, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.638861" lon="3.075713">
+    <time></time>
+    <name>Coralie b106</name>
+    <desc>Entre les halls 1 et 2 de la gare lille europe.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Gare de lille europe, 59800 Lille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.637889" lon="3.127036">
+    <time></time>
+    <name>Amelie b65</name>
+    <desc>La boite à lire se situe juste à l'entrée de la mairie de quartier de flers bourg dans un meuble à porte vitrée.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>33 rue du general leclerc, 59650 Villeneuve d ascq, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.278407" lon="2.293331">
+    <time></time>
+    <name>Anonyme b55</name>
+    <desc>La boite se trouve face à la poste près de la mairie et près de la résidence des bords de canche. il y a trois boite à lire à frévent...une initiative bien sympathique de la médiathèque municipale.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>8 place jean jaurès  , 62270 Frévent, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.708467" lon="2.599357">
+    <time></time>
+    <name>Recyclivre b11</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>Hameau de sec-bois, 59232 Vieux-berquin, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

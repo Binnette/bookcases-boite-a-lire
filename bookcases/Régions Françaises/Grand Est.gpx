@@ -1,5 +1,353 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.871186" lon="5.267133">
+    <time>2025-05-28T09:21:32Z</time>
+    <name>Linard b10548</name>
+    <desc>Accessible depuis le parvis de la mairie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>21 voie sacrée à rosnes, 55260 Raival, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.90075" lon="5.236647">
+    <time>2025-05-28T09:21:24Z</time>
+    <name>Linard b10547</name>
+    <desc>Sous l?abribus rue de la croix, devant l?aire de jeux</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la croix, 55260 Raival, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.084752" lon="6.353927">
+    <time>2025-02-11T09:49:57Z</time>
+    <name>Trombi b10467</name>
+    <desc>La boîte à lire se trouve sous un petit kiosque, à côté de la mairie.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>1 all. des tilleuls, 57350 Pange, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.593551" lon="7.145999">
+    <time>2024-12-02T09:48:42Z</time>
+    <name>T b10405</name>
+    <desc>Dans la gloriette en face de la cour de récréation. livres enfant, ado et adulte</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue haute, 68210 Fulleren, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.52059" lon="3.726747">
+    <time>2024-11-05T09:44:16Z</time>
+    <name>Mjc jean guillemin b10382</name>
+    <desc>A l entrée du hall de la mjc accessible 24h sur 24 et 7j sur 7</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>4 rue julian grimau, 10100 Romilly sur seine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.618426" lon="6.365349">
+    <time>2024-10-11T09:54:00Z</time>
+    <name>Karine chevassu b10350</name>
+    <desc>Nouvelle boîte à livres carrefour rue filderstadt et rue général leclerc</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Chevassu.karine.dombasle@gmail.com, Dombasle-su 54110, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.600681" lon="7.708761">
+    <time>2024-09-20T09:28:19Z</time>
+    <name>Stéphanie felix b10333</name>
+    <desc>C?est une boîte à livres géante, projet lauréat des usages ephémères de l?espace public de la ville de strasbourg.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de pfettisheim, 67200 Strasbourg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.739516" lon="7.313464">
+    <time>2024-09-17T12:43:04Z</time>
+    <name>Schmidt b10331</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>30 rue de l agriculture, 68200 Mulhouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.93672" lon="7.098501">
+    <time>2024-09-12T11:20:03Z</time>
+    <name>Euler b10319</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>3 rue des bleuets, 67260 Sarre-union, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.539275" lon="5.104224">
+    <time>2024-09-10T10:04:06Z</time>
+    <name>Dominique liegey b10318</name>
+    <desc>Sous le préau de la mairie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Corbeille.pub2@gmail.com, 52170 Sommeville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.614055" lon="7.75215">
+    <time>2024-09-03T09:49:01Z</time>
+    <name>Biencourt anne b10313</name>
+    <desc>La boîte à livres est né d une idée citoyenne. elle a été inauguré à la 2ème fête du livre en juin 2024.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Parc  plaine des jeux, 67800 Bischheim, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.535119" lon="7.636254">
+    <time>2024-08-26T09:07:12Z</time>
+    <name>Michel awkal b10291</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Etang d entzheim - route de strasbourg, 67960 Entzheim, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.902413" lon="6.052231">
+    <time>2024-08-19T09:41:20Z</time>
+    <name>Stéphane b10283</name>
+    <desc>L armoire à livres se trouve au fond du magasin pambio.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Pambio, 9 rue du 26ème bcp, 54700 Pont-à-mousson, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.888988" lon="6.04805">
+    <time>2024-08-19T09:41:09Z</time>
+    <name>Stéphane b10282</name>
+    <desc>La boîte à lire, une ancienne cabine téléphonique, se trouve à peu près en face de blénovista.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de maidières, 547000 Blénod-lès-pont-à-mousson, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.934828" lon="5.972981">
+    <time>2024-08-19T09:40:56Z</time>
+    <name>Stéphane b10281</name>
+    <desc>Il s agit d'une simple niche fermée par un volet de bois, dans le mur situé au fond du parking qui donne sur la place de la mairie.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 54700 Vilcey-sur-trey, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.899034" lon="6.038278">
+    <time>2024-08-19T09:40:36Z</time>
+    <name>Stéphane b10280</name>
+    <desc>La boîte à livres se situe dans l abri-bus qui se trouve au coin de la rue saint-rémy et de la rue de bellevue.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue saint-rémy, 54700 Maidières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.521266" lon="7.679867">
+    <time>2024-07-25T10:32:46Z</time>
+    <name>Michel awkal b10235</name>
+    <desc>A l intersection entre la rue de paris et la rue de bâle.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>17 rue de paris, 67118 Geispolsheim, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.442114" lon="6.329967">
+    <time>2024-07-04T10:08:46Z</time>
+    <name>Maude b10202</name>
+    <desc>Petit boîte à livre à l entrée du parking du périscolaire</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la chartreuse, 57480 Rettel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.404064" lon="7.456715">
+    <time>2024-06-12T10:06:50Z</time>
+    <name>Fabienne b10178</name>
+    <desc>Se trouve sur la petite aire de jeux tout près du quai de la gare</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la gare, 67140 Barr, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.405839" lon="7.448529">
+    <time>2024-06-12T10:06:38Z</time>
+    <name>Fabienne b10177</name>
+    <desc>Se situe dans le parc qui se trouve juste en face de l école des vosges</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Avenue des voges, 67140 Barr, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.421346" lon="7.522226">
+    <time>2024-06-11T11:33:56Z</time>
+    <name>Fabienne b10174</name>
+    <desc>La bal est une armoire verte qui se trouve tout près de la route principale, en s engageant dans la petite allée d'accès à l'école</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Route principale, 067 Valff, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.254692" lon="7.394979">
+    <time>2024-06-11T10:30:06Z</time>
+    <name>Fabienne b10173</name>
+    <desc>La bal se trouve sur le parking de l office de tourisme, à l'entrée du village, en venant de sélestat</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Route principale, 067 Kintzheim, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.310049" lon="6.33641">
+    <time>2024-06-03T10:01:12Z</time>
+    <name>Sonia b10170</name>
+    <desc>En face de la mairie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue des ecoles, 57920 Kédange-sur-canner, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.817537" lon="5.929042">
+    <time>2024-05-15T09:34:39Z</time>
+    <name>Relais famille de la cote en haye b10152</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>2 rue de la cote, 54385 Domevre en haye, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.617088" lon="7.464399">
+    <time>2024-05-12T14:38:28Z</time>
+    <name>Pillon b10143</name>
+    <desc>Belle boîte à livres devant le presbytère</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de l église, 67520 Wangen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.638178" lon="7.453093">
+    <time>2024-05-12T14:37:43Z</time>
+    <name>Pillon b10142</name>
+    <desc>Petite boîte à livres entre le bâtiment agf et la rue du gal de gaulle</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>10 rue du général de gaulle, 67310 Wasselonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.894509" lon="7.915702">
+    <time>2024-04-03T10:12:07Z</time>
+    <name>Miss l b10081</name>
+    <desc>Dans une ancienne cabine téléphonique sur le parking du complexe sportif l escal</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue bannholz, 67660 Betschorf, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.706111" lon="6.181519">
+    <time>2024-03-28T10:50:30Z</time>
+    <name>Marion b10079</name>
+    <desc>La boîte à livres se trouve tout prêt du terrain multi-sports.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue du crosne, 54000 Nancy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.907282" lon="6.784146">
+    <time>2024-03-08T17:34:28Z</time>
+    <name>Klotz emmanuel b10034</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de l eglise, 88160 Le ménil, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.581474" lon="7.740409">
     <time>2024-02-12T09:35:18Z</time>
     <name>Gil b9990</name>
@@ -468,18 +816,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.421346" lon="7.522226">
-    <time>2023-05-23T15:26:27Z</time>
-    <name>Uggy67 b9591</name>
-    <desc>à côté de l école primaire</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue principale, 67210 Valff, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.924244" lon="6.633537">
     <time>2023-05-22T07:52:11Z</time>
     <name>Chery b9580</name>
@@ -888,18 +1224,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.346378" lon="3.983143">
-    <time>2017-04-05T09:14:09Z</time>
-    <name>Thibaut hurtelle b921</name>
-    <desc>Boîte à lire réalisée par les enfants de l accueil de loisirs et du périscolaire en lien avec le collectif citoyen "loivre en transition" et la mairie.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>25 rue de verdun, 51220 Loivre, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.630192" lon="4.831705">
     <time>2022-09-21T09:15:35Z</time>
     <name>Isa b9184</name>
@@ -907,18 +1231,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Rue du boucan, 08450 Omicourt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.117868" lon="6.185575">
-    <time>2017-03-28T09:49:46Z</time>
-    <name>Gs b914</name>
-    <desc>Ville de metz dans le cadre de sa politique d accès à la culture en général, à la lecture en particulier, la ville de metz a mis en place un réseau de boîtes à livres"</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Porte des allemands, 57000 Metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -991,18 +1303,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>9 rue de la vierge, 55270 Cierges-sous-montfaucon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.516187" lon="7.706628">
-    <time>2017-03-27T10:14:06Z</time>
-    <name>Laurette67120 b907</name>
-    <desc>A l entrée du parc animalier de friedel</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Promenade du girlenhirsch, 67400 Illkirch graffenstaden, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1092,30 +1392,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.363709" lon="6.86504">
-    <time>2017-03-15T09:13:41Z</time>
-    <name>Mickael b894</name>
-    <desc>Sur le parking derrière la mairie.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>4 rue du vivier, 88480 Étival-clairefontaine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.58187" lon="7.758852">
-    <time>2017-03-13T09:20:54Z</time>
-    <name>Mathildeg b892</name>
-    <desc>Dans le jardin de la hear strasbourg, une boite à lire plutôt imposante!</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>1 rue de l académie, 67000 Strasbourg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.511317" lon="7.642963">
     <time>2022-06-14T09:23:09Z</time>
     <name>Michel awkal b8905</name>
@@ -1128,18 +1404,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.695872" lon="4.930108">
-    <time>2017-03-10T14:54:47Z</time>
-    <name>Ba marie b889</name>
-    <desc>Bibliothèque libre dans un bar, le ba kunda cafe.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>10 place de la gare , 08200 Sedan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.815215" lon="7.809531">
     <time>2022-05-24T09:17:17Z</time>
     <name>Tiphaine b8877</name>
@@ -1147,18 +1411,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Route du rhin, 67503 Haguenau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.782811" lon="7.863368">
-    <time>2017-03-08T11:10:11Z</time>
-    <name>Régis falco b887</name>
-    <desc>Cabane à livres installée dans la commune de oberhoffen-sur-moder.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>1 place de l'Église, 67240 Oberhoffen-sur-moder, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1272,18 +1524,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.255752" lon="6.347932">
-    <time>2017-03-03T11:49:28Z</time>
-    <name>Bibliothèque municipale d aboncourt b869</name>
-    <desc>Dans l'aire de jeux, anciennes boites à lettres décorée par les enfants</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de neudelange, 57920 Aboncourt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.437307" lon="6.199218">
     <time>2022-03-22T11:48:40Z</time>
     <name>Bennici b8672</name>
@@ -1291,18 +1531,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Salle saint maximin, 57570 Boust, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.027106" lon="4.420015">
-    <time>2017-03-02T08:51:17Z</time>
-    <name>Mairie de saint etienne au temple b867</name>
-    <desc>Tous types de lecture, pour enfants, pour ados et adultes. cette boite à lire comporte également des magazines et des livres de cuisine.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la mairie, 51460 Saint etienne au temple, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1548,18 +1776,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.256563" lon="7.454101">
-    <time>2017-02-23T17:16:37Z</time>
-    <name>Bibi boidot b840</name>
-    <desc>Une etagere protegee par..un rideau de douche! en fonction depuis plusieurs annees.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue melsheim, 67600 Selestat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.885661" lon="7.540524">
     <time>2021-12-21T17:10:39Z</time>
     <name>Jules sitterlé b8398</name>
@@ -1596,18 +1812,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.163583" lon="6.352203">
-    <time>2017-02-23T17:07:46Z</time>
-    <name>Cécile b835</name>
-    <desc>Maison de la bicyclette</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Lac de bouzey, 88390 Chaumousey, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.371097" lon="7.201848">
     <time>2021-11-24T15:30:21Z</time>
     <name>Raymond b8332</name>
@@ -1639,18 +1843,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>6 rue des ecoles, 67160 Wissembourg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.17263" lon="6.878681">
-    <time>2017-02-23T12:50:00Z</time>
-    <name>Domdom b830</name>
-    <desc>Au mur de la mairie, près des portes de la salle des fêtes. sur la gauche, lorsqu'on fait face au bâtiment.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 88430 Corcieux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1884,18 +2076,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.685921" lon="6.16128">
-    <time></time>
-    <name>Gc faure b80</name>
-    <desc>A l'intérieur de la maison braquehais boulangerie-pâtisserie</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>66 rue de laxou, 54000 Nancy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.344799" lon="5.958134">
     <time>2021-08-10T09:22:50Z</time>
     <name>Nicole gerard b7971</name>
@@ -1903,18 +2083,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Nicolegerard_413@hotmail.com, 88500 Saint-prancher, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.701856" lon="4.991267">
-    <time>2017-02-06T10:06:21Z</time>
-    <name>Frere b797</name>
-    <desc>Boîte à livres et revues</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Ruelle des prés, 08140 Daigny, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1932,18 +2100,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.872259" lon="7.477231">
-    <time>2017-02-03T14:49:09Z</time>
-    <name>Ludo b796</name>
-    <desc>La boite est située à côté du distributeur de billets sncf, à la gare d ingwiller</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Gare d ingwiller, 67340 Ingwiller, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.369751" lon="6.057461">
     <time>2021-08-09T09:09:03Z</time>
     <name>Raphaël b7953</name>
@@ -1951,30 +2107,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Rue des coquelicots, 57440 Algrange, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.052298" lon="7.203194">
-    <time>2017-02-01T09:52:22Z</time>
-    <name>Molenat claudia b793</name>
-    <desc>A la mairie</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>1 grand rue, 68230 Soultzbach-les-bains, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.689062" lon="6.181397">
-    <time>2017-06-20T09:53:11Z</time>
-    <name>Marine c b791</name>
-    <desc>En face de l'église saint sébastien.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue des ponts, 54000 Nancy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2083,18 +2215,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Rue du port, 51240 Pogny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.090967" lon="6.144516">
-    <time>2017-01-18T12:59:48Z</time>
-    <name>Peggy b778</name>
-    <desc>La boite à lire se situe devant l entrée de la piscine municipale. une très bonne idée, non !</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de coubertin, 57950 Montigny-lès-metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2359,18 +2479,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Valerie.scholtes-fournier@ac-reims.fr, 51100 Reims, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.270154" lon="4.025377">
-    <time>2017-01-09T16:21:17Z</time>
-    <name>Caro b757</name>
-    <desc>Boite à lire rue emile zola, en plein milieu de la place luton, sur le coté du terrain de pétanque.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place luton, 51100 Reims, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2664,18 +2772,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.032129" lon="3.957124">
-    <time></time>
-    <name>Loisirette b730</name>
-    <desc>Boîte à lire dans le parc de l'hôtel de ville en face du perron.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>8 rue de l'ile de france, 51200 Epernay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.03836" lon="6.752612">
     <time>2021-03-08T09:59:05Z</time>
     <name>Ferrand bintz elodie b7284</name>
@@ -2755,30 +2851,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>1a avenue de la république, 88000 Epinal, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.813787" lon="7.782844">
-    <time></time>
-    <name>Caroline deutsch b720</name>
-    <desc>La boîte se situe près de la cage à oiseaux et de l aire de jeux dans le parc de la gare</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place désiré brumbt, 67500 Haguenau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.815483" lon="7.786383">
-    <time></time>
-    <name>Caroline deutsch b719</name>
-    <desc>Elle se trouve près du parking</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la vieille ile, 67500 Haguenau, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3300,18 +3372,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.194788" lon="7.315197">
-    <time></time>
-    <name>Bérangère b67</name>
-    <desc>La boîte à livre se trouve dans un renfoncement au niveau du parking de l'hôtel de ville grand'rue.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>2 place hôtel de ville, 68150 Ribeauvillé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.292196" lon="6.411368">
     <time>2020-09-07T15:40:26Z</time>
     <name>Pierre b6692</name>
@@ -3379,18 +3439,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Aeroparc, 57970 Yutz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.332402" lon="4.125983">
-    <time></time>
-    <name>Gérard adloff b659</name>
-    <desc>Située sous l'abribus à côté de la maison de la presse.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>45 rue de la république, 10150 Creney pres troyes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3612,30 +3660,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.930188" lon="4.649478">
-    <time>2019-06-25T15:54:36Z</time>
-    <name>Blook b630</name>
-    <desc>Près de la crèche</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue des cerisiers, 08500 Revin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.462091" lon="7.488433">
-    <time></time>
-    <name>Lili b63</name>
-    <desc>Boite à lire proposée par la ville d'obernai.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la gare, 67210 Obernai, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.557232" lon="7.747282">
     <time>2020-07-02T15:51:42Z</time>
     <name>Julien ravix b6295</name>
@@ -3660,18 +3684,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.942761" lon="4.637464">
-    <time>2019-06-25T15:54:41Z</time>
-    <name>Blook b629</name>
-    <desc>A la mairie</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue victor hugo, 08500 Revin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.521806" lon="4.372596">
     <time>2020-06-30T15:59:30Z</time>
     <name>Liégeois anne b6288</name>
@@ -3691,18 +3703,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Place d etion, 08000 Charleville mézières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.937111" lon="4.640439">
-    <time>2019-06-25T15:54:46Z</time>
-    <name>Blook b628</name>
-    <desc>Dans le parc municipal rocheteau</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue jean baptiste clément, 08500 Revin, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3924,18 +3924,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.106549" lon="6.167024">
-    <time></time>
-    <name>Laet itia b60</name>
-    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place philippe de vigneulles , 57000 Metz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.122524" lon="6.081251">
     <time>2020-03-12T09:37:40Z</time>
     <name>Marie coelho b5994</name>
@@ -4020,30 +4008,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.744627" lon="7.338015">
-    <time></time>
-    <name>Fanny b590</name>
-    <desc>La boîte de couleur rose se trouve face aux jeux pour enfants à l'intérieur du parc steinbach.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>29 rue de la sinne, 68100 Mulhouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.121336" lon="6.173595">
-    <time></time>
-    <name>Laet itia b59</name>
-    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de la comédie, 57000 Metz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.069999" lon="6.861432">
     <time>2020-02-23T15:38:14Z</time>
     <name>Lucie b5888</name>
@@ -4068,18 +4032,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.549923" lon="7.719946">
-    <time></time>
-    <name>Oxy b587</name>
-    <desc>Près de la mairie.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de l'île des pêcheurs, 67540 Ostwald, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.873187" lon="4.808803">
     <time>2020-02-19T17:09:11Z</time>
     <name>Claudette p. b5866</name>
@@ -4099,18 +4051,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Chemin de la souffel, 67370 Stutzheim-offenheim, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.543362" lon="7.709885">
-    <time></time>
-    <name>Oxy b586</name>
-    <desc>En face de l'église</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place du général de gaulle , 67540 Ostwald, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4159,18 +4099,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Rue des petites boucheries, 88000 Epinal, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.094562" lon="6.243052">
-    <time></time>
-    <name>Laet itia b58</name>
-    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Route d'ars laquenexy , 57000 Metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4308,18 +4236,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.117525" lon="6.185071">
-    <time></time>
-    <name>Laet itia b57</name>
-    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Boulevard andré maginot, 57000 Metz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.819754" lon="6.102741">
     <time>2020-01-02T10:13:14Z</time>
     <name>Noémie h. b5670</name>
@@ -4411,18 +4327,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Place de la mairie, 51450 Bétheny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.115883" lon="6.166062">
-    <time></time>
-    <name>Laet itia b56</name>
-    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address> boulevard poincaré  , 57000 Metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4603,18 +4507,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Foyer culturel     rue roth, 57200 Sarreguemines, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.402923" lon="5.843471">
-    <time></time>
-    <name>Claire b530</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de l'église, 54560 Fillières, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4860,30 +4752,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.13889" lon="7.264023">
-    <time></time>
-    <name>Bees alsace b510</name>
-    <desc>Parc schweitzer</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>68240 Kaysersberg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.197523" lon="7.221571">
-    <time></time>
-    <name>Bees alsace b509</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 68240 Fréland, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.10984" lon="7.070619">
     <time>2019-07-26T08:54:05Z</time>
     <name>Bernd jennifer b5082</name>
@@ -4908,18 +4776,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.132193" lon="7.162304">
-    <time></time>
-    <name>Bees alsace b508</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Parc lefébure, 68370 Orbey, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.283096" lon="5.897571">
     <time>2019-07-24T09:05:51Z</time>
     <name>Élodie b5074</name>
@@ -4927,18 +4783,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Rue maréchal joffre, 54790 Mancieulles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.105097" lon="7.19253">
-    <time></time>
-    <name>Bees alsace b507</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Lieu dit la place, 68910 Labaroche, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4963,18 +4807,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Arrêt de bus près de la boulangerie, 67370 Berstett, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.237359" lon="6.168429">
-    <time>2019-06-25T16:05:39Z</time>
-    <name>Josée b505</name>
-    <desc>Devant la mairie</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Pont de metz , 80480 Metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5071,18 +4903,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>54 avenue aristide briant, 10600 La-chapelle-saint-luc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.917781" lon="7.531955">
-    <time></time>
-    <name>Mickael b49</name>
-    <desc>La boite à lire se trouve directement à gauche dans l'entrée du super u.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la 1ère armée, 68740 Fessenheim, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5203,30 +5023,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Salle la lousianne, 51400 Mourmelon le grand, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.439788" lon="6.017207">
-    <time></time>
-    <name>Astrid b484</name>
-    <desc>Livres à emprunter ou à échanger librement</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Square de l'eglise, 57330 Volmerange-les-mines, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.739198" lon="7.067903">
-    <time></time>
-    <name>Christophe b481</name>
-    <desc>Une boite a lire a l'entrée du magasin cora.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Route de phalsbourg , 57400 Sarrebourg, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5544,18 +5340,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.284421" lon="6.953071">
-    <time></time>
-    <name>Pat b45</name>
-    <desc>La boite se situe tout au bout du quai sadi carnot côté rond point juste à côté du pont.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Quai sadi carnot, 88107 Saint-dié-des-vosges, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.346167" lon="4.606438">
     <time>2019-03-11T09:49:42Z</time>
     <name>Laurence bossard b4461</name>
@@ -5635,18 +5419,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Parc du chateau, 67300 Schiltigheim, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.562462" lon="4.215361">
-    <time>2019-06-25T15:53:30Z</time>
-    <name>Anne liegeois b431</name>
-    <desc>Au coeur du village sous l'arrêt de bus</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de l'eglise, 08360 Saint fergeux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6048,18 +5820,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.07266" lon="7.348242">
-    <time></time>
-    <name>Valérie b400</name>
-    <desc>Boîte transparente en forme de maisonnette. elle se trouve devant l association espoir.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>78 avenue de la république, 68000 Colmar, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.008422" lon="6.203882">
     <time>2018-11-12T10:13:35Z</time>
     <name>Lions club verny val de seille b3992</name>
@@ -6384,18 +6144,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.569711" lon="7.752328">
-    <time></time>
-    <name>Aude b373</name>
-    <desc>Une boîte à livres se trouve devant le jardin partagé le lombric hardi" le long de la ligne de tram entre la place du schluthfeld et la rue de lunéville.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Allée du schluthfeld, 67000 Strasbourg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.747113" lon="4.720845">
     <time>2018-09-24T10:20:49Z</time>
     <name>Vero b3718</name>
@@ -6583,18 +6331,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Place de la mairie, 08200 Wadelincourt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.761891" lon="5.593296">
-    <time></time>
-    <name>Sandra b363</name>
-    <desc>Située devant le conservatoire de musique elle adore le partage de vos lectures et a hâte d'avoir une jumelle dans la ville.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place charles de gaulle , 55200 Commercy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6876,18 +6612,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.913896" lon="7.205244">
-    <time></time>
-    <name>Cindy b334</name>
-    <desc>Boite a lire en face de la mairie derrière le manège régulièrement remplie très sympathique.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la république, 68500 Guebwiller, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.074545" lon="3.878075">
     <time>2018-08-06T17:26:46Z</time>
     <name>Françoise sol b3326</name>
@@ -7140,18 +6864,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.860703" lon="7.258952">
-    <time></time>
-    <name>Morgane b302</name>
-    <desc>Boîte à lire rouge parking à côté très bon roulement</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de soultz, 68540 Bollwiller, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.784901" lon="7.284812">
     <time>2018-06-25T16:41:49Z</time>
     <name>Patattte b3004</name>
@@ -7159,18 +6871,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Place du général de gaulle, 68120 Richwiller, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.674744" lon="5.890179">
-    <time>2018-08-29T09:07:14Z</time>
-    <name>Hakim c. b30</name>
-    <desc>Boite a livre avec beaucoup de choix, renouvellement rapide.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place du marché aux poissons, 54200 Toul, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7519,30 +7219,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Place de mohon, 08000 Charleville-mézières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.069905" lon="7.365181">
-    <time></time>
-    <name>David b271</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>100 avenue d'alsace, 68000 Colmar, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.269005" lon="6.105396">
-    <time></time>
-    <name>Imladrik b270</name>
-    <desc>Tombereau à livres face à la mairie et la bibliothèque.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>19 rue jean jaurès, 57185 Vitry sur orne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8004,18 +7680,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.150487" lon="5.507319">
-    <time></time>
-    <name>Monique delangle b213</name>
-    <desc>Inauguration de la boîte à lire mercredi 29 juin 2016. la boîte à lire a été confectionnée par un ébéniste du village avec la participation financière de la bergerie et de la caisse locale du crédit agricole.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Grande rue, 54330 Vroncourt , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.403928" lon="6.837065">
     <time>2018-01-03T17:16:56Z</time>
     <name>Nancy b2096</name>
@@ -8328,18 +7992,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.652466" lon="7.452016">
-    <time></time>
-    <name>Mérane b165</name>
-    <desc>La boite à lire se trouve juste à côté de la médiathèque. il s agit d'un ancien four reconverti également appelé four à lire. il y a des romans adultes et enfants des documentaires et même quelques bd !</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>6 rue du moulin , 68510 Sierentz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.819369" lon="7.381841">
     <time>2017-09-18T11:20:29Z</time>
     <name>Sandrine b1648</name>
@@ -8496,18 +8148,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.695437" lon="6.167258">
-    <time></time>
-    <name>L. alexia b154</name>
-    <desc>Un bel arbre aux livres tout en palette à destination des étudiants. il se situe dans le hall du campus lettres et sciences humaines..</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address> 23 boulevard albert 1er, 54000 Nancy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.712875" lon="7.085554">
     <time>2017-08-18T17:58:21Z</time>
     <name>Thomas b1499</name>
@@ -8515,18 +8155,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Rue de bretten, 68210 Éteimbes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.696338" lon="6.179473">
-    <time></time>
-    <name>Lallement alexia b149</name>
-    <desc>L'arbre aux livres est installé place saint epvre à nancy depuis le 7 septembre 2013. il est entretenue et alimenté par l'association "ville vieille en action" et la mjc lillebonne.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address> place saint-epvre , 54000  nancy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8568,30 +8196,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.753321" lon="7.346855">
-    <time></time>
-    <name>Laurence b142</name>
-    <desc>La boîte de couleur jaune vif se trouve à l'extrémité ouest du nouveau bassin près de l'arrêt nordfeld de la ligne 2 du tram.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Nouveau bassin, 68200 Mulhouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.586184" lon="7.562159">
-    <time></time>
-    <name>Laurence b141</name>
-    <desc>Boîte située au milieu de la place de la croisée des lys.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Croisée des lys, 68300 Saint-louis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.953022" lon="4.362004">
     <time>2017-08-03T11:07:31Z</time>
     <name>Diollot b1405</name>
@@ -8604,18 +8208,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.187372" lon="7.39754">
-    <time></time>
-    <name>Laurence b140</name>
-    <desc>Bibliothèque créée dans une niche en pierre à droite de la mairie de ribeauvillé</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 68153 Ribeauville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.736238" lon="7.48495">
     <time>2017-07-31T09:58:24Z</time>
     <name>Meyer b1343</name>
@@ -8623,30 +8215,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>1 rue de l'église, 67490 Lupstein, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.591879" lon="7.77591">
-    <time></time>
-    <name>Alicecause b134</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Parc de l'orangerie, 67000 Strasbourg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.603269" lon="7.750057">
-    <time></time>
-    <name>Alicecause b133</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Square du château, 67300 Schiltigheim, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8784,18 +8352,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.096117" lon="6.180377">
-    <time></time>
-    <name>Thomas scuderi b115</name>
-    <desc>Plusieurs petits nids pour des ouvrages à partager...</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Parc saint chrétienne - sablon, 57000 Metz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.291323" lon="4.026481">
     <time>2017-05-12T12:25:01Z</time>
     <name>Franc b1094</name>
@@ -8880,18 +8436,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.084752" lon="6.353927">
-    <time>2025-02-11T09:49:57Z</time>
-    <name>Trombi b10467</name>
-    <desc>La boîte à lire se trouve sous un petit kiosque, à côté de la mairie.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>1 all. des tilleuls, 57350 Pange, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.865335" lon="7.350753">
     <time>2017-04-24T10:02:26Z</time>
     <name>Elvira b1041</name>
@@ -8904,66 +8448,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.593551" lon="7.145999">
-    <time>2024-12-02T09:48:42Z</time>
-    <name>T b10405</name>
-    <desc>Dans la gloriette en face de la cour de récréation. livres enfant, ado et adulte</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue haute, 68210 Fulleren, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.52059" lon="3.726747">
-    <time>2024-11-05T09:44:16Z</time>
-    <name>Mjc jean guillemin b10382</name>
-    <desc>A l entrée du hall de la mjc accessible 24h sur 24 et 7j sur 7</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>4 rue julian grimau, 10100 Romilly sur seine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.618426" lon="6.365349">
-    <time>2024-10-11T09:54:00Z</time>
-    <name>Karine chevassu b10350</name>
-    <desc>Nouvelle boîte à livres carrefour rue filderstadt et rue général leclerc</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Chevassu.karine.dombasle@gmail.com, Dombasle-su 54110, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.600681" lon="7.708761">
-    <time>2024-09-20T09:28:19Z</time>
-    <name>Stéphanie felix b10333</name>
-    <desc>C?est une boîte à livres géante, projet lauréat des usages ephémères de l?espace public de la ville de strasbourg.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de pfettisheim, 67200 Strasbourg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.739516" lon="7.313464">
-    <time>2024-09-17T12:43:04Z</time>
-    <name>Schmidt b10331</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>30 rue de l agriculture, 68200 Mulhouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.193391" lon="6.132897">
     <time>2017-04-20T09:11:32Z</time>
     <name>Emilie b1032</name>
@@ -8971,210 +8455,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>6 place curie, 57280 Semécourt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.93672" lon="7.098501">
-    <time>2024-09-12T11:20:03Z</time>
-    <name>Euler b10319</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>3 rue des bleuets, 67260 Sarre-union, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.539275" lon="5.104224">
-    <time>2024-09-10T10:04:06Z</time>
-    <name>Dominique liegey b10318</name>
-    <desc>Sous le préau de la mairie</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Corbeille.pub2@gmail.com, 52170 Sommeville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.614055" lon="7.75215">
-    <time>2024-09-03T09:49:01Z</time>
-    <name>Biencourt anne b10313</name>
-    <desc>La boîte à livres est né d une idée citoyenne. elle a été inauguré à la 2ème fête du livre en juin 2024.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Parc  plaine des jeux, 67800 Bischheim, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.535119" lon="7.636254">
-    <time>2024-08-26T09:07:12Z</time>
-    <name>Michel awkal b10291</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Etang d entzheim - route de strasbourg, 67960 Entzheim, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.902413" lon="6.052231">
-    <time>2024-08-19T09:41:20Z</time>
-    <name>Stéphane b10283</name>
-    <desc>L armoire à livres se trouve au fond du magasin pambio.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Pambio, 9 rue du 26ème bcp, 54700 Pont-à-mousson, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.888988" lon="6.04805">
-    <time>2024-08-19T09:41:09Z</time>
-    <name>Stéphane b10282</name>
-    <desc>La boîte à lire, une ancienne cabine téléphonique, se trouve à peu près en face de blénovista.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de maidières, 547000 Blénod-lès-pont-à-mousson, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.934828" lon="5.972981">
-    <time>2024-08-19T09:40:56Z</time>
-    <name>Stéphane b10281</name>
-    <desc>Il s agit d'une simple niche fermée par un volet de bois, dans le mur situé au fond du parking qui donne sur la place de la mairie.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 54700 Vilcey-sur-trey, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.899034" lon="6.038278">
-    <time>2024-08-19T09:40:36Z</time>
-    <name>Stéphane b10280</name>
-    <desc>La boîte à livres se situe dans l abri-bus qui se trouve au coin de la rue saint-rémy et de la rue de bellevue.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue saint-rémy, 54700 Maidières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.521266" lon="7.679867">
-    <time>2024-07-25T10:32:46Z</time>
-    <name>Michel awkal b10235</name>
-    <desc>A l intersection entre la rue de paris et la rue de bâle.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>17 rue de paris, 67118 Geispolsheim, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.442114" lon="6.329967">
-    <time>2024-07-04T10:08:46Z</time>
-    <name>Maude b10202</name>
-    <desc>Petit boîte à livre à l entrée du parking du périscolaire</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la chartreuse, 57480 Rettel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.404064" lon="7.456715">
-    <time>2024-06-12T10:06:50Z</time>
-    <name>Fabienne b10178</name>
-    <desc>Se trouve sur la petite aire de jeux tout près du quai de la gare</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue de la gare, 67140 Barr, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.405839" lon="7.448529">
-    <time>2024-06-12T10:06:38Z</time>
-    <name>Fabienne b10177</name>
-    <desc>Se situe dans le parc qui se trouve juste en face de l école des vosges</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Avenue des voges, 67140 Barr, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.254692" lon="7.394979">
-    <time>2024-06-11T10:30:06Z</time>
-    <name>Fabienne b10173</name>
-    <desc>La bal se trouve sur le parking de l office de tourisme, à l'entrée du village, en venant de sélestat</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Route principale, 067 Kintzheim, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.310049" lon="6.33641">
-    <time>2024-06-03T10:01:12Z</time>
-    <name>Sonia b10170</name>
-    <desc>En face de la mairie</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue des ecoles, 57920 Kédange-sur-canner, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.817537" lon="5.929042">
-    <time>2024-05-15T09:34:39Z</time>
-    <name>Relais famille de la cote en haye b10152</name>
-    <desc></desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>2 rue de la cote, 54385 Domevre en haye, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.617088" lon="7.464399">
-    <time>2024-05-12T14:38:28Z</time>
-    <name>Pillon b10143</name>
-    <desc>Belle boîte à livres devant le presbytère</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Place de l église, 67520 Wangen, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.638178" lon="7.453093">
-    <time>2024-05-12T14:37:43Z</time>
-    <name>Pillon b10142</name>
-    <desc>Petite boîte à livres entre le bâtiment agf et la rue du gal de gaulle</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>10 rue du général de gaulle, 67310 Wasselonne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -9204,30 +8484,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.894509" lon="7.915702">
-    <time>2024-04-03T10:12:07Z</time>
-    <name>Miss l b10081</name>
-    <desc>Dans une ancienne cabine téléphonique sur le parking du complexe sportif l escal</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue bannholz, 67660 Betschorf, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.706111" lon="6.181519">
-    <time>2024-03-28T10:50:30Z</time>
-    <name>Marion b10079</name>
-    <desc>La boîte à livres se trouve tout prêt du terrain multi-sports.</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Rue du crosne, 54000 Nancy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.172745" lon="7.014765">
     <time>2017-04-11T12:30:17Z</time>
     <name>Vival de plainfaing b1006</name>
@@ -9240,13 +8496,781 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.907282" lon="6.784146">
-    <time>2024-03-08T17:34:28Z</time>
-    <name>Klotz emmanuel b10034</name>
+  <wpt lat="49.346378" lon="3.983143">
+    <time>2017-04-05T09:14:09Z</time>
+    <name>Thibaut hurtelle b921</name>
+    <desc>Boîte à lire réalisée par les enfants de l accueil de loisirs et du périscolaire en lien avec le collectif citoyen "loivre en transition" et la mairie.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>25 rue de verdun, 51220 Loivre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.117868" lon="6.185575">
+    <time>2017-03-28T09:49:46Z</time>
+    <name>Gs b914</name>
+    <desc>Ville de metz dans le cadre de sa politique d accès à la culture en général, à la lecture en particulier, la ville de metz a mis en place un réseau de boîtes à livres"</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Porte des allemands, 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.516187" lon="7.706628">
+    <time>2017-03-27T10:14:06Z</time>
+    <name>Laurette67120 b907</name>
+    <desc>A l entrée du parc animalier de friedel</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Promenade du girlenhirsch, 67400 Illkirch graffenstaden, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.363709" lon="6.86504">
+    <time>2017-03-15T09:13:41Z</time>
+    <name>Mickael b894</name>
+    <desc>Sur le parking derrière la mairie.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>4 rue du vivier, 88480 Étival-clairefontaine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58187" lon="7.758852">
+    <time>2017-03-13T09:20:54Z</time>
+    <name>Mathildeg b892</name>
+    <desc>Dans le jardin de la hear strasbourg, une boite à lire plutôt imposante!</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>1 rue de l académie, 67000 Strasbourg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.695872" lon="4.930108">
+    <time>2017-03-10T14:54:47Z</time>
+    <name>Ba marie b889</name>
+    <desc>Bibliothèque libre dans un bar, le ba kunda cafe.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>10 place de la gare , 08200 Sedan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.782811" lon="7.863368">
+    <time>2017-03-08T11:10:11Z</time>
+    <name>Régis falco b887</name>
+    <desc>Cabane à livres installée dans la commune de oberhoffen-sur-moder.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>1 place de l'Église, 67240 Oberhoffen-sur-moder, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.255752" lon="6.347932">
+    <time>2017-03-03T11:49:28Z</time>
+    <name>Bibliothèque municipale d aboncourt b869</name>
+    <desc>Dans l'aire de jeux, anciennes boites à lettres décorée par les enfants</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de neudelange, 57920 Aboncourt, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.027106" lon="4.420015">
+    <time>2017-03-02T08:51:17Z</time>
+    <name>Mairie de saint etienne au temple b867</name>
+    <desc>Tous types de lecture, pour enfants, pour ados et adultes. cette boite à lire comporte également des magazines et des livres de cuisine.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la mairie, 51460 Saint etienne au temple, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.256563" lon="7.454101">
+    <time>2017-02-23T17:16:37Z</time>
+    <name>Bibi boidot b840</name>
+    <desc>Une etagere protegee par..un rideau de douche! en fonction depuis plusieurs annees.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue melsheim, 67600 Selestat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.163583" lon="6.352203">
+    <time>2017-02-23T17:07:46Z</time>
+    <name>Cécile b835</name>
+    <desc>Maison de la bicyclette</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Lac de bouzey, 88390 Chaumousey, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17263" lon="6.878681">
+    <time>2017-02-23T12:50:00Z</time>
+    <name>Domdom b830</name>
+    <desc>Au mur de la mairie, près des portes de la salle des fêtes. sur la gauche, lorsqu'on fait face au bâtiment.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 88430 Corcieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.701856" lon="4.991267">
+    <time>2017-02-06T10:06:21Z</time>
+    <name>Frere b797</name>
+    <desc>Boîte à livres et revues</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Ruelle des prés, 08140 Daigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.872259" lon="7.477231">
+    <time>2017-02-03T14:49:09Z</time>
+    <name>Ludo b796</name>
+    <desc>La boite est située à côté du distributeur de billets sncf, à la gare d ingwiller</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Gare d ingwiller, 67340 Ingwiller, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.052298" lon="7.203194">
+    <time>2017-02-01T09:52:22Z</time>
+    <name>Molenat claudia b793</name>
+    <desc>A la mairie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>1 grand rue, 68230 Soultzbach-les-bains, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.689062" lon="6.181397">
+    <time>2017-06-20T09:53:11Z</time>
+    <name>Marine c b791</name>
+    <desc>En face de l'église saint sébastien.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue des ponts, 54000 Nancy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.090967" lon="6.144516">
+    <time>2017-01-18T12:59:48Z</time>
+    <name>Peggy b778</name>
+    <desc>La boite à lire se situe devant l entrée de la piscine municipale. une très bonne idée, non !</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de coubertin, 57950 Montigny-lès-metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.270154" lon="4.025377">
+    <time>2017-01-09T16:21:17Z</time>
+    <name>Caro b757</name>
+    <desc>Boite à lire rue emile zola, en plein milieu de la place luton, sur le coté du terrain de pétanque.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place luton, 51100 Reims, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.032129" lon="3.957124">
+    <time></time>
+    <name>Loisirette b730</name>
+    <desc>Boîte à lire dans le parc de l'hôtel de ville en face du perron.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>8 rue de l'ile de france, 51200 Epernay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.813787" lon="7.782844">
+    <time></time>
+    <name>Caroline deutsch b720</name>
+    <desc>La boîte se situe près de la cage à oiseaux et de l aire de jeux dans le parc de la gare</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place désiré brumbt, 67500 Haguenau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.815483" lon="7.786383">
+    <time></time>
+    <name>Caroline deutsch b719</name>
+    <desc>Elle se trouve près du parking</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la vieille ile, 67500 Haguenau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.332402" lon="4.125983">
+    <time></time>
+    <name>Gérard adloff b659</name>
+    <desc>Située sous l'abribus à côté de la maison de la presse.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>45 rue de la république, 10150 Creney pres troyes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.930188" lon="4.649478">
+    <time>2019-06-25T15:54:36Z</time>
+    <name>Blook b630</name>
+    <desc>Près de la crèche</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue des cerisiers, 08500 Revin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.942761" lon="4.637464">
+    <time>2019-06-25T15:54:41Z</time>
+    <name>Blook b629</name>
+    <desc>A la mairie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue victor hugo, 08500 Revin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.937111" lon="4.640439">
+    <time>2019-06-25T15:54:46Z</time>
+    <name>Blook b628</name>
+    <desc>Dans le parc municipal rocheteau</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue jean baptiste clément, 08500 Revin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.744627" lon="7.338015">
+    <time></time>
+    <name>Fanny b590</name>
+    <desc>La boîte de couleur rose se trouve face aux jeux pour enfants à l'intérieur du parc steinbach.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>29 rue de la sinne, 68100 Mulhouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.549923" lon="7.719946">
+    <time></time>
+    <name>Oxy b587</name>
+    <desc>Près de la mairie.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de l'île des pêcheurs, 67540 Ostwald, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.543362" lon="7.709885">
+    <time></time>
+    <name>Oxy b586</name>
+    <desc>En face de l'église</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place du général de gaulle , 67540 Ostwald, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.402923" lon="5.843471">
+    <time></time>
+    <name>Claire b530</name>
     <desc></desc>
     <type>BoiteLire Grand Est</type>
     <extensions>
-      <osmand:address>Rue de l eglise, 88160 Le ménil, France</osmand:address>
+      <osmand:address>Place de l'église, 54560 Fillières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.13889" lon="7.264023">
+    <time></time>
+    <name>Bees alsace b510</name>
+    <desc>Parc schweitzer</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>68240 Kaysersberg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.197523" lon="7.221571">
+    <time></time>
+    <name>Bees alsace b509</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 68240 Fréland, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.132193" lon="7.162304">
+    <time></time>
+    <name>Bees alsace b508</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Parc lefébure, 68370 Orbey, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.105097" lon="7.19253">
+    <time></time>
+    <name>Bees alsace b507</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Lieu dit la place, 68910 Labaroche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.237359" lon="6.168429">
+    <time>2019-06-25T16:05:39Z</time>
+    <name>Josée b505</name>
+    <desc>Devant la mairie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Pont de metz , 80480 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.439788" lon="6.017207">
+    <time></time>
+    <name>Astrid b484</name>
+    <desc>Livres à emprunter ou à échanger librement</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Square de l'eglise, 57330 Volmerange-les-mines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.739198" lon="7.067903">
+    <time></time>
+    <name>Christophe b481</name>
+    <desc>Une boite a lire a l'entrée du magasin cora.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Route de phalsbourg , 57400 Sarrebourg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.562462" lon="4.215361">
+    <time>2019-06-25T15:53:30Z</time>
+    <name>Anne liegeois b431</name>
+    <desc>Au coeur du village sous l'arrêt de bus</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de l'eglise, 08360 Saint fergeux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07266" lon="7.348242">
+    <time></time>
+    <name>Valérie b400</name>
+    <desc>Boîte transparente en forme de maisonnette. elle se trouve devant l association espoir.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>78 avenue de la république, 68000 Colmar, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.569711" lon="7.752328">
+    <time></time>
+    <name>Aude b373</name>
+    <desc>Une boîte à livres se trouve devant le jardin partagé le lombric hardi" le long de la ligne de tram entre la place du schluthfeld et la rue de lunéville.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Allée du schluthfeld, 67000 Strasbourg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.761891" lon="5.593296">
+    <time></time>
+    <name>Sandra b363</name>
+    <desc>Située devant le conservatoire de musique elle adore le partage de vos lectures et a hâte d'avoir une jumelle dans la ville.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place charles de gaulle , 55200 Commercy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.913896" lon="7.205244">
+    <time></time>
+    <name>Cindy b334</name>
+    <desc>Boite a lire en face de la mairie derrière le manège régulièrement remplie très sympathique.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la république, 68500 Guebwiller, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.860703" lon="7.258952">
+    <time></time>
+    <name>Morgane b302</name>
+    <desc>Boîte à lire rouge parking à côté très bon roulement</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de soultz, 68540 Bollwiller, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.069905" lon="7.365181">
+    <time></time>
+    <name>David b271</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>100 avenue d'alsace, 68000 Colmar, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.269005" lon="6.105396">
+    <time></time>
+    <name>Imladrik b270</name>
+    <desc>Tombereau à livres face à la mairie et la bibliothèque.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>19 rue jean jaurès, 57185 Vitry sur orne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.150487" lon="5.507319">
+    <time></time>
+    <name>Monique delangle b213</name>
+    <desc>Inauguration de la boîte à lire mercredi 29 juin 2016. la boîte à lire a été confectionnée par un ébéniste du village avec la participation financière de la bergerie et de la caisse locale du crédit agricole.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Grande rue, 54330 Vroncourt , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.652466" lon="7.452016">
+    <time></time>
+    <name>Mérane b165</name>
+    <desc>La boite à lire se trouve juste à côté de la médiathèque. il s agit d'un ancien four reconverti également appelé four à lire. il y a des romans adultes et enfants des documentaires et même quelques bd !</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>6 rue du moulin , 68510 Sierentz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.695437" lon="6.167258">
+    <time></time>
+    <name>L. alexia b154</name>
+    <desc>Un bel arbre aux livres tout en palette à destination des étudiants. il se situe dans le hall du campus lettres et sciences humaines..</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address> 23 boulevard albert 1er, 54000 Nancy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.696338" lon="6.179473">
+    <time></time>
+    <name>Lallement alexia b149</name>
+    <desc>L'arbre aux livres est installé place saint epvre à nancy depuis le 7 septembre 2013. il est entretenue et alimenté par l'association "ville vieille en action" et la mjc lillebonne.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address> place saint-epvre , 54000  nancy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.753321" lon="7.346855">
+    <time></time>
+    <name>Laurence b142</name>
+    <desc>La boîte de couleur jaune vif se trouve à l'extrémité ouest du nouveau bassin près de l'arrêt nordfeld de la ligne 2 du tram.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Nouveau bassin, 68200 Mulhouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.586184" lon="7.562159">
+    <time></time>
+    <name>Laurence b141</name>
+    <desc>Boîte située au milieu de la place de la croisée des lys.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Croisée des lys, 68300 Saint-louis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.187372" lon="7.39754">
+    <time></time>
+    <name>Laurence b140</name>
+    <desc>Bibliothèque créée dans une niche en pierre à droite de la mairie de ribeauvillé</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 68153 Ribeauville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.591879" lon="7.77591">
+    <time></time>
+    <name>Alicecause b134</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Parc de l'orangerie, 67000 Strasbourg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.603269" lon="7.750057">
+    <time></time>
+    <name>Alicecause b133</name>
+    <desc></desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Square du château, 67300 Schiltigheim, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.096117" lon="6.180377">
+    <time></time>
+    <name>Thomas scuderi b115</name>
+    <desc>Plusieurs petits nids pour des ouvrages à partager...</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Parc saint chrétienne - sablon, 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.685921" lon="6.16128">
+    <time></time>
+    <name>Gc faure b80</name>
+    <desc>A l'intérieur de la maison braquehais boulangerie-pâtisserie</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>66 rue de laxou, 54000 Nancy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.194788" lon="7.315197">
+    <time></time>
+    <name>Bérangère b67</name>
+    <desc>La boîte à livre se trouve dans un renfoncement au niveau du parking de l'hôtel de ville grand'rue.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>2 place hôtel de ville, 68150 Ribeauvillé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.462091" lon="7.488433">
+    <time></time>
+    <name>Lili b63</name>
+    <desc>Boite à lire proposée par la ville d'obernai.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la gare, 67210 Obernai, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.106549" lon="6.167024">
+    <time></time>
+    <name>Laet itia b60</name>
+    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place philippe de vigneulles , 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.121336" lon="6.173595">
+    <time></time>
+    <name>Laet itia b59</name>
+    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place de la comédie, 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.094562" lon="6.243052">
+    <time></time>
+    <name>Laet itia b58</name>
+    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Route d'ars laquenexy , 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.117525" lon="6.185071">
+    <time></time>
+    <name>Laet itia b57</name>
+    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Boulevard andré maginot, 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.115883" lon="6.166062">
+    <time></time>
+    <name>Laet itia b56</name>
+    <desc>Dans le cadre de sa politique culturelle et associative la ville de metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address> boulevard poincaré  , 57000 Metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.917781" lon="7.531955">
+    <time></time>
+    <name>Mickael b49</name>
+    <desc>La boite à lire se trouve directement à gauche dans l'entrée du super u.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Rue de la 1ère armée, 68740 Fessenheim, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.284421" lon="6.953071">
+    <time></time>
+    <name>Pat b45</name>
+    <desc>La boite se situe tout au bout du quai sadi carnot côté rond point juste à côté du pont.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Quai sadi carnot, 88107 Saint-dié-des-vosges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.674744" lon="5.890179">
+    <time>2018-08-29T09:07:14Z</time>
+    <name>Hakim c. b30</name>
+    <desc>Boite a livre avec beaucoup de choix, renouvellement rapide.</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>Place du marché aux poissons, 54200 Toul, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

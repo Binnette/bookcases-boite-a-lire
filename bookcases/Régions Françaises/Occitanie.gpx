@@ -1,5 +1,581 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.276858" lon="2.433975">
+    <time>2025-04-29T09:26:40Z</time>
+    <name>Lolo b10535</name>
+    <desc>Boîte à lire se trouve sur la place à côté du kiosque</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>231 pl. françois mitterand, 12160 Baraqueville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.394265" lon="3.675788">
+    <time>2025-04-17T09:45:41Z</time>
+    <name>Jérémie b10527</name>
+    <desc>Réfrigérateur décoré reconverti en boite à lire.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>83 rue du pasteur lucien benoît, 34200 Sète, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.608385" lon="1.37807">
+    <time>2025-04-17T09:45:22Z</time>
+    <name>Francois p b10525</name>
+    <desc>Sur le parking devant l école quasi-face à l'arrêt de bus.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place bertier route de bayonne, 31300 Toulouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.623392" lon="1.467831">
+    <time>2025-04-15T10:07:50Z</time>
+    <name>Jérémie b10523</name>
+    <desc>Boite à lire municipale située au milieu du parc de la place rosine bet.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place rosine bet, 31500 Toulouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.584138" lon="3.773118">
+    <time>2024-12-16T09:52:12Z</time>
+    <name>L occitan b10428</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Placette florence arthaud, 34570 Pignan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.642734" lon="2.533281">
+    <time>2024-11-20T09:54:30Z</time>
+    <name>Axel b10394</name>
+    <desc>C?est une étagère incorporée dans la clôture en bois d?une propriété, le long du trottoir, côté gauche en descendant vers le camping</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue des escoumes, 66320 Vinca, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.65925" lon="2.361421">
+    <time>2024-11-18T09:35:40Z</time>
+    <name>Axel b10387</name>
+    <desc>La boite est une armoire bleue, sous l auvent qui abrite l'entrée de l'église</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Plaça san julia, 66500 Mosset, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.466449" lon="1.886601">
+    <time>2024-10-28T09:54:28Z</time>
+    <name>Axel b10364</name>
+    <desc>La boite est sur le parking devant les commerces, à droite</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rn20 avenue du puymorens, 66760 Latour de carol, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.399256" lon="3.194145">
+    <time>2024-10-15T09:43:24Z</time>
+    <name>Laure b10354</name>
+    <desc>Située sous un arbre, à gauche à l entrée de la place, près d'un gros rocher.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la république, 34490 Corneilhan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.047632" lon="2.222936">
+    <time>2024-10-14T09:48:03Z</time>
+    <name>Berteaux b10353</name>
+    <desc>Venez abonder et chiner dans la toute nouvelle boîte à livre de la maison paysanne, véritable centre névralgique de la paysannerie et de la ruralité vivante de la haute vallée et au-delà !</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Maison paysanne de l aude, 1 av. salvadore allende, 11300 Limoux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.636931" lon="2.448591">
+    <time>2024-10-10T09:44:34Z</time>
+    <name>Axel b10347</name>
+    <desc>La boite est sous l abribus eus-centre", sur la route principale en bas du vieux village</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rd35a route de prades, 66500 Eus, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.811831" lon="2.506032">
+    <time>2024-10-08T11:19:14Z</time>
+    <name>Axel b10346</name>
+    <desc>La boite est devant l office de tourisme</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>21 avenue georges pézières, 66220 Saint paul de fenouillet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.650504" lon="2.374208">
+    <time>2024-10-08T11:18:44Z</time>
+    <name>Axel b10345</name>
+    <desc>La boite est sous l abribus</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Route de la castellane, 66500 Campome, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.559557" lon="1.654496">
+    <time>2024-09-30T09:53:12Z</time>
+    <name>Boîte à lire de la médiathèque de lanta b10340</name>
+    <desc>Cette boîte à lire existe depuis plusieurs années maintenant, elle est gérée par la médiathèque de lanta qui s occupe de son réapprovisionnement et son rangement dès que possible !</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>43.56109414470721, 1.6560831978044113, 31570 Lanta, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.637736" lon="0.592948">
+    <time>2024-09-19T09:44:05Z</time>
+    <name>Tiers lieu le 4bis b10332</name>
+    <desc>Situé dans un tiers lieu ouvert du mardi au vendredi de 9h à 17h.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>4bis rue du bourget, 32000 auch, 32000 Auch, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.282795" lon="3.519422">
+    <time>2024-09-16T10:03:27Z</time>
+    <name>Cathy p b10324</name>
+    <desc>A côté du boulodrome du dome</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place du mole, 34300 Le cap d agde, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.288951" lon="3.525985">
+    <time>2024-09-16T10:03:08Z</time>
+    <name>Cathy p b10323</name>
+    <desc>A côté de l air de jeux</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Plage de la roquille, 34300 Le cap d agde, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.316931" lon="1.962118">
+    <time>2024-09-03T09:48:13Z</time>
+    <name>Sidney b10312</name>
+    <desc>Au fond du parc</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Allée melvin jones, 11400 Castelnaudary, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.408939" lon="2.541814">
+    <time>2024-09-02T10:02:20Z</time>
+    <name>Lena tomei b10309</name>
+    <desc>Se trouve dans l ancien abri de bus, juste au dessus de la mairie et du restaurant-épicerie les ardeillès.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>D620, 11160 Lespinassière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.5155" lon="1.0795">
+    <time>2024-09-02T10:01:21Z</time>
+    <name>Crenshaw b10306</name>
+    <desc>Il s agit d'un ancien abris bus transformé en bibliothèque de rue la cabane du petit prince. a coté du terrain de basket.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place du champ de foire, 46700 Duravel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.548362" lon="1.478629">
+    <time>2024-08-26T09:07:28Z</time>
+    <name>Jérémi b10292</name>
+    <desc>Contre le bâtiment info jeunes</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>5 all. georges pompidou, 31520 Ramonville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.494059" lon="2.118679">
+    <time>2024-08-22T10:07:47Z</time>
+    <name>Axel b10288</name>
+    <desc>La boîte est dans un renfoncement, au milieu du village, dans la rue principale</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Grande rue, 66210 Saint pierre dels forcats, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.488579" lon="2.757452">
+    <time>2024-08-19T09:40:16Z</time>
+    <name>Bibounine b10279</name>
+    <desc>Devant boutique la cigale... livres voyageurs</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>3 avenue de castres, 34220 Saint pons de thomières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.498184" lon="2.171156">
+    <time>2024-08-07T09:41:45Z</time>
+    <name>Axel b10269</name>
+    <desc>C est une étagère qui se trouve sous le petit batiment qui abrite la fontaine</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue de la font, 66360 Prats balaguer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.474415" lon="2.079679">
+    <time>2024-08-07T09:41:14Z</time>
+    <name>Axel b10268</name>
+    <desc>La boite est devant la mairie, sur le côté du café-musée, en bas du village</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Mairie, 66800 Eyne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.755647" lon="1.350256">
+    <time>2024-07-31T21:47:54Z</time>
+    <name>Emilien rochette b10240</name>
+    <desc>En face de l école</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Le bourg, 46300 Payrignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.454599" lon="2.065327">
+    <time>2024-07-31T21:45:22Z</time>
+    <name>Axel b10236</name>
+    <desc>La boite est sous l abri en dur de l'arrêt de bus</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Carrer del castell, 66800 Llo, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.504528" lon="2.067691">
+    <time>2024-07-05T15:50:39Z</time>
+    <name>Axel b10203</name>
+    <desc>La boite est devant la maison de la vallée", juste à côté de la mairie</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rd 29 avenue de cerdagne, 66800 Eyne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.84148" lon="4.341066">
+    <time>2024-06-26T09:41:20Z</time>
+    <name>Bibounine b10191</name>
+    <desc>Dans le rond point coté pharmacie</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>19 bis route d alès, 30900 Nimes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.848274" lon="4.285446">
+    <time>2024-06-20T09:52:55Z</time>
+    <name>Bibounine b10184</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>4730 chemin du carreau de lanes, 30900 Nimes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.512928" lon="2.151565">
+    <time>2024-05-31T09:40:47Z</time>
+    <name>Axel b10168</name>
+    <desc>C est une petite armoire rouge fixée sous un abri de fontaine, tout au fond du village de sauto, par la rue qui longe le cimetière</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Carrer den baix, 66210 Sauto, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.525988" lon="2.827796">
+    <time>2024-05-23T09:48:38Z</time>
+    <name>Nael b10159</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Le boulou, 66160 Le boulou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.35056" lon="2.56206">
+    <time>2024-05-06T09:56:53Z</time>
+    <name>Thierry b10137</name>
+    <desc>Boîte à livres, proche d une aire de jeux pour les enfants du quartier</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue vieussens, 12000 Rodez, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.546891" lon="2.410117">
+    <time>2024-05-06T09:56:43Z</time>
+    <name>Thierry b10136</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la mairie, saint-cyprien-sur-dourdou, 12320 Conques-en-rouergue, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.561114" lon="2.356686">
+    <time>2024-05-06T09:56:36Z</time>
+    <name>Axel b10135</name>
+    <desc>La boite à lire, une étagère, est sous l abri bus en ciment de fuilla del mitg, à coté de l'école et du café-restaurant, sur la route principale</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rd 6 route principale, 66820 Fuilla, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.681755" lon="2.744145">
+    <time>2024-04-29T10:28:11Z</time>
+    <name>Axel b10118</name>
+    <desc>La boite est devant l entrée de la supérette vival</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Avenue du canigou, 66170 Saint feliu d avall, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.692938" lon="2.802843">
+    <time>2024-04-29T10:28:01Z</time>
+    <name>Axel b10117</name>
+    <desc>Petite boite bleue devant la mairie</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>7 avenue du canigou, 66610 Villeneuve la rivière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.703601" lon="2.819669">
+    <time>2024-04-29T10:06:33Z</time>
+    <name>Axel b10116</name>
+    <desc>La boite est dans le parc jeanne de guardia, le long de la rue principale, accessible uniquement aux heures d ouverture du parc</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Parc jeanne de guardia, route principale, 66540 Baho, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.830913" lon="4.370754">
+    <time>2024-04-22T09:46:14Z</time>
+    <name>Nadia b10112</name>
+    <desc>Cette boite à livres se trouve au sein du centre de bien-etre la courte echelle", ou travaillent des thérapeutes et où se pratiques des cours collectifs de yoga, entre-autre. accessible aux heures ouvrables. elle se situe dans la cour à gauche une fois passé le portail rouge.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>11 bis rue de genève, 30000 Nimes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.612663" lon="2.357833">
+    <time>2024-04-18T09:41:40Z</time>
+    <name>Axel b10107</name>
+    <desc>La boite est une armoire peinte en bleu ciel, située dans un renfoncement côté gauche en montant entre la mairie et le vieux village</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rd26 route principale, 66500 Conat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.536239" lon="2.314291">
+    <time>2024-04-09T09:27:56Z</time>
+    <name>Axel b10097</name>
+    <desc>La boite est sous l abribus en ciment, presque en face du musée de la mine, à l'entrée du village côté droit</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rd 27 rue principale, 66360 Escaro, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.624822" lon="1.49376">
+    <time>2024-03-28T10:50:46Z</time>
+    <name>Lucile b10080</name>
+    <desc>Située près de l aire de jeux et de la maison de quartier, dans le jardin de vidailhan</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Esplanade andré michaux, 31130 Balma, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.528732" lon="2.82702">
+    <time>2024-03-15T09:52:34Z</time>
+    <name>Mairie de le boulou b10044</name>
+    <desc>A l initiative du conseil municipal des jeunes, une petite bibliothèque naturelle a été réalisée entièrement en régie par l'ensemble des services techniques de la commune. celle-ci appelée : l'arbre à livres, se situe rue du mas descals dans le quartier le mas blanc, à l'entrée du parc françoise dolto. bonne lecture à tous</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue du mas descals, 66160 Le boulou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0851" lon="0.569486">
+    <time>2024-03-04T16:52:47Z</time>
+    <name>Bureau information touristique b10031</name>
+    <desc>La boite à lire se trouve dans les locaux de l office de tourisme.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>6 rue du barry, 31210 Montrejeau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.736788" lon="1.381867">
+    <time>2024-02-29T09:39:41Z</time>
+    <name>Homeo b10025</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la poste, 46300 Gourdon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.560096" lon="1.530547">
+    <time>2024-02-23T09:28:51Z</time>
+    <name>Monique piriou b10009</name>
+    <desc>Castéra-verduzan ave des thermes/rue du parc</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Mostaud@hotmail.fr, 31650 St orens de gameville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.19878" lon="0.058444">
+    <time>2024-02-22T09:49:33Z</time>
+    <name>Stéphanie b10007</name>
+    <desc>Se trouve à côté du petit jardin solidaire</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place du village, 065 Odos, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.498877" lon="2.172648">
+    <time>2024-02-20T09:31:40Z</time>
+    <name>Axel b10004</name>
+    <desc>C est une ancienne cabine téléphonique repeinte en rouge dans le petit square en bas de la rue de l'église, juste au dessus du grand parking de la rue de st thomas</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue de l église, 66360 Fontpédrouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.97935" lon="4.495055">
     <time>2024-02-08T09:45:56Z</time>
     <name>Crouzier b9985</name>
@@ -1296,18 +1872,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.69827" lon="2.934163">
-    <time>2017-03-28T09:53:36Z</time>
-    <name>Fohanno b917</name>
-    <desc>Boite à lire pour echanger des livres : vous posez un livre et vous en prenez un qui vous interesse.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>19 rue étienne-louis boullée, 66000 Perpignan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.250726" lon="2.369004">
     <time>2022-08-30T09:34:19Z</time>
     <name>Kateginger63 b9145</name>
@@ -1980,18 +2544,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.045746" lon="4.440436">
-    <time>2017-03-03T11:56:20Z</time>
-    <name>Anonyme b871</name>
-    <desc>Boîte à lire de l atelier de reliure "le livre dans la peau"</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue de la fontaine, 30700 Saint quentin la poterie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.377873" lon="0.688595">
     <time>2022-03-22T11:53:34Z</time>
     <name>Axel b8691</name>
@@ -2448,18 +3000,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.445026" lon="1.438355">
-    <time>2017-02-23T10:03:25Z</time>
-    <name>Karine b819</name>
-    <desc>La boite se trouve dans le square jouvenel et a été inaugurée en février 2017.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>1 rue l parazines, 46000 Cahors, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.756405" lon="1.298852">
     <time>2021-10-04T08:57:23Z</time>
     <name>Sebastien pujol b8183</name>
@@ -2676,18 +3216,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.107964" lon="0.725311">
-    <time>2017-02-13T17:35:52Z</time>
-    <name>Office de tourisme b805</name>
-    <desc>La boite se situe à l'intérieur de l'office de tourisme du lundi au samedi : de 9h à 12h et de 13h30 à 18h.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>2 rue thiers, 31800 Saint-gaudens, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="42.803881" lon="2.617908">
     <time>2021-09-06T09:32:50Z</time>
     <name>Axel b8049</name>
@@ -2784,18 +3312,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.110383" lon="0.816365">
-    <time>2017-02-03T09:25:56Z</time>
-    <name>Emmanuelle b795</name>
-    <desc>La boite à lire se trouve sur le parking du conservatoire des métiers d autrefois.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>1679 avenue du brulhois craberon, 82340 Donzac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.824761" lon="4.308163">
     <time>2021-08-06T11:18:42Z</time>
     <name>Bibounine b7935</name>
@@ -2868,18 +3384,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.007349" lon="2.122193">
-    <time>2017-04-25T16:57:29Z</time>
-    <name>Lucile jalabert b785</name>
-    <desc>Sur la bâtiment de la mairie, il y a un escalier extérieur. la boîte à livres se trouve sous l escalier, dans une alcôve.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Taix, 81130 Taïx, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.710981" lon="1.904558">
     <time>2021-07-23T15:24:45Z</time>
     <name>C.génial b7788</name>
@@ -2940,18 +3444,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.583773" lon="1.484634">
-    <time>2017-01-16T10:59:10Z</time>
-    <name>Livres en libérté b773</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>15 impasse frantz schrader, 31500 Toulouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.177485" lon="3.431228">
     <time>2021-07-05T16:53:01Z</time>
     <name>Willig f b7717</name>
@@ -2959,18 +3451,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>6096 rue du claouset, 48150 Meyrueis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.15307" lon="1.755822">
-    <time>2017-01-13T10:21:52Z</time>
-    <name>Gary b770</name>
-    <desc>On peut y trouver des livres français, anglais et hollandais.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Avenue paul benet, 82140 Saint-antonin-noble-val , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3228,18 +3708,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.593988" lon="1.42135">
-    <time></time>
-    <name>Fabien estivals b746</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Le multiple - 27 bis allées maurice sarraut,  31300  Toulouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.374213" lon="2.23021">
     <time>2021-04-27T09:37:01Z</time>
     <name>Miss b7435</name>
@@ -3331,18 +3799,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>En face de l épicerie, place de la poste, 11120 Argeliers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.965263" lon="3.853795">
-    <time></time>
-    <name>Yazolom b739</name>
-    <desc>Boîte à lire située dans la médiathèque de saint hippolyte du fort</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place du 8 mai 1945, 30170 Saint hippolyte du fort, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3511,18 +3967,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place de la fontaine, 66220 Ansignan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.853696" lon="4.348342">
-    <time></time>
-    <name>Un(e) super-héros des livres b718</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>563 chemin de la planète, 30000 Nîmes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3876,18 +4320,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.44355" lon="1.22222">
-    <time>2018-08-20T10:03:07Z</time>
-    <name>Laporte b699</name>
-    <desc>Les livres vagabonds de saint-jory dans le parc</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>à l'angle de la rue montségur et du chemin de la plaine, 31790 Saint-jory , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="42.434397" lon="1.944595">
     <time>2020-11-30T15:38:11Z</time>
     <name>Christelle b6989</name>
@@ -3895,18 +4327,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place de catalogne, 66760 Bourg-madame, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.19956" lon="2.758265">
-    <time></time>
-    <name>Jeanne fabre b698</name>
-    <desc>A l intérieur de la mjc</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>25 rue marat, 11200 Lézignan-corbières, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3943,18 +4363,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Les trois ponts, 30000 Nîmes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.108035" lon="0.72416">
-    <time></time>
-    <name>t cups b697</name>
-    <desc>La boite à lire se trouve dans le salon de thé t cups à st gaudens.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>3 rue mathe, 31800 Saint-gaudens, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4392,18 +4800,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.977286" lon="0.758034">
-    <time></time>
-    <name>Magali b663</name>
-    <desc>Cabine téléphonique rue principale après la poste.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Le village, 31160 Juzet d'izaut, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.762812" lon="2.847947">
     <time>2020-08-28T10:08:08Z</time>
     <name>Chastang b6624</name>
@@ -4411,18 +4807,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Alpuech, 12210 Argences en aubrac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.987835" lon="0.796436">
-    <time></time>
-    <name>Elina b662</name>
-    <desc>Cabine téléphonique route principale avant le village à côté du garage</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Village, 31160 Aspet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4459,30 +4843,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Deroin.michele@free.fr, 11100 Narbonne plage, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.06367" lon="0.829896">
-    <time></time>
-    <name>Elina b661</name>
-    <desc>Cabine téléphonique après la mairie.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Village, 31160 Ganties, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.033421" lon="0.711415">
-    <time></time>
-    <name>Sandra b660</name>
-    <desc>Cabine téléphonique en face de la mairie.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 31510 Payssous, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4740,18 +5100,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.04752" lon="0.740872">
-    <time></time>
-    <name>Sylvie b619</name>
-    <desc>Cabine téléphonique située près du pont au centre du village.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Allée du moulin, 31160 Encausses les thermes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.859918" lon="1.481993">
     <time>2020-05-22T08:59:02Z</time>
     <name>Hervé b6186</name>
@@ -4759,18 +5107,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Salle polyvalente, 31340 Sayrac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.619032" lon="1.401012">
-    <time></time>
-    <name>Mjc ancely toulouse b617</name>
-    <desc>La boite à lire réalisée lors d'un chantier jeunes avec 12 ados de 11 à 14 ans !</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>7 allée des causses, 31300 Toulouse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4879,18 +5215,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Rue de la tramontane, 66400 Ceret, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.46978" lon="2.720292">
-    <time></time>
-    <name>Bozouls b608</name>
-    <desc>La boîte à livré est située dans un bâtiment derrière l'office du tourisme. nous l'avons découvert cet été pendant les vacances. merci à ceux qui l'ont installer.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>2 place de la mairie, 12340 Bozouls , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5040,18 +5364,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.55624" lon="2.217752">
-    <time></time>
-    <name>Nicolas b594</name>
-    <desc>La boite à lire est posée sur le guichet a l'intérieur de la gare ferroviaire.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>6 avenue paul ramadier, 12110 Viviez, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.05774" lon="2.868915">
     <time>2020-03-05T16:51:08Z</time>
     <name>Solange b5939</name>
@@ -5196,18 +5508,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.322215" lon="3.071164">
-    <time></time>
-    <name>Bertholom b584</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 12150 Sévérac-le-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="42.983708" lon="0.671207">
     <time>2020-02-07T14:42:33Z</time>
     <name>Pescadou b5809</name>
@@ -5340,18 +5640,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.974108" lon="4.688363">
-    <time></time>
-    <name>Déco b572</name>
-    <desc>Une bonne soixantaine de livres avec des nouveautés chaque jour.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>2 rue de l'eglise, 30650 Rochefort-du-gard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.855562" lon="3.331872">
     <time>2020-01-08T16:16:47Z</time>
     <name>Yolande b5717</name>
@@ -5371,18 +5659,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Alexandrechirouze@gmail.com, 34130 34130, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.65565" lon="3.912519">
-    <time></time>
-    <name>Marie eve b568</name>
-    <desc>La boite a livres est située en face de l'arret de tram jacou au coin du boulodrome.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>17 place des écoles, 34170 Jacou, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5604,18 +5880,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.40951" lon="2.287737">
-    <time></time>
-    <name>Graines de lou b552</name>
-    <desc>Logée à l'étage d'une petite échoppe ce petit panier de livres voyageurs ne demande qu'à grandir ! graines de lou vous accueille les mardis vendredis et samedis matins. au plaisir de vous y retrouver ...</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>6 place du foirail bas, 12390 Rignac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.918281" lon="1.913272">
     <time>2019-11-04T10:20:22Z</time>
     <name>Simone b5481</name>
@@ -5719,18 +5983,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Square dominique bagouet, 34000 Montpellier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.070655" lon="0.573274">
-    <time></time>
-    <name>Viviane b538</name>
-    <desc>En face de la pharmacie.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue de l'eglise, 31210 Gourdan-polignan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5880,18 +6132,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.573024" lon="3.833812">
-    <time></time>
-    <name>Anouhbyos b522</name>
-    <desc>Installée dans la boulangerie "au levain naturel"</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>90 avenue de librilla, 34430 St jean de vedas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.59369" lon="3.873166">
     <time>2019-09-06T09:51:27Z</time>
     <name>Monique b5217</name>
@@ -5971,30 +6211,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place des hall, 65100 Lourdes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.988296" lon="-0.104868">
-    <time></time>
-    <name>Rolland b515</name>
-    <desc>La boite à lire se situe près du point d information tourisme</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address> 10 cami de brouca, 65400 Arcizans-avant , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.004866" lon="-0.095136">
-    <time></time>
-    <name>Rolland b514</name>
-    <desc>La boite se situe dans l' entrée de l'établissement thermal</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>27, avenue adrien hebrard, 65400 Argeles-gazost, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6180,30 +6396,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.785674" lon="4.193511">
-    <time></time>
-    <name>Laurence l. b500</name>
-    <desc>Elle se situe en face du foyer communal près du parc de jeux enfants.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>4 rue du foyer, 30420 Calvisson, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.041519" lon="4.098213">
-    <time>2017-03-15T11:54:07Z</time>
-    <name>Piazzolla sylvie b5</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>776 chemin des crozes, 30720 Ribaute les tavernes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.595779" lon="3.865504">
     <time>2019-07-03T09:14:49Z</time>
     <name>Elya b4996</name>
@@ -6247,18 +6439,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Rond-point de béragne, 11800 Trèbes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.7738" lon="4.1208">
-    <time></time>
-    <name>Damery b499</name>
-    <desc>Au coeur du mazet des carrières antiques. peu d'ouvrages ne demande qu'à vivre !!</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>3 chemin du bon temps, 30250 Junas, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6504,30 +6684,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.910716" lon="1.881579">
-    <time></time>
-    <name>Odile segot b47</name>
-    <desc>La boite à été mise en place par le bar association "le repaire".</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place du bourg , 46130 Cornac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.664396" lon="3.920588">
-    <time></time>
-    <name>Laurence b468</name>
-    <desc>A la mjc</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address> la fabrique, 34830 Jacou, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.458006" lon="1.433317">
     <time>2019-04-24T15:53:08Z</time>
     <name>Anna palau b4659</name>
@@ -6715,18 +6871,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Complexe omega, rue des cyclades, 66470 Sainte marie la mer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.691131" lon="1.231434">
-    <time></time>
-    <name>Laurence b441</name>
-    <desc>En face de la boulangerie</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la boulangerie, 37390 Saint roch, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6924,18 +7068,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.641868" lon="3.922261">
-    <time></time>
-    <name>Pontonnier b412</name>
-    <desc>Boite à livres rouge en face des jardins partagés du devois</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>315 avenue du devois , 34170 Castelnau le lez, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.101467" lon="1.087327">
     <time>2018-12-11T10:36:56Z</time>
     <name>Lucile b4098</name>
@@ -6972,18 +7104,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.635261" lon="3.964541">
-    <time></time>
-    <name>Bibounine b406</name>
-    <desc>Aire de la coquille tramway mairie</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 34830 Jacou, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.681451" lon="4.433973">
     <time>2018-11-27T09:58:02Z</time>
     <name>Pierre georges b4055</name>
@@ -7008,42 +7128,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.617849" lon="2.423126">
-    <time></time>
-    <name>Bibounine b405</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la république, 66500 Codalet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.180523" lon="3.000527">
-    <time></time>
-    <name>Bibounine b404</name>
-    <desc>Dans les parcs de la ville jardins saint paul et de la révolution</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Boulevard du docteur lacroix, 11100 Narbonne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.405748" lon="3.700201">
-    <time></time>
-    <name>Bibounine b403</name>
-    <desc>Un ancien frigo qui a été transformé</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue de tunis, 34200 Sete, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.605082" lon="1.447067">
     <time>2018-11-16T16:38:55Z</time>
     <name>Aurélien b4015</name>
@@ -7063,18 +7147,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Bibliothèque, 12230 Marcillac vallon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.836275" lon="4.370337">
-    <time></time>
-    <name>Bibounine b401</name>
-    <desc>Dans la gare à coté des escalators dans la boutique viens attendre à nimes les 3 grandes bibliothèques</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Boulevard talabot, 30000 Nimes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7320,18 +7392,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.779271" lon="1.723469">
-    <time></time>
-    <name>Bibliothèque gramat b367</name>
-    <desc>Boite à lire proposée par la bibliothèque municipale de gramat. située dans le hall d'accueil de la bibliothèque.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Avenue paul mazet, 46500 Gramat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.905524" lon="1.687171">
     <time>2018-09-13T15:29:36Z</time>
     <name>Association culturelle du pays salvagnacois b3663</name>
@@ -7344,18 +7404,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.676231" lon="1.58592">
-    <time></time>
-    <name>Hélène b366</name>
-    <desc>Au font d un petit impasse au coeur du village de gragnague</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Impasse du lac, 31380 Gragnague, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.052436" lon="2.130174">
     <time>2018-09-04T17:26:10Z</time>
     <name>Bibounine b3605</name>
@@ -7363,18 +7411,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place de la mairie, 81400 Saint benoît de carmaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.53062" lon="1.525393">
-    <time></time>
-    <name>Philippe truillet b359</name>
-    <desc>La boite est posée sur une clôture de maison individuelle depuis 2014.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>3 rue des ménestrels, 31670 Labège, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7423,18 +7459,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Mairie, 81260 Anglès, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.111289" lon="3.105299">
-    <time></time>
-    <name>Amélie b351</name>
-    <desc>Plage du grazel - à côté du poste de secours. mode de fonctionnement expliqué en quatre langues : français anglais allemand espagnol</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address> plage du grazel, 11430 Gruissan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7519,18 +7543,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Inconnue, 46230 Lalbenque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.734451" lon="1.720683">
-    <time></time>
-    <name>Françoise majesté-larrouy b344</name>
-    <desc>La boite est adossée à la salle des fêtes du village près des jeux d enfants et de l'école.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Bordé blanque, 81500 Lugan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8071,30 +8083,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>12 avenue armand daney, 34660 Cournonterral, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.514476" lon="1.178052">
-    <time></time>
-    <name>Corinne b293</name>
-    <desc>Derrière l église sculpture de st-julien</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue de l'église, 31470 Saint-lys, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.511646" lon="1.216794">
-    <time></time>
-    <name>Corinne b292</name>
-    <desc>La boite se situe au niveau du rond-point du magasin lidl. boîte installée par la mairie. sculpture d'un homme papillon</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Route de muret, 31470 Saint-lys, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8688,30 +8676,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.267986" lon="2.720234">
-    <time></time>
-    <name>Sophie bethys b247</name>
-    <desc>Boîte à livres bien caché sous des escaliers.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue des chevaliers, 11200 Homps, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.224297" lon="2.627681">
-    <time></time>
-    <name>Sophie bethys b246</name>
-    <desc>Située sur un petit parking face à la mairie.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Route minervoise, 11700 Puicheric, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.71955" lon="1.589182">
     <time>2018-03-16T17:30:18Z</time>
     <name>Berthe b2428</name>
@@ -8743,18 +8707,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place de l eperon, 82600 Verdun sur garonne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.076631" lon="0.585491">
-    <time></time>
-    <name>La fabrique b240</name>
-    <desc>Face au lycée professionnel proposée par la médiathèque de gourdan.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la prairie, 31210 Gourdan-polignan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -9115,30 +9067,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>105 route de blagnac, 31200 Toulouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.187447" lon="3.007567">
-    <time></time>
-    <name>Aussilloux marie b195</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Square thérèse léon blum, 11100 Narbonne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.086944" lon="2.959873">
-    <time></time>
-    <name>Aussilloux marie b194</name>
-    <desc>Boîte à lire vous prenez un livre vous en mettez un!</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place centrale, 11440 Peyriac de mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10008,18 +9936,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.113477" lon="1.614969">
-    <time></time>
-    <name>Jocelyne b107</name>
-    <desc>La boite a été fabriquée et installée en juin 2016. elle se situe au pied de l'espace incroyables comestibles.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue marechal clauzel, 09100 Pamiers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.64706" lon="3.80245">
     <time>2017-05-01T23:19:23Z</time>
     <name>Aurélie b1066</name>
@@ -10027,18 +9943,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>3 route de montpellier, 34790 Grabels, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.276858" lon="2.433975">
-    <time>2025-04-29T09:26:40Z</time>
-    <name>Lolo b10535</name>
-    <desc>Boîte à lire se trouve sur la place à côté du kiosque</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>231 pl. françois mitterand, 12160 Baraqueville, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10056,42 +9960,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.394265" lon="3.675788">
-    <time>2025-04-17T09:45:41Z</time>
-    <name>Jérémie b10527</name>
-    <desc>Réfrigérateur décoré reconverti en boite à lire.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>83 rue du pasteur lucien benoît, 34200 Sète, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.608385" lon="1.37807">
-    <time>2025-04-17T09:45:22Z</time>
-    <name>Francois p b10525</name>
-    <desc>Sur le parking devant l école quasi-face à l'arrêt de bus.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place bertier route de bayonne, 31300 Toulouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.623392" lon="1.467831">
-    <time>2025-04-15T10:07:50Z</time>
-    <name>Jérémie b10523</name>
-    <desc>Boite à lire municipale située au milieu du parc de la place rosine bet.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place rosine bet, 31500 Toulouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.759391" lon="1.139563">
     <time>2017-04-27T17:37:32Z</time>
     <name>Marie b1052</name>
@@ -10099,282 +9967,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>Place de fossat, 31330 Launac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.240291" lon="1.393433">
-    <time>2019-06-25T15:56:14Z</time>
-    <name>Mireille renard b105</name>
-    <desc>Une jolie boîte à lire mise en place par un particulier sur la murette de sa maison.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>6 lotissement naudettes, 09210 St ybars, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.584138" lon="3.773118">
-    <time>2024-12-16T09:52:12Z</time>
-    <name>L occitan b10428</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Placette florence arthaud, 34570 Pignan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.642734" lon="2.533281">
-    <time>2024-11-20T09:54:30Z</time>
-    <name>Axel b10394</name>
-    <desc>C?est une étagère incorporée dans la clôture en bois d?une propriété, le long du trottoir, côté gauche en descendant vers le camping</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue des escoumes, 66320 Vinca, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.65925" lon="2.361421">
-    <time>2024-11-18T09:35:40Z</time>
-    <name>Axel b10387</name>
-    <desc>La boite est une armoire bleue, sous l auvent qui abrite l'entrée de l'église</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Plaça san julia, 66500 Mosset, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.466449" lon="1.886601">
-    <time>2024-10-28T09:54:28Z</time>
-    <name>Axel b10364</name>
-    <desc>La boite est sur le parking devant les commerces, à droite</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rn20 avenue du puymorens, 66760 Latour de carol, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.399256" lon="3.194145">
-    <time>2024-10-15T09:43:24Z</time>
-    <name>Laure b10354</name>
-    <desc>Située sous un arbre, à gauche à l entrée de la place, près d'un gros rocher.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la république, 34490 Corneilhan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.047632" lon="2.222936">
-    <time>2024-10-14T09:48:03Z</time>
-    <name>Berteaux b10353</name>
-    <desc>Venez abonder et chiner dans la toute nouvelle boîte à livre de la maison paysanne, véritable centre névralgique de la paysannerie et de la ruralité vivante de la haute vallée et au-delà !</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Maison paysanne de l aude, 1 av. salvadore allende, 11300 Limoux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.636931" lon="2.448591">
-    <time>2024-10-10T09:44:34Z</time>
-    <name>Axel b10347</name>
-    <desc>La boite est sous l abribus eus-centre", sur la route principale en bas du vieux village</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rd35a route de prades, 66500 Eus, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.811831" lon="2.506032">
-    <time>2024-10-08T11:19:14Z</time>
-    <name>Axel b10346</name>
-    <desc>La boite est devant l office de tourisme</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>21 avenue georges pézières, 66220 Saint paul de fenouillet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.650504" lon="2.374208">
-    <time>2024-10-08T11:18:44Z</time>
-    <name>Axel b10345</name>
-    <desc>La boite est sous l abribus</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Route de la castellane, 66500 Campome, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.559557" lon="1.654496">
-    <time>2024-09-30T09:53:12Z</time>
-    <name>Boîte à lire de la médiathèque de lanta b10340</name>
-    <desc>Cette boîte à lire existe depuis plusieurs années maintenant, elle est gérée par la médiathèque de lanta qui s occupe de son réapprovisionnement et son rangement dès que possible !</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>43.56109414470721, 1.6560831978044113, 31570 Lanta, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.637736" lon="0.592948">
-    <time>2024-09-19T09:44:05Z</time>
-    <name>Tiers lieu le 4bis b10332</name>
-    <desc>Situé dans un tiers lieu ouvert du mardi au vendredi de 9h à 17h.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>4bis rue du bourget, 32000 auch, 32000 Auch, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.282795" lon="3.519422">
-    <time>2024-09-16T10:03:27Z</time>
-    <name>Cathy p b10324</name>
-    <desc>A côté du boulodrome du dome</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place du mole, 34300 Le cap d agde, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.288951" lon="3.525985">
-    <time>2024-09-16T10:03:08Z</time>
-    <name>Cathy p b10323</name>
-    <desc>A côté de l air de jeux</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Plage de la roquille, 34300 Le cap d agde, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.316931" lon="1.962118">
-    <time>2024-09-03T09:48:13Z</time>
-    <name>Sidney b10312</name>
-    <desc>Au fond du parc</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Allée melvin jones, 11400 Castelnaudary, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.408939" lon="2.541814">
-    <time>2024-09-02T10:02:20Z</time>
-    <name>Lena tomei b10309</name>
-    <desc>Se trouve dans l ancien abri de bus, juste au dessus de la mairie et du restaurant-épicerie les ardeillès.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>D620, 11160 Lespinassière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.5155" lon="1.0795">
-    <time>2024-09-02T10:01:21Z</time>
-    <name>Crenshaw b10306</name>
-    <desc>Il s agit d'un ancien abris bus transformé en bibliothèque de rue la cabane du petit prince. a coté du terrain de basket.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place du champ de foire, 46700 Duravel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.548362" lon="1.478629">
-    <time>2024-08-26T09:07:28Z</time>
-    <name>Jérémi b10292</name>
-    <desc>Contre le bâtiment info jeunes</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>5 all. georges pompidou, 31520 Ramonville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.494059" lon="2.118679">
-    <time>2024-08-22T10:07:47Z</time>
-    <name>Axel b10288</name>
-    <desc>La boîte est dans un renfoncement, au milieu du village, dans la rue principale</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Grande rue, 66210 Saint pierre dels forcats, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.488579" lon="2.757452">
-    <time>2024-08-19T09:40:16Z</time>
-    <name>Bibounine b10279</name>
-    <desc>Devant boutique la cigale... livres voyageurs</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>3 avenue de castres, 34220 Saint pons de thomières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.498184" lon="2.171156">
-    <time>2024-08-07T09:41:45Z</time>
-    <name>Axel b10269</name>
-    <desc>C est une étagère qui se trouve sous le petit batiment qui abrite la fontaine</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue de la font, 66360 Prats balaguer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.474415" lon="2.079679">
-    <time>2024-08-07T09:41:14Z</time>
-    <name>Axel b10268</name>
-    <desc>La boite est devant la mairie, sur le côté du café-musée, en bas du village</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Mairie, 66800 Eyne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.755647" lon="1.350256">
-    <time>2024-07-31T21:47:54Z</time>
-    <name>Emilien rochette b10240</name>
-    <desc>En face de l école</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Le bourg, 46300 Payrignac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10392,66 +9984,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.454599" lon="2.065327">
-    <time>2024-07-31T21:45:22Z</time>
-    <name>Axel b10236</name>
-    <desc>La boite est sous l abri en dur de l'arrêt de bus</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Carrer del castell, 66800 Llo, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.504528" lon="2.067691">
-    <time>2024-07-05T15:50:39Z</time>
-    <name>Axel b10203</name>
-    <desc>La boite est devant la maison de la vallée", juste à côté de la mairie</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rd 29 avenue de cerdagne, 66800 Eyne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.84148" lon="4.341066">
-    <time>2024-06-26T09:41:20Z</time>
-    <name>Bibounine b10191</name>
-    <desc>Dans le rond point coté pharmacie</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>19 bis route d alès, 30900 Nimes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.848274" lon="4.285446">
-    <time>2024-06-20T09:52:55Z</time>
-    <name>Bibounine b10184</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>4730 chemin du carreau de lanes, 30900 Nimes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.512928" lon="2.151565">
-    <time>2024-05-31T09:40:47Z</time>
-    <name>Axel b10168</name>
-    <desc>C est une petite armoire rouge fixée sous un abri de fontaine, tout au fond du village de sauto, par la rue qui longe le cimetière</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Carrer den baix, 66210 Sauto, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.611096" lon="1.438735">
     <time>2017-04-12T15:00:30Z</time>
     <name>Théo henriel b1016</name>
@@ -10459,150 +9991,6 @@
     <type>BoiteLire Occitanie</type>
     <extensions>
       <osmand:address>8 place arnaud bernard, 31000 Toulouse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.525988" lon="2.827796">
-    <time>2024-05-23T09:48:38Z</time>
-    <name>Nael b10159</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Le boulou, 66160 Le boulou, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.35056" lon="2.56206">
-    <time>2024-05-06T09:56:53Z</time>
-    <name>Thierry b10137</name>
-    <desc>Boîte à livres, proche d une aire de jeux pour les enfants du quartier</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue vieussens, 12000 Rodez, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.546891" lon="2.410117">
-    <time>2024-05-06T09:56:43Z</time>
-    <name>Thierry b10136</name>
-    <desc></desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Place de la mairie, saint-cyprien-sur-dourdou, 12320 Conques-en-rouergue, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.561114" lon="2.356686">
-    <time>2024-05-06T09:56:36Z</time>
-    <name>Axel b10135</name>
-    <desc>La boite à lire, une étagère, est sous l abri bus en ciment de fuilla del mitg, à coté de l'école et du café-restaurant, sur la route principale</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rd 6 route principale, 66820 Fuilla, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.681755" lon="2.744145">
-    <time>2024-04-29T10:28:11Z</time>
-    <name>Axel b10118</name>
-    <desc>La boite est devant l entrée de la supérette vival</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Avenue du canigou, 66170 Saint feliu d avall, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.692938" lon="2.802843">
-    <time>2024-04-29T10:28:01Z</time>
-    <name>Axel b10117</name>
-    <desc>Petite boite bleue devant la mairie</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>7 avenue du canigou, 66610 Villeneuve la rivière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.703601" lon="2.819669">
-    <time>2024-04-29T10:06:33Z</time>
-    <name>Axel b10116</name>
-    <desc>La boite est dans le parc jeanne de guardia, le long de la rue principale, accessible uniquement aux heures d ouverture du parc</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Parc jeanne de guardia, route principale, 66540 Baho, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.830913" lon="4.370754">
-    <time>2024-04-22T09:46:14Z</time>
-    <name>Nadia b10112</name>
-    <desc>Cette boite à livres se trouve au sein du centre de bien-etre la courte echelle", ou travaillent des thérapeutes et où se pratiques des cours collectifs de yoga, entre-autre. accessible aux heures ouvrables. elle se situe dans la cour à gauche une fois passé le portail rouge.</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>11 bis rue de genève, 30000 Nimes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.612663" lon="2.357833">
-    <time>2024-04-18T09:41:40Z</time>
-    <name>Axel b10107</name>
-    <desc>La boite est une armoire peinte en bleu ciel, située dans un renfoncement côté gauche en montant entre la mairie et le vieux village</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rd26 route principale, 66500 Conat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.536239" lon="2.314291">
-    <time>2024-04-09T09:27:56Z</time>
-    <name>Axel b10097</name>
-    <desc>La boite est sous l abribus en ciment, presque en face du musée de la mine, à l'entrée du village côté droit</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rd 27 rue principale, 66360 Escaro, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.624822" lon="1.49376">
-    <time>2024-03-28T10:50:46Z</time>
-    <name>Lucile b10080</name>
-    <desc>Située près de l aire de jeux et de la maison de quartier, dans le jardin de vidailhan</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Esplanade andré michaux, 31130 Balma, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.528732" lon="2.82702">
-    <time>2024-03-15T09:52:34Z</time>
-    <name>Mairie de le boulou b10044</name>
-    <desc>A l initiative du conseil municipal des jeunes, une petite bibliothèque naturelle a été réalisée entièrement en régie par l'ensemble des services techniques de la commune. celle-ci appelée : l'arbre à livres, se situe rue du mas descals dans le quartier le mas blanc, à l'entrée du parc françoise dolto. bonne lecture à tous</desc>
-    <type>BoiteLire Occitanie</type>
-    <extensions>
-      <osmand:address>Rue du mas descals, 66160 Le boulou, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10620,61 +10008,673 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.0851" lon="0.569486">
-    <time>2024-03-04T16:52:47Z</time>
-    <name>Bureau information touristique b10031</name>
-    <desc>La boite à lire se trouve dans les locaux de l office de tourisme.</desc>
+  <wpt lat="42.69827" lon="2.934163">
+    <time>2017-03-28T09:53:36Z</time>
+    <name>Fohanno b917</name>
+    <desc>Boite à lire pour echanger des livres : vous posez un livre et vous en prenez un qui vous interesse.</desc>
     <type>BoiteLire Occitanie</type>
     <extensions>
-      <osmand:address>6 rue du barry, 31210 Montrejeau, France</osmand:address>
+      <osmand:address>19 rue étienne-louis boullée, 66000 Perpignan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.736788" lon="1.381867">
-    <time>2024-02-29T09:39:41Z</time>
-    <name>Homeo b10025</name>
+  <wpt lat="44.045746" lon="4.440436">
+    <time>2017-03-03T11:56:20Z</time>
+    <name>Anonyme b871</name>
+    <desc>Boîte à lire de l atelier de reliure "le livre dans la peau"</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue de la fontaine, 30700 Saint quentin la poterie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.445026" lon="1.438355">
+    <time>2017-02-23T10:03:25Z</time>
+    <name>Karine b819</name>
+    <desc>La boite se trouve dans le square jouvenel et a été inaugurée en février 2017.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>1 rue l parazines, 46000 Cahors, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.107964" lon="0.725311">
+    <time>2017-02-13T17:35:52Z</time>
+    <name>Office de tourisme b805</name>
+    <desc>La boite se situe à l'intérieur de l'office de tourisme du lundi au samedi : de 9h à 12h et de 13h30 à 18h.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>2 rue thiers, 31800 Saint-gaudens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.110383" lon="0.816365">
+    <time>2017-02-03T09:25:56Z</time>
+    <name>Emmanuelle b795</name>
+    <desc>La boite à lire se trouve sur le parking du conservatoire des métiers d autrefois.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>1679 avenue du brulhois craberon, 82340 Donzac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.007349" lon="2.122193">
+    <time>2017-04-25T16:57:29Z</time>
+    <name>Lucile jalabert b785</name>
+    <desc>Sur la bâtiment de la mairie, il y a un escalier extérieur. la boîte à livres se trouve sous l escalier, dans une alcôve.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Taix, 81130 Taïx, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.583773" lon="1.484634">
+    <time>2017-01-16T10:59:10Z</time>
+    <name>Livres en libérté b773</name>
     <desc></desc>
     <type>BoiteLire Occitanie</type>
     <extensions>
-      <osmand:address>Place de la poste, 46300 Gourdon, France</osmand:address>
+      <osmand:address>15 impasse frantz schrader, 31500 Toulouse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.560096" lon="1.530547">
-    <time>2024-02-23T09:28:51Z</time>
-    <name>Monique piriou b10009</name>
-    <desc>Castéra-verduzan ave des thermes/rue du parc</desc>
+  <wpt lat="44.15307" lon="1.755822">
+    <time>2017-01-13T10:21:52Z</time>
+    <name>Gary b770</name>
+    <desc>On peut y trouver des livres français, anglais et hollandais.</desc>
     <type>BoiteLire Occitanie</type>
     <extensions>
-      <osmand:address>Mostaud@hotmail.fr, 31650 St orens de gameville, France</osmand:address>
+      <osmand:address>Avenue paul benet, 82140 Saint-antonin-noble-val , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.19878" lon="0.058444">
-    <time>2024-02-22T09:49:33Z</time>
-    <name>Stéphanie b10007</name>
-    <desc>Se trouve à côté du petit jardin solidaire</desc>
+  <wpt lat="43.593988" lon="1.42135">
+    <time></time>
+    <name>Fabien estivals b746</name>
+    <desc></desc>
     <type>BoiteLire Occitanie</type>
     <extensions>
-      <osmand:address>Place du village, 065 Odos, France</osmand:address>
+      <osmand:address>Le multiple - 27 bis allées maurice sarraut,  31300  Toulouse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.498877" lon="2.172648">
-    <time>2024-02-20T09:31:40Z</time>
-    <name>Axel b10004</name>
-    <desc>C est une ancienne cabine téléphonique repeinte en rouge dans le petit square en bas de la rue de l'église, juste au dessus du grand parking de la rue de st thomas</desc>
+  <wpt lat="43.965263" lon="3.853795">
+    <time></time>
+    <name>Yazolom b739</name>
+    <desc>Boîte à lire située dans la médiathèque de saint hippolyte du fort</desc>
     <type>BoiteLire Occitanie</type>
     <extensions>
-      <osmand:address>Rue de l église, 66360 Fontpédrouse, France</osmand:address>
+      <osmand:address>Place du 8 mai 1945, 30170 Saint hippolyte du fort, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.853696" lon="4.348342">
+    <time></time>
+    <name>Un(e) super-héros des livres b718</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>563 chemin de la planète, 30000 Nîmes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.44355" lon="1.22222">
+    <time>2018-08-20T10:03:07Z</time>
+    <name>Laporte b699</name>
+    <desc>Les livres vagabonds de saint-jory dans le parc</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>à l'angle de la rue montségur et du chemin de la plaine, 31790 Saint-jory , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.19956" lon="2.758265">
+    <time></time>
+    <name>Jeanne fabre b698</name>
+    <desc>A l intérieur de la mjc</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>25 rue marat, 11200 Lézignan-corbières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.108035" lon="0.72416">
+    <time></time>
+    <name>t cups b697</name>
+    <desc>La boite à lire se trouve dans le salon de thé t cups à st gaudens.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>3 rue mathe, 31800 Saint-gaudens, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.977286" lon="0.758034">
+    <time></time>
+    <name>Magali b663</name>
+    <desc>Cabine téléphonique rue principale après la poste.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Le village, 31160 Juzet d'izaut, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.987835" lon="0.796436">
+    <time></time>
+    <name>Elina b662</name>
+    <desc>Cabine téléphonique route principale avant le village à côté du garage</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Village, 31160 Aspet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.06367" lon="0.829896">
+    <time></time>
+    <name>Elina b661</name>
+    <desc>Cabine téléphonique après la mairie.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Village, 31160 Ganties, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.033421" lon="0.711415">
+    <time></time>
+    <name>Sandra b660</name>
+    <desc>Cabine téléphonique en face de la mairie.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 31510 Payssous, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.04752" lon="0.740872">
+    <time></time>
+    <name>Sylvie b619</name>
+    <desc>Cabine téléphonique située près du pont au centre du village.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Allée du moulin, 31160 Encausses les thermes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.619032" lon="1.401012">
+    <time></time>
+    <name>Mjc ancely toulouse b617</name>
+    <desc>La boite à lire réalisée lors d'un chantier jeunes avec 12 ados de 11 à 14 ans !</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>7 allée des causses, 31300 Toulouse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.46978" lon="2.720292">
+    <time></time>
+    <name>Bozouls b608</name>
+    <desc>La boîte à livré est située dans un bâtiment derrière l'office du tourisme. nous l'avons découvert cet été pendant les vacances. merci à ceux qui l'ont installer.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>2 place de la mairie, 12340 Bozouls , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.55624" lon="2.217752">
+    <time></time>
+    <name>Nicolas b594</name>
+    <desc>La boite à lire est posée sur le guichet a l'intérieur de la gare ferroviaire.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>6 avenue paul ramadier, 12110 Viviez, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.322215" lon="3.071164">
+    <time></time>
+    <name>Bertholom b584</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 12150 Sévérac-le-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.974108" lon="4.688363">
+    <time></time>
+    <name>Déco b572</name>
+    <desc>Une bonne soixantaine de livres avec des nouveautés chaque jour.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>2 rue de l'eglise, 30650 Rochefort-du-gard, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.65565" lon="3.912519">
+    <time></time>
+    <name>Marie eve b568</name>
+    <desc>La boite a livres est située en face de l'arret de tram jacou au coin du boulodrome.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>17 place des écoles, 34170 Jacou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.40951" lon="2.287737">
+    <time></time>
+    <name>Graines de lou b552</name>
+    <desc>Logée à l'étage d'une petite échoppe ce petit panier de livres voyageurs ne demande qu'à grandir ! graines de lou vous accueille les mardis vendredis et samedis matins. au plaisir de vous y retrouver ...</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>6 place du foirail bas, 12390 Rignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.070655" lon="0.573274">
+    <time></time>
+    <name>Viviane b538</name>
+    <desc>En face de la pharmacie.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue de l'eglise, 31210 Gourdan-polignan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.573024" lon="3.833812">
+    <time></time>
+    <name>Anouhbyos b522</name>
+    <desc>Installée dans la boulangerie "au levain naturel"</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>90 avenue de librilla, 34430 St jean de vedas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.988296" lon="-0.104868">
+    <time></time>
+    <name>Rolland b515</name>
+    <desc>La boite à lire se situe près du point d information tourisme</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address> 10 cami de brouca, 65400 Arcizans-avant , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.004866" lon="-0.095136">
+    <time></time>
+    <name>Rolland b514</name>
+    <desc>La boite se situe dans l' entrée de l'établissement thermal</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>27, avenue adrien hebrard, 65400 Argeles-gazost, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.785674" lon="4.193511">
+    <time></time>
+    <name>Laurence l. b500</name>
+    <desc>Elle se situe en face du foyer communal près du parc de jeux enfants.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>4 rue du foyer, 30420 Calvisson, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.7738" lon="4.1208">
+    <time></time>
+    <name>Damery b499</name>
+    <desc>Au coeur du mazet des carrières antiques. peu d'ouvrages ne demande qu'à vivre !!</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>3 chemin du bon temps, 30250 Junas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.664396" lon="3.920588">
+    <time></time>
+    <name>Laurence b468</name>
+    <desc>A la mjc</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address> la fabrique, 34830 Jacou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.691131" lon="1.231434">
+    <time></time>
+    <name>Laurence b441</name>
+    <desc>En face de la boulangerie</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la boulangerie, 37390 Saint roch, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.641868" lon="3.922261">
+    <time></time>
+    <name>Pontonnier b412</name>
+    <desc>Boite à livres rouge en face des jardins partagés du devois</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>315 avenue du devois , 34170 Castelnau le lez, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.635261" lon="3.964541">
+    <time></time>
+    <name>Bibounine b406</name>
+    <desc>Aire de la coquille tramway mairie</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 34830 Jacou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.617849" lon="2.423126">
+    <time></time>
+    <name>Bibounine b405</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la république, 66500 Codalet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.180523" lon="3.000527">
+    <time></time>
+    <name>Bibounine b404</name>
+    <desc>Dans les parcs de la ville jardins saint paul et de la révolution</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Boulevard du docteur lacroix, 11100 Narbonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.405748" lon="3.700201">
+    <time></time>
+    <name>Bibounine b403</name>
+    <desc>Un ancien frigo qui a été transformé</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue de tunis, 34200 Sete, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.836275" lon="4.370337">
+    <time></time>
+    <name>Bibounine b401</name>
+    <desc>Dans la gare à coté des escalators dans la boutique viens attendre à nimes les 3 grandes bibliothèques</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Boulevard talabot, 30000 Nimes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.779271" lon="1.723469">
+    <time></time>
+    <name>Bibliothèque gramat b367</name>
+    <desc>Boite à lire proposée par la bibliothèque municipale de gramat. située dans le hall d'accueil de la bibliothèque.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Avenue paul mazet, 46500 Gramat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.676231" lon="1.58592">
+    <time></time>
+    <name>Hélène b366</name>
+    <desc>Au font d un petit impasse au coeur du village de gragnague</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Impasse du lac, 31380 Gragnague, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53062" lon="1.525393">
+    <time></time>
+    <name>Philippe truillet b359</name>
+    <desc>La boite est posée sur une clôture de maison individuelle depuis 2014.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>3 rue des ménestrels, 31670 Labège, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.111289" lon="3.105299">
+    <time></time>
+    <name>Amélie b351</name>
+    <desc>Plage du grazel - à côté du poste de secours. mode de fonctionnement expliqué en quatre langues : français anglais allemand espagnol</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address> plage du grazel, 11430 Gruissan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.734451" lon="1.720683">
+    <time></time>
+    <name>Françoise majesté-larrouy b344</name>
+    <desc>La boite est adossée à la salle des fêtes du village près des jeux d enfants et de l'école.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Bordé blanque, 81500 Lugan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.514476" lon="1.178052">
+    <time></time>
+    <name>Corinne b293</name>
+    <desc>Derrière l église sculpture de st-julien</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue de l'église, 31470 Saint-lys, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.511646" lon="1.216794">
+    <time></time>
+    <name>Corinne b292</name>
+    <desc>La boite se situe au niveau du rond-point du magasin lidl. boîte installée par la mairie. sculpture d'un homme papillon</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Route de muret, 31470 Saint-lys, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.267986" lon="2.720234">
+    <time></time>
+    <name>Sophie bethys b247</name>
+    <desc>Boîte à livres bien caché sous des escaliers.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue des chevaliers, 11200 Homps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.224297" lon="2.627681">
+    <time></time>
+    <name>Sophie bethys b246</name>
+    <desc>Située sur un petit parking face à la mairie.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Route minervoise, 11700 Puicheric, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.076631" lon="0.585491">
+    <time></time>
+    <name>La fabrique b240</name>
+    <desc>Face au lycée professionnel proposée par la médiathèque de gourdan.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place de la prairie, 31210 Gourdan-polignan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.187447" lon="3.007567">
+    <time></time>
+    <name>Aussilloux marie b195</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Square thérèse léon blum, 11100 Narbonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.086944" lon="2.959873">
+    <time></time>
+    <name>Aussilloux marie b194</name>
+    <desc>Boîte à lire vous prenez un livre vous en mettez un!</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place centrale, 11440 Peyriac de mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.113477" lon="1.614969">
+    <time></time>
+    <name>Jocelyne b107</name>
+    <desc>La boite a été fabriquée et installée en juin 2016. elle se situe au pied de l'espace incroyables comestibles.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Rue marechal clauzel, 09100 Pamiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.240291" lon="1.393433">
+    <time>2019-06-25T15:56:14Z</time>
+    <name>Mireille renard b105</name>
+    <desc>Une jolie boîte à lire mise en place par un particulier sur la murette de sa maison.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>6 lotissement naudettes, 09210 St ybars, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.910716" lon="1.881579">
+    <time></time>
+    <name>Odile segot b47</name>
+    <desc>La boite à été mise en place par le bar association "le repaire".</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Place du bourg , 46130 Cornac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.041519" lon="4.098213">
+    <time>2017-03-15T11:54:07Z</time>
+    <name>Piazzolla sylvie b5</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>776 chemin des crozes, 30720 Ribaute les tavernes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

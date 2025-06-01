@@ -1,5 +1,293 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.523828" lon="-1.084083">
+    <time>2025-04-07T09:40:03Z</time>
+    <name>Dupuy tiphanie b10516</name>
+    <desc>2 boîtes à livres: - 1 enfant - 1 adultes elles ont été réalisées par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>4 rue de la petite vigne, 85210 Saint jean d hermine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.526343" lon="-1.121013">
+    <time>2025-04-07T09:39:51Z</time>
+    <name>Tiphanie dupuy b10515</name>
+    <desc>Une ancienne armoire transformée en boîte à livres par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels. elle se trouve sous le préau à côté de la salle.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Les mottes, 85210 Saint jean d hermine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.331432" lon="-0.949437">
+    <time>2025-04-07T09:39:39Z</time>
+    <name>Isabelle vivier b10514</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>En face de l annexe de la poste, 85770 L ile d'elle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.330028" lon="-0.946063">
+    <time>2025-04-07T09:39:26Z</time>
+    <name>Isabelle vivier b10513</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Médiathèque rue de l eglise, 85770 L ile d'elle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.31211" lon="-1.284362">
+    <time>2025-04-01T09:23:59Z</time>
+    <name>Mairie de l aiguillon la presqu'île b10504</name>
+    <desc>Ancienne cabine téléphonique anglaise transformée en boîte à livres, au bord du plan d eau</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Plan d eau de l'aiguillon-sur-mer, 85460 L aiguillon-la-presqu'île, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.595267" lon="-1.180912">
+    <time>2025-03-26T09:40:25Z</time>
+    <name>Bibliothèque municipale b10500</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>29 bis rue de l océan, 85320 Les pineaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.561639" lon="-1.138977">
+    <time>2025-03-26T09:40:09Z</time>
+    <name>Commune de sainte pexine b10499</name>
+    <desc>Sur la place devant la mairie</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>4 rue du pont, 85320 Sainte pexine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.548239" lon="-1.007123">
+    <time>2025-03-26T09:39:59Z</time>
+    <name>À thiré par les livres b10498</name>
+    <desc>Située face à la mairie.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Mairie de thiré - 32 rue de la mairie, 85210 Thire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.555511" lon="-1.061522">
+    <time>2025-02-10T09:51:10Z</time>
+    <name>Un lecteur b10465</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Parking des halles, 08510 Sainte-hermine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.181382" lon="-2.154116">
+    <time>2025-02-07T10:20:35Z</time>
+    <name>Christophe b10464</name>
+    <desc>Sur le muret d?un particulier</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>57 rue du redois, 44730 Saint michel chef chef, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.21481" lon="-0.021392">
+    <time>2024-11-04T09:59:43Z</time>
+    <name>Guingambrésil b10372</name>
+    <desc>Accrochée à l abribus.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place de la paleine, 49400 Souzay-champigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.236202" lon="-0.007483">
+    <time>2024-11-04T09:59:27Z</time>
+    <name>Guingambrésil b10371</name>
+    <desc>Sur le côté de la mairie de souzay-champigny, prés de la boîte à pain.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>52 route des ducs d anjoun, 49400 Souzay-champigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.214372" lon="0.054955">
+    <time>2024-11-04T09:44:44Z</time>
+    <name>Guingambrésil b10370</name>
+    <desc>Devant le foyer des jeunes.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>27 rue des abbesses, 49730 Montsoreau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.46032" lon="-1.337506">
+    <time>2024-09-02T10:01:32Z</time>
+    <name>Falken b10307</name>
+    <desc>Une ancienne cabine téléphonique des ptt sur le parking situé en face du numéro 1</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>1 rue du trou des brigands, 85540 Saint-cyr en talmondais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.377369" lon="-1.058871">
+    <time>2024-08-05T09:31:50Z</time>
+    <name>Boite à livres b10243</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 85450 Vouille les marais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.86919" lon="-1.013388">
+    <time>2024-07-12T09:20:28Z</time>
+    <name>Patricia gllx b10210</name>
+    <desc>Peut-être pas trop entretenue</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Patamiens@gmail.com, 85500 Les herbiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.118489" lon="-1.940805">
+    <time>2024-05-30T10:43:03Z</time>
+    <name>Arthon en retz b10166</name>
+    <desc>C?est une ancienne cabine téléphonique elle se situe à l?angle de la rue des acacias et de la rue de l?église</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue de l?église, 44320 Chaumes en retz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.889136" lon="-2.139949">
+    <time>2024-03-19T09:39:31Z</time>
+    <name>Christine b10052</name>
+    <desc>7jr/7 et 24h/24 devant l office de tourisme, côté parking</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place de la gare, 85550 La barre de monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.83164" lon="-2.130168">
+    <time>2024-03-19T09:37:55Z</time>
+    <name>Christine b10051</name>
+    <desc>7 jr/7 et 24h/24h située devant l office de tourisme</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>6 rue de la barre, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.830695" lon="-2.13102">
+    <time>2024-03-19T09:37:42Z</time>
+    <name>Christine b10050</name>
+    <desc>7jr/7 et 24h/24h boite à livres située entre l aire de jeux pour enfants et la fontaine dans le square face à l'église</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Ilot de l europe - square grantown on spey, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.837268" lon="-2.13874">
+    <time>2024-03-19T09:37:26Z</time>
+    <name>Christine b10049</name>
+    <desc>7jr/7jr et 24h/24h située à l entrée du camping municipal</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Avenue abbé thibaud, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.831062" lon="-2.139142">
+    <time>2024-03-19T09:37:06Z</time>
+    <name>Christine b10048</name>
+    <desc>7jr/7jr et 24h24h située le long de l aire de jeux pour enfants</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>107 avenue de la mer, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.794679" lon="-2.043296">
+    <time>2024-03-19T09:36:27Z</time>
+    <name>Christine b10047</name>
+    <desc>Dans le centre-commercial super u les sentiers du marais" côté pharmacie et maroquinerie en fonction des horaires d ouverture de super u "les sentiers du marais"</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue de la déchaume, 85160 Saint jean de monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.059315" lon="-0.632196">
+    <time>2024-02-28T10:15:43Z</time>
+    <name>Anatole boulay b10021</name>
+    <desc>Créée par le conseil municipal des jeunes de louvigné en 2023</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place des sports, 53210 Louvigné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.935131" lon="-1.409466">
     <time>2024-02-01T09:34:28Z</time>
     <name>Vanessa b b9978</name>
@@ -55,30 +343,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>2 boulevard lavoisier, 49000 Angers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.037463" lon="0.588347">
-    <time>2017-04-11T11:53:58Z</time>
-    <name>Vival de dollon b990</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue saint medard , 72390 Dollon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.966619" lon="-1.576929">
-    <time>2017-04-11T11:52:29Z</time>
-    <name>Vival de courcoue sur logne b989</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue du 8 mai 1945, 44650 Courcoue sur logne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -300,18 +564,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.875139" lon="-2.009923">
-    <time></time>
-    <name>Kristel b96</name>
-    <desc>La boite se situe rue du pont d'orgueil au niveau du rond point il y a un abri bus scolaire.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue du pont d'orgueil, 85230 Saint-urbain , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.248283" lon="-1.543936">
     <time>2023-05-22T07:54:44Z</time>
     <name>Maud b9589</name>
@@ -408,18 +660,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.870277" lon="-1.004228">
-    <time></time>
-    <name>Hervé perton b92</name>
-    <desc>Mise en place en 2015.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>13 rue de grouteau, 85500 Les herbiers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.470331" lon="-0.066359">
     <time>2022-09-06T09:33:42Z</time>
     <name>La lande-chasles b9150</name>
@@ -475,18 +715,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Route roche, 49130 Saintes gemmes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.279663" lon="-2.210725">
-    <time>2017-03-22T15:01:23Z</time>
-    <name>Nael b903</name>
-    <desc>Elle se trouve à coté de la librairie les idées larges.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>40 rue jean jaures, 44600 Saint-nazaire , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -559,42 +787,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue des colverts, 53300 Ambrieres les vallees, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.013756" lon="0.268798">
-    <time>2017-03-21T09:05:23Z</time>
-    <name>Nadine jolu b900</name>
-    <desc>La boite à lire se situe dans la résidence du parc. elle est abritée à l'extérieur du bâtiment d'accueil.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue gougeard, 72530 Yvré-l evêque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.244013" lon="-1.93186">
-    <time></time>
-    <name>Sophie b90</name>
-    <desc>C'est une boîte installée par la mairie dans le jardin derrière la bibliothèque/espace culturel.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>2 rue de bel air, 44320 Frossay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.160929" lon="-1.265138">
-    <time></time>
-    <name>Recyclivre b9</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Square jim-howart, 44330 Vallet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -780,42 +972,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.452904" lon="-0.526077">
-    <time>2017-03-06T16:38:28Z</time>
-    <name>Aurélie b878</name>
-    <desc>Ce n'est pas vraiment une boîte, mais à l'intérieur de la bibliothèque des 3 mâts il y a un panier où on peut échanger.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place des justices, 49000 Angers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.444146" lon="-0.563673">
-    <time>2017-03-06T16:33:59Z</time>
-    <name>Aurélie b877</name>
-    <desc>Il y en a plusieurs , en effet il y a une petite étagère dans la bibliothèque , et 2 très grosses dans le fond de la salle café.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>1 bis rue henri-bergson, 49100 Angers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.46999" lon="-0.32907">
-    <time>2017-03-06T09:18:28Z</time>
-    <name>Aurélie b875</name>
-    <desc>Une étagère dans le fond de la galerie marchande.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>46 route du point du jour , 49630 Corné, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.178362" lon="-1.532991">
     <time>2022-04-11T09:35:52Z</time>
     <name>Un passant b8734</name>
@@ -840,18 +996,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.225612" lon="-1.554161">
-    <time>2017-03-06T09:13:59Z</time>
-    <name>Aurélie b872</name>
-    <desc>Il y a 2 boîtes dont l'une est consacrée à la littérature jeunesse.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Île de versailles , 44000 Nantes , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.155655" lon="-0.475518">
     <time>2022-03-21T09:45:31Z</time>
     <name>Ives stefany b8666</name>
@@ -859,18 +1003,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Place de la mairie, 53150 Neau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.065177" lon="-0.769042">
-    <time>2017-03-06T09:10:07Z</time>
-    <name>Dice man b865</name>
-    <desc>Arbre à lire dans le jardin de la perrine.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Jardin de la perrine, 53000 Laval, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1188,18 +1320,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.813893" lon="-0.086263">
-    <time>2017-02-23T12:53:49Z</time>
-    <name>Guyon b832</name>
-    <desc>Boîte inaugurée il y a un peu moins de deux ans. les livres tournent bien dans l'ensemble.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>2 place de la république , 72270 Malicorne-sur-sarthe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.470412" lon="-0.490188">
     <time>2021-11-12T09:19:04Z</time>
     <name>Association happy b8308</name>
@@ -1236,18 +1356,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.588575" lon="-2.043095">
-    <time>2017-02-23T12:32:55Z</time>
-    <name>Laetitia b827</name>
-    <desc>La boite se trouve sur le parking près du vival</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue de l'hôtel denis, 44460 Fegreac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.488773" lon="-0.543892">
     <time>2021-10-18T13:59:27Z</time>
     <name>Aurélie b8208</name>
@@ -1260,18 +1368,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.590572" lon="-1.647441">
-    <time></time>
-    <name>Erwan b82</name>
-    <desc>La boîte à lire se trouve entre la boulangerie et le salon de coiffure.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place de l'église, 85150 La chapelle achard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.826097" lon="-1.122536">
     <time>2021-10-04T08:58:50Z</time>
     <name>Cousin thomas b8187</name>
@@ -1279,18 +1375,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>8 bis route de l océan, 85250 Vendrennes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.537044" lon="-1.774293">
-    <time>2017-02-22T10:01:17Z</time>
-    <name>Joelle clough b818</name>
-    <desc>Face à l'église, près de l'ancienne bibliothèque municipale</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>3 rue du maréchal foch, 85340 Olonne-sur-mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1375,30 +1459,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>47 rue des moulins, 44119 Treillères, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.657548" lon="-1.405685">
-    <time>2017-02-06T10:13:21Z</time>
-    <name>Bernard b801</name>
-    <desc>Maison de quartier du bourg-sous-la-roche.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>61 chemin de la giraudière, 85000 La roche sur yon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.226121" lon="-1.599055">
-    <time></time>
-    <name>Recyclivre b8</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Jardin d'usage rue louis-le-nain, 44000 Nantes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1548,18 +1608,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.875306" lon="-2.007924">
-    <time></time>
-    <name>Fabien b76</name>
-    <desc>Mis en place par le conseil municipal des jeunes de saint-urbain</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Allée de la mairie, 85230 Saint-urbain, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.895563" lon="-1.050152">
     <time>2021-06-03T10:05:42Z</time>
     <name>Herve29 b7594</name>
@@ -1615,18 +1663,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Super u, 72290 Montbizot, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.253578" lon="-1.597414">
-    <time></time>
-    <name>Claus b75</name>
-    <desc>Elle se situe dans la bibliothèque.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>46, avenue alexandre goupil, 44700 Orvault, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1771,18 +1807,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue du communal.baude, 85200 Montreuil, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.272254" lon="-1.626873">
-    <time></time>
-    <name>Claus b73</name>
-    <desc>Elle est située dans la médiathèque ormédo</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue robert le ricolais, 44700 Orvault, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2004,42 +2028,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.456642" lon="-1.154121">
-    <time></time>
-    <name>Kim b671</name>
-    <desc>Devant la mission locale</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Avenue de lattre de tassigny, 85400 Luçon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.455435" lon="-1.170163">
-    <time></time>
-    <name>Kim b670</name>
-    <desc>Devant la mairie</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address> 1 rue de l hotel de ville, 85400 Luçon , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.474874" lon="-2.057987">
-    <time></time>
-    <name>Eric carron b667</name>
-    <desc>Voici un projet de l arbre a mots avec la mise en place d'une boite à livres. installé depuis octobre elle rencontre un vif succès.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Grande rue, 44530 Dreffeac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.352139" lon="-0.761917">
     <time>2020-08-28T09:45:29Z</time>
     <name>Epron b6579</name>
@@ -2059,18 +2047,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue des marais, 49290 Chalonnes sur loire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.59305" lon="-1.317037">
-    <time></time>
-    <name>La monnaie locale vendéo b653</name>
-    <desc>Passer sous le porche de la mairie. boite sur la droite.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>4 place de l'église, 85310 Saint-florent-des-bois, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2131,18 +2107,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Place dom guéranger, 72300 Sablé-sur-sarthe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.667631" lon="-1.427908">
-    <time></time>
-    <name>Chamane b646</name>
-    <desc>Il en existe une deuxième à proximité du groupe scolaire de la généraudière et une troisième actuellement en réparation se trouve place albert 1er.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address> rue dellile, 85000 La roche-sur-yon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2388,18 +2352,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.162709" lon="-1.265341">
-    <time></time>
-    <name>Steph mainguy b622</name>
-    <desc>La boite est dans le hall d accueil de la piscine naïadolis</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>7 boulevard evariste dejoie, 44330 Vallet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.681544" lon="-0.995736">
     <time>2020-05-25T10:40:27Z</time>
     <name>Avril b6211</name>
@@ -2448,18 +2400,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.189815" lon="-1.683944">
-    <time></time>
-    <name>Bernard bretonnière b613</name>
-    <desc>Cette boîte à lire la plus utilisée de la commune est placée sur le mur de la poste en face de l'église.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place de l'Église, 44620 La montagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.223599" lon="-1.515851">
     <time>2020-05-20T10:06:17Z</time>
     <name>Jean b6110</name>
@@ -2467,30 +2407,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>20 rue du petit blottereau, 44300 Nantes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.184177" lon="-1.683893">
-    <time></time>
-    <name>Bernard bretonnière b611</name>
-    <desc>Cette boîte à lire se situe à l'entrée du collège saint-exupéry</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue saint-exupéry, 44620 La montagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.188488" lon="-1.683674">
-    <time></time>
-    <name>Bernard bretonnière b610</name>
-    <desc>Cette boîte est installée tout près du cinéma le montagnard sur la place où se tient le marché le mercredi matin.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address> place similien-guérin , 44620 La montagne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2772,18 +2688,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.988489" lon="0.18936">
-    <time></time>
-    <name>Pétronille b578</name>
-    <desc>La boite se trouve près des jeux pour enfants.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Miroir - batignolles, 72100 Le mans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.062796" lon="-0.938964">
     <time>2020-01-31T17:02:12Z</time>
     <name>Boite à lire 49 b5777</name>
@@ -3043,18 +2947,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Grande rue, 44770 Préfailles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.25754" lon="-1.914439">
-    <time></time>
-    <name>Quai vert b547</name>
-    <desc>A l'entrée du camping municipal cette boîte à lire a été installée par la mairie au bord du canal de la martinière tout près de l'incroyable jardin du migron et du quai vert.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Square de la chaussée, 44320 Frossay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3379,18 +3271,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue de l'eraudière, 44300 Nantes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.698594" lon="-1.938014">
-    <time></time>
-    <name>Sylvie b495</name>
-    <desc>C est une boite à dons : livres vetements petits objets... elle se trouve au croisement de la passerelle piétonne andré bénéteau et du quai gorin</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Quai gorin, 85800 Saint gilles croix de vie, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3780,18 +3660,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.739235" lon="-1.608569">
-    <time></time>
-    <name>Fabienne macquigneau b434</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place de la poste, 85190 Aizenay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.049315" lon="-0.897292">
     <time>2019-05-10T11:15:09Z</time>
     <name>Marie-eve b4254</name>
@@ -3936,18 +3804,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.223035" lon="-1.597559">
-    <time></time>
-    <name>Manon b410</name>
-    <desc>Boîtes à lire en face de la bibliothèque emilienne leroux au quartier dervalières</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>21 rue charles roger, 44100 Nantes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.826484" lon="-0.706473">
     <time>2018-12-11T10:36:14Z</time>
     <name>Aurélien b4096</name>
@@ -4080,18 +3936,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.159157" lon="-1.658593">
-    <time></time>
-    <name>Emmanuel hoarau b399</name>
-    <desc>Attenante à la bibliothèque municipale de la montagne</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>41 route des palmiers, 97417 La montagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.420139" lon="-1.083898">
     <time>2018-11-12T10:11:07Z</time>
     <name>Le bars didier b3979</name>
@@ -4152,18 +3996,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.424699" lon="-0.525748">
-    <time></time>
-    <name>Médiathèque antoine de saint-exupéry b392</name>
-    <desc>Mise en place par la médiathèque des ponts-de-cé</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>2 avenue de la boire salée , 49130 Les ponts-de-cé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.719714" lon="-1.385022">
     <time>2018-10-23T17:19:04Z</time>
     <name>Aurélien b3913</name>
@@ -4219,18 +4051,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Parvis de la gare, 44190 Clisson, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.666329" lon="-1.428662">
-    <time></time>
-    <name>Catherine germain b385</name>
-    <desc>Près de la fontaine</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Square bayard, 85000 La roche sur yon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4464,18 +4284,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.294319" lon="-2.511908">
-    <time></time>
-    <name>Moon b364</name>
-    <desc>Installée récemment c'est très agréable de pouvoir emprunter un livre pour aller lire sur la plage.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Plage de port lin, 44490 Le croisic, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.080575" lon="-0.54393">
     <time>2018-09-10T09:35:12Z</time>
     <name>Coco b3635</name>
@@ -4572,30 +4380,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.652113" lon="-0.682413">
-    <time></time>
-    <name>Caroline b346</name>
-    <desc>Elle se situe dans un frigo customisé et placé devant l'espace jeanne-marie</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place st hilaire, 85120 Brueil barret , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.644429" lon="-0.737058">
-    <time></time>
-    <name>Caroline b345</name>
-    <desc>Un frigo customisé est en libre service dans la piscine intercommmunale</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue bonséjour, 85120 La châtaigneraie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.270059" lon="-0.083141">
     <time>2018-08-14T11:12:59Z</time>
     <name>Stéphanie kieffer monjoie b3425</name>
@@ -4651,18 +4435,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Centre commercial Éventard, 49000 Écouflant, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.331991" lon="-1.306408">
-    <time></time>
-    <name>Pauline cormier b341</name>
-    <desc>Boite à lire mise en place par le réseau des médiathèques du pays né de la mer</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Avenue amiral courbet, 85460 L aiguillon sur mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4735,30 +4507,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>24 rue des fosses, 44270 La marne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.194792" lon="-1.578311">
-    <time></time>
-    <name>Lywenn b314</name>
-    <desc>Près du café du port</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Quai robert surcouf , 44400 Rezé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.251556" lon="-1.589388">
-    <time></time>
-    <name>Gueidan b313</name>
-    <desc>Little free library</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>5 rue de la source, 44700 Orvault, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4860,18 +4608,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.207208" lon="-1.065064">
-    <time>2019-06-25T15:16:37Z</time>
-    <name>Nyéenne b309</name>
-    <desc>Devant la maison</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue sur la campagne, 04650 Herve , Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.475899" lon="-0.589088">
     <time>2018-07-13T09:15:44Z</time>
     <name>Samuel da silva b3079</name>
@@ -4903,30 +4639,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>1 rue de la cavalcade, 72350 Chevillé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.247038" lon="-2.169577">
-    <time></time>
-    <name>Sophie b305</name>
-    <desc>Très jolie boîte à lire à deux faces identiques fabriquée par une personne qui créé des jeux en bois. assortie au burger-glacier la cuisine d apolline juste à côté. face à l'estuaire et saint nazaire.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Boulevard padioleau, 44250 Saint-brevin-les-pins, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.379404" lon="-1.18933">
-    <time></time>
-    <name>Mg b304</name>
-    <desc>Une boîte rose pour partager ses lectures!</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue marie noel, 44150 Ancenis, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5232,18 +4944,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.504168" lon="-0.601494">
-    <time></time>
-    <name>Aurélien b255</name>
-    <desc>La boite se situe à côté de l?hôtel de ville.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place schwalbach, 49240 Avrillé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.718124" lon="0.33298">
     <time>2018-04-13T11:32:04Z</time>
     <name>Fabien maisonneuve b2544</name>
@@ -5323,18 +5023,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue du  stade, 85130 Saint-aubin des ormeaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.115771" lon="-2.104362">
-    <time></time>
-    <name>Sophie bethys b245</name>
-    <desc>Une boîte à lire grande comme une boîte à lettres.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue clémenceau, 44210 Pornic, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5467,18 +5155,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Place de la mairie, 85150 Saint mathurin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.308636" lon="0.40059">
-    <time></time>
-    <name>Amélie b216</name>
-    <desc>Repérée hier en allant à un concert petite boîte à lire sur l'avenue principale près de la mairie !</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>1 rue du vairais, 72600 Saint-rémy-des-monts, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5635,30 +5311,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Port, 44360 Cordemais, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.407163" lon="-2.355058">
-    <time></time>
-    <name>Ville d'herbignac b200</name>
-    <desc>Armoire sous l abribus à proximité de l'église de pompas.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Pompas, 44410 Herbignac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.409336" lon="-2.298955">
-    <time></time>
-    <name>Ville d'herbignac b199</name>
-    <desc>Armoire sous l'abribus à l'entrée du village de marlais.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Marlais , 44410 Herbignac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5947,18 +5599,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>L'hôtellerie-de-flée, 49500 Segré en anjou bleu, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.212757" lon="-1.548186">
-    <time></time>
-    <name>Béatrice b158</name>
-    <desc>Dépôt de livres dans le hall d'entrée.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>22 rue emile pehant , 44000 Nantes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6336,18 +5976,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.485304" lon="-1.239825">
-    <time></time>
-    <name>Liliane glemin b119</name>
-    <desc>Elle a été fabriquée et installée par les bénévoles de la bibliothèque bouillon de lecture" de pannecé" début novembre 2015.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place de l'église , 44440 Pannecé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.257621" lon="-2.018556">
     <time>2017-06-22T09:41:35Z</time>
     <name>Sophie b1188</name>
@@ -6468,18 +6096,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.476507" lon="-0.544743">
-    <time></time>
-    <name>Valerie reineri b108</name>
-    <desc>La boite se situe au c?ur du parc du jardin des plantes.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue boreau, 49100 Angers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.640257" lon="-1.712964">
     <time>2017-04-28T11:28:03Z</time>
     <name>Céline b1061</name>
@@ -6487,198 +6103,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Place jeanne d'arc, 85150 Sain julien des landes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.523828" lon="-1.084083">
-    <time>2025-04-07T09:40:03Z</time>
-    <name>Dupuy tiphanie b10516</name>
-    <desc>2 boîtes à livres: - 1 enfant - 1 adultes elles ont été réalisées par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>4 rue de la petite vigne, 85210 Saint jean d hermine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.526343" lon="-1.121013">
-    <time>2025-04-07T09:39:51Z</time>
-    <name>Tiphanie dupuy b10515</name>
-    <desc>Une ancienne armoire transformée en boîte à livres par des habitants et des enfants de la commune dans le cadre d ateliers intergénérationnels. elle se trouve sous le préau à côté de la salle.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Les mottes, 85210 Saint jean d hermine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.331432" lon="-0.949437">
-    <time>2025-04-07T09:39:39Z</time>
-    <name>Isabelle vivier b10514</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>En face de l annexe de la poste, 85770 L ile d'elle, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.330028" lon="-0.946063">
-    <time>2025-04-07T09:39:26Z</time>
-    <name>Isabelle vivier b10513</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Médiathèque rue de l eglise, 85770 L ile d'elle, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.31211" lon="-1.284362">
-    <time>2025-04-01T09:23:59Z</time>
-    <name>Mairie de l aiguillon la presqu'île b10504</name>
-    <desc>Ancienne cabine téléphonique anglaise transformée en boîte à livres, au bord du plan d eau</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Plan d eau de l'aiguillon-sur-mer, 85460 L aiguillon-la-presqu'île, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.595267" lon="-1.180912">
-    <time>2025-03-26T09:40:25Z</time>
-    <name>Bibliothèque municipale b10500</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>29 bis rue de l océan, 85320 Les pineaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.561639" lon="-1.138977">
-    <time>2025-03-26T09:40:09Z</time>
-    <name>Commune de sainte pexine b10499</name>
-    <desc>Sur la place devant la mairie</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>4 rue du pont, 85320 Sainte pexine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.548239" lon="-1.007123">
-    <time>2025-03-26T09:39:59Z</time>
-    <name>À thiré par les livres b10498</name>
-    <desc>Située face à la mairie.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Mairie de thiré - 32 rue de la mairie, 85210 Thire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.555511" lon="-1.061522">
-    <time>2025-02-10T09:51:10Z</time>
-    <name>Un lecteur b10465</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Parking des halles, 08510 Sainte-hermine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.181382" lon="-2.154116">
-    <time>2025-02-07T10:20:35Z</time>
-    <name>Christophe b10464</name>
-    <desc>Sur le muret d?un particulier</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>57 rue du redois, 44730 Saint michel chef chef, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.470933" lon="-0.551382">
-    <time></time>
-    <name>Reineri b104</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place du ralliement , 49000 Angers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.21481" lon="-0.021392">
-    <time>2024-11-04T09:59:43Z</time>
-    <name>Guingambrésil b10372</name>
-    <desc>Accrochée à l abribus.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place de la paleine, 49400 Souzay-champigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.236202" lon="-0.007483">
-    <time>2024-11-04T09:59:27Z</time>
-    <name>Guingambrésil b10371</name>
-    <desc>Sur le côté de la mairie de souzay-champigny, prés de la boîte à pain.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>52 route des ducs d anjoun, 49400 Souzay-champigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.214372" lon="0.054955">
-    <time>2024-11-04T09:44:44Z</time>
-    <name>Guingambrésil b10370</name>
-    <desc>Devant le foyer des jeunes.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>27 rue des abbesses, 49730 Montsoreau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.46032" lon="-1.337506">
-    <time>2024-09-02T10:01:32Z</time>
-    <name>Falken b10307</name>
-    <desc>Une ancienne cabine téléphonique des ptt sur le parking situé en face du numéro 1</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>1 rue du trou des brigands, 85540 Saint-cyr en talmondais, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.45069" lon="-0.544451">
-    <time></time>
-    <name>Reineri b103</name>
-    <desc>La boîte se situe dans le jardin de l'arboretum dans un écrin végétal propice à la lecture.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>9 rue du château d'orgemont, 49000 Angers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6708,30 +6132,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.377369" lon="-1.058871">
-    <time>2024-08-05T09:31:50Z</time>
-    <name>Boite à livres b10243</name>
-    <desc></desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 85450 Vouille les marais, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.86919" lon="-1.013388">
-    <time>2024-07-12T09:20:28Z</time>
-    <name>Patricia gllx b10210</name>
-    <desc>Peut-être pas trop entretenue</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Patamiens@gmail.com, 85500 Les herbiers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.190385" lon="-1.570152">
     <time>2017-04-13T09:13:39Z</time>
     <name>Garnaud b1018</name>
@@ -6739,18 +6139,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue camille jouis, 44400 Rezé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.118489" lon="-1.940805">
-    <time>2024-05-30T10:43:03Z</time>
-    <name>Arthon en retz b10166</name>
-    <desc>C?est une ancienne cabine téléphonique elle se situe à l?angle de la rue des acacias et de la rue de l?église</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Rue de l?église, 44320 Chaumes en retz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6768,6 +6156,594 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="48.037463" lon="0.588347">
+    <time>2017-04-11T11:53:58Z</time>
+    <name>Vival de dollon b990</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue saint medard , 72390 Dollon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.966619" lon="-1.576929">
+    <time>2017-04-11T11:52:29Z</time>
+    <name>Vival de courcoue sur logne b989</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue du 8 mai 1945, 44650 Courcoue sur logne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.279663" lon="-2.210725">
+    <time>2017-03-22T15:01:23Z</time>
+    <name>Nael b903</name>
+    <desc>Elle se trouve à coté de la librairie les idées larges.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>40 rue jean jaures, 44600 Saint-nazaire , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.013756" lon="0.268798">
+    <time>2017-03-21T09:05:23Z</time>
+    <name>Nadine jolu b900</name>
+    <desc>La boite à lire se situe dans la résidence du parc. elle est abritée à l'extérieur du bâtiment d'accueil.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue gougeard, 72530 Yvré-l evêque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.452904" lon="-0.526077">
+    <time>2017-03-06T16:38:28Z</time>
+    <name>Aurélie b878</name>
+    <desc>Ce n'est pas vraiment une boîte, mais à l'intérieur de la bibliothèque des 3 mâts il y a un panier où on peut échanger.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place des justices, 49000 Angers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.444146" lon="-0.563673">
+    <time>2017-03-06T16:33:59Z</time>
+    <name>Aurélie b877</name>
+    <desc>Il y en a plusieurs , en effet il y a une petite étagère dans la bibliothèque , et 2 très grosses dans le fond de la salle café.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>1 bis rue henri-bergson, 49100 Angers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.46999" lon="-0.32907">
+    <time>2017-03-06T09:18:28Z</time>
+    <name>Aurélie b875</name>
+    <desc>Une étagère dans le fond de la galerie marchande.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>46 route du point du jour , 49630 Corné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.225612" lon="-1.554161">
+    <time>2017-03-06T09:13:59Z</time>
+    <name>Aurélie b872</name>
+    <desc>Il y a 2 boîtes dont l'une est consacrée à la littérature jeunesse.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Île de versailles , 44000 Nantes , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.065177" lon="-0.769042">
+    <time>2017-03-06T09:10:07Z</time>
+    <name>Dice man b865</name>
+    <desc>Arbre à lire dans le jardin de la perrine.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Jardin de la perrine, 53000 Laval, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.813893" lon="-0.086263">
+    <time>2017-02-23T12:53:49Z</time>
+    <name>Guyon b832</name>
+    <desc>Boîte inaugurée il y a un peu moins de deux ans. les livres tournent bien dans l'ensemble.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>2 place de la république , 72270 Malicorne-sur-sarthe, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.588575" lon="-2.043095">
+    <time>2017-02-23T12:32:55Z</time>
+    <name>Laetitia b827</name>
+    <desc>La boite se trouve sur le parking près du vival</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue de l'hôtel denis, 44460 Fegreac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.537044" lon="-1.774293">
+    <time>2017-02-22T10:01:17Z</time>
+    <name>Joelle clough b818</name>
+    <desc>Face à l'église, près de l'ancienne bibliothèque municipale</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>3 rue du maréchal foch, 85340 Olonne-sur-mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.657548" lon="-1.405685">
+    <time>2017-02-06T10:13:21Z</time>
+    <name>Bernard b801</name>
+    <desc>Maison de quartier du bourg-sous-la-roche.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>61 chemin de la giraudière, 85000 La roche sur yon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.456642" lon="-1.154121">
+    <time></time>
+    <name>Kim b671</name>
+    <desc>Devant la mission locale</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Avenue de lattre de tassigny, 85400 Luçon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.455435" lon="-1.170163">
+    <time></time>
+    <name>Kim b670</name>
+    <desc>Devant la mairie</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address> 1 rue de l hotel de ville, 85400 Luçon , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.474874" lon="-2.057987">
+    <time></time>
+    <name>Eric carron b667</name>
+    <desc>Voici un projet de l arbre a mots avec la mise en place d'une boite à livres. installé depuis octobre elle rencontre un vif succès.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Grande rue, 44530 Dreffeac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.59305" lon="-1.317037">
+    <time></time>
+    <name>La monnaie locale vendéo b653</name>
+    <desc>Passer sous le porche de la mairie. boite sur la droite.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>4 place de l'église, 85310 Saint-florent-des-bois, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.667631" lon="-1.427908">
+    <time></time>
+    <name>Chamane b646</name>
+    <desc>Il en existe une deuxième à proximité du groupe scolaire de la généraudière et une troisième actuellement en réparation se trouve place albert 1er.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address> rue dellile, 85000 La roche-sur-yon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.162709" lon="-1.265341">
+    <time></time>
+    <name>Steph mainguy b622</name>
+    <desc>La boite est dans le hall d accueil de la piscine naïadolis</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>7 boulevard evariste dejoie, 44330 Vallet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.189815" lon="-1.683944">
+    <time></time>
+    <name>Bernard bretonnière b613</name>
+    <desc>Cette boîte à lire la plus utilisée de la commune est placée sur le mur de la poste en face de l'église.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place de l'Église, 44620 La montagne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.184177" lon="-1.683893">
+    <time></time>
+    <name>Bernard bretonnière b611</name>
+    <desc>Cette boîte à lire se situe à l'entrée du collège saint-exupéry</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue saint-exupéry, 44620 La montagne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.188488" lon="-1.683674">
+    <time></time>
+    <name>Bernard bretonnière b610</name>
+    <desc>Cette boîte est installée tout près du cinéma le montagnard sur la place où se tient le marché le mercredi matin.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address> place similien-guérin , 44620 La montagne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.988489" lon="0.18936">
+    <time></time>
+    <name>Pétronille b578</name>
+    <desc>La boite se trouve près des jeux pour enfants.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Miroir - batignolles, 72100 Le mans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25754" lon="-1.914439">
+    <time></time>
+    <name>Quai vert b547</name>
+    <desc>A l'entrée du camping municipal cette boîte à lire a été installée par la mairie au bord du canal de la martinière tout près de l'incroyable jardin du migron et du quai vert.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Square de la chaussée, 44320 Frossay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.698594" lon="-1.938014">
+    <time></time>
+    <name>Sylvie b495</name>
+    <desc>C est une boite à dons : livres vetements petits objets... elle se trouve au croisement de la passerelle piétonne andré bénéteau et du quai gorin</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Quai gorin, 85800 Saint gilles croix de vie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.739235" lon="-1.608569">
+    <time></time>
+    <name>Fabienne macquigneau b434</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place de la poste, 85190 Aizenay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.223035" lon="-1.597559">
+    <time></time>
+    <name>Manon b410</name>
+    <desc>Boîtes à lire en face de la bibliothèque emilienne leroux au quartier dervalières</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>21 rue charles roger, 44100 Nantes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.159157" lon="-1.658593">
+    <time></time>
+    <name>Emmanuel hoarau b399</name>
+    <desc>Attenante à la bibliothèque municipale de la montagne</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>41 route des palmiers, 97417 La montagne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.424699" lon="-0.525748">
+    <time></time>
+    <name>Médiathèque antoine de saint-exupéry b392</name>
+    <desc>Mise en place par la médiathèque des ponts-de-cé</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>2 avenue de la boire salée , 49130 Les ponts-de-cé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.666329" lon="-1.428662">
+    <time></time>
+    <name>Catherine germain b385</name>
+    <desc>Près de la fontaine</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Square bayard, 85000 La roche sur yon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.294319" lon="-2.511908">
+    <time></time>
+    <name>Moon b364</name>
+    <desc>Installée récemment c'est très agréable de pouvoir emprunter un livre pour aller lire sur la plage.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Plage de port lin, 44490 Le croisic, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.652113" lon="-0.682413">
+    <time></time>
+    <name>Caroline b346</name>
+    <desc>Elle se situe dans un frigo customisé et placé devant l'espace jeanne-marie</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place st hilaire, 85120 Brueil barret , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.644429" lon="-0.737058">
+    <time></time>
+    <name>Caroline b345</name>
+    <desc>Un frigo customisé est en libre service dans la piscine intercommmunale</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue bonséjour, 85120 La châtaigneraie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.331991" lon="-1.306408">
+    <time></time>
+    <name>Pauline cormier b341</name>
+    <desc>Boite à lire mise en place par le réseau des médiathèques du pays né de la mer</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Avenue amiral courbet, 85460 L aiguillon sur mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.194792" lon="-1.578311">
+    <time></time>
+    <name>Lywenn b314</name>
+    <desc>Près du café du port</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Quai robert surcouf , 44400 Rezé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.251556" lon="-1.589388">
+    <time></time>
+    <name>Gueidan b313</name>
+    <desc>Little free library</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>5 rue de la source, 44700 Orvault, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.207208" lon="-1.065064">
+    <time>2019-06-25T15:16:37Z</time>
+    <name>Nyéenne b309</name>
+    <desc>Devant la maison</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue sur la campagne, 04650 Herve , Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.247038" lon="-2.169577">
+    <time></time>
+    <name>Sophie b305</name>
+    <desc>Très jolie boîte à lire à deux faces identiques fabriquée par une personne qui créé des jeux en bois. assortie au burger-glacier la cuisine d apolline juste à côté. face à l'estuaire et saint nazaire.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Boulevard padioleau, 44250 Saint-brevin-les-pins, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.379404" lon="-1.18933">
+    <time></time>
+    <name>Mg b304</name>
+    <desc>Une boîte rose pour partager ses lectures!</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue marie noel, 44150 Ancenis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.504168" lon="-0.601494">
+    <time></time>
+    <name>Aurélien b255</name>
+    <desc>La boite se situe à côté de l?hôtel de ville.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place schwalbach, 49240 Avrillé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.115771" lon="-2.104362">
+    <time></time>
+    <name>Sophie bethys b245</name>
+    <desc>Une boîte à lire grande comme une boîte à lettres.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue clémenceau, 44210 Pornic, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.308636" lon="0.40059">
+    <time></time>
+    <name>Amélie b216</name>
+    <desc>Repérée hier en allant à un concert petite boîte à lire sur l'avenue principale près de la mairie !</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>1 rue du vairais, 72600 Saint-rémy-des-monts, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.407163" lon="-2.355058">
+    <time></time>
+    <name>Ville d'herbignac b200</name>
+    <desc>Armoire sous l abribus à proximité de l'église de pompas.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Pompas, 44410 Herbignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.409336" lon="-2.298955">
+    <time></time>
+    <name>Ville d'herbignac b199</name>
+    <desc>Armoire sous l'abribus à l'entrée du village de marlais.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Marlais , 44410 Herbignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.212757" lon="-1.548186">
+    <time></time>
+    <name>Béatrice b158</name>
+    <desc>Dépôt de livres dans le hall d'entrée.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>22 rue emile pehant , 44000 Nantes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.485304" lon="-1.239825">
+    <time></time>
+    <name>Liliane glemin b119</name>
+    <desc>Elle a été fabriquée et installée par les bénévoles de la bibliothèque bouillon de lecture" de pannecé" début novembre 2015.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place de l'église , 44440 Pannecé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.476507" lon="-0.544743">
+    <time></time>
+    <name>Valerie reineri b108</name>
+    <desc>La boite se situe au c?ur du parc du jardin des plantes.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue boreau, 49100 Angers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.470933" lon="-0.551382">
+    <time></time>
+    <name>Reineri b104</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Place du ralliement , 49000 Angers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.45069" lon="-0.544451">
+    <time></time>
+    <name>Reineri b103</name>
+    <desc>La boîte se situe dans le jardin de l'arboretum dans un écrin végétal propice à la lecture.</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>9 rue du château d'orgemont, 49000 Angers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.470865" lon="-0.547499">
     <time></time>
     <name>Valerie reineri b101</name>
@@ -6780,85 +6756,109 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.889136" lon="-2.139949">
-    <time>2024-03-19T09:39:31Z</time>
-    <name>Christine b10052</name>
-    <desc>7jr/7 et 24h/24 devant l office de tourisme, côté parking</desc>
+  <wpt lat="46.875139" lon="-2.009923">
+    <time></time>
+    <name>Kristel b96</name>
+    <desc>La boite se situe rue du pont d'orgueil au niveau du rond point il y a un abri bus scolaire.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Place de la gare, 85550 La barre de monts, France</osmand:address>
+      <osmand:address>Rue du pont d'orgueil, 85230 Saint-urbain , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.83164" lon="-2.130168">
-    <time>2024-03-19T09:37:55Z</time>
-    <name>Christine b10051</name>
-    <desc>7 jr/7 et 24h/24h située devant l office de tourisme</desc>
+  <wpt lat="46.870277" lon="-1.004228">
+    <time></time>
+    <name>Hervé perton b92</name>
+    <desc>Mise en place en 2015.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>6 rue de la barre, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:address>13 rue de grouteau, 85500 Les herbiers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.830695" lon="-2.13102">
-    <time>2024-03-19T09:37:42Z</time>
-    <name>Christine b10050</name>
-    <desc>7jr/7 et 24h/24h boite à livres située entre l aire de jeux pour enfants et la fontaine dans le square face à l'église</desc>
+  <wpt lat="47.244013" lon="-1.93186">
+    <time></time>
+    <name>Sophie b90</name>
+    <desc>C'est une boîte installée par la mairie dans le jardin derrière la bibliothèque/espace culturel.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Ilot de l europe - square grantown on spey, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:address>2 rue de bel air, 44320 Frossay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.837268" lon="-2.13874">
-    <time>2024-03-19T09:37:26Z</time>
-    <name>Christine b10049</name>
-    <desc>7jr/7jr et 24h/24h située à l entrée du camping municipal</desc>
+  <wpt lat="46.590572" lon="-1.647441">
+    <time></time>
+    <name>Erwan b82</name>
+    <desc>La boîte à lire se trouve entre la boulangerie et le salon de coiffure.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Avenue abbé thibaud, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:address>Place de l'église, 85150 La chapelle achard, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.831062" lon="-2.139142">
-    <time>2024-03-19T09:37:06Z</time>
-    <name>Christine b10048</name>
-    <desc>7jr/7jr et 24h24h située le long de l aire de jeux pour enfants</desc>
+  <wpt lat="46.875306" lon="-2.007924">
+    <time></time>
+    <name>Fabien b76</name>
+    <desc>Mis en place par le conseil municipal des jeunes de saint-urbain</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>107 avenue de la mer, 85690 Notre dame de monts, France</osmand:address>
+      <osmand:address>Allée de la mairie, 85230 Saint-urbain, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.794679" lon="-2.043296">
-    <time>2024-03-19T09:36:27Z</time>
-    <name>Christine b10047</name>
-    <desc>Dans le centre-commercial super u les sentiers du marais" côté pharmacie et maroquinerie en fonction des horaires d ouverture de super u "les sentiers du marais"</desc>
+  <wpt lat="47.253578" lon="-1.597414">
+    <time></time>
+    <name>Claus b75</name>
+    <desc>Elle se situe dans la bibliothèque.</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Rue de la déchaume, 85160 Saint jean de monts, France</osmand:address>
+      <osmand:address>46, avenue alexandre goupil, 44700 Orvault, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.059315" lon="-0.632196">
-    <time>2024-02-28T10:15:43Z</time>
-    <name>Anatole boulay b10021</name>
-    <desc>Créée par le conseil municipal des jeunes de louvigné en 2023</desc>
+  <wpt lat="47.272254" lon="-1.626873">
+    <time></time>
+    <name>Claus b73</name>
+    <desc>Elle est située dans la médiathèque ormédo</desc>
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
-      <osmand:address>Place des sports, 53210 Louvigné, France</osmand:address>
+      <osmand:address>Rue robert le ricolais, 44700 Orvault, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.160929" lon="-1.265138">
+    <time></time>
+    <name>Recyclivre b9</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Square jim-howart, 44330 Vallet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.226121" lon="-1.599055">
+    <time></time>
+    <name>Recyclivre b8</name>
+    <desc></desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Jardin d'usage rue louis-le-nain, 44000 Nantes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

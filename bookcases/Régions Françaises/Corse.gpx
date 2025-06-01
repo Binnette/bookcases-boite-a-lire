@@ -1,24 +1,84 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="42.701123" lon="9.451018">
-    <time>2017-02-23T10:24:18Z</time>
-    <name>Bernadette b821</name>
-    <desc>La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas.</desc>
+  <wpt lat="42.536842" lon="8.781164">
+    <time>2024-12-17T09:17:35Z</time>
+    <name>Elisa b10431</name>
+    <desc></desc>
     <type>BoiteLire Corse</type>
     <extensions>
-      <osmand:address>Allée général fieschi, 20200 Bastia, France</osmand:address>
+      <osmand:address>Parking du port, 20260 Calvi, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="41.925466" lon="8.738125">
-    <time>2017-02-23T10:13:07Z</time>
-    <name>Bernadette b820</name>
-    <desc>La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio</desc>
+  <wpt lat="42.567651" lon="8.757222">
+    <time>2024-12-17T09:17:13Z</time>
+    <name>Elisa b10429</name>
+    <desc>Ancienne cabine téléphonique, au stop.</desc>
     <type>BoiteLire Corse</type>
     <extensions>
-      <osmand:address>Cours napoléon, 20000 Ajaccio, France</osmand:address>
+      <osmand:address>Carrefour de l hôpital, 20260 Calvi, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.914627" lon="8.727917">
+    <time>2024-10-10T09:44:50Z</time>
+    <name>Philippe caulier b10348</name>
+    <desc>Ancien frigo à l?entrée de l'école bonafedi</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Boulevard adolphe landry, 20000 Ajaccio, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.020737" lon="9.401481">
+    <time>2024-10-03T09:50:28Z</time>
+    <name>Philippe caulier b10344</name>
+    <desc>Un ancien frigidaire à l?entrée de la communité de communes</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>675 route de ghisoni, 20240 Ghisonaccia, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.130179" lon="9.298542">
+    <time>2024-09-30T09:53:41Z</time>
+    <name>Philippe caulier b10343</name>
+    <desc>Dans le magasin alimentation générale, au centre du village</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>D 343, 20242 Vezzani, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.30351" lon="9.15859">
+    <time>2024-09-30T09:53:29Z</time>
+    <name>Philippe caulier b10342</name>
+    <desc>Dans le hall, armoire plus étagère !</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Gare de corte, 20250 Corte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.619411" lon="8.907978">
+    <time>2024-09-20T09:28:43Z</time>
+    <name>Philippe caulier b10334</name>
+    <desc>En face du restaurant la cantina</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Piazza di l'ormu, 20256 Corbara, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -108,85 +168,25 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.536842" lon="8.781164">
-    <time>2024-12-17T09:17:35Z</time>
-    <name>Elisa b10431</name>
-    <desc></desc>
+  <wpt lat="42.701123" lon="9.451018">
+    <time>2017-02-23T10:24:18Z</time>
+    <name>Bernadette b821</name>
+    <desc>La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas.</desc>
     <type>BoiteLire Corse</type>
     <extensions>
-      <osmand:address>Parking du port, 20260 Calvi, France</osmand:address>
+      <osmand:address>Allée général fieschi, 20200 Bastia, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.567651" lon="8.757222">
-    <time>2024-12-17T09:17:13Z</time>
-    <name>Elisa b10429</name>
-    <desc>Ancienne cabine téléphonique, au stop.</desc>
+  <wpt lat="41.925466" lon="8.738125">
+    <time>2017-02-23T10:13:07Z</time>
+    <name>Bernadette b820</name>
+    <desc>La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio</desc>
     <type>BoiteLire Corse</type>
     <extensions>
-      <osmand:address>Carrefour de l hôpital, 20260 Calvi, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="41.914627" lon="8.727917">
-    <time>2024-10-10T09:44:50Z</time>
-    <name>Philippe caulier b10348</name>
-    <desc>Ancien frigo à l?entrée de l'école bonafedi</desc>
-    <type>BoiteLire Corse</type>
-    <extensions>
-      <osmand:address>Boulevard adolphe landry, 20000 Ajaccio, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.020737" lon="9.401481">
-    <time>2024-10-03T09:50:28Z</time>
-    <name>Philippe caulier b10344</name>
-    <desc>Un ancien frigidaire à l?entrée de la communité de communes</desc>
-    <type>BoiteLire Corse</type>
-    <extensions>
-      <osmand:address>675 route de ghisoni, 20240 Ghisonaccia, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.130179" lon="9.298542">
-    <time>2024-09-30T09:53:41Z</time>
-    <name>Philippe caulier b10343</name>
-    <desc>Dans le magasin alimentation générale, au centre du village</desc>
-    <type>BoiteLire Corse</type>
-    <extensions>
-      <osmand:address>D 343, 20242 Vezzani, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.30351" lon="9.15859">
-    <time>2024-09-30T09:53:29Z</time>
-    <name>Philippe caulier b10342</name>
-    <desc>Dans le hall, armoire plus étagère !</desc>
-    <type>BoiteLire Corse</type>
-    <extensions>
-      <osmand:address>Gare de corte, 20250 Corte, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="42.619411" lon="8.907978">
-    <time>2024-09-20T09:28:43Z</time>
-    <name>Philippe caulier b10334</name>
-    <desc>En face du restaurant la cantina</desc>
-    <type>BoiteLire Corse</type>
-    <extensions>
-      <osmand:address>Piazza di l'ormu, 20256 Corbara, France</osmand:address>
+      <osmand:address>Cours napoléon, 20000 Ajaccio, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

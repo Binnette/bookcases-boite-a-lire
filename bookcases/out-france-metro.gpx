@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="50.626098" lon="4.996915">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Administration communale de wasseiges b979</name>
+  <wpt lat="-20.937703" lon="55.290846">
+    <time>2025-01-02T09:44:08Z</time>
+    <name>Lecoquierre b10445</name>
     <desc></desc>
     <type>BoiteLire hors France métro</type>
     <extensions>
-      <osmand:address>Rue du baron d'obin 219, 04219 Wasseiges, Belgique</osmand:address>
+      <osmand:address>4 avenue de la commune de paris, 97420 Le port, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.697216" lon="5.256537">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Hall de l'académie de waremme b978</name>
+  <wpt lat="45.527815" lon="-73.545455">
+    <time>2024-05-12T14:38:48Z</time>
+    <name>Terrystad b10144</name>
     <desc></desc>
     <type>BoiteLire hors France métro</type>
     <extensions>
-      <osmand:address>Rue charles lejeune 4, 04300 Waremme, Belgique</osmand:address>
+      <osmand:address>489 rue dufresne, H2K 3J4 Montréal, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -36,18 +36,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.613496" lon="5.231509">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Asbl ressourç'âge b977</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place maurice grandgagnage 4, 04530 Villers-le-bouillet, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.839683" lon="24.029717">
     <time>2023-08-17T11:56:08Z</time>
     <name>Robnkk b9766</name>
@@ -55,162 +43,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>R.ob.ertb.row.n.m.oon.m.a.n.s@gmail.com, 0Lviv Lviv, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.591979" lon="5.85441">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Maison de l'égalité des chances b976</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue lucien defays 10, 04800 Verviers, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.580037" lon="5.839346">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Régie de quartier d'ensival (sac 2) b975</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue henri davignon 5, 04800 Verviers, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.591023" lon="5.868168">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Régie de quartier - sac1 mangombroux-abattoir b974</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue courte du pont 20, 04800 Verviers, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.531166" lon="5.815661">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Jeps theux b973</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue des 600 franchimontois 1, 04910 Theux, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.493332" lon="5.86687">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Administration communale de spa b972</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de l'hôtel de ville 44, 04900 Spa, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.588923" lon="5.50457">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Bibliothèque du jardin perdu b971</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de la jeunesse 2, 04100 Seraing, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.571206" lon="5.536189">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Bibliothèque de boncelles b970</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue du gerbier 6, 04100 Boncelles, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.620071" lon="5.486764">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Bibliothèque de la cité b969</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place brossolette 2, 04101 Jemeppe, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.599909" lon="5.538714">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Ecole des trixhes b968</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de l'enseignement 166 , 04102 Ougree, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.581566" lon="5.48671">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Piscine olympique de seraing b966</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue des puddleurs, 04100 Seraing, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.631784" lon="5.539246">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Hôtel communal de saint-nicolas b965</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de l'hôtel communal 63, 04420 Saint-nicolas, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.601043" lon="5.35473">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Maison communale de saint-georges b964</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue albert 1er 16, 04470 Saint-georges s/meuse, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.678461" lon="5.320628">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Administration communale de remicourt b963</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue nouvelle percée 5, 04350 Remicourt, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -228,186 +60,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.743232" lon="5.988722">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Hall sportif de plombières b962</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue césar franck 163, 04851 Gemmenich, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.567196" lon="5.806948">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Le pavillon b961</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue nids d'aguesses 1, 04860 Pepinster, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.708935" lon="5.644446">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Bibliothèque d'oupeye b960</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du roi albert 194, 04680 Oupeye, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.735464" lon="5.667359">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Administration communale d'oupeye b959</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue des ecoles 4, 04684 Haccourt, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.530217" lon="5.412886">
-    <time>2017-04-07T09:31:49Z</time>
-    <name>Bibliothèque communale de nandrin b958</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>4 rue du presbytère, 04550 Nandrin, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.483026" lon="5.297779">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Administration communale de modave b957</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place georges hubin 1-3-5, 04577 Modave, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.480247" lon="5.22551">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Maison des solidarités du c.p.a.s. de marchin b956</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place belle maison 14, 04570 Marchin, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.71485" lon="5.033351">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Administration communale de lincent b955</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue des ecoles 1, 04287 Lincent, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.622408" lon="5.938324">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Maison intergénérationnelle de limbourg b954</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Quartier du vieux moulin 1, 04831 Limbourg, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.718736" lon="6.013138">
-    <time>2017-04-06T15:58:21Z</time>
-    <name>Piscine communale de la calamine b953</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du patronage , 04720 La calamine, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.709107" lon="5.531027">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Echevinat des affaires sociales de juprelle b952</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du tige 142 a, 04450 Juprelle, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.726558" lon="5.562956">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>C.p.a.s. de juprelle b951</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue cordémont 17, 04450 Slins, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.558928" lon="5.966864">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>C.p.a.s. de jalhay b950</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de la fagne 46, 04845 Jalhay, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.520096" lon="5.241673">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Bibliothèque communale de huy b949</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue des augustins 18 b, 04500 Huy, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.519757" lon="5.24912">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>C.p.a.s. de huy b948</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du long thier 35, 04500 Huy, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.529415" lon="5.245573">
     <time>2023-03-09T08:33:42Z</time>
     <name>Suma b9474</name>
@@ -415,234 +67,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Cité emile vierset 26, 04500 Huy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.665596" lon="5.610728">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>La charlemagnerie b947</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue henri nottet 11, 04040 Herstal, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.685215" lon="5.641132">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Maison intergénérationnelle de pontisse b946</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue de la cité wauters 35 b, 04040 Herstal, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.688283" lon="5.593838">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Maison intergénérationnelle de milmort b945</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de la renaissance 11, 04041 Milmort, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.675963" lon="5.082159">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Bibliothèque communale de hannut b944</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de landen 43, 04280 Hannut, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.674513" lon="5.074268">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Maison des jeunes de hannut b943</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Route de tirlemont 51, 04280 Hannut, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.426721" lon="5.532256">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Bibliothèque communale - c.p.a.s. de hamoir b942</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue gilles del cour 10, 04180 Hamoir, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.646232" lon="5.504085">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Bibliothèque communale de grâce-hollogne b941</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue des alliés 33, 04460 Grace-hollogne, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.613646" lon="5.676228">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Bibliothèque communale de fléron b940</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de romsée 18, 04620 Fleron, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.616239" lon="5.682309">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Piscine communale de fléron b939</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue françois lapierre 19, 04620 Fleron, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.400703" lon="5.607513">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>C.p.a.s. de ferrières b938</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de lognoul 6, 04190 Ferrieres, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.624807" lon="6.033622">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Animationszentrum ephata asbl b937</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Bergkapellstrasse 46, 04700 Eupen, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.62136" lon="6.040375">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Viertelhaus cardijn caj b936</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Hillstrasse 7, 04700 Eupen, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.639366" lon="6.025452">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Sos hilfe asbl b935</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Nöretherstrasse 53, 04700 Eupen, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.531706" lon="5.564196">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Jet maison des jeunes b934</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue montéfiore 26 a, 04130 Esneux, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.52656" lon="5.572223">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>L'escale b933</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de la station 80, 04130 Esneux, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.558932" lon="5.362099">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Centre culturel d'engis b932</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du pont 7, 04480 Engis, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.610318" lon="5.851769">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Plan de cohésion sociale de dison b931</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue léopold 36, 04820 Dison, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.735538" lon="5.76904">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>La boîte à chiffons - c.p.a.s. de dalhem b930</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue bassetrée 5, 04608 Warsage, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.626506" lon="5.149926">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Ecole communale de braives b929</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place du carcan 2, 04260 Braives, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -660,42 +84,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.698443" lon="5.211388">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Administration communale de berloz b928</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue antoine dodion 10, 04257 Berloz, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.668754" lon="5.500587">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>C.p.a.s. d'ans b927</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue edouard colson 148, 04431 Loncin, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.667461" lon="5.507504">
-    <time>2017-04-06T15:58:20Z</time>
-    <name>Administration communale d'ans b926</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Esplanade de l'hôtel communal 1, 04430 Ans, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.579805" lon="4.529461">
     <time>2022-08-18T09:59:49Z</time>
     <name>Aliziel b9098</name>
@@ -703,18 +91,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue arsène tournay, 24, 01495 Villers-la-ville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.778606" lon="6.641312">
-    <time>2019-06-25T14:47:19Z</time>
-    <name>Dantalio b909</name>
-    <desc>Situé devant la papeterie à côté du temple</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place pestalozzi, 01400 Yverdon-les-bains, Suisse</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -775,18 +151,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de le mesnil 15, 05670 Oignies-en-thierache, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.724296" lon="4.866929">
-    <time>2019-06-24T16:30:42Z</time>
-    <name>Marie b87</name>
-    <desc>Une boite à côté d'un banc dans un joli petit parc. lire est un plaisir bien tentant!</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du château 13, 01370 Jodoigne, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -972,18 +336,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.669407" lon="4.611747">
-    <time>2019-06-25T14:45:51Z</time>
-    <name>François gallain b850</name>
-    <desc>Mise à disposition par la maison du développement durable</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Grand place, 01348 Louvain-la-neuve, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="-21.222902" lon="55.47794">
     <time>2022-02-01T09:35:07Z</time>
     <name>Charlotte b8478</name>
@@ -1020,42 +372,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.865924" lon="4.705893">
-    <time>2019-08-07T11:50:19Z</time>
-    <name>Léna b839</name>
-    <desc>Jolie petite cabanette avec des livres en français anglais flamand et autres j en ai même trouvé un en hongrois une fois.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Zegelaan, 03001 Heverlee, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.363782" lon="4.511621">
-    <time>2019-06-25T15:29:49Z</time>
-    <name>Catherine deprez b829</name>
-    <desc>La boite se trouve au niveau de l'école de lausprelle.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de villers 81, 06280 Lausprelle, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.403133" lon="8.687452">
-    <time>2017-02-21T09:44:59Z</time>
-    <name>Malte b817</name>
-    <desc>La boite se trouve dans le kiosque au milieu de la place.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Wilhelmsplatz, 69115 Heidelberg, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.76956" lon="11.255814">
     <time>2021-09-16T09:28:00Z</time>
     <name>Florence chambeurlant b8127</name>
@@ -1063,18 +379,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place du marché , 35580 Goven, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.576154" lon="-73.549708">
-    <time>2019-06-25T16:10:31Z</time>
-    <name>Frédérique b809</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>4457 rue louis-veuillot, QC H1M 2N2 Montréal, Canada</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1099,18 +403,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue fernand séverin 46, 1030 schaerbeek, 01000 Bruxelles, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="-21.376703" lon="55.615904">
-    <time></time>
-    <name>Fred figuin b79</name>
-    <desc>La boite a été mise en place par le conseil municipal des enfants et la bibliothèque.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>240 rue raphael babet, 97480 Saint-joseph, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1147,18 +439,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>42 bis route de la ravine sèche, 97425 Les avirons, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.837895" lon="4.364322">
-    <time>2019-06-25T14:34:19Z</time>
-    <name>Johann b768</name>
-    <desc>Dans les locaux de mundo-b juste à l'entrée</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address> rue d'edimbourg 26,, 01050 Ixelles, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1219,18 +499,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route de duvillard 6, 01663 Epagny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.822382" lon="4.345492">
-    <time>2017-01-09T16:21:39Z</time>
-    <name>Morsaint b756</name>
-    <desc>Située devant une plaine de jeux</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue ducpetiaux 133, 01060 Saint-gilles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1320,18 +588,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="-17.554537" lon="-149.570989">
-    <time></time>
-    <name>Sarah b751</name>
-    <desc>La boite se trouve au 1er étage du conservatoire près des bureaux de la direction.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue de tipaeru'i, 98713 Papeete, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.183508" lon="-123.284245">
     <time>2021-05-18T12:58:41Z</time>
     <name>Michèle silmon kancela b7489</name>
@@ -1392,18 +648,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.449935" lon="3.951602">
-    <time>2019-06-25T15:36:53Z</time>
-    <name>Bibliothèque des arts visuels b716</name>
-    <desc>Site du carré des arts - domaine des arts visuels d arts². au 1er étage couloir de droite en face de la bibliothèque.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>4a rue des soeurs noires, 07000 Mons, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.808747" lon="6.645141">
     <time>2021-01-20T11:37:11Z</time>
     <name>Boulanger chloé b7130</name>
@@ -1447,18 +691,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>12 rue de maulenne, 05150 Floreffe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.096901" lon="-77.788785">
-    <time>2019-06-25T16:10:11Z</time>
-    <name>Eric coulombe b683</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address> 113, rue saint laurent, j9P3N2 Val d'or, Canada</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1591,18 +823,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>1119 lamont st nw, 20010 Washington, dc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="54.681134" lon="25.294629">
-    <time>2019-06-25T14:44:41Z</time>
-    <name>alexandra b655</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Malūnų g., 01200 Vilnius, Lithuania</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1764,30 +984,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="-21.378054" lon="55.6119">
-    <time>2020-06-12T17:04:09Z</time>
-    <name>Figuin b596</name>
-    <desc>La boite a été mise en place par le conseil municipal des enfants et la bibliothèque.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>31 rue roland garros, 97480 Saint-joseph, La réunion</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.283341" lon="4.970412">
-    <time>2019-06-25T15:25:09Z</time>
-    <name>Verpoorten leila b595</name>
-    <desc>Cette boite à lire est pour tous ceux qui aiment lire et partager leurs lectures.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>2 rue du centre, 05501 Lisogne, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="27.767369" lon="-15.592889">
     <time>2020-03-05T16:50:08Z</time>
     <name>Bücherschrank aus holz b5937</name>
@@ -1884,42 +1080,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.601423" lon="4.13612">
-    <time>2019-06-25T15:38:30Z</time>
-    <name>Charline b554</name>
-    <desc>L'arbre à livres se trouve à l'entrée du cpas de braine-le-comte</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>19 rue des frères dulait, 07060 Braine-le-comte, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.5749" lon="4.069282">
-    <time>2019-06-25T15:38:38Z</time>
-    <name>Charline b553</name>
-    <desc>L'arbre à livres se trouve dans l entrée du centre culturel face au restaurent chez joseph.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>70 rue de la station, 07060 Braine-le-comte, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.477061" lon="4.2393">
-    <time>2019-06-25T15:41:08Z</time>
-    <name>Kim d hauwer pinon b551</name>
-    <desc>Disponible tous les jours de 8h à 18h!</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>34 rue ferrer, 07170 Manage, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.402846" lon="4.363772">
     <time>2019-11-11T17:25:59Z</time>
     <name>Lenny b5505</name>
@@ -1932,18 +1092,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.609239" lon="4.134798">
-    <time>2019-06-25T15:38:47Z</time>
-    <name>Charline b550</name>
-    <desc>L'arbre à livres se trouve dans l'entrée de la crèche.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>1 rue adolphe gillis, 07090 Braine-le-comte, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.684505" lon="3.562822">
     <time>2020-05-20T09:07:02Z</time>
     <name>Polo b5453</name>
@@ -1951,18 +1099,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place d anvaing, 07910 Anvaing, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.610328" lon="4.136563">
-    <time>2019-06-25T15:38:55Z</time>
-    <name>Charline b543</name>
-    <desc>Cet arbre à livres se trouve dans la bibliothèque communale de braine-le-comte.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>4 grand place, 07090 Braine-le-comte, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2052,18 +1188,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.453889" lon="4.198721">
-    <time>2020-05-20T09:03:32Z</time>
-    <name>Potie sophie b527</name>
-    <desc>Un projet citoyen qui a vu le jour en juin 2016 et qui connaît un beau succès.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue de l'église, 07100 Haine-saint-pierre, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.334738" lon="-73.49492">
     <time>2019-09-09T12:31:53Z</time>
     <name>Sabrina lepage b5226</name>
@@ -2071,18 +1195,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue lachance, J0K 2E0 Saint-damien, Canada</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.611537" lon="3.391608">
-    <time></time>
-    <name>Andrau b518</name>
-    <desc>Mise en place par l'asbl tournai centre-ville et les riverains de la place.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place verte, 07500 Tournai, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2100,18 +1212,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.308972" lon="4.120339">
-    <time>2019-06-25T15:32:41Z</time>
-    <name>Claire de boni b511</name>
-    <desc>Petite boite à livres située à erquelinnes (belgique) tout près du port de plaisance</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>17, rue du port, 06560 Erquelinnes, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.682354" lon="4.268253">
     <time>2019-07-23T09:19:48Z</time>
     <name>Caro b5069</name>
@@ -2119,18 +1219,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de la libération 4, 01440 Braine-le-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.289996" lon="5.338671">
-    <time>2019-06-25T15:24:18Z</time>
-    <name>Jacqueline b506</name>
-    <desc>Belgique face à l'église</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du village, 05377 Baillonville, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2196,30 +1284,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.428852" lon="3.743679">
-    <time>2019-06-25T15:41:46Z</time>
-    <name>Abrassart hugues b477</name>
-    <desc>En belgique</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>2 grande ruelle, 07350 Thulin, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.428902" lon="3.743673">
-    <time>2019-06-25T15:42:01Z</time>
-    <name>Hugues abrassart b476</name>
-    <desc>En belgique</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>6 grande ruelle, 07350 Thulin, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.025352" lon="11.782312">
     <time>2019-05-14T09:29:19Z</time>
     <name>Bibounine b4750</name>
@@ -2239,18 +1303,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place des arawaks, 97233 Schoelcher, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="59.615884" lon="17.716693">
-    <time></time>
-    <name>De langre b472</name>
-    <desc>Ancienne cabine téléphonique. littérature suédoise</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Nicolai gränd 1, 19330 Sigtuna, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2412,54 +1464,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.827102" lon="4.372799">
-    <time>2019-06-25T14:34:30Z</time>
-    <name>Johann b430</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Place flagey 18, 01050 Bruxelles, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.849668" lon="4.353413">
-    <time>2019-07-10T16:44:17Z</time>
-    <name>Johann b429</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Munt 6, 01000 Bruxelles, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8356" lon="4.306795">
-    <time>2019-06-25T14:35:01Z</time>
-    <name>Johann b428</name>
-    <desc>Gemeenschapcentrum de rinck</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>De rinck dapperheidsplein 7, 01070 Bruxelles, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.836971" lon="4.306953">
-    <time>2019-06-25T14:35:10Z</time>
-    <name>Johann b427</name>
-    <desc>Bibliothèque de l?espace maurice carême</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue du chapelain, 1-7, 01070 Bruxelles, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.99183" lon="6.934254">
     <time>2019-01-29T09:41:04Z</time>
     <name>Bibounine b4259</name>
@@ -2479,18 +1483,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Non précisée, 05644 Ermeton/sur/biert, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.650578" lon="5.401443">
-    <time>2019-06-25T15:13:46Z</time>
-    <name>Matriche jacques b419</name>
-    <desc>Belgique à roloux belle petite boite bien protegee belle variete</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>1 rue du monument, 04347 Fexhe-le-haut-clocher, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2563,18 +1555,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de l'accueil 10, 01348 Ottignies-louvain-la-neuve, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.238253" lon="4.241444">
-    <time>2019-06-25T15:31:43Z</time>
-    <name>Pascaline b380</name>
-    <desc>A l entrée d'un magasin bien remplie ...</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>2, rue germain michiels, 06500 Beaumont, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2748,18 +1728,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.498246" lon="5.882978">
-    <time>2019-06-25T15:17:41Z</time>
-    <name>Jacqueline b350</name>
-    <desc>A l'entrée de la piscine.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue amédée hesse 9, 04900 Spa, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.695574" lon="4.548233">
     <time>2018-08-17T15:52:23Z</time>
     <name>Anonyme b3468</name>
@@ -2791,18 +1759,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du pavillon, 06460 Chimay, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.498252" lon="5.882973">
-    <time>2019-06-25T15:17:51Z</time>
-    <name>Nyenne b343</name>
-    <desc>A l'extérieur de la piscine communale</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>9 avenue amédée hesse, 04900 Spa, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2863,30 +1819,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Aemtlerstrasse 151 haupteingang gleich links beim soldatendenkmal, 08003 Zurich, Suisse</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="36.817287" lon="24.559623">
-    <time></time>
-    <name>Lubiette b318</name>
-    <desc>Initiative de l association kimolites.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Ruelle de chora , 84004 Kimolos, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="38.072368" lon="23.81366">
-    <time></time>
-    <name>Lubiette b310</name>
-    <desc>Sur le trottoir en face de la boulangerie paul.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>4 rue levidou, 14562 Kifisia, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2976,18 +1908,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.231342" lon="13.59947">
-    <time></time>
-    <name>Mickaël b294</name>
-    <desc></desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Ul nikole tesle, 52440 Poreč, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.47295" lon="5.036921">
     <time>2018-06-12T10:30:00Z</time>
     <name>Lefebvre b2936</name>
@@ -3048,18 +1968,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="37.940841" lon="23.740376">
-    <time>2019-07-19T12:05:06Z</time>
-    <name>Lubiette b283</name>
-    <desc>Dans la station de métro agios dimitrios en face du point de vente des titres de transport.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Avenue vouliagmeni 276, 17343 Athènes, Grèce</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.596888" lon="3.671398">
     <time>2019-06-25T15:49:59Z</time>
     <name>Pascaline juste b2822</name>
@@ -3072,54 +1980,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="40.658325" lon="22.994503">
-    <time>2023-12-05T10:05:36Z</time>
-    <name>Lubiette b282</name>
-    <desc>Installée en 2015 l'intérieur est tapissé d'étagères. il faut passer dessous et mettre sa tête directement dans la boîte pour avoir accès aux livres.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Navarhou votsi, 54625 Thessalonique, Grèce</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="40.577691" lon="23.39517">
-    <time>2023-12-05T10:06:49Z</time>
-    <name>Lubiette b281</name>
-    <desc>Initiative d'un habitant du village d'aggelochori amoureux des livres elle est en place depuis deux ans.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Aggelochori, 54007 Thessalonique, Grèce</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="38.842813" lon="24.538295">
-    <time>2019-06-25T14:57:43Z</time>
-    <name>Lubiette b280</name>
-    <desc>Sur le port à l arrivée des bateaux de plaisance on y trouve des livres dans toutes les langues.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Skyros, 0340 Linaria, Grèce</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="37.932958" lon="23.758743">
-    <time>2019-06-25T14:49:07Z</time>
-    <name>Lubiette b276</name>
-    <desc>Boîte à livres gérée par la municipalité d'iliopouli à athènes. installée devant la mairie elle est accessible 24h/24.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Leof. sofokli venizelou ke leof. protopapa, 0163 Ilioupoli , Grèce</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.487901" lon="10.732381">
     <time>2018-05-17T09:39:45Z</time>
     <name>Doris t. b2751</name>
@@ -3127,18 +1987,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Max kerber platz 1, 06600 Breitenwang, Autriche</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="37.865582" lon="23.740996">
-    <time>2019-06-25T14:50:02Z</time>
-    <name>Lubiette b275</name>
-    <desc>Boîte à livres installée par la municipalité de glyfada en bord de plage pour les habitants et les touristes.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Leof. posidonos 70, 0166 Glifada , Grèce</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3403,18 +2251,6 @@
     <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Praça japubá 35, 05453060 São paulo , Brazil</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.459602" lon="4.37471">
-    <time>2019-06-25T15:28:43Z</time>
-    <name>Delphine b226</name>
-    <desc>À l entrée de la maison communale.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>Rue jean jaurès 2, 06180 Courcelles, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3804,18 +2640,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.594443" lon="5.860507">
-    <time>2020-05-20T09:01:08Z</time>
-    <name>Ré-kréation b152</name>
-    <desc>Il s agit d'une boite à lire uniquement jeunesse en partenariat avec la bibliothèque de verviers.</desc>
-    <type>BoiteLire hors France métro</type>
-    <extensions>
-      <osmand:address>100 enclos des récollets, 04800 Verviers, Belgique</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.701" lon="5.880499">
     <time>2017-08-23T10:42:38Z</time>
     <name>Tatiana b1519</name>
@@ -4140,25 +2964,1201 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="-20.937703" lon="55.290846">
-    <time>2025-01-02T09:44:08Z</time>
-    <name>Lecoquierre b10445</name>
+  <wpt lat="50.626098" lon="4.996915">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Administration communale de wasseiges b979</name>
     <desc></desc>
     <type>BoiteLire hors France métro</type>
     <extensions>
-      <osmand:address>4 avenue de la commune de paris, 97420 Le port, France</osmand:address>
+      <osmand:address>Rue du baron d'obin 219, 04219 Wasseiges, Belgique</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.527815" lon="-73.545455">
-    <time>2024-05-12T14:38:48Z</time>
-    <name>Terrystad b10144</name>
+  <wpt lat="50.697216" lon="5.256537">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Hall de l'académie de waremme b978</name>
     <desc></desc>
     <type>BoiteLire hors France métro</type>
     <extensions>
-      <osmand:address>489 rue dufresne, H2K 3J4 Montréal, France</osmand:address>
+      <osmand:address>Rue charles lejeune 4, 04300 Waremme, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.613496" lon="5.231509">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Asbl ressourç'âge b977</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place maurice grandgagnage 4, 04530 Villers-le-bouillet, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.591979" lon="5.85441">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Maison de l'égalité des chances b976</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue lucien defays 10, 04800 Verviers, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.580037" lon="5.839346">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Régie de quartier d'ensival (sac 2) b975</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue henri davignon 5, 04800 Verviers, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.591023" lon="5.868168">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Régie de quartier - sac1 mangombroux-abattoir b974</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue courte du pont 20, 04800 Verviers, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.531166" lon="5.815661">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Jeps theux b973</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue des 600 franchimontois 1, 04910 Theux, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.493332" lon="5.86687">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Administration communale de spa b972</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de l'hôtel de ville 44, 04900 Spa, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.588923" lon="5.50457">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Bibliothèque du jardin perdu b971</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de la jeunesse 2, 04100 Seraing, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.571206" lon="5.536189">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Bibliothèque de boncelles b970</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue du gerbier 6, 04100 Boncelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.620071" lon="5.486764">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Bibliothèque de la cité b969</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place brossolette 2, 04101 Jemeppe, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.599909" lon="5.538714">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Ecole des trixhes b968</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de l'enseignement 166 , 04102 Ougree, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.581566" lon="5.48671">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Piscine olympique de seraing b966</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue des puddleurs, 04100 Seraing, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.631784" lon="5.539246">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Hôtel communal de saint-nicolas b965</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de l'hôtel communal 63, 04420 Saint-nicolas, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.601043" lon="5.35473">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Maison communale de saint-georges b964</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue albert 1er 16, 04470 Saint-georges s/meuse, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.678461" lon="5.320628">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Administration communale de remicourt b963</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue nouvelle percée 5, 04350 Remicourt, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.743232" lon="5.988722">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Hall sportif de plombières b962</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue césar franck 163, 04851 Gemmenich, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.567196" lon="5.806948">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Le pavillon b961</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue nids d'aguesses 1, 04860 Pepinster, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.708935" lon="5.644446">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Bibliothèque d'oupeye b960</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du roi albert 194, 04680 Oupeye, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.735464" lon="5.667359">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Administration communale d'oupeye b959</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue des ecoles 4, 04684 Haccourt, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.530217" lon="5.412886">
+    <time>2017-04-07T09:31:49Z</time>
+    <name>Bibliothèque communale de nandrin b958</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>4 rue du presbytère, 04550 Nandrin, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.483026" lon="5.297779">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Administration communale de modave b957</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place georges hubin 1-3-5, 04577 Modave, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.480247" lon="5.22551">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Maison des solidarités du c.p.a.s. de marchin b956</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place belle maison 14, 04570 Marchin, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.71485" lon="5.033351">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Administration communale de lincent b955</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue des ecoles 1, 04287 Lincent, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.622408" lon="5.938324">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Maison intergénérationnelle de limbourg b954</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Quartier du vieux moulin 1, 04831 Limbourg, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.718736" lon="6.013138">
+    <time>2017-04-06T15:58:21Z</time>
+    <name>Piscine communale de la calamine b953</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du patronage , 04720 La calamine, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.709107" lon="5.531027">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Echevinat des affaires sociales de juprelle b952</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du tige 142 a, 04450 Juprelle, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.726558" lon="5.562956">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>C.p.a.s. de juprelle b951</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue cordémont 17, 04450 Slins, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.558928" lon="5.966864">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>C.p.a.s. de jalhay b950</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de la fagne 46, 04845 Jalhay, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.520096" lon="5.241673">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Bibliothèque communale de huy b949</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue des augustins 18 b, 04500 Huy, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.519757" lon="5.24912">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>C.p.a.s. de huy b948</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du long thier 35, 04500 Huy, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.665596" lon="5.610728">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>La charlemagnerie b947</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue henri nottet 11, 04040 Herstal, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.685215" lon="5.641132">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Maison intergénérationnelle de pontisse b946</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue de la cité wauters 35 b, 04040 Herstal, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.688283" lon="5.593838">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Maison intergénérationnelle de milmort b945</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de la renaissance 11, 04041 Milmort, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.675963" lon="5.082159">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Bibliothèque communale de hannut b944</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de landen 43, 04280 Hannut, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.674513" lon="5.074268">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Maison des jeunes de hannut b943</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Route de tirlemont 51, 04280 Hannut, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.426721" lon="5.532256">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Bibliothèque communale - c.p.a.s. de hamoir b942</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue gilles del cour 10, 04180 Hamoir, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.646232" lon="5.504085">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Bibliothèque communale de grâce-hollogne b941</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue des alliés 33, 04460 Grace-hollogne, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.613646" lon="5.676228">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Bibliothèque communale de fléron b940</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de romsée 18, 04620 Fleron, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.616239" lon="5.682309">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Piscine communale de fléron b939</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue françois lapierre 19, 04620 Fleron, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.400703" lon="5.607513">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>C.p.a.s. de ferrières b938</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de lognoul 6, 04190 Ferrieres, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.624807" lon="6.033622">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Animationszentrum ephata asbl b937</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Bergkapellstrasse 46, 04700 Eupen, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.62136" lon="6.040375">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Viertelhaus cardijn caj b936</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Hillstrasse 7, 04700 Eupen, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.639366" lon="6.025452">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Sos hilfe asbl b935</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Nöretherstrasse 53, 04700 Eupen, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.531706" lon="5.564196">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Jet maison des jeunes b934</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue montéfiore 26 a, 04130 Esneux, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.52656" lon="5.572223">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>L'escale b933</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de la station 80, 04130 Esneux, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.558932" lon="5.362099">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Centre culturel d'engis b932</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du pont 7, 04480 Engis, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.610318" lon="5.851769">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Plan de cohésion sociale de dison b931</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue léopold 36, 04820 Dison, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.735538" lon="5.76904">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>La boîte à chiffons - c.p.a.s. de dalhem b930</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue bassetrée 5, 04608 Warsage, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.626506" lon="5.149926">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Ecole communale de braives b929</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place du carcan 2, 04260 Braives, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.698443" lon="5.211388">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Administration communale de berloz b928</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue antoine dodion 10, 04257 Berloz, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.668754" lon="5.500587">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>C.p.a.s. d'ans b927</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue edouard colson 148, 04431 Loncin, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.667461" lon="5.507504">
+    <time>2017-04-06T15:58:20Z</time>
+    <name>Administration communale d'ans b926</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Esplanade de l'hôtel communal 1, 04430 Ans, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.778606" lon="6.641312">
+    <time>2019-06-25T14:47:19Z</time>
+    <name>Dantalio b909</name>
+    <desc>Situé devant la papeterie à côté du temple</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place pestalozzi, 01400 Yverdon-les-bains, Suisse</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.669407" lon="4.611747">
+    <time>2019-06-25T14:45:51Z</time>
+    <name>François gallain b850</name>
+    <desc>Mise à disposition par la maison du développement durable</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Grand place, 01348 Louvain-la-neuve, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.865924" lon="4.705893">
+    <time>2019-08-07T11:50:19Z</time>
+    <name>Léna b839</name>
+    <desc>Jolie petite cabanette avec des livres en français anglais flamand et autres j en ai même trouvé un en hongrois une fois.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Zegelaan, 03001 Heverlee, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.363782" lon="4.511621">
+    <time>2019-06-25T15:29:49Z</time>
+    <name>Catherine deprez b829</name>
+    <desc>La boite se trouve au niveau de l'école de lausprelle.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de villers 81, 06280 Lausprelle, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.403133" lon="8.687452">
+    <time>2017-02-21T09:44:59Z</time>
+    <name>Malte b817</name>
+    <desc>La boite se trouve dans le kiosque au milieu de la place.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Wilhelmsplatz, 69115 Heidelberg, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.576154" lon="-73.549708">
+    <time>2019-06-25T16:10:31Z</time>
+    <name>Frédérique b809</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>4457 rue louis-veuillot, QC H1M 2N2 Montréal, Canada</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.837895" lon="4.364322">
+    <time>2019-06-25T14:34:19Z</time>
+    <name>Johann b768</name>
+    <desc>Dans les locaux de mundo-b juste à l'entrée</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address> rue d'edimbourg 26,, 01050 Ixelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.822382" lon="4.345492">
+    <time>2017-01-09T16:21:39Z</time>
+    <name>Morsaint b756</name>
+    <desc>Située devant une plaine de jeux</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue ducpetiaux 133, 01060 Saint-gilles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.554537" lon="-149.570989">
+    <time></time>
+    <name>Sarah b751</name>
+    <desc>La boite se trouve au 1er étage du conservatoire près des bureaux de la direction.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue de tipaeru'i, 98713 Papeete, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.449935" lon="3.951602">
+    <time>2019-06-25T15:36:53Z</time>
+    <name>Bibliothèque des arts visuels b716</name>
+    <desc>Site du carré des arts - domaine des arts visuels d arts². au 1er étage couloir de droite en face de la bibliothèque.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>4a rue des soeurs noires, 07000 Mons, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.096901" lon="-77.788785">
+    <time>2019-06-25T16:10:11Z</time>
+    <name>Eric coulombe b683</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address> 113, rue saint laurent, j9P3N2 Val d'or, Canada</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.681134" lon="25.294629">
+    <time>2019-06-25T14:44:41Z</time>
+    <name>alexandra b655</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Malūnų g., 01200 Vilnius, Lithuania</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-21.378054" lon="55.6119">
+    <time>2020-06-12T17:04:09Z</time>
+    <name>Figuin b596</name>
+    <desc>La boite a été mise en place par le conseil municipal des enfants et la bibliothèque.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>31 rue roland garros, 97480 Saint-joseph, La réunion</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.283341" lon="4.970412">
+    <time>2019-06-25T15:25:09Z</time>
+    <name>Verpoorten leila b595</name>
+    <desc>Cette boite à lire est pour tous ceux qui aiment lire et partager leurs lectures.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>2 rue du centre, 05501 Lisogne, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.601423" lon="4.13612">
+    <time>2019-06-25T15:38:30Z</time>
+    <name>Charline b554</name>
+    <desc>L'arbre à livres se trouve à l'entrée du cpas de braine-le-comte</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>19 rue des frères dulait, 07060 Braine-le-comte, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.5749" lon="4.069282">
+    <time>2019-06-25T15:38:38Z</time>
+    <name>Charline b553</name>
+    <desc>L'arbre à livres se trouve dans l entrée du centre culturel face au restaurent chez joseph.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>70 rue de la station, 07060 Braine-le-comte, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.477061" lon="4.2393">
+    <time>2019-06-25T15:41:08Z</time>
+    <name>Kim d hauwer pinon b551</name>
+    <desc>Disponible tous les jours de 8h à 18h!</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>34 rue ferrer, 07170 Manage, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.609239" lon="4.134798">
+    <time>2019-06-25T15:38:47Z</time>
+    <name>Charline b550</name>
+    <desc>L'arbre à livres se trouve dans l'entrée de la crèche.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>1 rue adolphe gillis, 07090 Braine-le-comte, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.610328" lon="4.136563">
+    <time>2019-06-25T15:38:55Z</time>
+    <name>Charline b543</name>
+    <desc>Cet arbre à livres se trouve dans la bibliothèque communale de braine-le-comte.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>4 grand place, 07090 Braine-le-comte, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.453889" lon="4.198721">
+    <time>2020-05-20T09:03:32Z</time>
+    <name>Potie sophie b527</name>
+    <desc>Un projet citoyen qui a vu le jour en juin 2016 et qui connaît un beau succès.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue de l'église, 07100 Haine-saint-pierre, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.611537" lon="3.391608">
+    <time></time>
+    <name>Andrau b518</name>
+    <desc>Mise en place par l'asbl tournai centre-ville et les riverains de la place.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place verte, 07500 Tournai, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.308972" lon="4.120339">
+    <time>2019-06-25T15:32:41Z</time>
+    <name>Claire de boni b511</name>
+    <desc>Petite boite à livres située à erquelinnes (belgique) tout près du port de plaisance</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>17, rue du port, 06560 Erquelinnes, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.289996" lon="5.338671">
+    <time>2019-06-25T15:24:18Z</time>
+    <name>Jacqueline b506</name>
+    <desc>Belgique face à l'église</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du village, 05377 Baillonville, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.428852" lon="3.743679">
+    <time>2019-06-25T15:41:46Z</time>
+    <name>Abrassart hugues b477</name>
+    <desc>En belgique</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>2 grande ruelle, 07350 Thulin, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.428902" lon="3.743673">
+    <time>2019-06-25T15:42:01Z</time>
+    <name>Hugues abrassart b476</name>
+    <desc>En belgique</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>6 grande ruelle, 07350 Thulin, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="59.615884" lon="17.716693">
+    <time></time>
+    <name>De langre b472</name>
+    <desc>Ancienne cabine téléphonique. littérature suédoise</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Nicolai gränd 1, 19330 Sigtuna, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.827102" lon="4.372799">
+    <time>2019-06-25T14:34:30Z</time>
+    <name>Johann b430</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Place flagey 18, 01050 Bruxelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.849668" lon="4.353413">
+    <time>2019-07-10T16:44:17Z</time>
+    <name>Johann b429</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Munt 6, 01000 Bruxelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8356" lon="4.306795">
+    <time>2019-06-25T14:35:01Z</time>
+    <name>Johann b428</name>
+    <desc>Gemeenschapcentrum de rinck</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>De rinck dapperheidsplein 7, 01070 Bruxelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.836971" lon="4.306953">
+    <time>2019-06-25T14:35:10Z</time>
+    <name>Johann b427</name>
+    <desc>Bibliothèque de l?espace maurice carême</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du chapelain, 1-7, 01070 Bruxelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.650578" lon="5.401443">
+    <time>2019-06-25T15:13:46Z</time>
+    <name>Matriche jacques b419</name>
+    <desc>Belgique à roloux belle petite boite bien protegee belle variete</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>1 rue du monument, 04347 Fexhe-le-haut-clocher, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.238253" lon="4.241444">
+    <time>2019-06-25T15:31:43Z</time>
+    <name>Pascaline b380</name>
+    <desc>A l entrée d'un magasin bien remplie ...</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>2, rue germain michiels, 06500 Beaumont, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.498246" lon="5.882978">
+    <time>2019-06-25T15:17:41Z</time>
+    <name>Jacqueline b350</name>
+    <desc>A l'entrée de la piscine.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue amédée hesse 9, 04900 Spa, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.498252" lon="5.882973">
+    <time>2019-06-25T15:17:51Z</time>
+    <name>Nyenne b343</name>
+    <desc>A l'extérieur de la piscine communale</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>9 avenue amédée hesse, 04900 Spa, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="36.817287" lon="24.559623">
+    <time></time>
+    <name>Lubiette b318</name>
+    <desc>Initiative de l association kimolites.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Ruelle de chora , 84004 Kimolos, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.072368" lon="23.81366">
+    <time></time>
+    <name>Lubiette b310</name>
+    <desc>Sur le trottoir en face de la boulangerie paul.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>4 rue levidou, 14562 Kifisia, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.231342" lon="13.59947">
+    <time></time>
+    <name>Mickaël b294</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Ul nikole tesle, 52440 Poreč, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.940841" lon="23.740376">
+    <time>2019-07-19T12:05:06Z</time>
+    <name>Lubiette b283</name>
+    <desc>Dans la station de métro agios dimitrios en face du point de vente des titres de transport.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Avenue vouliagmeni 276, 17343 Athènes, Grèce</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="40.658325" lon="22.994503">
+    <time>2023-12-05T10:05:36Z</time>
+    <name>Lubiette b282</name>
+    <desc>Installée en 2015 l'intérieur est tapissé d'étagères. il faut passer dessous et mettre sa tête directement dans la boîte pour avoir accès aux livres.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Navarhou votsi, 54625 Thessalonique, Grèce</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="40.577691" lon="23.39517">
+    <time>2023-12-05T10:06:49Z</time>
+    <name>Lubiette b281</name>
+    <desc>Initiative d'un habitant du village d'aggelochori amoureux des livres elle est en place depuis deux ans.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Aggelochori, 54007 Thessalonique, Grèce</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.842813" lon="24.538295">
+    <time>2019-06-25T14:57:43Z</time>
+    <name>Lubiette b280</name>
+    <desc>Sur le port à l arrivée des bateaux de plaisance on y trouve des livres dans toutes les langues.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Skyros, 0340 Linaria, Grèce</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.932958" lon="23.758743">
+    <time>2019-06-25T14:49:07Z</time>
+    <name>Lubiette b276</name>
+    <desc>Boîte à livres gérée par la municipalité d'iliopouli à athènes. installée devant la mairie elle est accessible 24h/24.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Leof. sofokli venizelou ke leof. protopapa, 0163 Ilioupoli , Grèce</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.865582" lon="23.740996">
+    <time>2019-06-25T14:50:02Z</time>
+    <name>Lubiette b275</name>
+    <desc>Boîte à livres installée par la municipalité de glyfada en bord de plage pour les habitants et les touristes.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Leof. posidonos 70, 0166 Glifada , Grèce</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.459602" lon="4.37471">
+    <time>2019-06-25T15:28:43Z</time>
+    <name>Delphine b226</name>
+    <desc>À l entrée de la maison communale.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue jean jaurès 2, 06180 Courcelles, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.594443" lon="5.860507">
+    <time>2020-05-20T09:01:08Z</time>
+    <name>Ré-kréation b152</name>
+    <desc>Il s agit d'une boite à lire uniquement jeunesse en partenariat avec la bibliothèque de verviers.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>100 enclos des récollets, 04800 Verviers, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.724296" lon="4.866929">
+    <time>2019-06-24T16:30:42Z</time>
+    <name>Marie b87</name>
+    <desc>Une boite à côté d'un banc dans un joli petit parc. lire est un plaisir bien tentant!</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Rue du château 13, 01370 Jodoigne, Belgique</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-21.376703" lon="55.615904">
+    <time></time>
+    <name>Fred figuin b79</name>
+    <desc>La boite a été mise en place par le conseil municipal des enfants et la bibliothèque.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>240 rue raphael babet, 97480 Saint-joseph, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

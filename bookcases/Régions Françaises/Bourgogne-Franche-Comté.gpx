@@ -1,5 +1,233 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.278026" lon="4.76886">
+    <time>2025-03-07T09:39:59Z</time>
+    <name>Fd b10479</name>
+    <desc>Sous l arrêt de bus</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Chemin des pouilly, 71000 Loché, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.448001" lon="6.583223">
+    <time>2025-02-04T09:47:14Z</time>
+    <name>La vie claire b10462</name>
+    <desc>A l intérieur du magasin la vie claire 14 rue du magny 25250 l'isle sur le doubs ,car notre précédente boîte, devant le magasin, avait été vandalisée</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>14 rue du magny, 25250 L isle sur le doubs, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.279689" lon="5.977187">
+    <time>2025-01-06T09:43:56Z</time>
+    <name>École miserey-salines b10447</name>
+    <desc>Vers le parc à côté de l?école le long de la route. derrière l?arrêt de bus « les nuelles »</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Les nuelles, 25480 Miserey-salines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.384281" lon="3.002948">
+    <time>2024-07-18T15:50:56Z</time>
+    <name>Jmt b10228</name>
+    <desc>Cabine téléphonique rouge à côté de la mairie</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Mairie, 58200 Pougny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.474925" lon="6.733434">
+    <time>2024-07-18T10:05:21Z</time>
+    <name>Mj b10224</name>
+    <desc></desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>10 rue du lavoir, 25420 Dampierre sur le doubs, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31521" lon="5.034358">
+    <time>2024-07-08T09:54:00Z</time>
+    <name>Philippe caulier b10208</name>
+    <desc>Au croisement de la rue du transvaal, face au suquet</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>1 rue du petit citeaux, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.317631" lon="5.020352">
+    <time>2024-07-08T09:53:38Z</time>
+    <name>Philippe caulier b10206</name>
+    <desc>À l?entrée du sentier du canal</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>2 rue Étienne baudinet, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.456689" lon="5.583483">
+    <time>2024-05-27T09:42:30Z</time>
+    <name>Arc les grays école b10161</name>
+    <desc>A l arrière du bâtiment dehors, dans le meuble décoré</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>15 rue de dijon  70100 arc-les-gray, ARC LES GRA 70100, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.217189" lon="5.737473">
+    <time>2024-05-12T14:39:18Z</time>
+    <name>Arcadia b10146</name>
+    <desc>Devant le secrétariat de mairie</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>1 rue de l eglise, 25410 Mercey-le-grand, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.316476" lon="5.037566">
+    <time>2024-05-07T09:49:25Z</time>
+    <name>Philippe caulier b10141</name>
+    <desc>Devant le compost</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Square gaston roupnel, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.232344" lon="5.567797">
+    <time>2024-05-06T09:56:24Z</time>
+    <name>Arcadia b10134</name>
+    <desc>Boite à lire dans l ancienne salle des pompes derrière l'église</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>1 rue du moulin, 39290 Brans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.197733" lon="5.524026">
+    <time>2024-05-06T09:56:15Z</time>
+    <name>Arcadia b10133</name>
+    <desc>2 frigos un pour livre adultes un pour enfants sous le porche de l agence communale</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Grande rue, 39290 Moissey, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.207055" lon="5.549421">
+    <time>2024-05-06T09:56:05Z</time>
+    <name>Arcadia b10132</name>
+    <desc>Sous le préau en bois presque en face du lavoir</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue du lavoir, 39290 Offlanges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.175832" lon="5.475791">
+    <time>2024-05-06T09:55:58Z</time>
+    <name>Arcadia b10131</name>
+    <desc>Dans un énorme tonneau juste avant la fruitière à comté entrée par le côté fruitière</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Place principale, 39290 Chevigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.203608" lon="5.503472">
+    <time>2024-05-06T09:55:47Z</time>
+    <name>Arcadia b10130</name>
+    <desc>Dans un genre d abri bus bien regarder la photo car peu visible</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Grande rue, 39290 Frasne-les-meulières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.126348" lon="5.450322">
+    <time>2024-05-06T09:55:39Z</time>
+    <name>Arcadia b10129</name>
+    <desc>Sous le porche de la salle des fêtes</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>5 rue de champvans, 39100 Sampans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.126577" lon="5.454731">
+    <time>2024-05-06T09:55:32Z</time>
+    <name>Arcadia b10128</name>
+    <desc>Contre l agence postale</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>5 rue de dole, 39100 Sampans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.222412" lon="5.535823">
+    <time>2024-05-06T09:55:18Z</time>
+    <name>Arcadia b10127</name>
+    <desc>Contre la mairie côté église</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>2 place de la mairie, 39290 Montmirey-le-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.828272" lon="5.567864">
+    <time>2024-02-27T09:45:19Z</time>
+    <name>Le parc b10018</name>
+    <desc>Au coeur du parc, boite à livres taillée dans un épicéa scolyté</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue jean moulin, 39230 Sellieres, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.36947" lon="5.809562">
     <time>2024-01-02T09:38:01Z</time>
     <name>Leonie b9949</name>
@@ -12,18 +240,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.566252" lon="4.407498">
-    <time>2017-04-11T12:11:55Z</time>
-    <name>Vival de marizy b994</name>
-    <desc>Se situe au niveau du bourg</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Bourg, 71220 Marizy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.780178" lon="4.851365">
     <time>2023-12-08T09:25:25Z</time>
     <name>Estudianta b9932</name>
@@ -31,18 +247,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>22 rue pasteur, 71100 Chalon sur saône, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.801787" lon="4.090879">
-    <time>2017-04-11T12:02:13Z</time>
-    <name>Vival de lezinnes b993</name>
-    <desc></desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>43 route nationale, 89160 Lezinnes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -420,30 +624,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.618575" lon="3.773176">
-    <time>2017-03-15T09:37:27Z</time>
-    <name>Martine b895</name>
-    <desc>Arrivant de la rue du clocher, a droite du petit square.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue de l'horloge, 71140 Bourbon lancy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.997258" lon="3.681783">
-    <time>2017-03-13T09:48:25Z</time>
-    <name>Girard marianne b893</name>
-    <desc>La boite sera mise en place pour l'été 2017, fabriquée par des bénévoles de l'association du site de fleury.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Barrage de fleury, 58110 Biches, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.30963" lon="4.716371">
     <time>2022-05-31T09:36:59Z</time>
     <name>Laurent b8891</name>
@@ -456,42 +636,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.045547" lon="3.633428">
-    <time>2017-03-07T09:55:14Z</time>
-    <name>Vilet b886</name>
-    <desc>La boite à lire se situe dans le restaurant le chardon et est accessible uniquement pendant les heures d'ouverture du restaurant.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Le bois de seigne, 58110 Alluy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.289027" lon="3.818661">
-    <time>2017-03-07T09:53:20Z</time>
-    <name>Vilet b885</name>
-    <desc>La boite à lire au niveau du marché couvert.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Place françois mitterrand, 58140 Lormes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.833201" lon="3.458032">
-    <time>2017-03-07T09:51:04Z</time>
-    <name>Alyne b883</name>
-    <desc>La boite à lire se situe vers le stade, près du camping.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Allé marcel merle, 58300 Decize, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.036932" lon="5.822722">
     <time>2022-04-21T09:23:25Z</time>
     <name>Tutov b8792</name>
@@ -499,18 +643,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>27 grande rue, 25440 Buffard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.086604" lon="3.193369">
-    <time>2017-03-06T09:29:08Z</time>
-    <name>Les petites mains du lundi b876</name>
-    <desc>Elle est installée depuis un an au niveau de la promenade jean-pierre harris. une deuxième boite sera installée fin mars vers les jeux a côté des écoles.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Grande rue, 58130 Guerigny, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -768,18 +900,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.774523" lon="6.282548">
-    <time>2017-02-24T09:08:07Z</time>
-    <name>Commune b822</name>
-    <desc>Boite située devant la mairie.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>7 grande rue, 25160 Labergement saint marie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.45714" lon="5.735929">
     <time>2021-09-30T15:54:40Z</time>
     <name>Isabelle b8177</name>
@@ -811,18 +931,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Chemin des creux, 70190 Fondremand, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.248434" lon="3.32547">
-    <time>2017-02-16T14:43:05Z</time>
-    <name>Bibliothèque soucy b808</name>
-    <desc>Installée près de la bibliothèque, de l'école et de la mairie.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue victor guichard, 89100 Soucy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1200,18 +1308,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.944756" lon="4.302345">
-    <time></time>
-    <name>Grand autunois morvan b728</name>
-    <desc>La cabane à livres est située sur le terrain d'un verger conservatoire non loin d'un quartier historique d'autun.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue du vieux colombier, 71400 Autun, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.196622" lon="5.782189">
     <time>2021-02-22T15:16:37Z</time>
     <name>Julie varin b7253</name>
@@ -1231,18 +1327,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Route des sapins, 39300 Équevillon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.249007" lon="5.222539">
-    <time></time>
-    <name>Médiathèque genlis b722</name>
-    <desc>Située entre les écoles la chenaie et jules ferry.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>18 rue de la vanoise, 21110 Genlis, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1279,54 +1363,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>1 rue de l école, 39380 Bans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.23916" lon="5.223898">
-    <time></time>
-    <name>Médiathèque genlis b715</name>
-    <desc>Entre l école primaire paul bert et l'école maternelle jacques prévert</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>33 avenue du général de gaulle, 21110 Genlis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.23817" lon="5.22119">
-    <time></time>
-    <name>Médiathèque genlis b714</name>
-    <desc>Boîte située dans le petit parc derrière l'ehpad et le château en face des jeux pour enfants</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>5 rue de la prairie, 21110 Genlis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.238605" lon="5.227583">
-    <time></time>
-    <name>Association au fil des pages b709</name>
-    <desc>Boite installée à côté du collège</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>5 chemin guyot, 21110 Genlis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.239894" lon="5.221072">
-    <time></time>
-    <name>Association au fil des pages b708</name>
-    <desc>Boîte à lire installée devant l église.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>4 rue aristide briand, 21110 Genlis, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1584,18 +1620,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.439462" lon="5.340616">
-    <time></time>
-    <name>Emilie jacqueroud b685</name>
-    <desc>La boîte à lire se situe devant la maison de l'enfance. des livres pour tous sont accessibles dans cette boîte décorée par les enfants.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>7 allée des capucins, 39160 Saint amour, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.677317" lon="5.529023">
     <time>2020-10-26T08:47:21Z</time>
     <name>Daniel jacquenod b6839</name>
@@ -1603,18 +1627,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Daniel.jacquenod@orange.fr, 39570 Montmorot, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.862554" lon="4.356196">
-    <time></time>
-    <name>Thierry b674</name>
-    <desc>La boite se trouve vers la digue de l'étang des cloix en forêt.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Chemin des cloix, 71400 Autun, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2124,18 +2136,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.819913" lon="6.376789">
-    <time></time>
-    <name>Gladys b609</name>
-    <desc></desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Avenue des thermes , 703000 Luxeuil-les-bains, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.19773" lon="5.744332">
     <time>2020-05-20T09:25:22Z</time>
     <name>Arcadia b6082</name>
@@ -2208,18 +2208,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.320519" lon="5.039118">
-    <time></time>
-    <name>Niikachan b602</name>
-    <desc>Boite à lire appartenant à la boutique savonnerie solsequia.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>17 rue jules mercier, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.26857" lon="4.770791">
     <time>2020-03-16T12:59:43Z</time>
     <name>De oliveira b6009</name>
@@ -2287,18 +2275,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Grande rue, 90120 Méziré, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.990324" lon="3.15513">
-    <time></time>
-    <name>Catherine h b581</name>
-    <desc>Il en existe 2 dans la ville.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Parc roger salengro, 58000 Nevers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2659,18 +2635,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Aire camping car à génelard, 71420 Génelard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.801624" lon="5.375734">
-    <time>2019-06-25T14:48:02Z</time>
-    <name>Bibliothèque de frans b534</name>
-    <desc>Petite cabane à oiseaux qui est en fait une belle boîte à lire où les livres vont et viennent au fil des humeurs...</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Le bourg, 01480 Frans, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3132,18 +3096,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.368679" lon="3.279679">
-    <time></time>
-    <name>Hanemian b475</name>
-    <desc>Ancienne cabine téléphonique du village reconvertie en bibliothèque de rue depuis le 1er juillet 2016</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Grande rue, 58210 Menou, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.149633" lon="6.268689">
     <time>2019-05-03T09:42:12Z</time>
     <name>Michel fouchard b4689</name>
@@ -3192,102 +3144,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.327581" lon="5.048418">
-    <time></time>
-    <name>Ville de dijon b459</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Square clemenceau, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.321252" lon="5.045587">
-    <time></time>
-    <name>Ville de dijon b458</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Place saint michel, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.310555" lon="5.003446">
-    <time></time>
-    <name>Ville de dijon b457</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue du père charles de foucauld, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.315547" lon="5.019021">
-    <time></time>
-    <name>Ville de dijon b456</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue de larrey, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.318058" lon="5.037733">
-    <time></time>
-    <name>Ville de dijon b455</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue sainte anne, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.319967" lon="5.044321">
-    <time></time>
-    <name>Ville de dijon b454</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Ue legouz gerland, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.319938" lon="5.024313">
-    <time></time>
-    <name>Ville de dijon b453</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue du faubourg raines, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.316131" lon="5.042491">
-    <time></time>
-    <name>Ville de dijon b452</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Place wilson, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.629624" lon="4.335841">
     <time>2019-03-19T17:10:01Z</time>
     <name>Vandewalle b4513</name>
@@ -3295,66 +3151,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Rue michel servet, 21500 Montbard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.337228" lon="5.041508">
-    <time></time>
-    <name>Ville de dijon b451</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>4 rue des varennes, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.320266" lon="5.026701">
-    <time></time>
-    <name>Ville de dijon b450</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>14 rue jehan de marville, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.316954" lon="5.033056">
-    <time></time>
-    <name>Ville de dijon b449</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Montée de guise, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.309527" lon="5.016426">
-    <time></time>
-    <name>Ville de dijon b448</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Bd eugène fyot, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.318979" lon="5.007986">
-    <time></time>
-    <name>Ville de dijon b447</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Allée de grenoble, 21000 Dijon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3372,18 +3168,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.33711" lon="5.046418">
-    <time></time>
-    <name>Ville de dijon b446</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue olympe de gouge, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.836764" lon="4.663571">
     <time>2019-03-11T09:48:12Z</time>
     <name>Christelle b4453</name>
@@ -3396,18 +3180,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.307648" lon="5.024861">
-    <time></time>
-    <name>Ville de dijon b445</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Avenue jean jaurès, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.230939" lon="6.033396">
     <time>2019-03-06T10:36:38Z</time>
     <name>Aurélien b4441</name>
@@ -3415,18 +3187,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Parc saint Étienne, 25000 Besançon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.322233" lon="5.042387">
-    <time></time>
-    <name>Ville de dijon b444</name>
-    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit projet collectif mené par les habitants les associations et la municipalité.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Square des ducs de bourgogne, 21000 Dijon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3571,30 +3331,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Route de viry, 71120 Charolles, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.304077" lon="5.010882">
-    <time>2017-05-15T10:19:37Z</time>
-    <name>Loïc m b420</name>
-    <desc>Accrochée devant l'école valendon.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>1 rue eugène bataillon, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.76915" lon="4.82807">
-    <time></time>
-    <name>Pascale barbier b42</name>
-    <desc></desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Place jean jaurès, 71100 Saint-rémy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3816,18 +3552,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.3333" lon="5.023901">
-    <time></time>
-    <name>Ville de dijon b371</name>
-    <desc></desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue alphonse legros, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.811366" lon="3.084214">
     <time>2018-09-21T10:14:16Z</time>
     <name>Richard b3706</name>
@@ -3835,30 +3559,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Mairie, 58240 Langeron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.330662" lon="5.032897">
-    <time></time>
-    <name>Maniere b370</name>
-    <desc>En face de la pharmacie rue de montchpet</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Place paul bert, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.326432" lon="5.02014">
-    <time></time>
-    <name>Ville de dijon b369</name>
-    <desc></desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue des marmuzots, 21000 Dijon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4356,30 +4056,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.308321" lon="4.709031">
-    <time></time>
-    <name>Lambert b303</name>
-    <desc>À la mairie</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue ferdinand mercusot, 21540 Sombernon , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.317272" lon="4.999643">
-    <time></time>
-    <name>Anna b301</name>
-    <desc>Au niveau de l'esplanade des marcs d'ors. la boite est ccrochée à son arbre à l'intersection rue de bel air" / rue des marcs d'or.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue des marcs d'or, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.244255" lon="5.97844">
     <time>2018-08-13T09:45:50Z</time>
     <name>Cislaghi b2987</name>
@@ -4572,18 +4248,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.313524" lon="5.013491">
-    <time></time>
-    <name>Anton b278</name>
-    <desc>Elle se situe à l'entrée du jardin du château de larrey. en bois il y a pas mal de flux entrant et sortant.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>124 avenue gustave eiffel, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.350761" lon="5.04288">
     <time>2018-05-21T09:25:16Z</time>
     <name>Mr pi b2774</name>
@@ -4752,18 +4416,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.314112" lon="5.025562">
-    <time></time>
-    <name>Jean sébastien pouchard b252</name>
-    <desc>Elle se situe avenue jean jaures à côté de la boulangerie du port du canal et au coin de l'école jean jaures</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Quai navier, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.576021" lon="5.955683">
     <time>2018-04-04T13:41:45Z</time>
     <name>Miss l b2502</name>
@@ -4819,18 +4471,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Le bourg, 71240 Etrigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.331506" lon="5.038138">
-    <time></time>
-    <name>Madeleine b243</name>
-    <desc>Cette boîte à lire est située dans une mjc. elle est accessible à tout le monde aux heures d ouverture. on y trouve des livres pour les petits certes mais aussi pour les plus grands !</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>1 ter rue de beaune, 21000 Dijon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4963,18 +4603,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>35 avenue de la victoire, 70000 Echenoz la méline, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.770023" lon="4.831199">
-    <time></time>
-    <name>Pascale barbier b202</name>
-    <desc>Elle est située à la piscine municipale.</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue du champ-rosey , 71100 Saint remy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5268,6 +4896,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.368679" lon="3.279679">
+    <time>2017-08-03T11:08:33Z</time>
+    <name>Booklover b1406</name>
+    <desc>Ancienne cabine téléphonique du village aménagée en bibliothèque.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Grande rue, 58210 Menou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.39552" lon="5.966676">
     <time>2017-07-25T19:51:09Z</time>
     <name>Delphine millet priftis b1313</name>
@@ -5508,18 +5148,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.278026" lon="4.76886">
-    <time>2025-03-07T09:39:59Z</time>
-    <name>Fd b10479</name>
-    <desc>Sous l arrêt de bus</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Chemin des pouilly, 71000 Loché, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.243148" lon="6.022069">
     <time>2017-04-26T10:50:01Z</time>
     <name>Thomas dupoux b1047</name>
@@ -5532,18 +5160,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.448001" lon="6.583223">
-    <time>2025-02-04T09:47:14Z</time>
-    <name>La vie claire b10462</name>
-    <desc>A l intérieur du magasin la vie claire 14 rue du magny 25250 l'isle sur le doubs ,car notre précédente boîte, devant le magasin, avait été vandalisée</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>14 rue du magny, 25250 L isle sur le doubs, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.491219" lon="3.909248">
     <time>2017-04-25T17:03:39Z</time>
     <name>Emilie b1046</name>
@@ -5551,18 +5167,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Rue maréchal foch, 89200 Avallon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.279689" lon="5.977187">
-    <time>2025-01-06T09:43:56Z</time>
-    <name>École miserey-salines b10447</name>
-    <desc>Vers le parc à côté de l?école le long de la route. derrière l?arrêt de bus « les nuelles »</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Les nuelles, 25480 Miserey-salines, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5592,150 +5196,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.384281" lon="3.002948">
-    <time>2024-07-18T15:50:56Z</time>
-    <name>Jmt b10228</name>
-    <desc>Cabine téléphonique rouge à côté de la mairie</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Mairie, 58200 Pougny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.474925" lon="6.733434">
-    <time>2024-07-18T10:05:21Z</time>
-    <name>Mj b10224</name>
-    <desc></desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>10 rue du lavoir, 25420 Dampierre sur le doubs, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.31521" lon="5.034358">
-    <time>2024-07-08T09:54:00Z</time>
-    <name>Philippe caulier b10208</name>
-    <desc>Au croisement de la rue du transvaal, face au suquet</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>1 rue du petit citeaux, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.317631" lon="5.020352">
-    <time>2024-07-08T09:53:38Z</time>
-    <name>Philippe caulier b10206</name>
-    <desc>À l?entrée du sentier du canal</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>2 rue Étienne baudinet, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.456689" lon="5.583483">
-    <time>2024-05-27T09:42:30Z</time>
-    <name>Arc les grays école b10161</name>
-    <desc>A l arrière du bâtiment dehors, dans le meuble décoré</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>15 rue de dijon  70100 arc-les-gray, ARC LES GRA 70100, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.217189" lon="5.737473">
-    <time>2024-05-12T14:39:18Z</time>
-    <name>Arcadia b10146</name>
-    <desc>Devant le secrétariat de mairie</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>1 rue de l eglise, 25410 Mercey-le-grand, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.316476" lon="5.037566">
-    <time>2024-05-07T09:49:25Z</time>
-    <name>Philippe caulier b10141</name>
-    <desc>Devant le compost</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Square gaston roupnel, 21000 Dijon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.232344" lon="5.567797">
-    <time>2024-05-06T09:56:24Z</time>
-    <name>Arcadia b10134</name>
-    <desc>Boite à lire dans l ancienne salle des pompes derrière l'église</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>1 rue du moulin, 39290 Brans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.197733" lon="5.524026">
-    <time>2024-05-06T09:56:15Z</time>
-    <name>Arcadia b10133</name>
-    <desc>2 frigos un pour livre adultes un pour enfants sous le porche de l agence communale</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Grande rue, 39290 Moissey, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.207055" lon="5.549421">
-    <time>2024-05-06T09:56:05Z</time>
-    <name>Arcadia b10132</name>
-    <desc>Sous le préau en bois presque en face du lavoir</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue du lavoir, 39290 Offlanges, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.175832" lon="5.475791">
-    <time>2024-05-06T09:55:58Z</time>
-    <name>Arcadia b10131</name>
-    <desc>Dans un énorme tonneau juste avant la fruitière à comté entrée par le côté fruitière</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Place principale, 39290 Chevigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.203608" lon="5.503472">
-    <time>2024-05-06T09:55:47Z</time>
-    <name>Arcadia b10130</name>
-    <desc>Dans un genre d abri bus bien regarder la photo car peu visible</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Grande rue, 39290 Frasne-les-meulières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.959336" lon="4.912302">
     <time>2017-04-12T09:42:36Z</time>
     <name>Mamat b1013</name>
@@ -5743,54 +5203,6 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Rue du parc, 71350 St loup géanges, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.126348" lon="5.450322">
-    <time>2024-05-06T09:55:39Z</time>
-    <name>Arcadia b10129</name>
-    <desc>Sous le porche de la salle des fêtes</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>5 rue de champvans, 39100 Sampans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.126577" lon="5.454731">
-    <time>2024-05-06T09:55:32Z</time>
-    <name>Arcadia b10128</name>
-    <desc>Contre l agence postale</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>5 rue de dole, 39100 Sampans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.222412" lon="5.535823">
-    <time>2024-05-06T09:55:18Z</time>
-    <name>Arcadia b10127</name>
-    <desc>Contre la mairie côté église</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>2 place de la mairie, 39290 Montmirey-le-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.828272" lon="5.567864">
-    <time>2024-02-27T09:45:19Z</time>
-    <name>Le parc b10018</name>
-    <desc>Au coeur du parc, boite à livres taillée dans un épicéa scolyté</desc>
-    <type>BoiteLire Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:address>Rue jean moulin, 39230 Sellieres, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5808,6 +5220,582 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="46.566252" lon="4.407498">
+    <time>2017-04-11T12:11:55Z</time>
+    <name>Vival de marizy b994</name>
+    <desc>Se situe au niveau du bourg</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Bourg, 71220 Marizy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.801787" lon="4.090879">
+    <time>2017-04-11T12:02:13Z</time>
+    <name>Vival de lezinnes b993</name>
+    <desc></desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>43 route nationale, 89160 Lezinnes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.618575" lon="3.773176">
+    <time>2017-03-15T09:37:27Z</time>
+    <name>Martine b895</name>
+    <desc>Arrivant de la rue du clocher, a droite du petit square.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue de l'horloge, 71140 Bourbon lancy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.997258" lon="3.681783">
+    <time>2017-03-13T09:48:25Z</time>
+    <name>Girard marianne b893</name>
+    <desc>La boite sera mise en place pour l'été 2017, fabriquée par des bénévoles de l'association du site de fleury.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Barrage de fleury, 58110 Biches, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.045547" lon="3.633428">
+    <time>2017-03-07T09:55:14Z</time>
+    <name>Vilet b886</name>
+    <desc>La boite à lire se situe dans le restaurant le chardon et est accessible uniquement pendant les heures d'ouverture du restaurant.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Le bois de seigne, 58110 Alluy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.289027" lon="3.818661">
+    <time>2017-03-07T09:53:20Z</time>
+    <name>Vilet b885</name>
+    <desc>La boite à lire au niveau du marché couvert.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Place françois mitterrand, 58140 Lormes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.833201" lon="3.458032">
+    <time>2017-03-07T09:51:04Z</time>
+    <name>Alyne b883</name>
+    <desc>La boite à lire se situe vers le stade, près du camping.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Allé marcel merle, 58300 Decize, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.086604" lon="3.193369">
+    <time>2017-03-06T09:29:08Z</time>
+    <name>Les petites mains du lundi b876</name>
+    <desc>Elle est installée depuis un an au niveau de la promenade jean-pierre harris. une deuxième boite sera installée fin mars vers les jeux a côté des écoles.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Grande rue, 58130 Guerigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.774523" lon="6.282548">
+    <time>2017-02-24T09:08:07Z</time>
+    <name>Commune b822</name>
+    <desc>Boite située devant la mairie.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>7 grande rue, 25160 Labergement saint marie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.248434" lon="3.32547">
+    <time>2017-02-16T14:43:05Z</time>
+    <name>Bibliothèque soucy b808</name>
+    <desc>Installée près de la bibliothèque, de l'école et de la mairie.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue victor guichard, 89100 Soucy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.944756" lon="4.302345">
+    <time></time>
+    <name>Grand autunois morvan b728</name>
+    <desc>La cabane à livres est située sur le terrain d'un verger conservatoire non loin d'un quartier historique d'autun.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue du vieux colombier, 71400 Autun, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.249007" lon="5.222539">
+    <time></time>
+    <name>Médiathèque genlis b722</name>
+    <desc>Située entre les écoles la chenaie et jules ferry.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>18 rue de la vanoise, 21110 Genlis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23916" lon="5.223898">
+    <time></time>
+    <name>Médiathèque genlis b715</name>
+    <desc>Entre l école primaire paul bert et l'école maternelle jacques prévert</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>33 avenue du général de gaulle, 21110 Genlis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23817" lon="5.22119">
+    <time></time>
+    <name>Médiathèque genlis b714</name>
+    <desc>Boîte située dans le petit parc derrière l'ehpad et le château en face des jeux pour enfants</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>5 rue de la prairie, 21110 Genlis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.238605" lon="5.227583">
+    <time></time>
+    <name>Association au fil des pages b709</name>
+    <desc>Boite installée à côté du collège</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>5 chemin guyot, 21110 Genlis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.239894" lon="5.221072">
+    <time></time>
+    <name>Association au fil des pages b708</name>
+    <desc>Boîte à lire installée devant l église.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>4 rue aristide briand, 21110 Genlis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.439462" lon="5.340616">
+    <time></time>
+    <name>Emilie jacqueroud b685</name>
+    <desc>La boîte à lire se situe devant la maison de l'enfance. des livres pour tous sont accessibles dans cette boîte décorée par les enfants.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>7 allée des capucins, 39160 Saint amour, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.862554" lon="4.356196">
+    <time></time>
+    <name>Thierry b674</name>
+    <desc>La boite se trouve vers la digue de l'étang des cloix en forêt.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Chemin des cloix, 71400 Autun, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.819913" lon="6.376789">
+    <time></time>
+    <name>Gladys b609</name>
+    <desc></desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Avenue des thermes , 703000 Luxeuil-les-bains, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.320519" lon="5.039118">
+    <time></time>
+    <name>Niikachan b602</name>
+    <desc>Boite à lire appartenant à la boutique savonnerie solsequia.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>17 rue jules mercier, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.990324" lon="3.15513">
+    <time></time>
+    <name>Catherine h b581</name>
+    <desc>Il en existe 2 dans la ville.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Parc roger salengro, 58000 Nevers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.801624" lon="5.375734">
+    <time>2019-06-25T14:48:02Z</time>
+    <name>Bibliothèque de frans b534</name>
+    <desc>Petite cabane à oiseaux qui est en fait une belle boîte à lire où les livres vont et viennent au fil des humeurs...</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Le bourg, 01480 Frans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.327581" lon="5.048418">
+    <time></time>
+    <name>Ville de dijon b459</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Square clemenceau, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.321252" lon="5.045587">
+    <time></time>
+    <name>Ville de dijon b458</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Place saint michel, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.310555" lon="5.003446">
+    <time></time>
+    <name>Ville de dijon b457</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue du père charles de foucauld, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.315547" lon="5.019021">
+    <time></time>
+    <name>Ville de dijon b456</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue de larrey, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.318058" lon="5.037733">
+    <time></time>
+    <name>Ville de dijon b455</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue sainte anne, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.319967" lon="5.044321">
+    <time></time>
+    <name>Ville de dijon b454</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Ue legouz gerland, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.319938" lon="5.024313">
+    <time></time>
+    <name>Ville de dijon b453</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue du faubourg raines, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.316131" lon="5.042491">
+    <time></time>
+    <name>Ville de dijon b452</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Place wilson, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.337228" lon="5.041508">
+    <time></time>
+    <name>Ville de dijon b451</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>4 rue des varennes, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.320266" lon="5.026701">
+    <time></time>
+    <name>Ville de dijon b450</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>14 rue jehan de marville, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.316954" lon="5.033056">
+    <time></time>
+    <name>Ville de dijon b449</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Montée de guise, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.309527" lon="5.016426">
+    <time></time>
+    <name>Ville de dijon b448</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Bd eugène fyot, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.318979" lon="5.007986">
+    <time></time>
+    <name>Ville de dijon b447</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Allée de grenoble, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33711" lon="5.046418">
+    <time></time>
+    <name>Ville de dijon b446</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue olympe de gouge, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.307648" lon="5.024861">
+    <time></time>
+    <name>Ville de dijon b445</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit d'un projet collectif mené par les habitants la municipalité et des associations.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Avenue jean jaurès, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.322233" lon="5.042387">
+    <time></time>
+    <name>Ville de dijon b444</name>
+    <desc>C'est avec enthousiasme que les boîtes à livres prennent vie à dijon. il s'agit projet collectif mené par les habitants les associations et la municipalité.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Square des ducs de bourgogne, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.304077" lon="5.010882">
+    <time>2017-05-15T10:19:37Z</time>
+    <name>Loïc m b420</name>
+    <desc>Accrochée devant l'école valendon.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>1 rue eugène bataillon, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3333" lon="5.023901">
+    <time></time>
+    <name>Ville de dijon b371</name>
+    <desc></desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue alphonse legros, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.330662" lon="5.032897">
+    <time></time>
+    <name>Maniere b370</name>
+    <desc>En face de la pharmacie rue de montchpet</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Place paul bert, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.326432" lon="5.02014">
+    <time></time>
+    <name>Ville de dijon b369</name>
+    <desc></desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue des marmuzots, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.308321" lon="4.709031">
+    <time></time>
+    <name>Lambert b303</name>
+    <desc>À la mairie</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue ferdinand mercusot, 21540 Sombernon , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.317272" lon="4.999643">
+    <time></time>
+    <name>Anna b301</name>
+    <desc>Au niveau de l'esplanade des marcs d'ors. la boite est ccrochée à son arbre à l'intersection rue de bel air" / rue des marcs d'or.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue des marcs d'or, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.313524" lon="5.013491">
+    <time></time>
+    <name>Anton b278</name>
+    <desc>Elle se situe à l'entrée du jardin du château de larrey. en bois il y a pas mal de flux entrant et sortant.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>124 avenue gustave eiffel, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.314112" lon="5.025562">
+    <time></time>
+    <name>Jean sébastien pouchard b252</name>
+    <desc>Elle se situe avenue jean jaures à côté de la boulangerie du port du canal et au coin de l'école jean jaures</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Quai navier, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.331506" lon="5.038138">
+    <time></time>
+    <name>Madeleine b243</name>
+    <desc>Cette boîte à lire est située dans une mjc. elle est accessible à tout le monde aux heures d ouverture. on y trouve des livres pour les petits certes mais aussi pour les plus grands !</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>1 ter rue de beaune, 21000 Dijon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.770023" lon="4.831199">
+    <time></time>
+    <name>Pascale barbier b202</name>
+    <desc>Elle est située à la piscine municipale.</desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Rue du champ-rosey , 71100 Saint remy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.602664" lon="6.135616">
     <time></time>
     <name>Naki2164 b100</name>
@@ -5815,6 +5803,18 @@
     <type>BoiteLire Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:address>Place d armes, 70000 Echenoz la méline, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.76915" lon="4.82807">
+    <time></time>
+    <name>Pascale barbier b42</name>
+    <desc></desc>
+    <type>BoiteLire Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:address>Place jean jaurès, 71100 Saint-rémy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

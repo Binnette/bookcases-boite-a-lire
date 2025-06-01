@@ -1,12 +1,1020 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="45.947536" lon="4.215038">
-    <time>2017-04-11T12:21:01Z</time>
-    <name>Vival de st symphorien de lay b999</name>
+  <wpt lat="45.055088" lon="5.671672">
+    <time>2025-05-12T09:22:36Z</time>
+    <name>Cathy p b10544</name>
+    <desc>Devant l association la fourmi</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>24 avenue de rivalta di torino, 38450 Vif, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.05836" lon="5.679619">
+    <time>2025-05-12T09:22:25Z</time>
+    <name>Cathy p b10543</name>
+    <desc>Sur le parking de l école primaire champollion</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue du stade, 38450 Vif, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.054316" lon="5.673484">
+    <time>2025-05-12T09:22:15Z</time>
+    <name>Cathy p b10542</name>
+    <desc>Parking du musée champollion,devant le centre social olympe de gouges</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Centre social, 38450 Vif, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.055961" lon="5.668753">
+    <time>2025-05-12T09:22:01Z</time>
+    <name>Cathy p b10541</name>
+    <desc>Devant la mairie de vif</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la libération, 38450 Vif, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.827507" lon="3.492607">
+    <time>2025-05-05T10:04:28Z</time>
+    <name>Flow b10538</name>
+    <desc>Petite boite à livres située sur le parking en face de la mairie, à côté du panneau d orientation.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1 rue du maronnier, 63920 Peschadoires, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.563003" lon="3.105087">
+    <time>2025-04-28T09:42:38Z</time>
+    <name>Chloé b10533</name>
+    <desc>Boîte à livres dans une ancienne cabine téléphonique, assez bien fournie et qui bouge de temps en temps. divers types de livres ,parfois des livres de bibliothèque.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1 rue de montrose, 63320 Clémensat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.259804" lon="6.805749">
+    <time>2025-04-17T09:45:30Z</time>
+    <name>Sandra rosaz b10526</name>
+    <desc>En façade du musée d archéologie de sollières</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>425, rue du châtel, sollières envers, 73500 Val-cenis, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.573052" lon="4.391613">
+    <time>2025-04-10T09:33:30Z</time>
+    <name>Elisa b10519</name>
+    <desc>Grand espace avec chaises pour lire sortie du bourg direction duras</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Saint sernin, 07200 Saint sernin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.126056" lon="3.573298">
+    <time>2025-04-03T10:06:05Z</time>
+    <name>Victor b10509</name>
+    <desc>Située sous le lavoir du hameau et sur le chemin de randonnée robe de bure et cotte de maille gérée par episerm association pour l etude du patrimoine et de l'identité de saint-eble, reilhac, mazeyrat-d'allier</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Cizières, 43300 Mazeyrat d allier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.726677" lon="5.008032">
+    <time>2025-03-26T09:40:35Z</time>
+    <name>Kloé - clara - estelle b10501</name>
+    <desc>Boite à livres réalisé par les élèves de l atelier habitat. elle se situe dans la cour du collège revesz-long à proximité du foyer des élèves.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 chemin de revesz-long 26400 crest, 26400 Crest, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.026026" lon="4.653081">
+    <time>2025-02-26T09:37:05Z</time>
+    <name>Claude b10472</name>
+    <desc>Un peu encombrée , demanderait à être agrandie !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 69640 Saint julien, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.526519" lon="4.376512">
+    <time>2025-02-21T09:44:39Z</time>
+    <name>Claire b b10471</name>
+    <desc>Chaises, bancs et transat double en bois pour lire au soleil et devant un joli paysage !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>A côté de la statue de notre dame de chez nous, mont pailloux, 42570 St héand, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.569244" lon="6.155681">
+    <time>2025-02-13T11:07:08Z</time>
+    <name>Françoise b10468</name>
+    <desc>Contre une maison, en pleine ville</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>97 rue louis blanc pinget, 73250 Saint pierre d albigny, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.966572" lon="5.417755">
+    <time>2025-02-05T10:01:48Z</time>
+    <name>Sophie b10463</name>
+    <desc>A l entrée du jardin de l'hotel bellier :d</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Hotel bellier - rue du calvaire, 26420 La chapelle en vercors, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.255452" lon="3.113455">
+    <time>2025-02-03T09:41:52Z</time>
+    <name>Maryse b10456</name>
+    <desc>Ancienne cabine de téléphone</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 24240 Monestier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.773614" lon="4.861731">
+    <time>2025-01-31T09:43:55Z</time>
+    <name>Audrey b10455</name>
+    <desc>Devant l école maternelle le caméléon</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>6 avenue dutrievoz, 69100 Villeurbanne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.773988" lon="4.864323">
+    <time>2025-01-31T09:43:46Z</time>
+    <name>Audrey b10454</name>
+    <desc>En haut de la rue, en allant vers les samouraïs</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue jacques brel,, 69100 Villeurbanne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.534662" lon="6.578537">
+    <time>2024-12-19T09:29:15Z</time>
+    <name>Françoise b10435</name>
+    <desc>Située sur le mur d une maison , bâtiment communal, face à l'église saint laurent</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place jean moulin, 73210 Montgirod, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.598418" lon="5.621981">
+    <time>2024-12-19T09:23:58Z</time>
+    <name>Caroline r b10434</name>
     <desc></desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>80 route nationale 7, 42470 St symphorien de lay  , France</osmand:address>
+      <osmand:address>480 route des champagnes, 38490 Aoste, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.776065" lon="4.825505">
+    <time>2024-12-11T10:22:54Z</time>
+    <name>Gentil b10424</name>
+    <desc>Jolie et vaste boîte à livres. bonne rotation des ouvrages, donc renouvellement régulier des documents.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue jaquard, espace piétons devant l?école primaire., 69004 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.525624" lon="5.253297">
+    <time>2024-12-11T10:22:40Z</time>
+    <name>Erasme b10423</name>
+    <desc>Armoire d?une belle contenance, d?où grand choix d?ouvrages.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place du village, à l?entrée de la salle des fêtes., 38300 Culin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.766049" lon="6.257286">
+    <time>2024-12-02T09:46:50Z</time>
+    <name>Thierry d. b10399</name>
+    <desc>Boite à lire et boite à dons situées dans l abribus à l'entrée du village de vesonne.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>287, route de montmin, d42, 74210 Faverges-seythenex, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.428254" lon="6.037862">
+    <time>2024-11-27T09:45:30Z</time>
+    <name>Labaj eric b10398</name>
+    <desc>Au pied de la mairie</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place roger durieux, 38530 Saint maximin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.692485" lon="4.709518">
+    <time>2024-11-27T09:45:14Z</time>
+    <name>Brigitte vitry b10397</name>
+    <desc>Abris bus en face de l ecole</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>B.vitry@wanadoo.fr, 07210 St lager bressac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.731093" lon="3.102918">
+    <time>2024-11-04T09:44:27Z</time>
+    <name>Flow b10369</name>
+    <desc>A droite de la mairie. une armoire à livres se trouve sous le porche reliant la cour aux anciens communs.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>20 avenue de la république, 63540 Romagnat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.784551" lon="3.286196">
+    <time>2024-10-29T09:43:30Z</time>
+    <name>Flow b10368</name>
+    <desc>En face du parking de la gare, à côté de l école de musique.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>16 avenue léon blum, 63910 Chignat commune de vertaizon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.186102" lon="4.734891">
+    <time>2024-10-28T09:55:10Z</time>
+    <name>Marie b10367</name>
+    <desc>Grande boîtes à livres étagères remplie de beaux livres elles se situe sur la place de l immeuble sous le porche bien à l abri</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place, 07290 Ardoix, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.124889" lon="4.984646">
+    <time>2024-10-28T09:54:57Z</time>
+    <name>Marie b10366</name>
+    <desc>Sur une place en haut des escaliers face a la pharmacie dans une cabine téléphonique beaucoup de livres, intéressant</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place du centre, 26260 Saint-donat sur herbasse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.956641" lon="6.388524">
+    <time>2024-10-28T09:54:47Z</time>
+    <name>Thierry d. b10365</name>
+    <desc>Boites à lire installées de chaque coté de l entrée de la bibliothèque</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route de la douane, d67, 74130 Entremont, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.345296" lon="5.084752">
+    <time>2024-10-23T09:48:30Z</time>
+    <name>Marie b10361</name>
+    <desc>Boîte bien garni</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place, 26270 Saint-barthélemy de beaurepaire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.426442" lon="4.883074">
+    <time>2024-10-21T09:55:21Z</time>
+    <name>Marie b10360</name>
+    <desc>À côté de l abri de bus bien au sec grande boîte à livres de tout genres</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue principale, 38150 Vernioz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.799381" lon="3.245086">
+    <time>2024-10-15T09:44:07Z</time>
+    <name>Flow b10358</name>
+    <desc>A côté de l arrêt de bus.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>36 avenue roger coulon, 63430 Pont-du-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.789074" lon="3.238723">
+    <time>2024-10-15T09:43:58Z</time>
+    <name>Flow b10357</name>
+    <desc>Devant la salle le caméléon".</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>52 avenue de cournon, 63430 Pont-du-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.797126" lon="3.248429">
+    <time>2024-10-14T09:47:44Z</time>
+    <name>Julie b10352</name>
+    <desc>Près du portail de la mairie à droite comme si vous y rentrez boîte à livre grise en forme de maison</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Mairie, 63430 Pont-du-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.567979" lon="6.668574">
+    <time>2024-09-30T09:53:20Z</time>
+    <name>Françoise b10341</name>
+    <desc>Située au petit parking de l église saint laurent</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route départementale 86, 73210 La côte-d aime, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.613538" lon="5.150093">
+    <time>2024-09-24T10:02:58Z</time>
+    <name>Martine mouly b10335</name>
+    <desc>Le frigo à lire est situé dans la maison pour tous florence artaud au quartier des fougères à villefontaine</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Martinemouly@sfr.fr, 38090 Villefontaine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.751781" lon="3.119059">
+    <time>2024-09-03T09:49:15Z</time>
+    <name>Flow b10314</name>
+    <desc>Un peu avant le collège.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 avenue charles de gaulle, 63170 Aubière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.44326" lon="6.648139">
+    <time>2024-12-19T09:28:36Z</time>
+    <name>Françoise b10289</name>
+    <desc>Située à coté du bassin, en contrebas de la chapelle</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route de la mine, 73350 Bozel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.624498" lon="3.229408">
+    <time>2024-08-13T09:47:38Z</time>
+    <name>Flow b10272</name>
+    <desc>Dans le petit square.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>8 rue de la poste, 63270 Parent, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.613042" lon="3.25466">
+    <time>2024-08-13T09:47:28Z</time>
+    <name>Flow b10271</name>
+    <desc>A yronde, juste avant rue de l amandier, à côté des places de parking.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place du pavé, 63270 Yronde-et-buron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.862044" lon="6.495376">
+    <time>2024-08-12T09:39:33Z</time>
+    <name>Thierry d. b10270</name>
+    <desc>Boite à lire située dans le chalet-abris à coté de l église.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 73590 La giettaz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.276283" lon="6.096452">
+    <time>2024-08-05T09:32:20Z</time>
+    <name>Huant grégoire b10246</name>
+    <desc>A coté du périscolaire de l école des bois</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>252 rue de béjoud, 01210 Ornex, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.499983" lon="4.242043">
+    <time>2024-07-18T10:05:29Z</time>
+    <name>Claireb b10225</name>
+    <desc>Devant le petit casino.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place grenette, 42170 St just st rambert, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.317262" lon="4.76058">
+    <time>2024-07-18T10:05:07Z</time>
+    <name>Lony b10223</name>
+    <desc>Le lavoir rue des osches</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>320 rue des osches, 07340 Serrières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.892739" lon="5.164012">
+    <time>2024-07-18T10:04:58Z</time>
+    <name>Elodie b10222</name>
+    <desc>Dans le jardinet a coté de l eglise, sous un auvent</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>574 grande rue, 01800 Bourg st christophe, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.317752" lon="4.770413">
+    <time>2024-07-11T09:28:57Z</time>
+    <name>Lony b10209</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place des mariniers, 38550 Sablons, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.91162" lon="5.191456">
+    <time>2024-07-04T10:08:31Z</time>
+    <name>Clément b10201</name>
+    <desc>Devant l entrée de l'école du menel</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Avenue docteur berthier, école du menel, 01800 Meximieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.936635" lon="6.63196">
+    <time>2024-06-28T09:58:07Z</time>
+    <name>Nathalie b10197</name>
+    <desc>La boite bleue se trouve à côté de l entrée du parc de jeux de la mairie</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Quai de warens, 74700 Sallanches, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.948166" lon="6.641021">
+    <time>2024-06-28T09:57:24Z</time>
+    <name>Nathalie b10196</name>
+    <desc>La boite se trouve dans le sous bois derrière la plage, pas loin du poste de secours des maitres nageurs</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Ancienne route impériale - plage des ilettes, 74700 Sallanches, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.633899" lon="6.351911">
+    <time>2024-06-24T09:47:04Z</time>
+    <name>Françoise b10189</name>
+    <desc>Située dans l abri bus, au croisement de la rd925 et de la route de l'ancienne scierie, face au restaurant</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>6 rd925, 73460 Notre dame des millières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.623725" lon="6.339708">
+    <time>2024-06-24T09:46:56Z</time>
+    <name>Françoise b10188</name>
+    <desc>Située dans l abri bus, à coté du petit pont du ruisseau de fontaine claire, face au départ de la route de l'ebaudiaz</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rd 925, 73460 Notre dame des millières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.450626" lon="4.385943">
+    <time>2024-06-12T10:06:22Z</time>
+    <name>Claire b b10176</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Allée de condamine, 42000 St etienne - st victor sur loire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.548651" lon="3.356151">
+    <time>2024-06-03T10:01:29Z</time>
+    <name>Dav b10171</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 rue eugène gouby, 03400 Yzeure, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.010899" lon="5.884355">
+    <time>2024-06-03T09:59:59Z</time>
+    <name>Léa vignand b10169</name>
+    <desc>Dans l ancien pèse-lait d'etrables, en contrebas de la chapelle</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la chapelle, 74270 Etrables, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.209198" lon="5.774604">
+    <time>2024-05-28T09:24:32Z</time>
+    <name>Dan b10165</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Centre commercial buclos, 03240 Meylan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.149744" lon="4.18128">
+    <time>2024-05-27T09:42:49Z</time>
+    <name>Riffaud b10162</name>
+    <desc>Boîte à l entrée extérieure de l'école</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1088 route de la croix leigné, 42190 Chandon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.233595" lon="5.877485">
+    <time>2024-05-21T09:59:55Z</time>
+    <name>Poujois b10156</name>
+    <desc>Des livres et nous</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1 ter rue guynemer, 38190 Villard bonnot, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.924557" lon="6.396543">
+    <time>2024-05-07T09:49:16Z</time>
+    <name>Thierry d. b10140</name>
+    <desc>Boîte à lire située sur le coté du petit cabanon à l intersection de la route du crêt et de la route de fromaget.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1134 route du crêt, 74450 Saint-jean-de-sixt, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.618211" lon="6.451257">
+    <time>2024-05-07T09:49:01Z</time>
+    <name>Thierry d. b10139</name>
+    <desc>Boite à lire située dans l abribus à coté du terrain de tennis.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>3438 , rue paul girod, 73540 La bathie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.673769" lon="3.266183">
+    <time>2024-04-19T09:39:33Z</time>
+    <name>Flow b10111</name>
+    <desc>Dans une cabine téléphonique, à côté du monument aux morts, vers le cimetière.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>17 route de billom, 63270 Laps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.735629" lon="3.139367">
+    <time>2024-04-19T09:39:19Z</time>
+    <name>Flow b10110</name>
+    <desc>Casiers métalliques avec un petit toit rouge, à droite des escaliers qui montent à la mairie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 rue albert thomas, 63170 Pérignat-lès-sarliève, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.750773" lon="3.100303">
+    <time>2024-04-18T09:41:49Z</time>
+    <name>Kateginger63 b10108</name>
+    <desc>Boite à lire annexe de la médiathèque, livres très récents, pour tous âges</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Esplanade de russi, 63110 Beaumont, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.868281" lon="3.216998">
+    <time>2024-04-08T09:37:54Z</time>
+    <name>Flow b10093</name>
+    <desc>Devant l école. ce n'est pas la même que vers l'église.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>28 rue jules ferry, 63720 Chappes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.750937" lon="3.279595">
+    <time>2024-04-08T09:37:34Z</time>
+    <name>Flow b10092</name>
+    <desc>A côté de l église.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place lafayette, 63117 Chauriat, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.76523" lon="3.308293">
+    <time>2024-04-08T09:37:27Z</time>
+    <name>Flow b10091</name>
+    <desc>Entre rue des tilleuls et rue de l école.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place des tilleuls, 63910 Vassel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.79262" lon="3.252489">
+    <time>2024-04-08T09:37:19Z</time>
+    <name>Flow b10090</name>
+    <desc>Devant l école.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Chemin du moulin, 63430 Pont-du-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.799979" lon="3.242076">
+    <time>2024-04-08T09:37:04Z</time>
+    <name>Flow b10089</name>
+    <desc>Dans le hall de l intermarché.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>9 rue roger prat, 63430 Pont-du-château, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.386161" lon="4.882373">
+    <time>2024-04-03T10:12:24Z</time>
+    <name>Baumann b10082</name>
+    <desc>À côté du stade sous hall centre social hauteur abri photovoltaïque</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route de la chapelle, 38150 St romain de surieu, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.812522" lon="3.127783">
+    <time>2024-03-26T12:14:43Z</time>
+    <name>Caroline b10078</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>93 rue d'aulteribe, 63100 Clermont-ferrand, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.321449" lon="4.614513">
+    <time>2024-03-25T11:27:41Z</time>
+    <name>Baumann b10075</name>
+    <desc>Sur la place face vival vers parc enfant dans un abri</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place du village, 42220 St julien molin molette, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.819362" lon="3.239683">
+    <time>2024-03-25T11:21:33Z</time>
+    <name>Flow b10073</name>
+    <desc>A cormède commune des martres d artière devant l aire de jeux.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>4 route sous les vignes, 63430 Cormède commune des martres d artière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.833655" lon="3.260071">
+    <time>2024-03-25T11:20:50Z</time>
+    <name>Flow b10072</name>
+    <desc>A côté de la mairie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de l eglise, 63430 Les martres d artière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.000858" lon="4.00469">
+    <time>2024-03-25T11:19:33Z</time>
+    <name>Gisele tallaron b10071</name>
+    <desc>Grand boite a livres , vers l?ancien salle polyvalente de lantriac , dans une ancienne cabine téléphonique</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Delaigue.gisele@neuf.fr, 43260 Lantriac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.97027" lon="4.054055">
+    <time>2024-03-25T11:19:06Z</time>
+    <name>Gisele tallaron b10070</name>
+    <desc>Petite boîte a la livre a côté de l'église</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Delaigue.gisele@neuf.fr, 43150 Laussonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.640359" lon="6.45091">
+    <time>2024-03-14T09:37:28Z</time>
+    <name>Françoise b10040</name>
+    <desc>Située dans l abri bus, sur la place centrale du village</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Village de biorges, 73540 La bathie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.050561" lon="5.050583">
+    <time>2024-03-14T09:37:18Z</time>
+    <name>Jc arnaud b10039</name>
+    <desc>Dans la cour de dynam et co</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>9 rue camille desmoulinsin, 26100 Romans-sur-isÈre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.194286" lon="5.698263">
+    <time>2024-03-13T09:38:53Z</time>
+    <name>M b10037</name>
+    <desc>Boite à livre récemment ajoutée, au croisement de la rue charles michels et rue doyen gosse. boite faite en bois.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>14 rue charles michels, 38600 Fontaine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.807561" lon="5.453378">
+    <time>2024-03-07T11:38:53Z</time>
+    <name>Maureen b10032</name>
+    <desc>Boîte à livre entre le vival et la boucherie</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>17 grande rue, 01470 Serrière de briord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.860956" lon="4.941366">
+    <time>2024-03-04T16:49:32Z</time>
+    <name>Baumann b10027</name>
+    <desc>Belle boîte armoire à côté de l'école et du comité de jumelage</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue du 11 novembre 1918, 26760 Beaumont les valence, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.900778" lon="4.955594">
+    <time>2024-03-04T09:32:31Z</time>
+    <name>Baumann b10026</name>
+    <desc>Belle boîte armoire devant l?église</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue de l'église, 26120 Malissard, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.365344" lon="5.583454">
+    <time>2024-02-28T10:16:03Z</time>
+    <name>Stéphane dietz b10023</name>
+    <desc>Galerie du carrefour market du colombier</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>38 rue du general rambeaud,, 38500 Voiron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.366915" lon="5.592012">
+    <time>2024-02-28T10:15:53Z</time>
+    <name>Stephane b10022</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place saint brono, 38500 Voiron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.362713" lon="5.591349">
+    <time>2024-02-26T09:31:17Z</time>
+    <name>Stéphane dietz b10012</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Stephane.dietz@live.fr, 38500 Voiron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.676183" lon="6.392432">
+    <time>2024-02-23T09:29:04Z</time>
+    <name>Françoise b10010</name>
+    <desc>Située dans le hall d entrée du dôme cinéma</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de l europe, 73200 Albertville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.549146" lon="3.737605">
+    <time>2024-02-22T09:50:45Z</time>
+    <name>Fournioux b10008</name>
+    <desc>Au 213 rue anna rodier à ambert</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Francois.fournioux@ambertlivradoisforez.fr, 63600 Ambert, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -19,18 +1027,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Abribus scolaire de saint eble, 43300 Mazeyrat d allier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.831329" lon="4.012434">
-    <time>2017-04-11T12:14:32Z</time>
-    <name>Vival de st germain laval b996</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 place de verdun, 42260 St germain laval, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -144,18 +1140,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.637101" lon="4.256799">
-    <time>2017-04-11T12:00:27Z</time>
-    <name>Vival de jaujac b991</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue jean moulin, 07380 Jaujac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.001506" lon="4.848497">
     <time>2023-11-06T07:47:28Z</time>
     <name>Phil b9909</name>
@@ -252,18 +1236,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.664205" lon="4.894479">
-    <time>2017-04-11T11:51:26Z</time>
-    <name>Vival de chaponnay b988</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de charles de gaulle, 69970 Chaponnay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.705075" lon="3.128395">
     <time>2023-10-09T08:53:56Z</time>
     <name>Flow b9873</name>
@@ -283,18 +1255,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Rue des portiques, 74230 Thônes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.485149" lon="5.385907">
-    <time>2017-04-11T11:46:15Z</time>
-    <name>Vival de la motte chalancon b986</name>
-    <desc>Dans le magasin vival casino</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route de die, 26470 La motte chalençon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1272,18 +2232,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.743934" lon="4.792232">
-    <time></time>
-    <name>Céline f. b94</name>
-    <desc>Boîte à lire installée par la mairie construite par des élèves du collège de ste-foy-les-lyon.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Chemin des prés, 69110 Sainte foy les lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.282948" lon="4.761517">
     <time>2023-01-25T08:01:36Z</time>
     <name>Nani b9398</name>
@@ -1459,18 +2407,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>1360 route du col, 74420 Saxel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.736169" lon="4.800027">
-    <time></time>
-    <name>Céline f. b93</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue de cuzieu, 69110 Sainte-foy-lès-lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2052,18 +2988,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.439827" lon="4.385191">
-    <time>2017-03-21T09:02:03Z</time>
-    <name>Le caveau stéphanois b899</name>
-    <desc>1er étage de la maison des associations</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>4 rue andré malraux, 42000 Saint-etienne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.77798" lon="3.315542">
     <time>2022-07-21T11:12:26Z</time>
     <name>Flow b8981</name>
@@ -2083,18 +3007,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>32 rue maryse bastié, 69008 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.767069" lon="4.832028">
-    <time>2018-04-30T10:36:25Z</time>
-    <name>405 b896</name>
-    <desc>Boite à lire dans le bar ! plus de 7000 livres partagés dans ce bar !</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>9 rue constantine, 69001 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2160,18 +3072,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.91448" lon="2.440947">
-    <time>2019-06-24T16:34:44Z</time>
-    <name>Adrien b890</name>
-    <desc>La boite à lire se situe au rond point entre simply market et leclerc en face cash express.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>41 avenue des volontaires, 15000 Aurillac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.867144" lon="6.139739">
     <time>2022-05-27T09:44:04Z</time>
     <name>Thierry d. b8890</name>
@@ -2215,18 +3115,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>18 rue françois dauphin, 69002 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.566117" lon="3.332915">
-    <time>2017-03-07T09:52:30Z</time>
-    <name>Alyne b884</name>
-    <desc>La boite à lire se situe en haut des marches, sur la gauche en regardant le bâtiment.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de l'hotel de ville, 03000 Moulins, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2772,18 +3660,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.590102" lon="4.318089">
-    <time>2017-02-28T09:51:53Z</time>
-    <name>Mel b860</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la devise, 42330 Saint galmier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.393251" lon="5.166802">
     <time>2022-03-01T09:37:48Z</time>
     <name>Christine b8596</name>
@@ -2803,18 +3679,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Albertville, 73200 Albertville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.135771" lon="6.269115">
-    <time>2017-02-28T09:47:11Z</time>
-    <name>Deblon b859</name>
-    <desc>Petite boîte à livre en forme de petite maison sur un muret juste avant le tabac sur la grande rue.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Grande rue, 74930 Reignier, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2928,18 +3792,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.593109" lon="4.31435">
-    <time>2017-02-28T09:38:06Z</time>
-    <name>Mel b853</name>
-    <desc>La boîte est située dans le parc de st galmier près de l aire de jeux pour enfants</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Avenue antoine ravel, 42330 Saint galmier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.394178" lon="6.07527">
     <time>2022-02-15T09:05:40Z</time>
     <name>Véro b8507</name>
@@ -2947,18 +3799,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place verdun, 38580 Allevard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.744655" lon="4.796119">
-    <time></time>
-    <name>Vuaille b85</name>
-    <desc>Un large choix il y a même eu des livres de math !</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Chemin du vallon, 69110 Sainte foy lès lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3199,18 +4039,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>64 rue jean jaures, 69740 Genas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.587864" lon="5.316206">
-    <time>2017-02-23T17:11:49Z</time>
-    <name>Delphine b837</name>
-    <desc>Dans la cabine telephonique, à côté de l'église et de l'épicerie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de l'église, 38300 Meyrie, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3571,18 +4399,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>15 place du 19 mars 1962, 38260 Pajay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.19704" lon="6.69375">
-    <time>2017-02-23T10:39:10Z</time>
-    <name>L'épicerie morzine b823</name>
-    <desc>Association à but non lucratif pour le développement de l'agriculture biologique et de l'économie solidaire et participative. le local se situe derrière la mairie de montriond</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Chef lieu, 74110 Montriond, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4356,18 +5172,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.115285" lon="6.394302">
-    <time>2017-01-31T10:08:53Z</time>
-    <name>Laurent moccozet b792</name>
-    <desc>Cette boîte à lire fait partie des 11 boîtes à lire du réseau des bibliothèques idélire de la communauté de communes des 4 rivières. elle se trouve sur le mur de la mairie dans le chef-lieu du village.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Chef-lieu, 74250 Saint-jean de tholome, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.740399" lon="3.252962">
     <time>2021-08-03T10:09:29Z</time>
     <name>Kateginger63 b7915</name>
@@ -4459,18 +5263,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Parking avenue edouard herriot, 69170 Tarare, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.435221" lon="4.390765">
-    <time>2017-01-26T14:49:15Z</time>
-    <name>Sandy b788</name>
-    <desc>Dans le salon de coiffure 2 pièces + cuisine - coiffure et traditions</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>3 rue louis merley, 42000 Saint-etienne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4836,18 +5628,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.978259" lon="5.602999">
-    <time>2019-06-27T11:57:42Z</time>
-    <name>Terrien marilou b774</name>
-    <desc>Située dans le centre social et culturel les 7 lieux</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place du docteur rougy, 01110 Hauteville lompnes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.390617" lon="6.712867">
     <time>2021-07-09T16:49:00Z</time>
     <name>Ambrine b7739</name>
@@ -4879,18 +5659,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Allée des peupliers, 42330 Saint-galmier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.741114" lon="4.803721">
-    <time></time>
-    <name>Céline f. b77</name>
-    <desc>Boîte à livres installée par la mairie et construite par les élèves du collège de la ville.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Parc marius bourrat, avenue maréchal foch, 69110 Sainte foy les lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5244,18 +6012,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.287963" lon="4.840941">
-    <time></time>
-    <name>Anne hilaire b745</name>
-    <desc>La boite à lire est placée dans le hall de la mairie. elle est accessible aux heures d'ouverture de la mairie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>28 place du champ de mars, 26790 Suze-la-rousse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.347033" lon="5.349018">
     <time>2021-04-27T09:40:51Z</time>
     <name>Laurence b7437</name>
@@ -5304,18 +6060,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.305979" lon="5.914446">
-    <time></time>
-    <name>Cemu b742</name>
-    <desc>Petit coffre devant l église</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue de l'eglise, 38660 Lumbin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.28644" lon="4.725308">
     <time>2021-04-23T15:37:07Z</time>
     <name>Lony b7416</name>
@@ -5359,18 +6103,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>18 rue de la gare,  15310 St illide, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.755409" lon="4.845039">
-    <time></time>
-    <name>Vincent c b74</name>
-    <desc>La boite à lire se trouve sur la devanture de l'atelier de recyclivre !</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>7 rue auguste lacroix, 69003 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6456,18 +7188,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.379834" lon="3.583308">
-    <time></time>
-    <name>Jean marc bercier b701</name>
-    <desc>A la station avia 24/24</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 route de lapalisse, 03220 Jaligny sur besbre, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.849073" lon="2.893396">
     <time>2020-11-30T15:44:42Z</time>
     <name>Florence b7005</name>
@@ -6540,18 +7260,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.383976" lon="4.726508">
-    <time></time>
-    <name>Dumoulin b696</name>
-    <desc>La boite à lire se trouve sur la place centrale du village prêt de la bibliothèque</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Le bourg, 42520 Malleval, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.767285" lon="5.196464">
     <time>2020-11-19T10:16:07Z</time>
     <name>Emelise bnd b6957</name>
@@ -6571,18 +7279,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>15 avenue de la libération, 03000 Moulins, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.749546" lon="4.888851">
-    <time></time>
-    <name>Marie france mar adamczewski b693</name>
-    <desc>Dans la mjc montchat</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>53 rue charles richard, 69003 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -6828,18 +7524,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.795589" lon="4.9419">
-    <time></time>
-    <name>Perrin b679</name>
-    <desc>Dans le hall d entrée de la mairie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>10 chemin des Écoliers, 26800 Montoison, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.892072" lon="6.71192">
     <time>2020-10-08T10:16:47Z</time>
     <name>Julie poilbout b6783</name>
@@ -6895,18 +7579,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>48 grand rue, 15800 Thiezac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.884637" lon="5.28392">
-    <time>2019-06-25T14:43:11Z</time>
-    <name>Thierry b675</name>
-    <desc>Dans le parc du château de chazey vers le panorama sur la rivière d'ain.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>143 rue du château, 01150 Chazey-sur-ain, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7243,18 +7915,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>77 route du laudon, 74410 Saint-jorioz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.358825" lon="5.956475">
-    <time></time>
-    <name>Corso b666</name>
-    <desc>Dans le hall du supermarché intermarché" sur la gauche. une bibliothèque de plusieurs étagères.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue des corvées, 38660 Le touvet, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7632,30 +8292,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.672741" lon="6.378481">
-    <time></time>
-    <name>Vincent b648</name>
-    <desc>Financée par le lion's club de savoie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la croix de l'orme, 73200 Albertville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.672344" lon="6.386603">
-    <time></time>
-    <name>Vincent b647</name>
-    <desc>adresse : parc aubry code postal : 73200 ville : albertville commentaires : financée par le lion s club de savoie</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 rue armand aubry , 73200 Alberville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.05215" lon="2.484748">
     <time>2020-08-05T15:52:21Z</time>
     <name>Fabinette b6465</name>
@@ -7704,18 +8340,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.191946" lon="5.71688">
-    <time>2017-08-23T10:41:52Z</time>
-    <name>Corso b642</name>
-    <desc>(accessible qu'en période scolaire...) ancienne cabine téléphonique allemande transformée en boite à lire en face de l'entrée principale de l'iut2.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place doyen gosse, 38000 Grenoble, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.131023" lon="6.375815">
     <time>2020-07-28T17:31:41Z</time>
     <name>Paquerette d. b6419</name>
@@ -7723,18 +8347,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Sur le mur, angle de la boulangerie, PEILLONNEX 74250, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.175298" lon="5.810459">
-    <time></time>
-    <name>Corso b641</name>
-    <desc>Près de la mairie à côté d'une meule en pierre. un placard de cuisine transformé en boite à lire.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>La chappe, 38610 Venon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7764,18 +8376,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.394094" lon="6.074708">
-    <time></time>
-    <name>Corso b640</name>
-    <desc>Près du cinéma sous le porche en bois</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue de bréda, 38580 Allevard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.427645" lon="4.872809">
     <time>2020-07-28T17:23:53Z</time>
     <name>Marie pierre b b6397</name>
@@ -7795,30 +8395,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Lavoir, 007 St-pons, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.39354" lon="6.073989">
-    <time></time>
-    <name>Corso b639</name>
-    <desc>Sur la façade de l'office du tourisme.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>11 place de la résistance, 38580 Allevard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.688075" lon="5.915223">
-    <time></time>
-    <name>Corso b638</name>
-    <desc>Près de l arrêt de bus hôtel de ville" côté parc floral des thermes une ancienne cabine téléphonique transformée en boite à lire.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Avenue lord revelstoke, 73100 Aix-les-bains, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -7980,18 +8556,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.364758" lon="2.62184">
-    <time></time>
-    <name>Agrion b627</name>
-    <desc>Au milieu de la place</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place gérard philippe, 03630 Désertines, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.749724" lon="3.085019">
     <time>2020-06-15T09:24:38Z</time>
     <name>Lison b6265</name>
@@ -8011,18 +8575,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>1 village des combes, 03110 Broût-vernet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.328522" lon="2.578587">
-    <time></time>
-    <name>Agrion b626</name>
-    <desc>Dans la mjc à côté de l accueil</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Avenue de fontbouillant, 03100 Montluçon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8131,18 +8683,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place de la mairie, 01250 Villereversure, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.307434" lon="5.103505">
-    <time></time>
-    <name>Aurore b621</name>
-    <desc>Elle se trouve sous le porche de la mairie</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route de viriville, 38270 Marcollin, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8268,18 +8808,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.926822" lon="3.396184">
-    <time></time>
-    <name>b616</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Le bourg, 63350 Bulhon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.992812" lon="6.058004">
     <time>2020-05-20T10:18:22Z</time>
     <name>Isabelle j. b6154</name>
@@ -8299,18 +8827,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Rue des conflents, 74000 Annecy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.698938" lon="4.947071">
-    <time></time>
-    <name>Mehdi b614</name>
-    <desc>Boite à l intérieur de la galerie marchande de auchan.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Zac du champ du pont, 69800 Lyon saint priest, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8455,18 +8971,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place de la ferrandière, 69003 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.611357" lon="5.498364">
-    <time></time>
-    <name>Mairie de dolomieu b607</name>
-    <desc>La boite à lire se trouve juste devant la mairie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>10 place déodat, 38110 Dolomieu, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -8820,18 +9324,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.167889" lon="5.694145">
-    <time></time>
-    <name>Nervesa b577</name>
-    <desc>Ancienne cabine téléphonique transformée en petite bibliothèque.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Avenue louis armand, 38180 Seyssins, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.328605" lon="5.258984">
     <time>2020-01-21T13:18:29Z</time>
     <name>Valérie r. b5747</name>
@@ -9084,18 +9576,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.53012" lon="4.911873">
-    <time></time>
-    <name>Carole b564</name>
-    <desc>Créé par la boutique blueberry</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>84 montée lucien magnat, 38780 Pont-evêque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.250397" lon="4.889615">
     <time>2019-12-17T08:38:46Z</time>
     <name>Charlotte b5632</name>
@@ -9163,18 +9643,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Le bourg, 69640 Denicé, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.866748" lon="5.943846">
-    <time>2018-05-14T11:07:08Z</time>
-    <name>Julie b558</name>
-    <desc>Mis en place par et devant l'espace croisollet</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place croisollet, 74150 Rumilly, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -9984,18 +10452,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.728487" lon="5.650361">
-    <time>2019-06-25T14:45:14Z</time>
-    <name>Dorel b516</name>
-    <desc>Derrière l église. livres très intéressants et en très bon état</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la mairie , 01300 Saint-germain-les-paroisses , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.238656" lon="3.151837">
     <time>2019-08-05T14:49:49Z</time>
     <name>Olwen b5157</name>
@@ -10279,18 +10735,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Meaux la montagne, 69550 Meaux la montagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.738088" lon="4.851914">
-    <time></time>
-    <name>Aleyxandra b50</name>
-    <desc>Il y a même une petite terrasse en bois pour les beaux jours.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>17 rue benoit bernard, 69008 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10584,18 +11028,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.467873" lon="4.840856">
-    <time></time>
-    <name>Jenny di girolamo b48</name>
-    <desc>La boite vient d'être installée dans le village.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>38121 Reventin-vaugris, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.852647" lon="4.583328">
     <time>2019-05-14T15:50:49Z</time>
     <name>Karine b4762</name>
@@ -10627,18 +11059,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Rue des écoles, 69780 Saint pierre de chandieu, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.780293" lon="4.836122">
-    <time></time>
-    <name>Fabienne p b473</name>
-    <desc>Une boite à livres nommée troc book a été installée à la croix-rousse fruit de la collaboration de plusieurs entrepreneurs. des livres pour tous les âges sont à votre disposition</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>11 rue richan, 69004 Lyon , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -10920,18 +11340,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75489" lon="4.812451">
-    <time></time>
-    <name>Guillaume sallé b437</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place saint irénée, 69005 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.758175" lon="4.834666">
     <time>2019-02-21T14:05:58Z</time>
     <name>Pomme de pain b4369</name>
@@ -10987,18 +11395,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>31 rue claude le laboureur, 69009 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.311555" lon="3.416765">
-    <time></time>
-    <name>Béa b43</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Grand place, 63270 Saint-maurice-es-allier, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11083,30 +11479,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>45.699131, 4.942656, 69800 Saint-priest, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.727094" lon="4.586305">
-    <time></time>
-    <name>Aurore b423</name>
-    <desc>Petite boîte à lire bien fournie en livres pour enfants car elle est à côté de l école primaire pour adultes et en magazines.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route des mines, 07000 Saint priest, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.033026" lon="3.094862">
-    <time></time>
-    <name>Chirand b422</name>
-    <desc>Réalisées par les services techniques municipaux et en partenariat avec le lions club de saint-flour</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place des mets, 15100 Saint flour, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11376,18 +11748,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.111546" lon="4.731154">
-    <time></time>
-    <name>Sylvie b409</name>
-    <desc>Vers l école jean macé au quartier de la gare</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue jean macé, 69220 Belleville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.97625" lon="4.76401">
     <time>2018-12-05T09:46:44Z</time>
     <name>Rebeyrol b4088</name>
@@ -11539,18 +11899,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place des croix, 42410 Pelussin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.386692" lon="4.752389">
-    <time></time>
-    <name>Pilat rhodanien b397</name>
-    <desc>La boite se trouve au coeur de l'espace détente entre la maison de la lÔne et le lac. elle est alimentée par les dons de la bibliothèque intercommunale le shed à pélussin</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>8 avenue du rhône , 42520 Saint pierre de boeuf, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -11808,30 +12156,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.277035" lon="6.345694">
-    <time></time>
-    <name>Jo b381</name>
-    <desc>A proximité de l'office du tourisme</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la cathédrale, 73300 Saint jean de maurienne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.4036" lon="4.132091">
-    <time>2019-06-25T15:40:39Z</time>
-    <name>Abou b379</name>
-    <desc>Sur la place principale du bourg petite boite à lire simple et facile d accès.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la grave, 07140 Les vans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.532516" lon="4.747908">
     <time>2018-10-01T12:00:07Z</time>
     <name>Anne h b3785</name>
@@ -11839,18 +12163,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Carrefour rond point des présidents, 26200 Montelimar, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.56686" lon="5.919247">
-    <time></time>
-    <name>Anick-marie b378</name>
-    <desc>À l entrée du marché couvert halles de chambéry. opérée par les bénévoles de savoie récup</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de genève, 73000 Chambery, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -12300,18 +12612,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.023849" lon="5.982161">
-    <time></time>
-    <name>Muriel b340</name>
-    <desc>Www.grainededahu.fr</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>429 route du chef lieu, 74270 Contamine sarzin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.785614" lon="4.575004">
     <time>2018-08-13T09:52:46Z</time>
     <name>Tardieu b3391</name>
@@ -12348,18 +12648,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.922968" lon="2.437027">
-    <time></time>
-    <name>Tissandier b336</name>
-    <desc>Boite a lire située sur le trottoir au niveau de l école paul doumer</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>95 avenue de la république, 15000 Aurillac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.449809" lon="4.872318">
     <time>2018-08-09T09:17:02Z</time>
     <name>Angel b3353</name>
@@ -12372,18 +12660,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.915697" lon="2.421091">
-    <time></time>
-    <name>Tissandier b335</name>
-    <desc>boîte située au niveau de l'aire de jeu de l'ecole ouverte de belbex</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>24 rue jacques prevert , 15000 Aurillac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.516855" lon="4.957339">
     <time>2018-08-06T11:46:10Z</time>
     <name>Angel b3320</name>
@@ -12391,18 +12667,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Rue de l'europe, 38780 Estrablin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.178189" lon="4.817008">
-    <time>2019-06-27T12:01:17Z</time>
-    <name>Hélène b331</name>
-    <desc>A côté de l arrêt de bus 114</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place des halles, 01140 Saint didier sur chalaronne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -12439,18 +12703,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Rue léon berthet, 38510 Passins, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.490467" lon="4.449389">
-    <time></time>
-    <name>Isabelle b329</name>
-    <desc>Boite à lire installée par la mairie</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Parc de fraisse, 42290 Sorbiers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -12960,18 +13212,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.732187" lon="5.191312">
-    <time></time>
-    <name>Camille masson b296</name>
-    <desc>Micro-bibliothèque très sympa dans une rue toute en dos-d âne.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Lotissement du gambaud, 38230 Tignieu jameyzieu, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.041254" lon="4.064166">
     <time>2018-06-15T14:52:55Z</time>
     <name>Aurélien b2958</name>
@@ -12979,18 +13219,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>80 boulevard baron du marais, 42300 Roanne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.443258" lon="4.980946">
-    <time></time>
-    <name>Muriel seauve b295</name>
-    <desc>La boîte à lire voyageurs de l'atelier-galerie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>22 rue des fontaines, 26770 Taulignan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13068,18 +13296,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.154251" lon="5.322066">
-    <time></time>
-    <name>Recycl'eco b289</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Grande rue, 38160 Saint marcellin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.069565" lon="4.828883">
     <time>2018-06-04T09:27:26Z</time>
     <name>Colette b2884</name>
@@ -13123,18 +13339,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>3 place de la liberté, 69700 Givors, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.755849" lon="4.797599">
-    <time>2017-01-16T12:27:23Z</time>
-    <name>Desartsonnants b286</name>
-    <desc>Boite à lire située à l'angle de la place benedict tessier.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place benedict tessier, 69005 Lyon , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13272,18 +13476,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.993484" lon="4.821119">
-    <time>2019-06-25T14:48:20Z</time>
-    <name>Bamaloo b277</name>
-    <desc>Elle est toute bleue toute belle.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>310 rue jean marie vianney, 01480 Ars-sur-formans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.194425" lon="6.227965">
     <time>2018-05-18T14:08:58Z</time>
     <name>Sonia miny b2759</name>
@@ -13392,13 +13584,13 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.991471" lon="4.718821">
-    <time></time>
-    <name>Papapanique b269</name>
-    <desc></desc>
+  <wpt lat="46.364758" lon="2.62184">
+    <time>2018-05-09T09:30:56Z</time>
+    <name>Doris tschögele b2697</name>
+    <desc>Netter schrank im park</desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>Place des arts, 69400 Villefranche-sur-saône, France</osmand:address>
+      <osmand:address>Place gerard philipe, 03630 Desertines, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13435,42 +13627,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Chef lieu, 74250 Marcellaz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.6913" lon="4.948651">
-    <time></time>
-    <name>Fonds decitre b263</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue du 8 mai 1945, 69800 Saint-priest, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.91348" lon="6.147782">
-    <time>2019-11-13T12:35:04Z</time>
-    <name>Fonds decitre b262</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>14 rue des champs, 74940 Annecy-le-vieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.673999" lon="4.763318">
-    <time></time>
-    <name>Fonds decitre b261</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Avenue de la gare, 69530 Brignais, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13764,18 +13920,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.559499" lon="4.725734">
-    <time></time>
-    <name>Anne b236</name>
-    <desc>Cachée derrière une rose trémière</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Vieille route du teil, 26200 Montélimar, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.729184" lon="3.232891">
     <time>2018-03-07T12:36:05Z</time>
     <name>Kateginger63 b2357</name>
@@ -13855,18 +13999,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place victor hugo, 03300 Cusset, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.163626" lon="3.432976">
-    <time>2019-08-09T10:40:06Z</time>
-    <name>Chantal b232</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de l'église , 03300 Cusset, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -13987,18 +14119,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place dr gigante, 43250 Sainte-florine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.881796" lon="6.322448">
-    <time></time>
-    <name>Cécile b225</name>
-    <desc>Librairie papeterie des aravis. sur la façade de la librairie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place avet, 74230  thônes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14304,18 +14424,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.191818" lon="6.224742">
-    <time></time>
-    <name>Culet b214</name>
-    <desc>Vous trouverez la boite à lire au carrefour.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Croix d'ambilly , 74100 Ambilly, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.75942" lon="5.473106">
     <time>2018-08-02T12:50:45Z</time>
     <name>Camille lacoste-aribaud b2121</name>
@@ -14340,18 +14448,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.737843" lon="4.851901">
-    <time></time>
-    <name>Bastien t. b21</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>100 route de vienne, 69008 Lyon 8ème, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.765672" lon="6.307208">
     <time>2018-01-02T09:48:42Z</time>
     <name>Stephanie turner b2083</name>
@@ -14359,18 +14455,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>30 rue de la croix, 74210 St ferreol, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.845564" lon="5.620483">
-    <time></time>
-    <name>Val de beaulieu b208</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Hôtel de ville, 38930 Saint martin de clelles, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14491,18 +14575,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Chemin de montravel, 42390 Villars, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.918151" lon="6.13116">
-    <time></time>
-    <name>Vincent g. b20</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue louis armand, 74000 Annecy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14640,18 +14712,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.765722" lon="4.777335">
-    <time></time>
-    <name>Vincent c. b19</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Gare d’ecully-la-demi-lune, 69160 Tassin-la-demi-lune, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.321967" lon="3.008634">
     <time>2019-06-25T14:38:04Z</time>
     <name>Jean paul bonsergent b1894</name>
@@ -14707,18 +14767,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place littré, 63000 Clermont-ferrand, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.755085" lon="4.776726">
-    <time></time>
-    <name>Cédric c. b18</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Parc de l’etoile, 69160 Tassin-la-demi-lune, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14791,18 +14839,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address> place du marché joseph sérand, 74210 Faverges, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.76134" lon="4.776814">
-    <time></time>
-    <name>Joris b. b17</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place hyppolite péragut , 69160 Tassin-la-demi-lune, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -14976,18 +15012,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.708874" lon="4.853374">
-    <time></time>
-    <name>Marine t. b16</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Square matringe, 69190 St fons, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.337926" lon="4.866234">
     <time>2017-09-05T10:03:21Z</time>
     <name>Souchon delphine b1580</name>
@@ -15031,18 +15055,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place saint-clair, 43000 Aiguilhe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.749946" lon="4.853853">
-    <time></time>
-    <name>Davy b153</name>
-    <desc>Boîte présente au dépôt imaginaire collectif de 12 éditeurs indépendants des imaginaires. accessible dans l'espace détente du dépôt. le surplus de livres est conservé dans un caisse qui une fois pleine est remise à des associations de réinsertion sociale.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>320 rue garibaldi, 69007 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -15192,18 +15204,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.772353" lon="3.086883">
-    <time>2017-07-31T09:47:51Z</time>
-    <name>Pascal tarraire b143</name>
-    <desc>A l'angle du bd vercingetorix et du bd lafayette, juste à coté de ce que les clermontois appelent la "pyramide"</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Boulevard vercingetorix, 63000 Clermont-ferrand, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.755913" lon="3.614575">
     <time>2017-08-07T12:04:47Z</time>
     <name>Ana b1420</name>
@@ -15247,18 +15247,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address> jardin du bois d'artas, 38000 Grenoble, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.72666" lon="4.857883">
-    <time></time>
-    <name>Fonds decitre b14</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>49 rue professeur roux, 69200 Vénissieux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -15432,18 +15420,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.698868" lon="4.884642">
-    <time></time>
-    <name>Fonds decitre b13</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la paix, 69200 Vénissieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.604911" lon="5.176964">
     <time>2017-07-18T11:39:51Z</time>
     <name>Bibounine b1283</name>
@@ -15528,18 +15504,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.760343" lon="4.771071">
-    <time></time>
-    <name>Recyclivre b12</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>35 avenue du 8 mai 1945, 69160 Tassin-la-demi-lune, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.769309" lon="3.882656">
     <time>2017-06-22T17:09:17Z</time>
     <name>Bibliotheque pradelles b1196</name>
@@ -15559,18 +15523,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address> , 26130 Clansayes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.779468" lon="4.878462">
-    <time></time>
-    <name>Cco b114</name>
-    <desc>Donnez une seconde vie à vos livres et déposez les au cco dans un frigo bibliothèque spécialement construit pour les accueillir.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>39 rue georges courteline, 69100 Villeurbanne, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -15600,354 +15552,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.563003" lon="3.105087">
-    <time>2025-04-28T09:42:38Z</time>
-    <name>Chloé b10533</name>
-    <desc>Boîte à livres dans une ancienne cabine téléphonique, assez bien fournie et qui bouge de temps en temps. divers types de livres ,parfois des livres de bibliothèque.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>1 rue de montrose, 63320 Clémensat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.259804" lon="6.805749">
-    <time>2025-04-17T09:45:30Z</time>
-    <name>Sandra rosaz b10526</name>
-    <desc>En façade du musée d archéologie de sollières</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>425, rue du châtel, sollières envers, 73500 Val-cenis, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.573052" lon="4.391613">
-    <time>2025-04-10T09:33:30Z</time>
-    <name>Elisa b10519</name>
-    <desc>Grand espace avec chaises pour lire sortie du bourg direction duras</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Saint sernin, 07200 Saint sernin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.126056" lon="3.573298">
-    <time>2025-04-03T10:06:05Z</time>
-    <name>Victor b10509</name>
-    <desc>Située sous le lavoir du hameau et sur le chemin de randonnée robe de bure et cotte de maille gérée par episerm association pour l etude du patrimoine et de l'identité de saint-eble, reilhac, mazeyrat-d'allier</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Cizières, 43300 Mazeyrat d allier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.726677" lon="5.008032">
-    <time>2025-03-26T09:40:35Z</time>
-    <name>Kloé - clara - estelle b10501</name>
-    <desc>Boite à livres réalisé par les élèves de l atelier habitat. elle se situe dans la cour du collège revesz-long à proximité du foyer des élèves.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 chemin de revesz-long 26400 crest, 26400 Crest, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.026026" lon="4.653081">
-    <time>2025-02-26T09:37:05Z</time>
-    <name>Claude b10472</name>
-    <desc>Un peu encombrée , demanderait à être agrandie !</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 69640 Saint julien, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.526519" lon="4.376512">
-    <time>2025-02-21T09:44:39Z</time>
-    <name>Claire b b10471</name>
-    <desc>Chaises, bancs et transat double en bois pour lire au soleil et devant un joli paysage !</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>A côté de la statue de notre dame de chez nous, mont pailloux, 42570 St héand, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.569244" lon="6.155681">
-    <time>2025-02-13T11:07:08Z</time>
-    <name>Françoise b10468</name>
-    <desc>Contre une maison, en pleine ville</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>97 rue louis blanc pinget, 73250 Saint pierre d albigny, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.966572" lon="5.417755">
-    <time>2025-02-05T10:01:48Z</time>
-    <name>Sophie b10463</name>
-    <desc>A l entrée du jardin de l'hotel bellier :d</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Hotel bellier - rue du calvaire, 26420 La chapelle en vercors, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.255452" lon="3.113455">
-    <time>2025-02-03T09:41:52Z</time>
-    <name>Maryse b10456</name>
-    <desc>Ancienne cabine de téléphone</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 24240 Monestier, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.773614" lon="4.861731">
-    <time>2025-01-31T09:43:55Z</time>
-    <name>Audrey b10455</name>
-    <desc>Devant l école maternelle le caméléon</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>6 avenue dutrievoz, 69100 Villeurbanne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.773988" lon="4.864323">
-    <time>2025-01-31T09:43:46Z</time>
-    <name>Audrey b10454</name>
-    <desc>En haut de la rue, en allant vers les samouraïs</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue jacques brel,, 69100 Villeurbanne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.534662" lon="6.578537">
-    <time>2024-12-19T09:29:15Z</time>
-    <name>Françoise b10435</name>
-    <desc>Située sur le mur d une maison , bâtiment communal, face à l'église saint laurent</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place jean moulin, 73210 Montgirod, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.598418" lon="5.621981">
-    <time>2024-12-19T09:23:58Z</time>
-    <name>Caroline r b10434</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>480 route des champagnes, 38490 Aoste, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.776065" lon="4.825505">
-    <time>2024-12-11T10:22:54Z</time>
-    <name>Gentil b10424</name>
-    <desc>Jolie et vaste boîte à livres. bonne rotation des ouvrages, donc renouvellement régulier des documents.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue jaquard, espace piétons devant l?école primaire., 69004 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.525624" lon="5.253297">
-    <time>2024-12-11T10:22:40Z</time>
-    <name>Erasme b10423</name>
-    <desc>Armoire d?une belle contenance, d?où grand choix d?ouvrages.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place du village, à l?entrée de la salle des fêtes., 38300 Culin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.766049" lon="6.257286">
-    <time>2024-12-02T09:46:50Z</time>
-    <name>Thierry d. b10399</name>
-    <desc>Boite à lire et boite à dons situées dans l abribus à l'entrée du village de vesonne.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>287, route de montmin, d42, 74210 Faverges-seythenex, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.428254" lon="6.037862">
-    <time>2024-11-27T09:45:30Z</time>
-    <name>Labaj eric b10398</name>
-    <desc>Au pied de la mairie</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place roger durieux, 38530 Saint maximin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.692485" lon="4.709518">
-    <time>2024-11-27T09:45:14Z</time>
-    <name>Brigitte vitry b10397</name>
-    <desc>Abris bus en face de l ecole</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>B.vitry@wanadoo.fr, 07210 St lager bressac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.731093" lon="3.102918">
-    <time>2024-11-04T09:44:27Z</time>
-    <name>Flow b10369</name>
-    <desc>A droite de la mairie. une armoire à livres se trouve sous le porche reliant la cour aux anciens communs.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>20 avenue de la république, 63540 Romagnat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.784551" lon="3.286196">
-    <time>2024-10-29T09:43:30Z</time>
-    <name>Flow b10368</name>
-    <desc>En face du parking de la gare, à côté de l école de musique.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>16 avenue léon blum, 63910 Chignat commune de vertaizon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.186102" lon="4.734891">
-    <time>2024-10-28T09:55:10Z</time>
-    <name>Marie b10367</name>
-    <desc>Grande boîtes à livres étagères remplie de beaux livres elles se situe sur la place de l immeuble sous le porche bien à l abri</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place, 07290 Ardoix, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.124889" lon="4.984646">
-    <time>2024-10-28T09:54:57Z</time>
-    <name>Marie b10366</name>
-    <desc>Sur une place en haut des escaliers face a la pharmacie dans une cabine téléphonique beaucoup de livres, intéressant</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place du centre, 26260 Saint-donat sur herbasse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.956641" lon="6.388524">
-    <time>2024-10-28T09:54:47Z</time>
-    <name>Thierry d. b10365</name>
-    <desc>Boites à lire installées de chaque coté de l entrée de la bibliothèque</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route de la douane, d67, 74130 Entremont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.345296" lon="5.084752">
-    <time>2024-10-23T09:48:30Z</time>
-    <name>Marie b10361</name>
-    <desc>Boîte bien garni</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place, 26270 Saint-barthélemy de beaurepaire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.426442" lon="4.883074">
-    <time>2024-10-21T09:55:21Z</time>
-    <name>Marie b10360</name>
-    <desc>À côté de l abri de bus bien au sec grande boîte à livres de tout genres</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue principale, 38150 Vernioz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.799381" lon="3.245086">
-    <time>2024-10-15T09:44:07Z</time>
-    <name>Flow b10358</name>
-    <desc>A côté de l arrêt de bus.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>36 avenue roger coulon, 63430 Pont-du-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.789074" lon="3.238723">
-    <time>2024-10-15T09:43:58Z</time>
-    <name>Flow b10357</name>
-    <desc>Devant la salle le caméléon".</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>52 avenue de cournon, 63430 Pont-du-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.797126" lon="3.248429">
-    <time>2024-10-14T09:47:44Z</time>
-    <name>Julie b10352</name>
-    <desc>Près du portail de la mairie à droite comme si vous y rentrez boîte à livre grise en forme de maison</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Mairie, 63430 Pont-du-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.769136" lon="4.830148">
     <time>2017-04-20T13:11:45Z</time>
     <name>L'imagerie b1035</name>
@@ -15955,18 +15559,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Place sathonay, 69001 Lyon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.567979" lon="6.668574">
-    <time>2024-09-30T09:53:20Z</time>
-    <name>Françoise b10341</name>
-    <desc>Située au petit parking de l église saint laurent</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route départementale 86, 73210 La côte-d aime, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -15984,90 +15576,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.613538" lon="5.150093">
-    <time>2024-09-24T10:02:58Z</time>
-    <name>Martine mouly b10335</name>
-    <desc>Le frigo à lire est situé dans la maison pour tous florence artaud au quartier des fougères à villefontaine</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Martinemouly@sfr.fr, 38090 Villefontaine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.751781" lon="3.119059">
-    <time>2024-09-03T09:49:15Z</time>
-    <name>Flow b10314</name>
-    <desc>Un peu avant le collège.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 avenue charles de gaulle, 63170 Aubière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.44326" lon="6.648139">
-    <time>2024-12-19T09:28:36Z</time>
-    <name>Françoise b10289</name>
-    <desc>Située à coté du bassin, en contrebas de la chapelle</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route de la mine, 73350 Bozel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.624498" lon="3.229408">
-    <time>2024-08-13T09:47:38Z</time>
-    <name>Flow b10272</name>
-    <desc>Dans le petit square.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>8 rue de la poste, 63270 Parent, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.613042" lon="3.25466">
-    <time>2024-08-13T09:47:28Z</time>
-    <name>Flow b10271</name>
-    <desc>A yronde, juste avant rue de l amandier, à côté des places de parking.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place du pavé, 63270 Yronde-et-buron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.862044" lon="6.495376">
-    <time>2024-08-12T09:39:33Z</time>
-    <name>Thierry d. b10270</name>
-    <desc>Boite à lire située dans le chalet-abris à coté de l église.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 73590 La giettaz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.276283" lon="6.096452">
-    <time>2024-08-05T09:32:20Z</time>
-    <name>Huant grégoire b10246</name>
-    <desc>A coté du périscolaire de l école des bois</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>252 rue de béjoud, 01210 Ornex, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.769871" lon="5.191719">
     <time>2017-04-14T10:21:22Z</time>
     <name>Charlet b1023</name>
@@ -16075,138 +15583,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>Rue de la bourbre, 38230 Chavanoz, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.499983" lon="4.242043">
-    <time>2024-07-18T10:05:29Z</time>
-    <name>Claireb b10225</name>
-    <desc>Devant le petit casino.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place grenette, 42170 St just st rambert, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.317262" lon="4.76058">
-    <time>2024-07-18T10:05:07Z</time>
-    <name>Lony b10223</name>
-    <desc>Le lavoir rue des osches</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>320 rue des osches, 07340 Serrières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.892739" lon="5.164012">
-    <time>2024-07-18T10:04:58Z</time>
-    <name>Elodie b10222</name>
-    <desc>Dans le jardinet a coté de l eglise, sous un auvent</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>574 grande rue, 01800 Bourg st christophe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.317752" lon="4.770413">
-    <time>2024-07-11T09:28:57Z</time>
-    <name>Lony b10209</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place des mariniers, 38550 Sablons, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.91162" lon="5.191456">
-    <time>2024-07-04T10:08:31Z</time>
-    <name>Clément b10201</name>
-    <desc>Devant l entrée de l'école du menel</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Avenue docteur berthier, école du menel, 01800 Meximieux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.936635" lon="6.63196">
-    <time>2024-06-28T09:58:07Z</time>
-    <name>Nathalie b10197</name>
-    <desc>La boite bleue se trouve à côté de l entrée du parc de jeux de la mairie</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Quai de warens, 74700 Sallanches, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.948166" lon="6.641021">
-    <time>2024-06-28T09:57:24Z</time>
-    <name>Nathalie b10196</name>
-    <desc>La boite se trouve dans le sous bois derrière la plage, pas loin du poste de secours des maitres nageurs</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Ancienne route impériale - plage des ilettes, 74700 Sallanches, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.633899" lon="6.351911">
-    <time>2024-06-24T09:47:04Z</time>
-    <name>Françoise b10189</name>
-    <desc>Située dans l abri bus, au croisement de la rd925 et de la route de l'ancienne scierie, face au restaurant</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>6 rd925, 73460 Notre dame des millières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.623725" lon="6.339708">
-    <time>2024-06-24T09:46:56Z</time>
-    <name>Françoise b10188</name>
-    <desc>Située dans l abri bus, à coté du petit pont du ruisseau de fontaine claire, face au départ de la route de l'ebaudiaz</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rd 925, 73460 Notre dame des millières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.450626" lon="4.385943">
-    <time>2024-06-12T10:06:22Z</time>
-    <name>Claire b b10176</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Allée de condamine, 42000 St etienne - st victor sur loire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.548651" lon="3.356151">
-    <time>2024-06-03T10:01:29Z</time>
-    <name>Dav b10171</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 rue eugène gouby, 03400 Yzeure, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16224,162 +15600,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.010899" lon="5.884355">
-    <time>2024-06-03T09:59:59Z</time>
-    <name>Léa vignand b10169</name>
-    <desc>Dans l ancien pèse-lait d'etrables, en contrebas de la chapelle</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de la chapelle, 74270 Etrables, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.209198" lon="5.774604">
-    <time>2024-05-28T09:24:32Z</time>
-    <name>Dan b10165</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Centre commercial buclos, 03240 Meylan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.149744" lon="4.18128">
-    <time>2024-05-27T09:42:49Z</time>
-    <name>Riffaud b10162</name>
-    <desc>Boîte à l entrée extérieure de l'école</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>1088 route de la croix leigné, 42190 Chandon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.233595" lon="5.877485">
-    <time>2024-05-21T09:59:55Z</time>
-    <name>Poujois b10156</name>
-    <desc>Des livres et nous</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>1 ter rue guynemer, 38190 Villard bonnot, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.924557" lon="6.396543">
-    <time>2024-05-07T09:49:16Z</time>
-    <name>Thierry d. b10140</name>
-    <desc>Boîte à lire située sur le coté du petit cabanon à l intersection de la route du crêt et de la route de fromaget.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>1134 route du crêt, 74450 Saint-jean-de-sixt, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.618211" lon="6.451257">
-    <time>2024-05-07T09:49:01Z</time>
-    <name>Thierry d. b10139</name>
-    <desc>Boite à lire située dans l abribus à coté du terrain de tennis.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>3438 , rue paul girod, 73540 La bathie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.673769" lon="3.266183">
-    <time>2024-04-19T09:39:33Z</time>
-    <name>Flow b10111</name>
-    <desc>Dans une cabine téléphonique, à côté du monument aux morts, vers le cimetière.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>17 route de billom, 63270 Laps, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.735629" lon="3.139367">
-    <time>2024-04-19T09:39:19Z</time>
-    <name>Flow b10110</name>
-    <desc>Casiers métalliques avec un petit toit rouge, à droite des escaliers qui montent à la mairie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>2 rue albert thomas, 63170 Pérignat-lès-sarliève, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.750773" lon="3.100303">
-    <time>2024-04-18T09:41:49Z</time>
-    <name>Kateginger63 b10108</name>
-    <desc>Boite à lire annexe de la médiathèque, livres très récents, pour tous âges</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Esplanade de russi, 63110 Beaumont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.868281" lon="3.216998">
-    <time>2024-04-08T09:37:54Z</time>
-    <name>Flow b10093</name>
-    <desc>Devant l école. ce n'est pas la même que vers l'église.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>28 rue jules ferry, 63720 Chappes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.750937" lon="3.279595">
-    <time>2024-04-08T09:37:34Z</time>
-    <name>Flow b10092</name>
-    <desc>A côté de l église.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place lafayette, 63117 Chauriat, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.76523" lon="3.308293">
-    <time>2024-04-08T09:37:27Z</time>
-    <name>Flow b10091</name>
-    <desc>Entre rue des tilleuls et rue de l école.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place des tilleuls, 63910 Vassel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.79262" lon="3.252489">
-    <time>2024-04-08T09:37:19Z</time>
-    <name>Flow b10090</name>
-    <desc>Devant l école.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Chemin du moulin, 63430 Pont-du-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.074651" lon="5.66028">
     <time>2017-04-11T12:34:53Z</time>
     <name>Vival de st paul de varce b1009</name>
@@ -16392,229 +15612,1069 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.799979" lon="3.242076">
-    <time>2024-04-08T09:37:04Z</time>
-    <name>Flow b10089</name>
-    <desc>Dans le hall de l intermarché.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>9 rue roger prat, 63430 Pont-du-château, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.386161" lon="4.882373">
-    <time>2024-04-03T10:12:24Z</time>
-    <name>Baumann b10082</name>
-    <desc>À côté du stade sous hall centre social hauteur abri photovoltaïque</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Route de la chapelle, 38150 St romain de surieu, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.812522" lon="3.127783">
-    <time>2024-03-26T12:14:43Z</time>
-    <name>Caroline b10078</name>
+  <wpt lat="45.947536" lon="4.215038">
+    <time>2017-04-11T12:21:01Z</time>
+    <name>Vival de st symphorien de lay b999</name>
     <desc></desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>93 rue d'aulteribe, 63100 Clermont-ferrand, France</osmand:address>
+      <osmand:address>80 route nationale 7, 42470 St symphorien de lay  , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.321449" lon="4.614513">
-    <time>2024-03-25T11:27:41Z</time>
-    <name>Baumann b10075</name>
-    <desc>Sur la place face vival vers parc enfant dans un abri</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place du village, 42220 St julien molin molette, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.819362" lon="3.239683">
-    <time>2024-03-25T11:21:33Z</time>
-    <name>Flow b10073</name>
-    <desc>A cormède commune des martres d artière devant l aire de jeux.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>4 route sous les vignes, 63430 Cormède commune des martres d artière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.833655" lon="3.260071">
-    <time>2024-03-25T11:20:50Z</time>
-    <name>Flow b10072</name>
-    <desc>A côté de la mairie.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Place de l eglise, 63430 Les martres d artière, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.000858" lon="4.00469">
-    <time>2024-03-25T11:19:33Z</time>
-    <name>Gisele tallaron b10071</name>
-    <desc>Grand boite a livres , vers l?ancien salle polyvalente de lantriac , dans une ancienne cabine téléphonique</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Delaigue.gisele@neuf.fr, 43260 Lantriac, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.97027" lon="4.054055">
-    <time>2024-03-25T11:19:06Z</time>
-    <name>Gisele tallaron b10070</name>
-    <desc>Petite boîte a la livre a côté de l'église</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Delaigue.gisele@neuf.fr, 43150 Laussonne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.640359" lon="6.45091">
-    <time>2024-03-14T09:37:28Z</time>
-    <name>Françoise b10040</name>
-    <desc>Située dans l abri bus, sur la place centrale du village</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Village de biorges, 73540 La bathie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.050561" lon="5.050583">
-    <time>2024-03-14T09:37:18Z</time>
-    <name>Jc arnaud b10039</name>
-    <desc>Dans la cour de dynam et co</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>9 rue camille desmoulinsin, 26100 Romans-sur-isÈre, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.194286" lon="5.698263">
-    <time>2024-03-13T09:38:53Z</time>
-    <name>M b10037</name>
-    <desc>Boite à livre récemment ajoutée, au croisement de la rue charles michels et rue doyen gosse. boite faite en bois.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>14 rue charles michels, 38600 Fontaine, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.807561" lon="5.453378">
-    <time>2024-03-07T11:38:53Z</time>
-    <name>Maureen b10032</name>
-    <desc>Boîte à livre entre le vival et la boucherie</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>17 grande rue, 01470 Serrière de briord, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.860956" lon="4.941366">
-    <time>2024-03-04T16:49:32Z</time>
-    <name>Baumann b10027</name>
-    <desc>Belle boîte armoire à côté de l'école et du comité de jumelage</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue du 11 novembre 1918, 26760 Beaumont les valence, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.900778" lon="4.955594">
-    <time>2024-03-04T09:32:31Z</time>
-    <name>Baumann b10026</name>
-    <desc>Belle boîte armoire devant l?église</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Rue de l'église, 26120 Malissard, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.365344" lon="5.583454">
-    <time>2024-02-28T10:16:03Z</time>
-    <name>Stéphane dietz b10023</name>
-    <desc>Galerie du carrefour market du colombier</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>38 rue du general rambeaud,, 38500 Voiron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.366915" lon="5.592012">
-    <time>2024-02-28T10:15:53Z</time>
-    <name>Stephane b10022</name>
+  <wpt lat="45.831329" lon="4.012434">
+    <time>2017-04-11T12:14:32Z</time>
+    <name>Vival de st germain laval b996</name>
     <desc></desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>Place saint brono, 38500 Voiron, France</osmand:address>
+      <osmand:address>2 place de verdun, 42260 St germain laval, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.362713" lon="5.591349">
-    <time>2024-02-26T09:31:17Z</time>
-    <name>Stéphane dietz b10012</name>
+  <wpt lat="44.637101" lon="4.256799">
+    <time>2017-04-11T12:00:27Z</time>
+    <name>Vival de jaujac b991</name>
     <desc></desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>Stephane.dietz@live.fr, 38500 Voiron, France</osmand:address>
+      <osmand:address>Rue jean moulin, 07380 Jaujac, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.676183" lon="6.392432">
-    <time>2024-02-23T09:29:04Z</time>
-    <name>Françoise b10010</name>
-    <desc>Située dans le hall d entrée du dôme cinéma</desc>
+  <wpt lat="45.664205" lon="4.894479">
+    <time>2017-04-11T11:51:26Z</time>
+    <name>Vival de chaponnay b988</name>
+    <desc></desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>Place de l europe, 73200 Albertville, France</osmand:address>
+      <osmand:address>Place de charles de gaulle, 69970 Chaponnay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.549146" lon="3.737605">
-    <time>2024-02-22T09:50:45Z</time>
-    <name>Fournioux b10008</name>
-    <desc>Au 213 rue anna rodier à ambert</desc>
+  <wpt lat="44.485149" lon="5.385907">
+    <time>2017-04-11T11:46:15Z</time>
+    <name>Vival de la motte chalancon b986</name>
+    <desc>Dans le magasin vival casino</desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
-      <osmand:address>Francois.fournioux@ambertlivradoisforez.fr, 63600 Ambert, France</osmand:address>
+      <osmand:address>Route de die, 26470 La motte chalençon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.439827" lon="4.385191">
+    <time>2017-03-21T09:02:03Z</time>
+    <name>Le caveau stéphanois b899</name>
+    <desc>1er étage de la maison des associations</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>4 rue andré malraux, 42000 Saint-etienne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.767069" lon="4.832028">
+    <time>2018-04-30T10:36:25Z</time>
+    <name>405 b896</name>
+    <desc>Boite à lire dans le bar ! plus de 7000 livres partagés dans ce bar !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>9 rue constantine, 69001 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.91448" lon="2.440947">
+    <time>2019-06-24T16:34:44Z</time>
+    <name>Adrien b890</name>
+    <desc>La boite à lire se situe au rond point entre simply market et leclerc en face cash express.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>41 avenue des volontaires, 15000 Aurillac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.566117" lon="3.332915">
+    <time>2017-03-07T09:52:30Z</time>
+    <name>Alyne b884</name>
+    <desc>La boite à lire se situe en haut des marches, sur la gauche en regardant le bâtiment.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de l'hotel de ville, 03000 Moulins, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.590102" lon="4.318089">
+    <time>2017-02-28T09:51:53Z</time>
+    <name>Mel b860</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la devise, 42330 Saint galmier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.135771" lon="6.269115">
+    <time>2017-02-28T09:47:11Z</time>
+    <name>Deblon b859</name>
+    <desc>Petite boîte à livre en forme de petite maison sur un muret juste avant le tabac sur la grande rue.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Grande rue, 74930 Reignier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.593109" lon="4.31435">
+    <time>2017-02-28T09:38:06Z</time>
+    <name>Mel b853</name>
+    <desc>La boîte est située dans le parc de st galmier près de l aire de jeux pour enfants</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Avenue antoine ravel, 42330 Saint galmier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.587864" lon="5.316206">
+    <time>2017-02-23T17:11:49Z</time>
+    <name>Delphine b837</name>
+    <desc>Dans la cabine telephonique, à côté de l'église et de l'épicerie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de l'église, 38300 Meyrie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.19704" lon="6.69375">
+    <time>2017-02-23T10:39:10Z</time>
+    <name>L'épicerie morzine b823</name>
+    <desc>Association à but non lucratif pour le développement de l'agriculture biologique et de l'économie solidaire et participative. le local se situe derrière la mairie de montriond</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Chef lieu, 74110 Montriond, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.115285" lon="6.394302">
+    <time>2017-01-31T10:08:53Z</time>
+    <name>Laurent moccozet b792</name>
+    <desc>Cette boîte à lire fait partie des 11 boîtes à lire du réseau des bibliothèques idélire de la communauté de communes des 4 rivières. elle se trouve sur le mur de la mairie dans le chef-lieu du village.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Chef-lieu, 74250 Saint-jean de tholome, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.435221" lon="4.390765">
+    <time>2017-01-26T14:49:15Z</time>
+    <name>Sandy b788</name>
+    <desc>Dans le salon de coiffure 2 pièces + cuisine - coiffure et traditions</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>3 rue louis merley, 42000 Saint-etienne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.978259" lon="5.602999">
+    <time>2019-06-27T11:57:42Z</time>
+    <name>Terrien marilou b774</name>
+    <desc>Située dans le centre social et culturel les 7 lieux</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place du docteur rougy, 01110 Hauteville lompnes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.287963" lon="4.840941">
+    <time></time>
+    <name>Anne hilaire b745</name>
+    <desc>La boite à lire est placée dans le hall de la mairie. elle est accessible aux heures d'ouverture de la mairie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>28 place du champ de mars, 26790 Suze-la-rousse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.305979" lon="5.914446">
+    <time></time>
+    <name>Cemu b742</name>
+    <desc>Petit coffre devant l église</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue de l'eglise, 38660 Lumbin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.379834" lon="3.583308">
+    <time></time>
+    <name>Jean marc bercier b701</name>
+    <desc>A la station avia 24/24</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 route de lapalisse, 03220 Jaligny sur besbre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.383976" lon="4.726508">
+    <time></time>
+    <name>Dumoulin b696</name>
+    <desc>La boite à lire se trouve sur la place centrale du village prêt de la bibliothèque</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Le bourg, 42520 Malleval, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.749546" lon="4.888851">
+    <time></time>
+    <name>Marie france mar adamczewski b693</name>
+    <desc>Dans la mjc montchat</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>53 rue charles richard, 69003 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.795589" lon="4.9419">
+    <time></time>
+    <name>Perrin b679</name>
+    <desc>Dans le hall d entrée de la mairie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>10 chemin des Écoliers, 26800 Montoison, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.884637" lon="5.28392">
+    <time>2019-06-25T14:43:11Z</time>
+    <name>Thierry b675</name>
+    <desc>Dans le parc du château de chazey vers le panorama sur la rivière d'ain.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>143 rue du château, 01150 Chazey-sur-ain, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.358825" lon="5.956475">
+    <time></time>
+    <name>Corso b666</name>
+    <desc>Dans le hall du supermarché intermarché" sur la gauche. une bibliothèque de plusieurs étagères.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue des corvées, 38660 Le touvet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.672741" lon="6.378481">
+    <time></time>
+    <name>Vincent b648</name>
+    <desc>Financée par le lion's club de savoie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la croix de l'orme, 73200 Albertville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.672344" lon="6.386603">
+    <time></time>
+    <name>Vincent b647</name>
+    <desc>adresse : parc aubry code postal : 73200 ville : albertville commentaires : financée par le lion s club de savoie</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2 rue armand aubry , 73200 Alberville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.191946" lon="5.71688">
+    <time>2017-08-23T10:41:52Z</time>
+    <name>Corso b642</name>
+    <desc>(accessible qu'en période scolaire...) ancienne cabine téléphonique allemande transformée en boite à lire en face de l'entrée principale de l'iut2.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place doyen gosse, 38000 Grenoble, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.175298" lon="5.810459">
+    <time></time>
+    <name>Corso b641</name>
+    <desc>Près de la mairie à côté d'une meule en pierre. un placard de cuisine transformé en boite à lire.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>La chappe, 38610 Venon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.394094" lon="6.074708">
+    <time></time>
+    <name>Corso b640</name>
+    <desc>Près du cinéma sous le porche en bois</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue de bréda, 38580 Allevard, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.39354" lon="6.073989">
+    <time></time>
+    <name>Corso b639</name>
+    <desc>Sur la façade de l'office du tourisme.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>11 place de la résistance, 38580 Allevard, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.688075" lon="5.915223">
+    <time></time>
+    <name>Corso b638</name>
+    <desc>Près de l arrêt de bus hôtel de ville" côté parc floral des thermes une ancienne cabine téléphonique transformée en boite à lire.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Avenue lord revelstoke, 73100 Aix-les-bains, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.328522" lon="2.578587">
+    <time></time>
+    <name>Agrion b626</name>
+    <desc>Dans la mjc à côté de l accueil</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Avenue de fontbouillant, 03100 Montluçon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.307434" lon="5.103505">
+    <time></time>
+    <name>Aurore b621</name>
+    <desc>Elle se trouve sous le porche de la mairie</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route de viriville, 38270 Marcollin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.926822" lon="3.396184">
+    <time></time>
+    <name>b616</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Le bourg, 63350 Bulhon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.698938" lon="4.947071">
+    <time></time>
+    <name>Mehdi b614</name>
+    <desc>Boite à l intérieur de la galerie marchande de auchan.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Zac du champ du pont, 69800 Lyon saint priest, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.611357" lon="5.498364">
+    <time></time>
+    <name>Mairie de dolomieu b607</name>
+    <desc>La boite à lire se trouve juste devant la mairie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>10 place déodat, 38110 Dolomieu, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.167889" lon="5.694145">
+    <time></time>
+    <name>Nervesa b577</name>
+    <desc>Ancienne cabine téléphonique transformée en petite bibliothèque.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Avenue louis armand, 38180 Seyssins, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.53012" lon="4.911873">
+    <time></time>
+    <name>Carole b564</name>
+    <desc>Créé par la boutique blueberry</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>84 montée lucien magnat, 38780 Pont-evêque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.866748" lon="5.943846">
+    <time>2018-05-14T11:07:08Z</time>
+    <name>Julie b558</name>
+    <desc>Mis en place par et devant l'espace croisollet</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place croisollet, 74150 Rumilly, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.728487" lon="5.650361">
+    <time>2019-06-25T14:45:14Z</time>
+    <name>Dorel b516</name>
+    <desc>Derrière l église. livres très intéressants et en très bon état</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la mairie , 01300 Saint-germain-les-paroisses , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.780293" lon="4.836122">
+    <time></time>
+    <name>Fabienne p b473</name>
+    <desc>Une boite à livres nommée troc book a été installée à la croix-rousse fruit de la collaboration de plusieurs entrepreneurs. des livres pour tous les âges sont à votre disposition</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>11 rue richan, 69004 Lyon , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.75489" lon="4.812451">
+    <time></time>
+    <name>Guillaume sallé b437</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place saint irénée, 69005 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.727094" lon="4.586305">
+    <time></time>
+    <name>Aurore b423</name>
+    <desc>Petite boîte à lire bien fournie en livres pour enfants car elle est à côté de l école primaire pour adultes et en magazines.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route des mines, 07000 Saint priest, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.033026" lon="3.094862">
+    <time></time>
+    <name>Chirand b422</name>
+    <desc>Réalisées par les services techniques municipaux et en partenariat avec le lions club de saint-flour</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place des mets, 15100 Saint flour, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.111546" lon="4.731154">
+    <time></time>
+    <name>Sylvie b409</name>
+    <desc>Vers l école jean macé au quartier de la gare</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue jean macé, 69220 Belleville, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.386692" lon="4.752389">
+    <time></time>
+    <name>Pilat rhodanien b397</name>
+    <desc>La boite se trouve au coeur de l'espace détente entre la maison de la lÔne et le lac. elle est alimentée par les dons de la bibliothèque intercommunale le shed à pélussin</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>8 avenue du rhône , 42520 Saint pierre de boeuf, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.277035" lon="6.345694">
+    <time></time>
+    <name>Jo b381</name>
+    <desc>A proximité de l'office du tourisme</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la cathédrale, 73300 Saint jean de maurienne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.4036" lon="4.132091">
+    <time>2019-06-25T15:40:39Z</time>
+    <name>Abou b379</name>
+    <desc>Sur la place principale du bourg petite boite à lire simple et facile d accès.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la grave, 07140 Les vans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.56686" lon="5.919247">
+    <time></time>
+    <name>Anick-marie b378</name>
+    <desc>À l entrée du marché couvert halles de chambéry. opérée par les bénévoles de savoie récup</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de genève, 73000 Chambery, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.023849" lon="5.982161">
+    <time></time>
+    <name>Muriel b340</name>
+    <desc>Www.grainededahu.fr</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>429 route du chef lieu, 74270 Contamine sarzin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.922968" lon="2.437027">
+    <time></time>
+    <name>Tissandier b336</name>
+    <desc>Boite a lire située sur le trottoir au niveau de l école paul doumer</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>95 avenue de la république, 15000 Aurillac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.915697" lon="2.421091">
+    <time></time>
+    <name>Tissandier b335</name>
+    <desc>boîte située au niveau de l'aire de jeu de l'ecole ouverte de belbex</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>24 rue jacques prevert , 15000 Aurillac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.178189" lon="4.817008">
+    <time>2019-06-27T12:01:17Z</time>
+    <name>Hélène b331</name>
+    <desc>A côté de l arrêt de bus 114</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place des halles, 01140 Saint didier sur chalaronne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.490467" lon="4.449389">
+    <time></time>
+    <name>Isabelle b329</name>
+    <desc>Boite à lire installée par la mairie</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Parc de fraisse, 42290 Sorbiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.732187" lon="5.191312">
+    <time></time>
+    <name>Camille masson b296</name>
+    <desc>Micro-bibliothèque très sympa dans une rue toute en dos-d âne.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Lotissement du gambaud, 38230 Tignieu jameyzieu, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.443258" lon="4.980946">
+    <time></time>
+    <name>Muriel seauve b295</name>
+    <desc>La boîte à lire voyageurs de l'atelier-galerie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>22 rue des fontaines, 26770 Taulignan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.154251" lon="5.322066">
+    <time></time>
+    <name>Recycl'eco b289</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Grande rue, 38160 Saint marcellin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.755849" lon="4.797599">
+    <time>2017-01-16T12:27:23Z</time>
+    <name>Desartsonnants b286</name>
+    <desc>Boite à lire située à l'angle de la place benedict tessier.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place benedict tessier, 69005 Lyon , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.993484" lon="4.821119">
+    <time>2019-06-25T14:48:20Z</time>
+    <name>Bamaloo b277</name>
+    <desc>Elle est toute bleue toute belle.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>310 rue jean marie vianney, 01480 Ars-sur-formans, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.991471" lon="4.718821">
+    <time></time>
+    <name>Papapanique b269</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place des arts, 69400 Villefranche-sur-saône, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.6913" lon="4.948651">
+    <time></time>
+    <name>Fonds decitre b263</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue du 8 mai 1945, 69800 Saint-priest, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.91348" lon="6.147782">
+    <time>2019-11-13T12:35:04Z</time>
+    <name>Fonds decitre b262</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>14 rue des champs, 74940 Annecy-le-vieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.673999" lon="4.763318">
+    <time></time>
+    <name>Fonds decitre b261</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Avenue de la gare, 69530 Brignais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.559499" lon="4.725734">
+    <time></time>
+    <name>Anne b236</name>
+    <desc>Cachée derrière une rose trémière</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Vieille route du teil, 26200 Montélimar, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.163626" lon="3.432976">
+    <time>2019-08-09T10:40:06Z</time>
+    <name>Chantal b232</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de l'église , 03300 Cusset, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.881796" lon="6.322448">
+    <time></time>
+    <name>Cécile b225</name>
+    <desc>Librairie papeterie des aravis. sur la façade de la librairie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place avet, 74230  thônes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.191818" lon="6.224742">
+    <time></time>
+    <name>Culet b214</name>
+    <desc>Vous trouverez la boite à lire au carrefour.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Croix d'ambilly , 74100 Ambilly, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.845564" lon="5.620483">
+    <time></time>
+    <name>Val de beaulieu b208</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Hôtel de ville, 38930 Saint martin de clelles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.749946" lon="4.853853">
+    <time></time>
+    <name>Davy b153</name>
+    <desc>Boîte présente au dépôt imaginaire collectif de 12 éditeurs indépendants des imaginaires. accessible dans l'espace détente du dépôt. le surplus de livres est conservé dans un caisse qui une fois pleine est remise à des associations de réinsertion sociale.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>320 rue garibaldi, 69007 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.772353" lon="3.086883">
+    <time>2017-07-31T09:47:51Z</time>
+    <name>Pascal tarraire b143</name>
+    <desc>A l'angle du bd vercingetorix et du bd lafayette, juste à coté de ce que les clermontois appelent la "pyramide"</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Boulevard vercingetorix, 63000 Clermont-ferrand, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.779468" lon="4.878462">
+    <time></time>
+    <name>Cco b114</name>
+    <desc>Donnez une seconde vie à vos livres et déposez les au cco dans un frigo bibliothèque spécialement construit pour les accueillir.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>39 rue georges courteline, 69100 Villeurbanne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.743934" lon="4.792232">
+    <time></time>
+    <name>Céline f. b94</name>
+    <desc>Boîte à lire installée par la mairie construite par des élèves du collège de ste-foy-les-lyon.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Chemin des prés, 69110 Sainte foy les lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.736169" lon="4.800027">
+    <time></time>
+    <name>Céline f. b93</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue de cuzieu, 69110 Sainte-foy-lès-lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.744655" lon="4.796119">
+    <time></time>
+    <name>Vuaille b85</name>
+    <desc>Un large choix il y a même eu des livres de math !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Chemin du vallon, 69110 Sainte foy lès lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.741114" lon="4.803721">
+    <time></time>
+    <name>Céline f. b77</name>
+    <desc>Boîte à livres installée par la mairie et construite par les élèves du collège de la ville.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Parc marius bourrat, avenue maréchal foch, 69110 Sainte foy les lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.755409" lon="4.845039">
+    <time></time>
+    <name>Vincent c b74</name>
+    <desc>La boite à lire se trouve sur la devanture de l'atelier de recyclivre !</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>7 rue auguste lacroix, 69003 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.738088" lon="4.851914">
+    <time></time>
+    <name>Aleyxandra b50</name>
+    <desc>Il y a même une petite terrasse en bois pour les beaux jours.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>17 rue benoit bernard, 69008 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.467873" lon="4.840856">
+    <time></time>
+    <name>Jenny di girolamo b48</name>
+    <desc>La boite vient d'être installée dans le village.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>38121 Reventin-vaugris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.311555" lon="3.416765">
+    <time></time>
+    <name>Béa b43</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Grand place, 63270 Saint-maurice-es-allier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.737843" lon="4.851901">
+    <time></time>
+    <name>Bastien t. b21</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>100 route de vienne, 69008 Lyon 8ème, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.918151" lon="6.13116">
+    <time></time>
+    <name>Vincent g. b20</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Rue louis armand, 74000 Annecy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.765722" lon="4.777335">
+    <time></time>
+    <name>Vincent c. b19</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Gare d’ecully-la-demi-lune, 69160 Tassin-la-demi-lune, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.755085" lon="4.776726">
+    <time></time>
+    <name>Cédric c. b18</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Parc de l’etoile, 69160 Tassin-la-demi-lune, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.76134" lon="4.776814">
+    <time></time>
+    <name>Joris b. b17</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place hyppolite péragut , 69160 Tassin-la-demi-lune, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.708874" lon="4.853374">
+    <time></time>
+    <name>Marine t. b16</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Square matringe, 69190 St fons, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.72666" lon="4.857883">
+    <time></time>
+    <name>Fonds decitre b14</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>49 rue professeur roux, 69200 Vénissieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.698868" lon="4.884642">
+    <time></time>
+    <name>Fonds decitre b13</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la paix, 69200 Vénissieux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.760343" lon="4.771071">
+    <time></time>
+    <name>Recyclivre b12</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>35 avenue du 8 mai 1945, 69160 Tassin-la-demi-lune, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

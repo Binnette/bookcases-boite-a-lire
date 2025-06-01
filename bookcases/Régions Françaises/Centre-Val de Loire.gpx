@@ -1,5 +1,557 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.809228" lon="1.083087">
+    <time>2025-04-22T10:17:39Z</time>
+    <name>Ludina b10529</name>
+    <desc>La boîte est située sur le parking de la résidence soleil.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>8bis rue condorcet, 41100 Saint ouen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4093" lon="0.680757">
+    <time>2025-03-17T09:56:09Z</time>
+    <name>Guingambrésil b10488</name>
+    <desc>Au croisement de la rue des bordiers.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>1 avenue du mans, 37100 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.390797" lon="0.719281">
+    <time>2025-03-17T09:56:02Z</time>
+    <name>Guingambrésil b10487</name>
+    <desc>Au petit mail, devant l école maternelle république.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue henri barbusse, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.394937" lon="0.741653">
+    <time>2025-03-17T09:55:55Z</time>
+    <name>Guingambrésil b10486</name>
+    <desc>Devant l entrée du lycée martin nadaud.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>67 rue jeanne labrune, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.382436" lon="0.692344">
+    <time>2025-03-17T09:55:48Z</time>
+    <name>Guingambrésil b10485</name>
+    <desc>À l intérieur de la laverie my co'laverie</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>88 avenue de grammont, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.349996" lon="0.71633">
+    <time>2025-03-17T09:55:40Z</time>
+    <name>Guingambrésil b10484</name>
+    <desc>Devant l entrée du bâtiment t01 de l'hôpital trousseau.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue de la petite alouette, 37550 Saint-avertin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.355614" lon="0.693042">
+    <time>2025-03-17T09:55:31Z</time>
+    <name>Guingambrésil b10483</name>
+    <desc>Sur le parking de l espace alouette.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>18 rue de la croix porchette, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.348223" lon="0.618038">
+    <time>2025-01-02T09:43:46Z</time>
+    <name>Guingambrésil b10444</name>
+    <desc>À l intersection de la rue de l'adamine et du boulevard des prés.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>41 boulevard des prés, 37510 Ballan-miré, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.340528" lon="0.612213">
+    <time>2025-01-02T09:05:53Z</time>
+    <name>Guingambrésil b10443</name>
+    <desc>À l entrée de l'église.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place de l Église, 37510 Ballan-miré, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.340831" lon="0.614336">
+    <time>2025-01-02T09:05:40Z</time>
+    <name>Guingambrésil b10442</name>
+    <desc>Sur la clôture d un particulier.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>3 rue du général leclerc, 37510 Ballan-miré, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.346312" lon="0.662315">
+    <time>2025-01-02T09:05:05Z</time>
+    <name>Guingambrésil b10441</name>
+    <desc>Devant le centre social de la rabière.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue de la rotière, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.336197" lon="0.664613">
+    <time>2025-01-02T09:04:55Z</time>
+    <name>Guingambrésil b10440</name>
+    <desc>Devant la boulangerie maison nardeux.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>6 route de monts, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.354525" lon="0.664126">
+    <time>2025-01-02T09:04:32Z</time>
+    <name>Guingambrésil b10439</name>
+    <desc>À l intersection de la rue aristide briand, du boulevard gambetta et de l'avenue de la république, devant la cour de l'école république liberté.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Avenue de la république, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.356868" lon="0.663708">
+    <time>2025-01-02T09:04:20Z</time>
+    <name>Guingambrésil b10438</name>
+    <desc>Sur le parking du centre commercial de la grange.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place de la grange, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.388579" lon="0.688284">
+    <time>2025-01-02T09:04:00Z</time>
+    <name>Guingambrésil b10437</name>
+    <desc>Au passage du palais, au salon près de la cabine de photomaton.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>19 place jean jaurès, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.421485" lon="0.686307">
+    <time>2024-12-02T09:47:41Z</time>
+    <name>Guingambrésil b10404</name>
+    <desc>Près du jardin partagé des mille pattes</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue de calais, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.43175" lon="0.683323">
+    <time>2024-12-02T09:47:33Z</time>
+    <name>Guingambrésil b10403</name>
+    <desc>Devant la supérette coop nature.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>25 rue de hollande, 37100 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.434568" lon="0.701008">
+    <time>2024-12-02T09:47:26Z</time>
+    <name>Guingambrésil b10402</name>
+    <desc>À l intersection des rues max ernst et jacques brel.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue max ernst, 37100 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.412054" lon="0.685725">
+    <time>2024-12-02T09:47:17Z</time>
+    <name>Guingambrésil b10401</name>
+    <desc>Le long de la route.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>12 rue charles picart-ledoux, 37100 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.389768" lon="0.689173">
+    <time>2024-12-02T09:47:03Z</time>
+    <name>Guingambrésil b10400</name>
+    <desc>Boîte à dons en mauvais état sur le site de l iut jean luthier, près du bâtiment e.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>29 rue du pont levant, 37100 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.395821" lon="0.710799">
+    <time>2024-11-18T09:36:26Z</time>
+    <name>Guingambrésil b10388</name>
+    <desc>Sur l espace vert près du rond-point de l'avenue jean bonnin où se trouvent les hautes serres.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue marceau, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.773156" lon="1.101925">
+    <time>2024-11-13T21:09:14Z</time>
+    <name>Bertrand b10385</name>
+    <desc>Nouvelle boite à livre installé par la municipalité de vendôme à la demande des habitants</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>2 rue des ponts aux chevaux, 41100 Vendome, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.311241" lon="0.865747">
+    <time>2024-11-05T09:44:10Z</time>
+    <name>Pauline b10381</name>
+    <desc>Située au niveau du parking, à côté de l école et de la mairie.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>45 rue de chartres, 28400 Champrond-en-perchet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.302442" lon="0.929475">
+    <time>2024-11-05T09:44:03Z</time>
+    <name>Pauline b10380</name>
+    <desc>Située sur la place, proche de l église et de la mairie.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue saint-chéron, 28400 La gaudaine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.385026" lon="0.692017">
+    <time>2024-11-04T10:02:44Z</time>
+    <name>Guingambrésil b10377</name>
+    <desc>À l entrée du magasin coop nature, avec une boîte à dons.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>17 rue chalmel, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.389682" lon="0.675359">
+    <time>2024-11-04T10:02:35Z</time>
+    <name>Guingambrésil b10376</name>
+    <desc>Au milieu de la place.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place nicolas frumeaud, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.387237" lon="0.651552">
+    <time>2024-11-04T10:02:28Z</time>
+    <name>Guingambrésil b10375</name>
+    <desc>Deux boîtes au fond du parc du prieuré saint-cosme.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue ronsard, 37520 La riche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.388272" lon="0.658047">
+    <time>2024-11-04T10:02:20Z</time>
+    <name>Guingambrésil b10374</name>
+    <desc>À l entrée du centre social equinoxe.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place du maréchal leclerc, 37520 La riche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.315155" lon="2.253738">
+    <time>2024-09-26T11:05:25Z</time>
+    <name>Robfioriturbo b10336</name>
+    <desc>Dans le camping pour camping car, sur le bâtiment à gauche</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Le champs de l église, 18330 Neuvy-sur-barangeon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.585373" lon="1.037288">
+    <time>2024-09-02T09:58:44Z</time>
+    <name>De sagazan b10296</name>
+    <desc>Proche de la mairie et de l église</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>6 rue de touraine, 37110 Saint-nicolas-des-motets, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.903526" lon="1.46277">
+    <time>2024-09-02T09:58:34Z</time>
+    <name>De oinville b10295</name>
+    <desc>Devant le restaurant les acacias</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>17 place saint maurice, 41240 Binas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.738973" lon="0.954254">
+    <time>2024-08-05T09:35:58Z</time>
+    <name>Guingambrésil b10260</name>
+    <desc>Sur le chemin le long de l église.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place du 8 mai, 37290 Tournon-saint-pierre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.704782" lon="1.112047">
+    <time>2024-08-05T09:35:49Z</time>
+    <name>Guingambrésil b10259</name>
+    <desc>Dans l abribus à côté de la mairie.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 36300 Douadic, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.627884" lon="1.245169">
+    <time>2024-08-05T09:35:38Z</time>
+    <name>Guingambrésil b10258</name>
+    <desc>Le long de la voie verte.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue de l Église saint-georges, 36300 Ciron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.603563" lon="1.511722">
+    <time>2024-08-05T09:34:54Z</time>
+    <name>Guingambrésil b10255</name>
+    <desc>À côté de la maison des associations.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue jules ferry, 36200 Saint-marcel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.601102" lon="1.51405">
+    <time>2024-08-05T09:34:47Z</time>
+    <name>Guingambrésil b10254</name>
+    <desc>À l entrée du square.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Square du docteur jean roy, 36200 Saint-marcel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.529703" lon="1.589499">
+    <time>2024-08-05T09:34:35Z</time>
+    <name>Guingambrésil b10253</name>
+    <desc>À l intérieur de l'abribus de châtillon.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Châtillon, 36200 Badecon-le-pin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.580562" lon="1.990656">
+    <time>2024-08-05T09:34:15Z</time>
+    <name>Guingambrésil b10252</name>
+    <desc>À côté du local de la commune libre du p tit mur.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>2 rue du pont aux laies, 36400 La châtre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.583928" lon="1.987512">
+    <time>2024-08-05T09:34:07Z</time>
+    <name>Guingambrésil b10251</name>
+    <desc>Au square bernard naudin.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Rue fernand maillau, 36400 La châtre, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.602015" lon="1.979481">
+    <time>2024-08-05T09:34:00Z</time>
+    <name>Guingambrésil b10250</name>
+    <desc>Dans la cour de la mairie.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place de verdun, 36400 Montgivray, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.639376" lon="1.956329">
+    <time>2024-08-05T09:33:53Z</time>
+    <name>Guingambrésil b10249</name>
+    <desc>Trois boîtes disposées dans le parc de la maison de georges sand.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>2 place saint-anne, 36400 Nohant-vic, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.085227" lon="0.792168">
+    <time>2024-07-31T21:46:49Z</time>
+    <name>Guingambrésil b10238</name>
+    <desc>Je pense en avoir vu une au milieu de la place</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place jasnin, 37240 La chapelle-blanche-saint-martin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.525214" lon="1.689713">
+    <time>2024-07-08T09:53:46Z</time>
+    <name>Jessica b10207</name>
+    <desc>Sur le parking, devant la mairie</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>1 place du jeu de paume, 28320 Gallardon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.232411" lon="0.2523">
+    <time>2024-05-17T09:57:06Z</time>
+    <name>Guingambrésil b10154</name>
+    <desc>Sous le préau devant l école et derrière la mairie.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 37420 Huismes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.341484" lon="0.613477">
+    <time>2024-05-17T09:55:07Z</time>
+    <name>Didier koenig b10153</name>
+    <desc>Une boite à livres gérée par les amis de la bibliothèque et des voisins, installée sur le square du bicentenaire rue de la chevalerie</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Didier.koenig@mairie-ballan-mire.fr, BALLAN MIRE 37510, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.731347" lon="2.640229">
+    <time>2024-04-10T10:27:47Z</time>
+    <name>Christophe b10099</name>
+    <desc>Sous l auvent de l'entrée de l'épicerie, avec un banc pour lire sur place.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>1 rue neuve, 18210 Charenton-du-cher, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.922654" lon="1.914648">
     <time>2024-02-13T10:20:52Z</time>
     <name>Paul g b9992</name>
@@ -43,18 +595,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Place de l eglise, 18570 La chapelle-saint-ursin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.498439" lon="0.578855">
-    <time>2017-04-11T12:17:51Z</time>
-    <name>Vival de semblancay b997</name>
-    <desc></desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>1 rue des tilleuls, 37360 Semblançay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -468,18 +1008,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.547787" lon="0.883834">
-    <time>2017-03-22T14:57:14Z</time>
-    <name>Bérangère hoinard b902</name>
-    <desc>La boite se trouve devant l'école et la mairie.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue pasteur, 37110 Villedômer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.146667" lon="2.760249">
     <time>2022-07-11T10:02:28Z</time>
     <name>Florence b8968</name>
@@ -619,18 +1147,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Place de l Église, 37800 Ports-sur-vienne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.947643" lon="3.064864">
-    <time>2017-03-07T09:44:05Z</time>
-    <name>Manu b879</name>
-    <desc>La boite à lire se trouve au port du guétin à cuffy. proche de la halle nautique.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Le port, 18150 Cuffy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -924,18 +1440,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.393355" lon="0.675894">
-    <time></time>
-    <name>Neige b83</name>
-    <desc>Gérée par une association</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>48 rue george courteline, 37000 Tours, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.845333" lon="1.797561">
     <time>2021-11-08T16:13:12Z</time>
     <name>Ludivine b8283</name>
@@ -1080,18 +1584,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.379094" lon="0.710385">
-    <time></time>
-    <name>Mathilde b81</name>
-    <desc>Première boîte à lire de la ville de tours inaugurée en décembre 2015.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place raspail, 37000 Tours, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.646705" lon="1.531669">
     <time>2021-09-07T09:21:45Z</time>
     <name>Jean pierre martin b8061</name>
@@ -1147,18 +1639,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Avenue paul langevin, 36130 Deols, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.391141" lon="0.692322">
-    <time>2017-02-06T10:09:15Z</time>
-    <name>Aluchon b798</name>
-    <desc>Inaugurée le jeudi 2 février 2017</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Jardin velpeau, 37000 Tours, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1267,30 +1747,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Rue pierre de coubertin, 28300 Mainvilliers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.286984" lon="0.713777">
-    <time></time>
-    <name>Coudreau b78</name>
-    <desc>Livr'libre construction en matériaux recyclés.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Square des quatre saisons, 37250 Montbazon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.14611" lon="0.277697">
-    <time>2017-01-16T11:46:28Z</time>
-    <name>Annick verger b776</name>
-    <desc>La boite se trouve place ouégédo. ancien parcmetre recycle en petite bibliotheque de rue. prenez lisez deposez ! les livres sont en liberte !</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>14 rue des lavandières, 37500 Riviere, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1488,30 +1944,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.837017" lon="2.180612">
-    <time></time>
-    <name>Marie-odile thion b712</name>
-    <desc>La cabine du livre derrière l'école d'ouvrouer-les-champs.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue de bapeaume, 45150 Ouvrouer-les-champs, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.572352" lon="1.373275">
-    <time></time>
-    <name>Bérangère b71</name>
-    <desc>La boîte à livres se trouve dans la galerie du centre commercial d'auchan.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>99 rue pierre-gilles de gennes, 41350 Vineuil, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.728661" lon="1.02016">
     <time>2021-01-06T10:50:39Z</time>
     <name>Jerome ruel b7065</name>
@@ -1692,18 +2124,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.805363" lon="1.639708">
-    <time></time>
-    <name>Franck stenenot b673</name>
-    <desc>Disponible en terrasse 24h/24</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>80 av de l'occitanie, 36250 Saint maur, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.354343" lon="0.666559">
     <time>2020-09-11T15:49:44Z</time>
     <name>Mag b6709</name>
@@ -1752,18 +2172,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.210404" lon="1.166328">
-    <time></time>
-    <name>Aline b656</name>
-    <desc>Dans le passage sur la droite quand on entre de la rue de la chevalerie.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue de la chevalerie , 28160 Brou, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.535077" lon="1.481367">
     <time>2020-08-27T17:08:00Z</time>
     <name>Victoria b6555</name>
@@ -1807,18 +2215,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Place louis blériot, 41600 Chaumont sur tharonne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.527372" lon="0.461588">
-    <time></time>
-    <name>Hervé deniau b645</name>
-    <desc>Elle est juste a coté de l'entrée de la mairie coté droit de la porte.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>4 rue de la baratière, 37360 Sonzay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2028,18 +2424,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.564193" lon="2.304875">
-    <time></time>
-    <name>Au p tit bonheur b589</name>
-    <desc>La boite à lire est située au rond point devant le restaurant au p tit bonheur sur l'axe aubigny sur nère/ brinon sur sauldre.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>2 le rond point, 18410 Clemont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.051212" lon="2.654412">
     <time>2020-02-21T16:38:25Z</time>
     <name>Isabelle r. b5875</name>
@@ -2095,54 +2479,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>3 rue du réflessoir, 37150 Blere, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.620351" lon="2.492492">
-    <time></time>
-    <name>Catherine h b585</name>
-    <desc>Installée en juin 2016</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 45720 Coullons, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.285508" lon="2.578821">
-    <time></time>
-    <name>Catherine h b583</name>
-    <desc>Installée en octobre 2016</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Hameau de la borne, 18250 Henrichemont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.189696" lon="2.607213">
-    <time></time>
-    <name>Catherine h b582</name>
-    <desc>Installée en octobre 2016</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Route des aix d'angillon, 18250 Henrichemont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.445196" lon="1.488108">
-    <time></time>
-    <name>Corbellange b579</name>
-    <desc>Elle est située près de la banque en face du magasin de bonbons</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place marceau, 28000 Chartres, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2539,30 +2875,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Gare le blanc, 36300 Le blanc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.488779" lon="2.440923">
-    <time></time>
-    <name>Catherine h b493</name>
-    <desc>Installé en aout 2016 il en existe 2 sur la commune</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Square des dames ville, 18700 Aubigny sur nère, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.490226" lon="2.443626">
-    <time></time>
-    <name>Catherine h b492</name>
-    <desc>Installé en aout 2016 il y en a 2 sur la commune</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Les grands jardins, 18700 Aubigny sur nère, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3216,18 +3528,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.900555" lon="1.914295">
-    <time></time>
-    <name>Anita b407</name>
-    <desc>Sur la devanture de la recyclerie</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>106 rue de bourgogne, 45000 Orléans, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.369573" lon="0.684268">
     <time>2018-11-28T17:36:20Z</time>
     <name>Nicolas b4068</name>
@@ -3252,42 +3552,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.29917" lon="1.244902">
-    <time></time>
-    <name>Françoise trubert b40</name>
-    <desc></desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>5 rue henri germond, 28120 Illiers-combray, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.414543" lon="0.690837">
-    <time></time>
-    <name>Centre léo lagrange gentiana b393</name>
-    <desc>En accès libre toutes littératures</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>43 rue du pavillon, 37100 Tours, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.412447" lon="0.98831">
-    <time></time>
-    <name>Francoise trubert b391</name>
-    <desc></desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>15 rue victor hugo , 37400 Amboise, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.41205" lon="0.799266">
     <time>2018-10-23T17:17:49Z</time>
     <name>Aurélien b3909</name>
@@ -3300,18 +3564,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.412566" lon="0.98676">
-    <time></time>
-    <name>Francoise trubert b390</name>
-    <desc></desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>18 rue victor hugo  , 37400 Amboise, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.070227" lon="2.430837">
     <time>2018-10-22T10:22:51Z</time>
     <name>Isa the b3899</name>
@@ -3319,30 +3571,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Place du marché, 45340 Beaune la rolande, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.411951" lon="0.98967">
-    <time></time>
-    <name>Francoise trubert b389</name>
-    <desc>Armoire située à l angle de la rue victor hugo et de l'impasse du moulin. pas loin du clos lucé dernière résidence de léonard de vinci</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue victor hugo, 37400 Amboise, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.930344" lon="2.783905">
-    <time></time>
-    <name>G. jolivet b383</name>
-    <desc>La boîte est un libre-service annexe à la bibliothèque. a l'intérieur se trouve un choix pour enfants et pour adultes. les livres proviennent exclusivement de la bibliothèque et le service est géré par elle. infos sur bibliothequebourdelinoise.blogspot.com</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place du marché, 18350 Ourouer les bourdelins, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3415,18 +3643,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>École maternelle louis pergaud, 41100 Vendôme, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.409014" lon="0.993436">
-    <time></time>
-    <name>Tasnim aftab b376</name>
-    <desc>Près du château du clos luce</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue du clos luce, 37400 Amboise , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3684,18 +3900,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.228055" lon="0.48262">
-    <time></time>
-    <name>Wilena b338</name>
-    <desc>Boîte à lire située à la moitié de la rue.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue de jolivet, 37190 Villaines-les-rochers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.090389" lon="2.395395">
     <time>2019-07-23T12:15:11Z</time>
     <name>Fred b3370</name>
@@ -3708,18 +3912,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.499693" lon="0.581001">
-    <time></time>
-    <name>Wilena b337</name>
-    <desc>La boite se situe dans la cour de la mairie !</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>7 place jacques de beaune, 37360 Semblançay, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.874533" lon="1.904337">
     <time>2018-08-09T09:15:35Z</time>
     <name>Hautin b3352</name>
@@ -3727,18 +3919,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>437 avenue du loiret, 45160 Olivet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.619039" lon="1.569415">
-    <time></time>
-    <name>Claudine bourguignon b330</name>
-    <desc>La boite à lire se trouve en face du château à côté d un restaurant</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place du château, 28130 Maintenon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3763,18 +3943,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Gare de la loupe, 28240 La loupe, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.542652" lon="1.5907">
-    <time></time>
-    <name>Magali allouche b323</name>
-    <desc>Vers l'accès aux trains</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address> avenue de la gare, 28130 Maintenon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3996,6 +4164,18 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="47.391141" lon="0.692322">
+    <time>2018-06-15T10:28:12Z</time>
+    <name>Elodie feret b2957</name>
+    <desc>Une nouvelle boîte à lire à deux pas du vinci.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Jardin de la préfecture, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.128148" lon="1.000947">
     <time>2018-06-14T16:38:45Z</time>
     <name>Sophie 37600 b2953</name>
@@ -4104,18 +4284,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.259847" lon="2.222023">
-    <time></time>
-    <name>Jean b279</name>
-    <desc>Une grande boite à lire avec de nombreux livres pour tous les amateurs de lecture.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place de l'église, 18330 Vouzeron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.590453" lon="0.907669">
     <time>2018-05-21T09:22:03Z</time>
     <name>Shikisojin b2769</name>
@@ -4171,18 +4339,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Rue des écoles, 37110 Neuville-sur-brenne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.136941" lon="0.307397">
-    <time></time>
-    <name>Wilena b272</name>
-    <desc>Place de la mairie à côté de l'église dans un ancien parcmètre.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 37500 Saint-benoît-la-forêt, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4416,18 +4572,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.820262" lon="2.865334">
-    <time></time>
-    <name>Tafani b242</name>
-    <desc>Dans le parc de sculptures contemporaines 3 boites à lire sont à la disposition des visiteurs: thème principal écrits d'artistes poésie sculpture.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Jouy , 18600 Sancoins, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.77403" lon="1.630361">
     <time>2018-03-13T08:43:02Z</time>
     <name>Delanoche b2412</name>
@@ -4507,18 +4651,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Rue de la croix périe, 18200 La perche, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.24143" lon="2.596359">
-    <time></time>
-    <name>Annie julien b224</name>
-    <desc>Projet partagé au fil des pages" mis en place par des habitants de la commune.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>13 grande rue, 18220 Morogues, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4656,18 +4788,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.865046" lon="1.901457">
-    <time>2018-08-09T09:15:58Z</time>
-    <name>Gaëlle bonin b209</name>
-    <desc></desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place louis sallé, 45160 Olivet loiret, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.818363" lon="1.677787">
     <time>2018-01-02T09:52:14Z</time>
     <name>Maylis b2089</name>
@@ -4699,18 +4819,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Place madeleine renaud , 36000 Châteauroux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.722341" lon="1.941348">
-    <time></time>
-    <name>Delphine guichard b206</name>
-    <desc>Sur la place en face de la halle.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place de la halle, 45240 La ferté st aubin, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4992,18 +5100,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.29413" lon="0.355795">
-    <time></time>
-    <name>Céline b164</name>
-    <desc>J'ai mis cette boite en fonction avec l'aide de ma mairie car je peux faire partager ma passion et mon métier je suis libraire.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue des deportes, 37130 Brehemont, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.329863" lon="2.83524">
     <time>2017-09-11T16:55:50Z</time>
     <name>Barbouche b1609</name>
@@ -5172,18 +5268,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.404013" lon="0.600034">
-    <time></time>
-    <name>Laurence b139</name>
-    <desc>La boite se trouve au niveau de la place 11 novembre 1918 et de l'école gérard philipe.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place du 11 novembre 1918, 37230 Fondettes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.92414" lon="1.888477">
     <time>2017-07-31T17:34:22Z</time>
     <name>Bibounine b1388</name>
@@ -5280,30 +5364,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.399098" lon="0.667955">
-    <time></time>
-    <name>Emmanuelle b136</name>
-    <desc>La boite se trouve près des jeux enfants.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Parc de la perraudière , 37540 Saint-cyr-sur-loire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.402647" lon="0.670647">
-    <time></time>
-    <name>Emmanuelle b135</name>
-    <desc>Installée près du manoir de la tour.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>32 rue victor hugo, 37540 Saint-cyr-sur-loire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.534456" lon="1.805992">
     <time>2017-06-30T09:27:41Z</time>
     <name>Anita recyclivre b1222</name>
@@ -5311,18 +5371,6 @@
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
       <osmand:address>Place charles de gaulle , 41210 Neung sur beuvron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.165888" lon="0.24148">
-    <time></time>
-    <name>Bibliothèque de chinon b121</name>
-    <desc>Ancien parcmètre recyclé en petite bibliothèque de rue. prenez lisez déposez ! les livres sont en liberté !</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Rue rabelais, 37500 Chinon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5376,553 +5424,505 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.809228" lon="1.083087">
-    <time>2025-04-22T10:17:39Z</time>
-    <name>Ludina b10529</name>
-    <desc>La boîte est située sur le parking de la résidence soleil.</desc>
+  <wpt lat="47.498439" lon="0.578855">
+    <time>2017-04-11T12:17:51Z</time>
+    <name>Vival de semblancay b997</name>
+    <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>8bis rue condorcet, 41100 Saint ouen, France</osmand:address>
+      <osmand:address>1 rue des tilleuls, 37360 Semblançay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.4093" lon="0.680757">
-    <time>2025-03-17T09:56:09Z</time>
-    <name>Guingambrésil b10488</name>
-    <desc>Au croisement de la rue des bordiers.</desc>
+  <wpt lat="47.547787" lon="0.883834">
+    <time>2017-03-22T14:57:14Z</time>
+    <name>Bérangère hoinard b902</name>
+    <desc>La boite se trouve devant l'école et la mairie.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>1 avenue du mans, 37100 Tours, France</osmand:address>
+      <osmand:address>Rue pasteur, 37110 Villedômer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.390797" lon="0.719281">
-    <time>2025-03-17T09:56:02Z</time>
-    <name>Guingambrésil b10487</name>
-    <desc>Au petit mail, devant l école maternelle république.</desc>
+  <wpt lat="46.947643" lon="3.064864">
+    <time>2017-03-07T09:44:05Z</time>
+    <name>Manu b879</name>
+    <desc>La boite à lire se trouve au port du guétin à cuffy. proche de la halle nautique.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue henri barbusse, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:address>Le port, 18150 Cuffy, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.394937" lon="0.741653">
-    <time>2025-03-17T09:55:55Z</time>
-    <name>Guingambrésil b10486</name>
-    <desc>Devant l entrée du lycée martin nadaud.</desc>
+  <wpt lat="47.14611" lon="0.277697">
+    <time>2017-01-16T11:46:28Z</time>
+    <name>Annick verger b776</name>
+    <desc>La boite se trouve place ouégédo. ancien parcmetre recycle en petite bibliotheque de rue. prenez lisez deposez ! les livres sont en liberte !</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>67 rue jeanne labrune, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:address>14 rue des lavandières, 37500 Riviere, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.382436" lon="0.692344">
-    <time>2025-03-17T09:55:48Z</time>
-    <name>Guingambrésil b10485</name>
-    <desc>À l intérieur de la laverie my co'laverie</desc>
+  <wpt lat="47.837017" lon="2.180612">
+    <time></time>
+    <name>Marie-odile thion b712</name>
+    <desc>La cabine du livre derrière l'école d'ouvrouer-les-champs.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>88 avenue de grammont, 37000 Tours, France</osmand:address>
+      <osmand:address>Rue de bapeaume, 45150 Ouvrouer-les-champs, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.349996" lon="0.71633">
-    <time>2025-03-17T09:55:40Z</time>
-    <name>Guingambrésil b10484</name>
-    <desc>Devant l entrée du bâtiment t01 de l'hôpital trousseau.</desc>
+  <wpt lat="46.805363" lon="1.639708">
+    <time></time>
+    <name>Franck stenenot b673</name>
+    <desc>Disponible en terrasse 24h/24</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue de la petite alouette, 37550 Saint-avertin, France</osmand:address>
+      <osmand:address>80 av de l'occitanie, 36250 Saint maur, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.355614" lon="0.693042">
-    <time>2025-03-17T09:55:31Z</time>
-    <name>Guingambrésil b10483</name>
-    <desc>Sur le parking de l espace alouette.</desc>
+  <wpt lat="48.210404" lon="1.166328">
+    <time></time>
+    <name>Aline b656</name>
+    <desc>Dans le passage sur la droite quand on entre de la rue de la chevalerie.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>18 rue de la croix porchette, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:address>Rue de la chevalerie , 28160 Brou, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.348223" lon="0.618038">
-    <time>2025-01-02T09:43:46Z</time>
-    <name>Guingambrésil b10444</name>
-    <desc>À l intersection de la rue de l'adamine et du boulevard des prés.</desc>
+  <wpt lat="47.527372" lon="0.461588">
+    <time></time>
+    <name>Hervé deniau b645</name>
+    <desc>Elle est juste a coté de l'entrée de la mairie coté droit de la porte.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>41 boulevard des prés, 37510 Ballan-miré, France</osmand:address>
+      <osmand:address>4 rue de la baratière, 37360 Sonzay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.340528" lon="0.612213">
-    <time>2025-01-02T09:05:53Z</time>
-    <name>Guingambrésil b10443</name>
-    <desc>À l entrée de l'église.</desc>
+  <wpt lat="47.564193" lon="2.304875">
+    <time></time>
+    <name>Au p tit bonheur b589</name>
+    <desc>La boite à lire est située au rond point devant le restaurant au p tit bonheur sur l'axe aubigny sur nère/ brinon sur sauldre.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place de l Église, 37510 Ballan-miré, France</osmand:address>
+      <osmand:address>2 le rond point, 18410 Clemont, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.340831" lon="0.614336">
-    <time>2025-01-02T09:05:40Z</time>
-    <name>Guingambrésil b10442</name>
-    <desc>Sur la clôture d un particulier.</desc>
+  <wpt lat="47.620351" lon="2.492492">
+    <time></time>
+    <name>Catherine h b585</name>
+    <desc>Installée en juin 2016</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>3 rue du général leclerc, 37510 Ballan-miré, France</osmand:address>
+      <osmand:address>Place de la mairie, 45720 Coullons, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.346312" lon="0.662315">
-    <time>2025-01-02T09:05:05Z</time>
-    <name>Guingambrésil b10441</name>
-    <desc>Devant le centre social de la rabière.</desc>
+  <wpt lat="47.285508" lon="2.578821">
+    <time></time>
+    <name>Catherine h b583</name>
+    <desc>Installée en octobre 2016</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue de la rotière, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:address>Hameau de la borne, 18250 Henrichemont, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.336197" lon="0.664613">
-    <time>2025-01-02T09:04:55Z</time>
-    <name>Guingambrésil b10440</name>
-    <desc>Devant la boulangerie maison nardeux.</desc>
+  <wpt lat="47.189696" lon="2.607213">
+    <time></time>
+    <name>Catherine h b582</name>
+    <desc>Installée en octobre 2016</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>6 route de monts, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:address>Route des aix d'angillon, 18250 Henrichemont, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.354525" lon="0.664126">
-    <time>2025-01-02T09:04:32Z</time>
-    <name>Guingambrésil b10439</name>
-    <desc>À l intersection de la rue aristide briand, du boulevard gambetta et de l'avenue de la république, devant la cour de l'école république liberté.</desc>
+  <wpt lat="48.445196" lon="1.488108">
+    <time></time>
+    <name>Corbellange b579</name>
+    <desc>Elle est située près de la banque en face du magasin de bonbons</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Avenue de la république, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:address>Place marceau, 28000 Chartres, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.356868" lon="0.663708">
-    <time>2025-01-02T09:04:20Z</time>
-    <name>Guingambrésil b10438</name>
-    <desc>Sur le parking du centre commercial de la grange.</desc>
+  <wpt lat="47.488779" lon="2.440923">
+    <time></time>
+    <name>Catherine h b493</name>
+    <desc>Installé en aout 2016 il en existe 2 sur la commune</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place de la grange, 37300 Joué-les-tours, France</osmand:address>
+      <osmand:address>Square des dames ville, 18700 Aubigny sur nère, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.388579" lon="0.688284">
-    <time>2025-01-02T09:04:00Z</time>
-    <name>Guingambrésil b10437</name>
-    <desc>Au passage du palais, au salon près de la cabine de photomaton.</desc>
+  <wpt lat="47.490226" lon="2.443626">
+    <time></time>
+    <name>Catherine h b492</name>
+    <desc>Installé en aout 2016 il y en a 2 sur la commune</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>19 place jean jaurès, 37000 Tours, France</osmand:address>
+      <osmand:address>Les grands jardins, 18700 Aubigny sur nère, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.421485" lon="0.686307">
-    <time>2024-12-02T09:47:41Z</time>
-    <name>Guingambrésil b10404</name>
-    <desc>Près du jardin partagé des mille pattes</desc>
+  <wpt lat="47.900555" lon="1.914295">
+    <time></time>
+    <name>Anita b407</name>
+    <desc>Sur la devanture de la recyclerie</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue de calais, 37000 Tours, France</osmand:address>
+      <osmand:address>106 rue de bourgogne, 45000 Orléans, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.43175" lon="0.683323">
-    <time>2024-12-02T09:47:33Z</time>
-    <name>Guingambrésil b10403</name>
-    <desc>Devant la supérette coop nature.</desc>
+  <wpt lat="47.414543" lon="0.690837">
+    <time></time>
+    <name>Centre léo lagrange gentiana b393</name>
+    <desc>En accès libre toutes littératures</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>25 rue de hollande, 37100 Tours, France</osmand:address>
+      <osmand:address>43 rue du pavillon, 37100 Tours, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.434568" lon="0.701008">
-    <time>2024-12-02T09:47:26Z</time>
-    <name>Guingambrésil b10402</name>
-    <desc>À l intersection des rues max ernst et jacques brel.</desc>
+  <wpt lat="47.412447" lon="0.98831">
+    <time></time>
+    <name>Francoise trubert b391</name>
+    <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue max ernst, 37100 Tours, France</osmand:address>
+      <osmand:address>15 rue victor hugo , 37400 Amboise, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.412054" lon="0.685725">
-    <time>2024-12-02T09:47:17Z</time>
-    <name>Guingambrésil b10401</name>
-    <desc>Le long de la route.</desc>
+  <wpt lat="47.412566" lon="0.98676">
+    <time></time>
+    <name>Francoise trubert b390</name>
+    <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>12 rue charles picart-ledoux, 37100 Tours, France</osmand:address>
+      <osmand:address>18 rue victor hugo  , 37400 Amboise, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.389768" lon="0.689173">
-    <time>2024-12-02T09:47:03Z</time>
-    <name>Guingambrésil b10400</name>
-    <desc>Boîte à dons en mauvais état sur le site de l iut jean luthier, près du bâtiment e.</desc>
+  <wpt lat="47.411951" lon="0.98967">
+    <time></time>
+    <name>Francoise trubert b389</name>
+    <desc>Armoire située à l angle de la rue victor hugo et de l'impasse du moulin. pas loin du clos lucé dernière résidence de léonard de vinci</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>29 rue du pont levant, 37100 Tours, France</osmand:address>
+      <osmand:address>Rue victor hugo, 37400 Amboise, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.395821" lon="0.710799">
-    <time>2024-11-18T09:36:26Z</time>
-    <name>Guingambrésil b10388</name>
-    <desc>Sur l espace vert près du rond-point de l'avenue jean bonnin où se trouvent les hautes serres.</desc>
+  <wpt lat="46.930344" lon="2.783905">
+    <time></time>
+    <name>G. jolivet b383</name>
+    <desc>La boîte est un libre-service annexe à la bibliothèque. a l'intérieur se trouve un choix pour enfants et pour adultes. les livres proviennent exclusivement de la bibliothèque et le service est géré par elle. infos sur bibliothequebourdelinoise.blogspot.com</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue marceau, 37700 Saint-pierre-des-corps, France</osmand:address>
+      <osmand:address>Place du marché, 18350 Ourouer les bourdelins, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.773156" lon="1.101925">
-    <time>2024-11-13T21:09:14Z</time>
-    <name>Bertrand b10385</name>
-    <desc>Nouvelle boite à livre installé par la municipalité de vendôme à la demande des habitants</desc>
+  <wpt lat="47.409014" lon="0.993436">
+    <time></time>
+    <name>Tasnim aftab b376</name>
+    <desc>Près du château du clos luce</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>2 rue des ponts aux chevaux, 41100 Vendome, France</osmand:address>
+      <osmand:address>Rue du clos luce, 37400 Amboise , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.311241" lon="0.865747">
-    <time>2024-11-05T09:44:10Z</time>
-    <name>Pauline b10381</name>
-    <desc>Située au niveau du parking, à côté de l école et de la mairie.</desc>
+  <wpt lat="47.228055" lon="0.48262">
+    <time></time>
+    <name>Wilena b338</name>
+    <desc>Boîte à lire située à la moitié de la rue.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>45 rue de chartres, 28400 Champrond-en-perchet, France</osmand:address>
+      <osmand:address>Rue de jolivet, 37190 Villaines-les-rochers, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.302442" lon="0.929475">
-    <time>2024-11-05T09:44:03Z</time>
-    <name>Pauline b10380</name>
-    <desc>Située sur la place, proche de l église et de la mairie.</desc>
+  <wpt lat="47.499693" lon="0.581001">
+    <time></time>
+    <name>Wilena b337</name>
+    <desc>La boite se situe dans la cour de la mairie !</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue saint-chéron, 28400 La gaudaine, France</osmand:address>
+      <osmand:address>7 place jacques de beaune, 37360 Semblançay, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.385026" lon="0.692017">
-    <time>2024-11-04T10:02:44Z</time>
-    <name>Guingambrésil b10377</name>
-    <desc>À l entrée du magasin coop nature, avec une boîte à dons.</desc>
+  <wpt lat="48.619039" lon="1.569415">
+    <time></time>
+    <name>Claudine bourguignon b330</name>
+    <desc>La boite à lire se trouve en face du château à côté d un restaurant</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>17 rue chalmel, 37000 Tours, France</osmand:address>
+      <osmand:address>Place du château, 28130 Maintenon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.389682" lon="0.675359">
-    <time>2024-11-04T10:02:35Z</time>
-    <name>Guingambrésil b10376</name>
-    <desc>Au milieu de la place.</desc>
+  <wpt lat="48.542652" lon="1.5907">
+    <time></time>
+    <name>Magali allouche b323</name>
+    <desc>Vers l'accès aux trains</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place nicolas frumeaud, 37000 Tours, France</osmand:address>
+      <osmand:address> avenue de la gare, 28130 Maintenon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.387237" lon="0.651552">
-    <time>2024-11-04T10:02:28Z</time>
-    <name>Guingambrésil b10375</name>
-    <desc>Deux boîtes au fond du parc du prieuré saint-cosme.</desc>
+  <wpt lat="47.259847" lon="2.222023">
+    <time></time>
+    <name>Jean b279</name>
+    <desc>Une grande boite à lire avec de nombreux livres pour tous les amateurs de lecture.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue ronsard, 37520 La riche, France</osmand:address>
+      <osmand:address>Place de l'église, 18330 Vouzeron, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.388272" lon="0.658047">
-    <time>2024-11-04T10:02:20Z</time>
-    <name>Guingambrésil b10374</name>
-    <desc>À l entrée du centre social equinoxe.</desc>
+  <wpt lat="47.136941" lon="0.307397">
+    <time></time>
+    <name>Wilena b272</name>
+    <desc>Place de la mairie à côté de l'église dans un ancien parcmètre.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place du maréchal leclerc, 37520 La riche, France</osmand:address>
+      <osmand:address>Place de la mairie, 37500 Saint-benoît-la-forêt, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.315155" lon="2.253738">
-    <time>2024-09-26T11:05:25Z</time>
-    <name>Robfioriturbo b10336</name>
-    <desc>Dans le camping pour camping car, sur le bâtiment à gauche</desc>
+  <wpt lat="46.820262" lon="2.865334">
+    <time></time>
+    <name>Tafani b242</name>
+    <desc>Dans le parc de sculptures contemporaines 3 boites à lire sont à la disposition des visiteurs: thème principal écrits d'artistes poésie sculpture.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Le champs de l église, 18330 Neuvy-sur-barangeon, France</osmand:address>
+      <osmand:address>Jouy , 18600 Sancoins, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.585373" lon="1.037288">
-    <time>2024-09-02T09:58:44Z</time>
-    <name>De sagazan b10296</name>
-    <desc>Proche de la mairie et de l église</desc>
+  <wpt lat="47.24143" lon="2.596359">
+    <time></time>
+    <name>Annie julien b224</name>
+    <desc>Projet partagé au fil des pages" mis en place par des habitants de la commune.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>6 rue de touraine, 37110 Saint-nicolas-des-motets, France</osmand:address>
+      <osmand:address>13 grande rue, 18220 Morogues, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.903526" lon="1.46277">
-    <time>2024-09-02T09:58:34Z</time>
-    <name>De oinville b10295</name>
-    <desc>Devant le restaurant les acacias</desc>
+  <wpt lat="47.865046" lon="1.901457">
+    <time>2018-08-09T09:15:58Z</time>
+    <name>Gaëlle bonin b209</name>
+    <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>17 place saint maurice, 41240 Binas, France</osmand:address>
+      <osmand:address>Place louis sallé, 45160 Olivet loiret, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.738973" lon="0.954254">
-    <time>2024-08-05T09:35:58Z</time>
-    <name>Guingambrésil b10260</name>
-    <desc>Sur le chemin le long de l église.</desc>
+  <wpt lat="47.722341" lon="1.941348">
+    <time></time>
+    <name>Delphine guichard b206</name>
+    <desc>Sur la place en face de la halle.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place du 8 mai, 37290 Tournon-saint-pierre, France</osmand:address>
+      <osmand:address>Place de la halle, 45240 La ferté st aubin, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.704782" lon="1.112047">
-    <time>2024-08-05T09:35:49Z</time>
-    <name>Guingambrésil b10259</name>
-    <desc>Dans l abribus à côté de la mairie.</desc>
+  <wpt lat="47.29413" lon="0.355795">
+    <time></time>
+    <name>Céline b164</name>
+    <desc>J'ai mis cette boite en fonction avec l'aide de ma mairie car je peux faire partager ma passion et mon métier je suis libraire.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place de la mairie, 36300 Douadic, France</osmand:address>
+      <osmand:address>Rue des deportes, 37130 Brehemont, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.627884" lon="1.245169">
-    <time>2024-08-05T09:35:38Z</time>
-    <name>Guingambrésil b10258</name>
-    <desc>Le long de la voie verte.</desc>
+  <wpt lat="47.404013" lon="0.600034">
+    <time></time>
+    <name>Laurence b139</name>
+    <desc>La boite se trouve au niveau de la place 11 novembre 1918 et de l'école gérard philipe.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue de l Église saint-georges, 36300 Ciron, France</osmand:address>
+      <osmand:address>Place du 11 novembre 1918, 37230 Fondettes, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.603563" lon="1.511722">
-    <time>2024-08-05T09:34:54Z</time>
-    <name>Guingambrésil b10255</name>
-    <desc>À côté de la maison des associations.</desc>
+  <wpt lat="47.399098" lon="0.667955">
+    <time></time>
+    <name>Emmanuelle b136</name>
+    <desc>La boite se trouve près des jeux enfants.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue jules ferry, 36200 Saint-marcel, France</osmand:address>
+      <osmand:address>Parc de la perraudière , 37540 Saint-cyr-sur-loire, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.601102" lon="1.51405">
-    <time>2024-08-05T09:34:47Z</time>
-    <name>Guingambrésil b10254</name>
-    <desc>À l entrée du square.</desc>
+  <wpt lat="47.402647" lon="0.670647">
+    <time></time>
+    <name>Emmanuelle b135</name>
+    <desc>Installée près du manoir de la tour.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Square du docteur jean roy, 36200 Saint-marcel, France</osmand:address>
+      <osmand:address>32 rue victor hugo, 37540 Saint-cyr-sur-loire, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.529703" lon="1.589499">
-    <time>2024-08-05T09:34:35Z</time>
-    <name>Guingambrésil b10253</name>
-    <desc>À l intérieur de l'abribus de châtillon.</desc>
+  <wpt lat="47.165888" lon="0.24148">
+    <time></time>
+    <name>Bibliothèque de chinon b121</name>
+    <desc>Ancien parcmètre recyclé en petite bibliothèque de rue. prenez lisez déposez ! les livres sont en liberté !</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Châtillon, 36200 Badecon-le-pin, France</osmand:address>
+      <osmand:address>Rue rabelais, 37500 Chinon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.580562" lon="1.990656">
-    <time>2024-08-05T09:34:15Z</time>
-    <name>Guingambrésil b10252</name>
-    <desc>À côté du local de la commune libre du p tit mur.</desc>
+  <wpt lat="47.393355" lon="0.675894">
+    <time></time>
+    <name>Neige b83</name>
+    <desc>Gérée par une association</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>2 rue du pont aux laies, 36400 La châtre, France</osmand:address>
+      <osmand:address>48 rue george courteline, 37000 Tours, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.583928" lon="1.987512">
-    <time>2024-08-05T09:34:07Z</time>
-    <name>Guingambrésil b10251</name>
-    <desc>Au square bernard naudin.</desc>
+  <wpt lat="47.379094" lon="0.710385">
+    <time></time>
+    <name>Mathilde b81</name>
+    <desc>Première boîte à lire de la ville de tours inaugurée en décembre 2015.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Rue fernand maillau, 36400 La châtre, France</osmand:address>
+      <osmand:address>Place raspail, 37000 Tours, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.602015" lon="1.979481">
-    <time>2024-08-05T09:34:00Z</time>
-    <name>Guingambrésil b10250</name>
-    <desc>Dans la cour de la mairie.</desc>
+  <wpt lat="47.286984" lon="0.713777">
+    <time></time>
+    <name>Coudreau b78</name>
+    <desc>Livr'libre construction en matériaux recyclés.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place de verdun, 36400 Montgivray, France</osmand:address>
+      <osmand:address>Square des quatre saisons, 37250 Montbazon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.639376" lon="1.956329">
-    <time>2024-08-05T09:33:53Z</time>
-    <name>Guingambrésil b10249</name>
-    <desc>Trois boîtes disposées dans le parc de la maison de georges sand.</desc>
+  <wpt lat="47.572352" lon="1.373275">
+    <time></time>
+    <name>Bérangère b71</name>
+    <desc>La boîte à livres se trouve dans la galerie du centre commercial d'auchan.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>2 place saint-anne, 36400 Nohant-vic, France</osmand:address>
+      <osmand:address>99 rue pierre-gilles de gennes, 41350 Vineuil, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.085227" lon="0.792168">
-    <time>2024-07-31T21:46:49Z</time>
-    <name>Guingambrésil b10238</name>
-    <desc>Je pense en avoir vu une au milieu de la place</desc>
+  <wpt lat="48.29917" lon="1.244902">
+    <time></time>
+    <name>Françoise trubert b40</name>
+    <desc></desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Place jasnin, 37240 La chapelle-blanche-saint-martin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.525214" lon="1.689713">
-    <time>2024-07-08T09:53:46Z</time>
-    <name>Jessica b10207</name>
-    <desc>Sur le parking, devant la mairie</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>1 place du jeu de paume, 28320 Gallardon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.232411" lon="0.2523">
-    <time>2024-05-17T09:57:06Z</time>
-    <name>Guingambrésil b10154</name>
-    <desc>Sous le préau devant l école et derrière la mairie.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Place de la mairie, 37420 Huismes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.341484" lon="0.613477">
-    <time>2024-05-17T09:55:07Z</time>
-    <name>Didier koenig b10153</name>
-    <desc>Une boite à livres gérée par les amis de la bibliothèque et des voisins, installée sur le square du bicentenaire rue de la chevalerie</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>Didier.koenig@mairie-ballan-mire.fr, BALLAN MIRE 37510, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.731347" lon="2.640229">
-    <time>2024-04-10T10:27:47Z</time>
-    <name>Christophe b10099</name>
-    <desc>Sous l auvent de l'entrée de l'épicerie, avec un banc pour lire sur place.</desc>
-    <type>BoiteLire Centre-Val de Loire</type>
-    <extensions>
-      <osmand:address>1 rue neuve, 18210 Charenton-du-cher, France</osmand:address>
+      <osmand:address>5 rue henri germond, 28120 Illiers-combray, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

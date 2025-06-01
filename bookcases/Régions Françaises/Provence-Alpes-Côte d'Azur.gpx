@@ -1,5 +1,245 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.130159" lon="5.941404">
+    <time>2025-04-03T09:58:58Z</time>
+    <name>Gaëlle b10508</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>153 rue romain, 83000 Toulon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.790641" lon="7.23138">
+    <time>2024-07-31T21:47:02Z</time>
+    <name>Mairie de castagniers b10239</name>
+    <desc>Fabriquée par les jeunes de la maison des jeunes du sivom et régulièrement entretenue par tous, et chacun !</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>1 place de la mairie, 06670 Castagniers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.706521" lon="7.317308">
+    <time>2024-07-19T10:43:52Z</time>
+    <name>Miglino b10229</name>
+    <desc>En face du magasin d accessoires de plage</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Promenade des marinières, 06230 Villefranche sur mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.480941" lon="5.623955">
+    <time>2024-07-18T10:05:49Z</time>
+    <name>Frog b10227</name>
+    <desc>Boîte à livres entre le barbier et l opticien.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>283 av. louis alard, 13790 Rousset, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.967203" lon="6.667325">
+    <time>2024-06-24T09:46:24Z</time>
+    <name>Guingambrésil b10186</name>
+    <desc>À l intersection de la rue capone, de la rue du four et de la rue droite.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Rue capone, 04240 Annot, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.949621" lon="6.810624">
+    <time>2024-06-24T09:46:17Z</time>
+    <name>Guingambrésil b10185</name>
+    <desc>À l entrée de la cité fortifiée.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Rue de la porte royale, 04320 Entrevaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.879488" lon="5.660228">
+    <time>2024-05-28T09:24:06Z</time>
+    <name>Perez c b10164</name>
+    <desc>Petite boite à livre face à coté du bureau de poste</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Cours thierry d argenlieu, 04110 Reillanne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.592345" lon="5.488268">
+    <time>2024-04-30T09:36:39Z</time>
+    <name>Franck joseph bourgine b10120</name>
+    <desc>A saint -canadet, route d aix à droite de l'école.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>J.meder@aol.com, Venelles 13770, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.709702" lon="6.509205">
+    <time>2024-04-22T09:46:33Z</time>
+    <name>Entre garrigue et gardon b10113</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place de la fontaine, 30300 Comps, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.68953" lon="7.332984">
+    <time>2024-04-15T09:54:34Z</time>
+    <name>Lemaile b10103</name>
+    <desc>Le long d un mur en pierre côté mer</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>5 boulevard stanislas, 50530 Saint jean sur mer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.125084" lon="5.215222">
+    <time>2024-04-11T10:11:11Z</time>
+    <name>Passionné de boitesàlire b10102</name>
+    <desc>Une des plus belle de france ...</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Chemin de ronde, les baux, 84410 Bédoin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.514843" lon="4.987959">
+    <time>2024-04-05T09:22:18Z</time>
+    <name>Méryll b10088</name>
+    <desc>Devant istres temps libre Évasion</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>35 boulevard frédéric mistral, 13800 Istres, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.587642" lon="5.002322">
+    <time>2024-04-05T09:21:39Z</time>
+    <name>Méryll b10087</name>
+    <desc>Petite boîte sur le trottoir près du rond point.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>2 boulevard theodore aubanel, 13140 Miramas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.589369" lon="5.009517">
+    <time>2024-04-05T09:21:26Z</time>
+    <name>Méryll b10086</name>
+    <desc>Devant le restaurant les berges du lac</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Avenue daniel paul, 13140 Miramas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.580347" lon="5.000404">
+    <time>2024-04-05T09:21:16Z</time>
+    <name>Méryll b10085</name>
+    <desc>Petite boîte devant la mairie</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place jean jaurès, 13140 Miramas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.576025" lon="4.99803">
+    <time>2024-04-05T09:21:05Z</time>
+    <name>Méryll b10084</name>
+    <desc>Sur le trottoir en face carrefour market</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>4 boulevard jacques minet, 13140 Miramas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.700155" lon="7.277572">
+    <time>2024-03-25T11:18:00Z</time>
+    <name>Bilbo b10069</name>
+    <desc>Sous le porche à côté des toilettes</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Coulée verte, 06000 Nice, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.925525" lon="6.125701">
+    <time>2024-03-21T09:09:06Z</time>
+    <name>Nanou04 b10063</name>
+    <desc>Casier en fer lire son dedans</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Église, 04270 Bras d asse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.995786" lon="6.19573">
+    <time>2024-03-21T09:08:28Z</time>
+    <name>Nanou04 b10062</name>
+    <desc>Parking de la pharmacie boite a lire abri bus</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place victor arnaud, 04270 Mezel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.321046" lon="5.430093">
+    <time>2024-03-08T09:35:02Z</time>
+    <name>/// b10033</name>
+    <desc>Centre social bois lemaître</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Avenue roger salzmann, 13012 Marseille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.936175" lon="4.871981">
     <time>2024-02-12T09:33:56Z</time>
     <name>Isabelle b9988</name>
@@ -84,30 +324,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.120453" lon="6.069956">
-    <time>2017-04-11T12:01:33Z</time>
-    <name>Vival de la crau b992</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address> place maréchal leclerc, 83260 La crau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.559638" lon="6.079758">
-    <time>2019-06-25T15:18:36Z</time>
-    <name>Nicolas geiger b99</name>
-    <desc>Une ancienne cabine france télécom customisée par l équipe du fab'alpes.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>5 rue léon olphe-gaillard, 05000 Gap, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.312082" lon="5.369553">
     <time>2023-10-27T08:21:55Z</time>
     <name>Diop angie b9897</name>
@@ -156,18 +372,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.124653" lon="6.007177">
-    <time></time>
-    <name>Librairie l'atoll imaginaire b98</name>
-    <desc>Boîte à lire fabriquée et mise à disposition par la librairie.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>71 rue marc delage, 83130 La garde, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.009409" lon="5.916793">
     <time>2023-08-17T11:57:15Z</time>
     <name>La cabane à livres b9767</name>
@@ -199,18 +403,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>30 place de la république, 04150 Banon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.651596" lon="6.946479">
-    <time>2019-06-25T15:28:20Z</time>
-    <name>Virginie b97</name>
-    <desc>La boite à lire est située à l?entrée de la galerie marchande du centre leclerc. elle est installée par l'association "les passeurs de livres"</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>59 chemin de l'orme, 06130 Grasse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -504,18 +696,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.062226" lon="6.090943">
-    <time>2017-04-05T16:03:08Z</time>
-    <name>Citron aurélie b924</name>
-    <desc>Donnez, emportez, échangez!</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place du village, 04510 Mirabeau, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.459072" lon="5.467296">
     <time>2022-09-28T10:01:03Z</time>
     <name>Danny b9212</name>
@@ -535,18 +715,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>76 route de carpentras, 84260 Sarrians, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.702148" lon="7.274158">
-    <time>2017-03-28T09:52:53Z</time>
-    <name>Daulon b916</name>
-    <desc>C'est un bistrot qui faut bar à livres, on peut déposer les livres et en récupérer sans modération.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>23 rue delille, 06000 Nice, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -924,18 +1092,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.521045" lon="5.448439">
-    <time>2017-02-24T09:28:38Z</time>
-    <name>Agathe peyre b845</name>
-    <desc>Au centre du parc, sur le mur de pierre</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Parc jourdan, 13100 Aix-en-provence, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.649841" lon="6.793035">
     <time>2022-01-18T09:52:29Z</time>
     <name>M b8448</name>
@@ -943,18 +1099,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Sous porche entre place du marché place gal de gaulle et placette où pharmacie des ormeaux, 06530 Saint cézaire/siagne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.125125" lon="6.009018">
-    <time>2017-02-24T09:25:03Z</time>
-    <name>Gailhac b844</name>
-    <desc>Boite à lire existante depuis avril 2015 sous l'initiative de la librairie l'atoll imaginaire</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>160 rue vincent raspail, 83130 La garde, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1104,18 +1248,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.332203" lon="5.151908">
-    <time>2017-02-20T09:34:47Z</time>
-    <name>Annick b816</name>
-    <desc>La boite à lire se trouve dans l'espace fernandel et a été installée par le lions club de la cote bleue.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Avenue aristide briand, 13620 Carry le rouet, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.805018" lon="4.657628">
     <time>2021-09-27T11:44:28Z</time>
     <name>Anais b8158</name>
@@ -1135,18 +1267,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>La marelle, avenue du stade, 04600 Saint-auban, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.331994" lon="5.109974">
-    <time>2017-02-20T09:31:16Z</time>
-    <name>Marie-laure b815</name>
-    <desc>Boîte à lire installée par le lions club de la cote bleue</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Avenue de la gare , 13960 Sausset les pins, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1183,18 +1303,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>27 rue de la citadelle, 83140 Six-four-les-plages, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.381433" lon="6.302679">
-    <time>2017-02-10T17:35:37Z</time>
-    <name>Peggy amandolese b804</name>
-    <desc>Tous les jours des nouveautés, dans la galerie du centre commercial leclerc du luc !</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Route de toulon quartier la retrache , 83340 Le luc, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1596,30 +1704,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.534817" lon="5.826147">
-    <time>2017-01-12T09:52:54Z</time>
-    <name>Fabienne b763</name>
-    <desc>La boite à lire se trouve à l intérieur de la maison de services au public. c'est bien dommage qu'on ne puisse pas géolocaliser directement la boite via le site.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>42 rue jean jaurès , 05400 Veynes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.026169" lon="6.466329">
-    <time>2017-01-12T09:12:40Z</time>
-    <name>Gacon jean-yves b761</name>
-    <desc>Le cil et le syndicat d administration d'héliopolis ont installé depuis trois ans plusieurs boîtes à livres sur les chemins piétons d'héliopolis, village naturiste situé sur l'île du levant.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Héliopolis île du levant, 83400 Hyères les palmiers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.617422" lon="7.050012">
     <time>2021-06-07T10:37:35Z</time>
     <name>Bertrand camille b7603</name>
@@ -1752,18 +1836,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.717567" lon="5.309152">
-    <time></time>
-    <name>Benedicte comlaroque b731</name>
-    <desc>Juste à côté de l'office du tourisme on fait une pause lecture...</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Cours mal foch, 13640 La roque-d'anthéron, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.714213" lon="7.254955">
     <time>2021-03-09T14:21:33Z</time>
     <name>Elo b7305</name>
@@ -1783,18 +1855,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Mairie de valavoire - rue pied de ville, 04250 Valavoire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.713995" lon="5.309398">
-    <time></time>
-    <name>Benedicte comlaroque b729</name>
-    <desc>Belle boîte à lire très prisée sur le village décorée par l'artiste aconcha mise en place par l'association cacdl.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place de la vierge, 13640 La roque d'antheron, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2071,18 +2131,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Parking beaudoux, 13410 Lambesc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.557156" lon="6.00775">
-    <time></time>
-    <name>Véronique estellon b689</name>
-    <desc>Pour les petits et les grands.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place principale, 83670 Barjols, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2472,42 +2520,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.493109" lon="6.359819">
-    <time>2018-06-13T17:06:10Z</time>
-    <name>Lang b643</name>
-    <desc>La boîte à livres est située dans une ou deux anciennes cabines téléphoniques.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Boulevard de la république, 83510 Lorgues, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.55575" lon="7.023703">
-    <time>2019-06-25T15:30:20Z</time>
-    <name>Thibault annie b64</name>
-    <desc>J'y ai déjà déposé plusieurs livres qui sont partis très vite !</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place commandant maria, 06400 Cannes, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.385403" lon="4.805228">
-    <time></time>
-    <name>Jacqueline b634</name>
-    <desc>Dans le coquillage (structure métallique)</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>4 quai reybert, 13230 Port-saint-louis-du-rhône, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.68678" lon="7.123887">
     <time>2020-07-03T15:57:28Z</time>
     <name>Valerie rey b6326</name>
@@ -2580,18 +2592,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.197547" lon="5.802282">
-    <time></time>
-    <name>Consonne b623</name>
-    <desc>Centre ville près des impôts. une cagette sur un mur en face du toiletteur pour chien</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place du général de gaulle, 83330 Le beausset, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.585929" lon="7.119745">
     <time>2020-05-25T10:39:57Z</time>
     <name>Bene b6208</name>
@@ -2647,18 +2647,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Avenue pierre sémard, 84300 Cavaillon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.528099" lon="5.450324">
-    <time></time>
-    <name>Pauline b618</name>
-    <desc>La boite se trouve juste à côté du magasin maje près de la fontaine. c'est une petite boîte à lire mais à chaque fois que j'y suis passé il y a avait toujours quelques livres.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Rue marius reynaud, 13100 Aix-en-provence, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2928,18 +2916,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.299623" lon="5.386094">
-    <time></time>
-    <name>Zabou b570</name>
-    <desc>Une boite est accrochée au mur pour déposer ou prendre des livres.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>1 rue consolat, 13001 Marseille, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.096368" lon="4.883185">
     <time>2020-01-06T09:09:53Z</time>
     <name>Sandrine b5699</name>
@@ -2947,18 +2923,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Intersection entre boulevard de la république et chemin de la paix , au départ de la route qui va au cimetière, 84350 Courthezon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.297272" lon="5.380121">
-    <time></time>
-    <name>Zabou b569</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>La canebière, 13001 Marseille, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2983,18 +2947,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Aire de repos, 04220 Corbières, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.379005" lon="5.681046">
-    <time></time>
-    <name>Touati b565</name>
-    <desc>4 cours du 4 septembre sur la place et à côté de l'ancienne garderie les petits mousses.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Avenue baptistin meissel, 13390 Auriol, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3108,18 +3060,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.164839" lon="4.87402">
-    <time></time>
-    <name>Ville de camaret b548</name>
-    <desc>Mise en place par la mairie à la demande de l'association eclats de lire le jeudi 20 octobre 2016. bientôt une seconde boîte à livres parc abbé joseph persat.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place de l'eglise, 84850 Camaret-sur-aigues, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.795206" lon="7.283348">
     <time>2019-11-04T10:17:58Z</time>
     <name>Anne-sophie rozé b5472</name>
@@ -3180,18 +3120,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.214061" lon="5.631692">
-    <time></time>
-    <name>Muriel b540</name>
-    <desc>C'est la cabane à livres de ceyreste !</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place du général de gaulle, 13600 Ceyreste , France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.708958" lon="7.259599">
     <time>2019-10-15T09:54:34Z</time>
     <name>Pietro b5386</name>
@@ -3211,18 +3139,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Rue de l'hopital, 13680 Lancon provence, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.936966" lon="5.105601">
-    <time></time>
-    <name>Grand b528</name>
-    <desc>La boite se trouve dans la fontaine de saumane face au restaurant.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Rue de verdun, 84800 Saumane-de-vaucluse, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3403,30 +3319,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>190 cours gambetta, 84250 Le thor, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.846823" lon="6.222108">
-    <time>2019-06-25T15:14:28Z</time>
-    <name>Jacqueline lecugy b491</name>
-    <desc>Belle boite à lire transparente en altuglas très appréciée des touristes vacanciers campeurs etc. gérée par la bibliothèque municipale et l association l'oustaou dei libre</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Rue de la bourgade, 04360 Moustiers-sainte-marie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.951318" lon="4.808519">
-    <time></time>
-    <name>Brigitte b478</name>
-    <desc>Petite bibliothèque à l intérieur du cinéma utopia où chacun peut venir prendre ou déposer un livre</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>4 rue des escaliers sainte-anne, 84000 Avignon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -3792,18 +3684,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.288523" lon="5.359199">
-    <time></time>
-    <name>Paoli b413</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place du 4 septembre, 13007 Marseille, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.441148" lon="5.379567">
     <time>2018-12-11T10:39:38Z</time>
     <name>Yves provence b4105</name>
@@ -3912,18 +3792,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.056656" lon="5.127558">
-    <time></time>
-    <name>Sarah r. b37</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address> 4 rue saint nazaire, 84380 Mazan, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.230729" lon="4.986112">
     <time>2018-09-20T10:09:49Z</time>
     <name>Lions club de vaison-la-romaine b3699</name>
@@ -3960,18 +3828,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.833231" lon="5.781261">
-    <time>2019-06-25T15:10:31Z</time>
-    <name>Lubiette b368</name>
-    <desc>Devant le bar des boulomanes.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>34 rue elemir bourges, 04100 Manosque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.122543" lon="5.825035">
     <time>2018-09-14T16:09:52Z</time>
     <name>Boulair b3668</name>
@@ -3979,18 +3835,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Gare ollioules-sanary, 83110 Sanary sur mer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.53048" lon="5.261286">
-    <time></time>
-    <name>Marchasson b365</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>350 avenue paul cezanne, 13880 Velaux , France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4044,18 +3888,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.834773" lon="5.782824">
-    <time>2019-06-25T15:10:36Z</time>
-    <name>Lubiette b358</name>
-    <desc>Installée par la communauté de communes dlva</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place marcel pagnol, 04100 Manosque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.121975" lon="6.129357">
     <time>2018-08-29T17:20:16Z</time>
     <name>Aurélien b3570</name>
@@ -4068,30 +3900,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.832599" lon="5.783679">
-    <time>2019-06-25T15:10:42Z</time>
-    <name>Lubiette b357</name>
-    <desc>Devant l'église installée par la communauté de communes dlva</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place saint sauveur, 04100 Manosque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.83216" lon="5.784845">
-    <time>2019-06-25T15:10:49Z</time>
-    <name>Lubiette b356</name>
-    <desc>Près de la porte de la saunerie installée par la communauté de communes dlva</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Promenade joseph aubert millot, 04100 Manosque, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.116751" lon="5.143401">
     <time>2018-08-28T16:41:44Z</time>
     <name>Mairie crillon le brave b3557</name>
@@ -4099,18 +3907,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>1 impasse du camp de l arbonne, 84410 Crillon le brave, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.830699" lon="5.785528">
-    <time>2019-06-25T15:11:10Z</time>
-    <name>Lubiette b355</name>
-    <desc>En face de la poste installée par la communauté de communes dlva</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Rue du tribunal, 04100 Manosque, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4183,18 +3979,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Place du marché, 84410 Bedoin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.275017" lon="5.304357">
-    <time></time>
-    <name>Monique léger b326</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Île de frioul, 13007 Marseille, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4459,18 +4243,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>Poste de lambesc, 13410 Lambesc, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.951651" lon="4.817041">
-    <time></time>
-    <name>Nicolas b288</name>
-    <desc>Petite bibliothèque extérieure de la librairie "camili books et tea" anglophone en accès libre. attention les livres de cette boite à lire sont donc tous en anglais! un petit panneau indique qu'il est demandé de laisser un livre sur place lorsqu'on en emprunte un.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>155 rue carreterie, 84000 Avignon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4747,18 +4519,6 @@
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:address>32 boulevard louis brémond, 83136 Gareoult, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.28244" lon="5.430068">
-    <time></time>
-    <name>Sophie barbaux b231</name>
-    <desc>Joyeux troc livres créé par les rudologistes associés sophie barbaux et colas baillieul pour la mecs le mas joyeux en avril 2016. cette bibliothèque urbaine prolonge la convivialité l échange et le recyclage qui sont les bases du joyeux jardin où enfants et personnes âgées cultivent ensemble un joyeux potager.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>53 bd de saint-loup, 13010 Marseille, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -5364,18 +5124,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.130159" lon="5.941404">
-    <time>2025-04-03T09:58:58Z</time>
-    <name>Gaëlle b10508</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>153 rue romain, 83000 Toulon, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.641157" lon="7.142733">
     <time>2017-04-25T10:19:21Z</time>
     <name>Manue b1044</name>
@@ -5412,222 +5160,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.790641" lon="7.23138">
-    <time>2024-07-31T21:47:02Z</time>
-    <name>Mairie de castagniers b10239</name>
-    <desc>Fabriquée par les jeunes de la maison des jeunes du sivom et régulièrement entretenue par tous, et chacun !</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>1 place de la mairie, 06670 Castagniers, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.706521" lon="7.317308">
-    <time>2024-07-19T10:43:52Z</time>
-    <name>Miglino b10229</name>
-    <desc>En face du magasin d accessoires de plage</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Promenade des marinières, 06230 Villefranche sur mer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.480941" lon="5.623955">
-    <time>2024-07-18T10:05:49Z</time>
-    <name>Frog b10227</name>
-    <desc>Boîte à livres entre le barbier et l opticien.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>283 av. louis alard, 13790 Rousset, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.967203" lon="6.667325">
-    <time>2024-06-24T09:46:24Z</time>
-    <name>Guingambrésil b10186</name>
-    <desc>À l intersection de la rue capone, de la rue du four et de la rue droite.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Rue capone, 04240 Annot, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.949621" lon="6.810624">
-    <time>2024-06-24T09:46:17Z</time>
-    <name>Guingambrésil b10185</name>
-    <desc>À l entrée de la cité fortifiée.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Rue de la porte royale, 04320 Entrevaux, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.879488" lon="5.660228">
-    <time>2024-05-28T09:24:06Z</time>
-    <name>Perez c b10164</name>
-    <desc>Petite boite à livre face à coté du bureau de poste</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Cours thierry d argenlieu, 04110 Reillanne, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.592345" lon="5.488268">
-    <time>2024-04-30T09:36:39Z</time>
-    <name>Franck joseph bourgine b10120</name>
-    <desc>A saint -canadet, route d aix à droite de l'école.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>J.meder@aol.com, Venelles 13770, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.709702" lon="6.509205">
-    <time>2024-04-22T09:46:33Z</time>
-    <name>Entre garrigue et gardon b10113</name>
-    <desc></desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place de la fontaine, 30300 Comps, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.68953" lon="7.332984">
-    <time>2024-04-15T09:54:34Z</time>
-    <name>Lemaile b10103</name>
-    <desc>Le long d un mur en pierre côté mer</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>5 boulevard stanislas, 50530 Saint jean sur mer, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="44.125084" lon="5.215222">
-    <time>2024-04-11T10:11:11Z</time>
-    <name>Passionné de boitesàlire b10102</name>
-    <desc>Une des plus belle de france ...</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Chemin de ronde, les baux, 84410 Bédoin, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.514843" lon="4.987959">
-    <time>2024-04-05T09:22:18Z</time>
-    <name>Méryll b10088</name>
-    <desc>Devant istres temps libre Évasion</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>35 boulevard frédéric mistral, 13800 Istres, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.587642" lon="5.002322">
-    <time>2024-04-05T09:21:39Z</time>
-    <name>Méryll b10087</name>
-    <desc>Petite boîte sur le trottoir près du rond point.</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>2 boulevard theodore aubanel, 13140 Miramas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.589369" lon="5.009517">
-    <time>2024-04-05T09:21:26Z</time>
-    <name>Méryll b10086</name>
-    <desc>Devant le restaurant les berges du lac</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Avenue daniel paul, 13140 Miramas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.580347" lon="5.000404">
-    <time>2024-04-05T09:21:16Z</time>
-    <name>Méryll b10085</name>
-    <desc>Petite boîte devant la mairie</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place jean jaurès, 13140 Miramas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.576025" lon="4.99803">
-    <time>2024-04-05T09:21:05Z</time>
-    <name>Méryll b10084</name>
-    <desc>Sur le trottoir en face carrefour market</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>4 boulevard jacques minet, 13140 Miramas, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.700155" lon="7.277572">
-    <time>2024-03-25T11:18:00Z</time>
-    <name>Bilbo b10069</name>
-    <desc>Sous le porche à côté des toilettes</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Coulée verte, 06000 Nice, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.925525" lon="6.125701">
-    <time>2024-03-21T09:09:06Z</time>
-    <name>Nanou04 b10063</name>
-    <desc>Casier en fer lire son dedans</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Église, 04270 Bras d asse, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.995786" lon="6.19573">
-    <time>2024-03-21T09:08:28Z</time>
-    <name>Nanou04 b10062</name>
-    <desc>Parking de la pharmacie boite a lire abri bus</desc>
-    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:address>Place victor arnaud, 04270 Mezel, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.690307" lon="6.713736">
     <time>2017-04-11T12:29:33Z</time>
     <name>Vival de mons b1005</name>
@@ -5640,13 +5172,481 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.321046" lon="5.430093">
-    <time>2024-03-08T09:35:02Z</time>
-    <name>/// b10033</name>
-    <desc>Centre social bois lemaître</desc>
+  <wpt lat="43.120453" lon="6.069956">
+    <time>2017-04-11T12:01:33Z</time>
+    <name>Vival de la crau b992</name>
+    <desc></desc>
     <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
     <extensions>
-      <osmand:address>Avenue roger salzmann, 13012 Marseille, France</osmand:address>
+      <osmand:address> place maréchal leclerc, 83260 La crau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.062226" lon="6.090943">
+    <time>2017-04-05T16:03:08Z</time>
+    <name>Citron aurélie b924</name>
+    <desc>Donnez, emportez, échangez!</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place du village, 04510 Mirabeau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.702148" lon="7.274158">
+    <time>2017-03-28T09:52:53Z</time>
+    <name>Daulon b916</name>
+    <desc>C'est un bistrot qui faut bar à livres, on peut déposer les livres et en récupérer sans modération.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>23 rue delille, 06000 Nice, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.521045" lon="5.448439">
+    <time>2017-02-24T09:28:38Z</time>
+    <name>Agathe peyre b845</name>
+    <desc>Au centre du parc, sur le mur de pierre</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Parc jourdan, 13100 Aix-en-provence, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.125125" lon="6.009018">
+    <time>2017-02-24T09:25:03Z</time>
+    <name>Gailhac b844</name>
+    <desc>Boite à lire existante depuis avril 2015 sous l'initiative de la librairie l'atoll imaginaire</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>160 rue vincent raspail, 83130 La garde, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.332203" lon="5.151908">
+    <time>2017-02-20T09:34:47Z</time>
+    <name>Annick b816</name>
+    <desc>La boite à lire se trouve dans l'espace fernandel et a été installée par le lions club de la cote bleue.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Avenue aristide briand, 13620 Carry le rouet, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.331994" lon="5.109974">
+    <time>2017-02-20T09:31:16Z</time>
+    <name>Marie-laure b815</name>
+    <desc>Boîte à lire installée par le lions club de la cote bleue</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Avenue de la gare , 13960 Sausset les pins, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.381433" lon="6.302679">
+    <time>2017-02-10T17:35:37Z</time>
+    <name>Peggy amandolese b804</name>
+    <desc>Tous les jours des nouveautés, dans la galerie du centre commercial leclerc du luc !</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Route de toulon quartier la retrache , 83340 Le luc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.534817" lon="5.826147">
+    <time>2017-01-12T09:52:54Z</time>
+    <name>Fabienne b763</name>
+    <desc>La boite à lire se trouve à l intérieur de la maison de services au public. c'est bien dommage qu'on ne puisse pas géolocaliser directement la boite via le site.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>42 rue jean jaurès , 05400 Veynes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.026169" lon="6.466329">
+    <time>2017-01-12T09:12:40Z</time>
+    <name>Gacon jean-yves b761</name>
+    <desc>Le cil et le syndicat d administration d'héliopolis ont installé depuis trois ans plusieurs boîtes à livres sur les chemins piétons d'héliopolis, village naturiste situé sur l'île du levant.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Héliopolis île du levant, 83400 Hyères les palmiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.717567" lon="5.309152">
+    <time></time>
+    <name>Benedicte comlaroque b731</name>
+    <desc>Juste à côté de l'office du tourisme on fait une pause lecture...</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Cours mal foch, 13640 La roque-d'anthéron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.713995" lon="5.309398">
+    <time></time>
+    <name>Benedicte comlaroque b729</name>
+    <desc>Belle boîte à lire très prisée sur le village décorée par l'artiste aconcha mise en place par l'association cacdl.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place de la vierge, 13640 La roque d'antheron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.557156" lon="6.00775">
+    <time></time>
+    <name>Véronique estellon b689</name>
+    <desc>Pour les petits et les grands.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place principale, 83670 Barjols, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.493109" lon="6.359819">
+    <time>2018-06-13T17:06:10Z</time>
+    <name>Lang b643</name>
+    <desc>La boîte à livres est située dans une ou deux anciennes cabines téléphoniques.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Boulevard de la république, 83510 Lorgues, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.385403" lon="4.805228">
+    <time></time>
+    <name>Jacqueline b634</name>
+    <desc>Dans le coquillage (structure métallique)</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>4 quai reybert, 13230 Port-saint-louis-du-rhône, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.197547" lon="5.802282">
+    <time></time>
+    <name>Consonne b623</name>
+    <desc>Centre ville près des impôts. une cagette sur un mur en face du toiletteur pour chien</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place du général de gaulle, 83330 Le beausset, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.528099" lon="5.450324">
+    <time></time>
+    <name>Pauline b618</name>
+    <desc>La boite se trouve juste à côté du magasin maje près de la fontaine. c'est une petite boîte à lire mais à chaque fois que j'y suis passé il y a avait toujours quelques livres.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Rue marius reynaud, 13100 Aix-en-provence, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.299623" lon="5.386094">
+    <time></time>
+    <name>Zabou b570</name>
+    <desc>Une boite est accrochée au mur pour déposer ou prendre des livres.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>1 rue consolat, 13001 Marseille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.297272" lon="5.380121">
+    <time></time>
+    <name>Zabou b569</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>La canebière, 13001 Marseille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.379005" lon="5.681046">
+    <time></time>
+    <name>Touati b565</name>
+    <desc>4 cours du 4 septembre sur la place et à côté de l'ancienne garderie les petits mousses.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Avenue baptistin meissel, 13390 Auriol, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.164839" lon="4.87402">
+    <time></time>
+    <name>Ville de camaret b548</name>
+    <desc>Mise en place par la mairie à la demande de l'association eclats de lire le jeudi 20 octobre 2016. bientôt une seconde boîte à livres parc abbé joseph persat.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place de l'eglise, 84850 Camaret-sur-aigues, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.214061" lon="5.631692">
+    <time></time>
+    <name>Muriel b540</name>
+    <desc>C'est la cabane à livres de ceyreste !</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place du général de gaulle, 13600 Ceyreste , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.936966" lon="5.105601">
+    <time></time>
+    <name>Grand b528</name>
+    <desc>La boite se trouve dans la fontaine de saumane face au restaurant.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Rue de verdun, 84800 Saumane-de-vaucluse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.846823" lon="6.222108">
+    <time>2019-06-25T15:14:28Z</time>
+    <name>Jacqueline lecugy b491</name>
+    <desc>Belle boite à lire transparente en altuglas très appréciée des touristes vacanciers campeurs etc. gérée par la bibliothèque municipale et l association l'oustaou dei libre</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Rue de la bourgade, 04360 Moustiers-sainte-marie, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.951318" lon="4.808519">
+    <time></time>
+    <name>Brigitte b478</name>
+    <desc>Petite bibliothèque à l intérieur du cinéma utopia où chacun peut venir prendre ou déposer un livre</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>4 rue des escaliers sainte-anne, 84000 Avignon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.288523" lon="5.359199">
+    <time></time>
+    <name>Paoli b413</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place du 4 septembre, 13007 Marseille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.833231" lon="5.781261">
+    <time>2019-06-25T15:10:31Z</time>
+    <name>Lubiette b368</name>
+    <desc>Devant le bar des boulomanes.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>34 rue elemir bourges, 04100 Manosque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53048" lon="5.261286">
+    <time></time>
+    <name>Marchasson b365</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>350 avenue paul cezanne, 13880 Velaux , France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.834773" lon="5.782824">
+    <time>2019-06-25T15:10:36Z</time>
+    <name>Lubiette b358</name>
+    <desc>Installée par la communauté de communes dlva</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place marcel pagnol, 04100 Manosque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.832599" lon="5.783679">
+    <time>2019-06-25T15:10:42Z</time>
+    <name>Lubiette b357</name>
+    <desc>Devant l'église installée par la communauté de communes dlva</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place saint sauveur, 04100 Manosque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.83216" lon="5.784845">
+    <time>2019-06-25T15:10:49Z</time>
+    <name>Lubiette b356</name>
+    <desc>Près de la porte de la saunerie installée par la communauté de communes dlva</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Promenade joseph aubert millot, 04100 Manosque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.830699" lon="5.785528">
+    <time>2019-06-25T15:11:10Z</time>
+    <name>Lubiette b355</name>
+    <desc>En face de la poste installée par la communauté de communes dlva</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Rue du tribunal, 04100 Manosque, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.275017" lon="5.304357">
+    <time></time>
+    <name>Monique léger b326</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Île de frioul, 13007 Marseille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.951651" lon="4.817041">
+    <time></time>
+    <name>Nicolas b288</name>
+    <desc>Petite bibliothèque extérieure de la librairie "camili books et tea" anglophone en accès libre. attention les livres de cette boite à lire sont donc tous en anglais! un petit panneau indique qu'il est demandé de laisser un livre sur place lorsqu'on en emprunte un.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>155 rue carreterie, 84000 Avignon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.28244" lon="5.430068">
+    <time></time>
+    <name>Sophie barbaux b231</name>
+    <desc>Joyeux troc livres créé par les rudologistes associés sophie barbaux et colas baillieul pour la mecs le mas joyeux en avril 2016. cette bibliothèque urbaine prolonge la convivialité l échange et le recyclage qui sont les bases du joyeux jardin où enfants et personnes âgées cultivent ensemble un joyeux potager.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>53 bd de saint-loup, 13010 Marseille, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.559638" lon="6.079758">
+    <time>2019-06-25T15:18:36Z</time>
+    <name>Nicolas geiger b99</name>
+    <desc>Une ancienne cabine france télécom customisée par l équipe du fab'alpes.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>5 rue léon olphe-gaillard, 05000 Gap, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.124653" lon="6.007177">
+    <time></time>
+    <name>Librairie l'atoll imaginaire b98</name>
+    <desc>Boîte à lire fabriquée et mise à disposition par la librairie.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>71 rue marc delage, 83130 La garde, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.651596" lon="6.946479">
+    <time>2019-06-25T15:28:20Z</time>
+    <name>Virginie b97</name>
+    <desc>La boite à lire est située à l?entrée de la galerie marchande du centre leclerc. elle est installée par l'association "les passeurs de livres"</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>59 chemin de l'orme, 06130 Grasse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.55575" lon="7.023703">
+    <time>2019-06-25T15:30:20Z</time>
+    <name>Thibault annie b64</name>
+    <desc>J'y ai déjà déposé plusieurs livres qui sont partis très vite !</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Place commandant maria, 06400 Cannes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.056656" lon="5.127558">
+    <time></time>
+    <name>Sarah r. b37</name>
+    <desc></desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address> 4 rue saint nazaire, 84380 Mazan, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
