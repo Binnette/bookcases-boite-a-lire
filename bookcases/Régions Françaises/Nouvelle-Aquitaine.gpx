@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.926827" lon="0.385049">
+    <time>2025-06-30T09:38:24Z</time>
+    <name>Guingambrésil b10556</name>
+    <desc>Sous un abri sur la place.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue du champ brisset, 16450 Beaulieu-sur-sonnette, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.305504" lon="-0.766536">
+    <time>2025-06-17T09:52:17Z</time>
+    <name>Sylvain b10555</name>
+    <desc>La boite à lire copieusement fournie est situé dans une ancienne cabine téléphonique repeinte en rouge. elle se trouve en face du 16 rue de la carrère.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>16 rue de la carrère, 64190 Narp, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.561284" lon="0.312346">
+    <time>2025-06-16T10:21:56Z</time>
+    <name>Guingambrésil b10554</name>
+    <desc>Au foyer de l institut d'administration des entreprises.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>20 rue guillaume le troubador, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.331721" lon="0.215914">
+    <time>2025-06-10T09:39:59Z</time>
+    <name>Martine b10553</name>
+    <desc></desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>La repoussardière, 86700 Payré, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.257983" lon="0.799867">
+    <time>2025-06-02T09:57:14Z</time>
+    <name>Guingambrésil b10549</name>
+    <desc>À côté de l abribus.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des tilleuls, 86430 Adriers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.825292" lon="0.10548">
     <time>2025-05-05T10:04:45Z</time>
     <name>Guingambrésil b10539</name>

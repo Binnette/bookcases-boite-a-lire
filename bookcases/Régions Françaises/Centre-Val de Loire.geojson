@@ -5008,7 +5008,7 @@
       "properties": {
         "id": 6308,
         "nom": "Julie turgot",
-        "adresse": "Supermarché cora les coralines",
+        "adresse": "Supermarché carrefour les coralines",
         "code_postal": "28100",
         "ville": "Dreux",
         "pays": "France",
@@ -5016,11 +5016,11 @@
         "email": "",
         "image": "boitealire_0.png",
         "image_admin": null,
-        "remarque": "Dans la galerie du supermarché cora. près des caisses à gauche du coiffeur.",
+        "remarque": "Dans la galerie du supermarché carrefour. près des caisses à gauche du coiffeur.",
         "coord_gps": "48.7489674, 1.345414",
         "affichage": 1,
         "date_created": "2020-07-03 15:48:19",
-        "date_updated": "2020-07-03 15:48:19"
+        "date_updated": "2025-06-25 08:45:03"
       }
     },
     {

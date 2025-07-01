@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.323267" lon="6.339498">
+    <time>2025-06-03T09:21:20Z</time>
+    <name>Thierry d. b10552</name>
+    <desc>Boite a lire située dans l abris bus à coté des containers de recyclage dans le hameau le noiret.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1370 route de montpascal, 73300 Montvernier, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.343776" lon="6.355755">
+    <time>2025-06-03T09:21:13Z</time>
+    <name>Thierry d. b10551</name>
+    <desc>Boite a lire située devant l entrée de la maison communale dans le hameau de pontamafray-montpascal.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route du col de chaussy, pontamafrey-montpascal, 73300 La-tour-en-maurienne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.922695" lon="6.062585">
+    <time>2025-06-03T09:21:04Z</time>
+    <name>Thierry d. b10550</name>
+    <desc>La boite a lire est située sur le coté du salon de coiffure.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>69 place de l église, 74330 Poisy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.055088" lon="5.671672">
     <time>2025-05-12T09:22:36Z</time>
     <name>Cathy p b10544</name>

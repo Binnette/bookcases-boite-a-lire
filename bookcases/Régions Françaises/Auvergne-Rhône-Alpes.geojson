@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.339498,
+          45.323267
+        ]
+      },
+      "properties": {
+        "id": 10552,
+        "nom": "Thierry d.",
+        "adresse": "1370 route de montpascal",
+        "code_postal": "73300",
+        "ville": "Montvernier",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite a lire située dans l abris bus à coté des containers de recyclage dans le hameau le noiret.",
+        "coord_gps": "45.323267, 6.339498499999999",
+        "affichage": 1,
+        "date_created": "2025-06-03 09:21:20",
+        "date_updated": "2025-06-03 09:21:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.355755,
+          45.343776
+        ]
+      },
+      "properties": {
+        "id": 10551,
+        "nom": "Thierry d.",
+        "adresse": "Route du col de chaussy, pontamafrey-montpascal",
+        "code_postal": "73300",
+        "ville": "La-tour-en-maurienne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite a lire située devant l entrée de la maison communale dans le hameau de pontamafray-montpascal.",
+        "coord_gps": "45.343776, 6.355755",
+        "affichage": 1,
+        "date_created": "2025-06-03 09:21:13",
+        "date_updated": "2025-06-03 09:21:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.062585,
+          45.922695
+        ]
+      },
+      "properties": {
+        "id": 10550,
+        "nom": "Thierry d.",
+        "adresse": "69 place de l église",
+        "code_postal": "74330",
+        "ville": "Poisy",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boite a lire est située sur le coté du salon de coiffure.",
+        "coord_gps": "45.9226949, 6.062585299999999",
+        "affichage": 1,
+        "date_created": "2025-06-03 09:21:04",
+        "date_updated": "2025-06-03 09:21:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.671672,
           45.055088
         ]

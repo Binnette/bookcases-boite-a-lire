@@ -6,6 +6,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.385049,
+          45.926827
+        ]
+      },
+      "properties": {
+        "id": 10556,
+        "nom": "Guingambrésil",
+        "adresse": "Rue du champ brisset",
+        "code_postal": "16450",
+        "ville": "Beaulieu-sur-sonnette",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous un abri sur la place.",
+        "coord_gps": "45.9268273, 0.3850493",
+        "affichage": 1,
+        "date_created": "2025-06-30 09:38:24",
+        "date_updated": "2025-06-30 09:38:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.766536,
+          43.305504
+        ]
+      },
+      "properties": {
+        "id": 10555,
+        "nom": "Sylvain",
+        "adresse": "16 rue de la carrère",
+        "code_postal": "64190",
+        "ville": "Narp",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boite à lire copieusement fournie est situé dans une ancienne cabine téléphonique repeinte en rouge. elle se trouve en face du 16 rue de la carrère.",
+        "coord_gps": "43.3055043, -0.7665362",
+        "affichage": 1,
+        "date_created": "2025-06-17 09:52:17",
+        "date_updated": "2025-06-17 09:52:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.312346,
+          46.561284
+        ]
+      },
+      "properties": {
+        "id": 10554,
+        "nom": "Guingambrésil",
+        "adresse": "20 rue guillaume le troubador",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au foyer de l institut d'administration des entreprises.",
+        "coord_gps": "46.5612842, 0.312346",
+        "affichage": 1,
+        "date_created": "2025-06-16 10:21:56",
+        "date_updated": "2025-06-16 10:21:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.215914,
+          46.331721
+        ]
+      },
+      "properties": {
+        "id": 10553,
+        "nom": "Martine",
+        "adresse": "La repoussardière",
+        "code_postal": "86700",
+        "ville": "Payré",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "46.331721, 0.215914",
+        "affichage": 1,
+        "date_created": "2025-06-10 09:39:59",
+        "date_updated": "2025-06-10 09:39:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.799867,
+          46.257983
+        ]
+      },
+      "properties": {
+        "id": 10549,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des tilleuls",
+        "code_postal": "86430",
+        "ville": "Adriers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À côté de l abribus.",
+        "coord_gps": "46.2579833, 0.7998669",
+        "affichage": 1,
+        "date_created": "2025-06-02 09:57:14",
+        "date_updated": "2025-06-02 09:57:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.10548,
           45.825292
         ]

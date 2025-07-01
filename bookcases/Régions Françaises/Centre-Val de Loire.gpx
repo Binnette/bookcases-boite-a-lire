@@ -2221,12 +2221,12 @@
     </extensions>
   </wpt>
   <wpt lat="48.748967" lon="1.345414">
-    <time>2020-07-03T15:48:19Z</time>
+    <time>2025-06-25T08:45:03Z</time>
     <name>Julie turgot b6308</name>
-    <desc>Dans la galerie du supermarché cora. près des caisses à gauche du coiffeur.</desc>
+    <desc>Dans la galerie du supermarché carrefour. près des caisses à gauche du coiffeur.</desc>
     <type>BoiteLire Centre-Val de Loire</type>
     <extensions>
-      <osmand:address>Supermarché cora les coralines, 28100 Dreux, France</osmand:address>
+      <osmand:address>Supermarché carrefour les coralines, 28100 Dreux, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
