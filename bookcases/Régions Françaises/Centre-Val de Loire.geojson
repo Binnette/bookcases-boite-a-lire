@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.350253,
+          48.079853
+        ]
+      },
+      "properties": {
+        "id": 10557,
+        "nom": "Forton",
+        "adresse": "1 rue anatole france",
+        "code_postal": "28200",
+        "ville": "Châteaudun",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Résidence habitat jeunes charles brennus",
+        "coord_gps": "48.0798531, 1.3502525",
+        "affichage": 1,
+        "date_created": "2025-07-16 10:30:20",
+        "date_updated": "2025-07-16 10:30:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.083087,
           47.809228
         ]

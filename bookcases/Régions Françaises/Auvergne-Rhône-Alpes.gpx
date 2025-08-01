@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.995141" lon="2.160806">
+    <time>2025-07-23T09:49:29Z</time>
+    <name>Boissieres b10571</name>
+    <desc>Une boite à lire vient d être installée sous le porche du trait d union maison fraysse. elle contient des livres adultes ,enfants et des revues.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Le bourg, 15150 Siran, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.023296" lon="2.305819">
+    <time>2025-07-22T13:17:44Z</time>
+    <name>Boissieres b10570</name>
+    <desc>Elle est installée sous un porche. livres adultes enfants et revues</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Trait d  union- maison fraysse, 15150 Siran, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.961564" lon="6.042342">
+    <time>2025-07-22T13:17:36Z</time>
+    <name>Thierry d. b10569</name>
+    <desc>Boite à lire située au bord de la route sur le muret.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>21 route de choisy, 74330 La balme-de-sillingy, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.341729" lon="6.290391">
+    <time>2025-07-16T10:32:59Z</time>
+    <name>Thierry d. b10561</name>
+    <desc>Boite à lire dans deux jolies frigos devant le bâtiment france services.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>80 route de la combe, 73130 Saint-etienne-de-cuines, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.39227" lon="6.265992">
+    <time>2025-07-16T10:32:52Z</time>
+    <name>Thierry d. b10560</name>
+    <desc>Boite à lire située à coté du magasin vival.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>70 route de la lauzière, 73660 Saint-rémy-de-maurienne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.221549" lon="6.228711">
+    <time>2025-07-16T10:30:59Z</time>
+    <name>Thierry d. b10559</name>
+    <desc>Boite à lire située contre le mur en face de la boulangerie-patisserie.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>2520 route du col de la croix de fer, 73530 Saint-sorlin-d arves, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.323267" lon="6.339498">
     <time>2025-06-03T09:21:20Z</time>
     <name>Thierry d. b10552</name>

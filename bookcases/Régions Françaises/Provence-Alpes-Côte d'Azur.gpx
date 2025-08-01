@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.944792" lon="6.553509">
+    <time>2025-07-16T10:30:48Z</time>
+    <name>Thierry d. b10558</name>
+    <desc>Boite à lire située à l intérieur de l'auberge de jeunesse et réservée à la clientèle.</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>2 chemin du cavaillou, 05240 La salle-les-alpes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.130159" lon="5.941404">
     <time>2025-04-03T09:58:58Z</time>
     <name>Gaëlle b10508</name>

@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.589948,
+          47.204493
+        ]
+      },
+      "properties": {
+        "id": 10562,
+        "nom": "Julier",
+        "adresse": "Rue de larey",
+        "code_postal": "44100",
+        "ville": "Nantes",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "En haut de rue de larey, la maison sur la droite avant d arriver rue du fonteny. cette maison a une entrée de garage, la boîte à livres se trouve là",
+        "coord_gps": "47.2044931, -1.5899484",
+        "affichage": 1,
+        "date_created": "2025-07-16 10:33:08",
+        "date_updated": "2025-07-16 10:33:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.084083,
           46.523828
         ]

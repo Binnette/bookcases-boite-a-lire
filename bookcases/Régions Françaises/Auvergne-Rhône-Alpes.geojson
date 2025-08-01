@@ -6,6 +6,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.160806,
+          44.995141
+        ]
+      },
+      "properties": {
+        "id": 10571,
+        "nom": "Boissieres",
+        "adresse": "Le bourg",
+        "code_postal": "15150",
+        "ville": "Siran",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Une boite à lire vient d être installée sous le porche du trait d  union maison fraysse. elle contient des livres adultes ,enfants et des revues.",
+        "coord_gps": "44.9951409, 2.160806",
+        "affichage": 1,
+        "date_created": "2025-07-23 09:49:29",
+        "date_updated": "2025-07-23 09:49:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.305819,
+          45.023296
+        ]
+      },
+      "properties": {
+        "id": 10570,
+        "nom": "Boissieres",
+        "adresse": "Trait d  union- maison fraysse",
+        "code_postal": "15150",
+        "ville": "Siran",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Elle est installée sous un porche. livres adultes enfants et revues",
+        "coord_gps": "45.023296, 2.305819",
+        "affichage": 1,
+        "date_created": "2025-07-22 13:17:44",
+        "date_updated": "2025-07-22 13:17:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.042342,
+          45.961564
+        ]
+      },
+      "properties": {
+        "id": 10569,
+        "nom": "Thierry d.",
+        "adresse": "21 route de choisy",
+        "code_postal": "74330",
+        "ville": "La balme-de-sillingy",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située au bord de la route sur le muret.",
+        "coord_gps": "45.9615641, 6.042342499999999",
+        "affichage": 1,
+        "date_created": "2025-07-22 13:17:36",
+        "date_updated": "2025-07-22 13:17:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.290391,
+          45.341729
+        ]
+      },
+      "properties": {
+        "id": 10561,
+        "nom": "Thierry d.",
+        "adresse": "80 route de la combe",
+        "code_postal": "73130",
+        "ville": "Saint-etienne-de-cuines",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire dans deux jolies frigos devant le bâtiment france services.",
+        "coord_gps": "45.3417289, 6.2903914",
+        "affichage": 1,
+        "date_created": "2025-07-16 10:32:59",
+        "date_updated": "2025-07-16 10:32:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.265992,
+          45.39227
+        ]
+      },
+      "properties": {
+        "id": 10560,
+        "nom": "Thierry d.",
+        "adresse": "70 route de la lauzière",
+        "code_postal": "73660",
+        "ville": "Saint-rémy-de-maurienne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située à coté du magasin vival.",
+        "coord_gps": "45.3922696, 6.2659915",
+        "affichage": 1,
+        "date_created": "2025-07-16 10:32:52",
+        "date_updated": "2025-07-16 10:32:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228711,
+          45.221549
+        ]
+      },
+      "properties": {
+        "id": 10559,
+        "nom": "Thierry d.",
+        "adresse": "2520 route du col de la croix de fer",
+        "code_postal": "73530",
+        "ville": "Saint-sorlin-d arves",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située contre le mur en face de la boulangerie-patisserie.",
+        "coord_gps": "45.2215486, 6.228710899999999",
+        "affichage": 1,
+        "date_created": "2025-07-16 10:30:59",
+        "date_updated": "2025-07-16 10:30:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.339498,
           45.323267
         ]

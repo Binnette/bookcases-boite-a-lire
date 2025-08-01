@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.152327" lon="-1.153137">
+    <time>2025-07-17T10:06:02Z</time>
+    <name>Guingambrésil b10567</name>
+    <desc>Boîte à dons à l entrée de la bibliothèque universitaire.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Parvis fernand braudel, 17000 La rochelle, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.216194" lon="0.33417">
+    <time>2025-07-17T10:05:54Z</time>
+    <name>Guingambrésil b10566</name>
+    <desc>Dans un bâtiment dédié, au croisement de la route des châtaigneraies, en face du parking.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue du bois des roys, 86400 Champniers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.144503" lon="0.402332">
+    <time>2025-07-17T10:05:43Z</time>
+    <name>Guingambrésil b10565</name>
+    <desc>Sur la place, le long de l espace vert.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place amédée brouillet, 86250 Charroux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.122119" lon="0.65328">
+    <time>2025-07-17T10:04:28Z</time>
+    <name>Guingambrésil b10564</name>
+    <desc>Dans un bâtiment dans le jardin des restos du coeur.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 place de la liberté, 86460 Availles-limouzine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.12198" lon="0.655225">
+    <time>2025-07-17T10:04:17Z</time>
+    <name>Guingambrésil b10563</name>
+    <desc>Posée sur un banc à côté de la fontaine.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place adrien bernard, 86460 Availles-limouzine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.926827" lon="0.385049">
     <time>2025-06-30T09:38:24Z</time>
     <name>Guingambrésil b10556</name>

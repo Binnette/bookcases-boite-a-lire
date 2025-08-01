@@ -6,6 +6,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.153137,
+          46.152327
+        ]
+      },
+      "properties": {
+        "id": 10567,
+        "nom": "Guingambrésil",
+        "adresse": "Parvis fernand braudel",
+        "code_postal": "17000",
+        "ville": "La rochelle",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boîte à dons à l entrée de la bibliothèque universitaire.",
+        "coord_gps": "46.1523269, -1.1531369",
+        "affichage": 1,
+        "date_created": "2025-07-17 10:06:02",
+        "date_updated": "2025-07-17 10:06:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33417,
+          46.216194
+        ]
+      },
+      "properties": {
+        "id": 10566,
+        "nom": "Guingambrésil",
+        "adresse": "Rue du bois des roys",
+        "code_postal": "86400",
+        "ville": "Champniers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans un bâtiment dédié, au croisement de la route des châtaigneraies, en face du parking.",
+        "coord_gps": "46.216194, 0.33417",
+        "affichage": 1,
+        "date_created": "2025-07-17 10:05:54",
+        "date_updated": "2025-07-17 10:05:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.402332,
+          46.144503
+        ]
+      },
+      "properties": {
+        "id": 10565,
+        "nom": "Guingambrésil",
+        "adresse": "Place amédée brouillet",
+        "code_postal": "86250",
+        "ville": "Charroux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur la place, le long de l espace vert.",
+        "coord_gps": "46.144503, 0.402332",
+        "affichage": 1,
+        "date_created": "2025-07-17 10:05:43",
+        "date_updated": "2025-07-17 10:05:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.65328,
+          46.122119
+        ]
+      },
+      "properties": {
+        "id": 10564,
+        "nom": "Guingambrésil",
+        "adresse": "2 place de la liberté",
+        "code_postal": "86460",
+        "ville": "Availles-limouzine",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans un bâtiment dans le jardin des restos du coeur.",
+        "coord_gps": "46.1221193, 0.6532796",
+        "affichage": 1,
+        "date_created": "2025-07-17 10:04:28",
+        "date_updated": "2025-07-17 10:04:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.655225,
+          46.12198
+        ]
+      },
+      "properties": {
+        "id": 10563,
+        "nom": "Guingambrésil",
+        "adresse": "Place adrien bernard",
+        "code_postal": "86460",
+        "ville": "Availles-limouzine",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Posée sur un banc à côté de la fontaine.",
+        "coord_gps": "46.1219804, 0.6552246",
+        "affichage": 1,
+        "date_created": "2025-07-17 10:04:17",
+        "date_updated": "2025-07-17 10:04:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.385049,
           45.926827
         ]

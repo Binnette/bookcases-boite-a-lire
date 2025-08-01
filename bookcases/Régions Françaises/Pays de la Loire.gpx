@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.204493" lon="-1.589948">
+    <time>2025-07-16T10:33:08Z</time>
+    <name>Julier b10562</name>
+    <desc>En haut de rue de larey, la maison sur la droite avant d arriver rue du fonteny. cette maison a une entrée de garage, la boîte à livres se trouve là</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>Rue de larey, 44100 Nantes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.523828" lon="-1.084083">
     <time>2025-04-07T09:40:03Z</time>
     <name>Dupuy tiphanie b10516</name>

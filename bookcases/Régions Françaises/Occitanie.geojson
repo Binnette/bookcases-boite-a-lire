@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.334,
+          42.864061
+        ]
+      },
+      "properties": {
+        "id": 10568,
+        "nom": "Marie laure",
+        "adresse": "Route de l'arbizon",
+        "code_postal": "65240",
+        "ville": "Guchen",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte à lire se trouve en hauteur",
+        "coord_gps": "42.864061, 0.334",
+        "affichage": 1,
+        "date_created": "2025-07-21 09:48:34",
+        "date_updated": "2025-07-21 09:48:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.433975,
           44.276858
         ]

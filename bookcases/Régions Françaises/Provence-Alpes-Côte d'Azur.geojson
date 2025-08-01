@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.553509,
+          44.944792
+        ]
+      },
+      "properties": {
+        "id": 10558,
+        "nom": "Thierry d.",
+        "adresse": "2 chemin du cavaillou",
+        "code_postal": "05240",
+        "ville": "La salle-les-alpes",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située à l intérieur de l'auberge de jeunesse et réservée à la clientèle.",
+        "coord_gps": "44.9447924, 6.5535092",
+        "affichage": 1,
+        "date_created": "2025-07-16 10:30:48",
+        "date_updated": "2025-07-16 10:30:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.941404,
           43.130159
         ]

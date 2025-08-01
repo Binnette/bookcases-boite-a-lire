@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.864061" lon="0.334">
+    <time>2025-07-21T09:48:34Z</time>
+    <name>Marie laure b10568</name>
+    <desc>La boîte à lire se trouve en hauteur</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Route de l'arbizon, 65240 Guchen, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.276858" lon="2.433975">
     <time>2025-04-29T09:26:40Z</time>
     <name>Lolo b10535</name>
