@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.827496" lon="6.203217">
+    <time>2025-08-26T10:51:58Z</time>
+    <name>Thierry d. b10612</name>
+    <desc>Boite à lire située devant l association les marmottons.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>51 rue du vieux village, 74410 Duingt, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.795852" lon="6.18843">
+    <time>2025-08-26T10:51:51Z</time>
+    <name>Thierry d. b10611</name>
+    <desc>Boite à lire située dans l abribus.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>92 route des droblesses, 74410 Entrevernes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.838287" lon="6.170715">
+    <time>2025-08-26T10:51:41Z</time>
+    <name>Thierry d. b10610</name>
+    <desc>Boite à lire dans l espace vert à coté de la fontaine à eau.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route du port, 74410 Saint jorioz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.498125" lon="6.558863">
+    <time>2025-08-05T09:55:11Z</time>
+    <name>Thierry d. b10590</name>
+    <desc>Située sur la façade de la mairie de pomblière.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>90 rue de la mairie, 73600 Pomblière st marcel, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.241515" lon="6.459919">
+    <time>2025-08-05T09:55:04Z</time>
+    <name>Thierry d. b10589</name>
+    <desc>Boite à lire située dans l abri à l'intersection de la montée du pré chevalier et de la route des alpages</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>20 montée du pré chevalier, 73140 Saint-martin-de-la-porte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.239016" lon="6.445109">
+    <time>2025-08-05T09:54:54Z</time>
+    <name>Thierry d. b10588</name>
+    <desc>Située à l arrière de l'école primaire</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>7 route la salette, 73140 Saint-martin-de-la-porte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.995141" lon="2.160806">
     <time>2025-07-23T09:49:29Z</time>
     <name>Boissieres b10571</name>

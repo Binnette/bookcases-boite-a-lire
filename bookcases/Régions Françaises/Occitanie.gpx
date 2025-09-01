@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.563682" lon="1.315138">
+    <time>2025-08-25T09:49:16Z</time>
+    <name>Murieln b10609</name>
+    <desc>Pigeonnier de la campagne</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>Av. des vitarelles, 31600 Plaisance-du-touch, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.62844" lon="4.195358">
+    <time>2025-08-12T10:32:28Z</time>
+    <name>Lishbks b10592</name>
+    <desc>La boîte se trouve sur le trottoir. souvent très bien fournie. malheureusement les livres sont marqués au fluo sur la tranche de manière pas très élégante. je comprends qu on veuille dissuader les ventes, mais c'est dommage d'abîmer l'objet livre à ce point.</desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>151, avenue jean moulin, 30220 Saint-laurent-d aigouze, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63384" lon="4.196182">
+    <time>2025-08-12T10:32:13Z</time>
+    <name>Lishbks b10591</name>
+    <desc></desc>
+    <type>BoiteLire Occitanie</type>
+    <extensions>
+      <osmand:address>20, rue emile meoulet, 30220 Saint-laurent-d aigouze, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="42.864061" lon="0.334">
     <time>2025-07-21T09:48:34Z</time>
     <name>Marie laure b10568</name>

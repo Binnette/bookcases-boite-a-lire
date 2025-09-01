@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.774657,
+          47.506194
+        ]
+      },
+      "properties": {
+        "id": 10587,
+        "nom": "Mairie de sainte-suzanne",
+        "adresse": "62 rue de besançon",
+        "code_postal": "25630",
+        "ville": "Sainte-suzanne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Accessible à tous les feunus",
+        "coord_gps": "47.5061937, 6.7746567",
+        "affichage": 1,
+        "date_created": "2025-08-04 10:03:24",
+        "date_updated": "2025-08-04 10:03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.76886,
           46.278026
         ]

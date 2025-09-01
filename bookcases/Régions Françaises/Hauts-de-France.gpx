@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.270381" lon="2.968014">
+    <time>2025-08-18T09:53:48Z</time>
+    <name>Patrice b10595</name>
+    <desc>Derrière l arrêt de bus.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>2 route de vez, 60123 Le berval, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.201287" lon="3.015927">
+    <time>2025-08-18T09:52:45Z</time>
+    <name>Patrice b10594</name>
+    <desc>A droite de la mairie. dans l abri de bus.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>43 rue de la grande rue, Ivors 60141, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.278898" lon="2.945012">
+    <time>2025-08-13T09:36:48Z</time>
+    <name>Patrice b10593</name>
+    <desc>Dans l abri de bus.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>3 rue de la demoiselle, 60127 Pondron, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.695488" lon="2.866824">
     <time>2025-05-09T18:09:06Z</time>
     <name>Près du hem b10540</name>

@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.968014,
+          49.270381
+        ]
+      },
+      "properties": {
+        "id": 10595,
+        "nom": "Patrice",
+        "adresse": "2 route de vez",
+        "code_postal": "60123",
+        "ville": "Le berval",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Derrière l arrêt de bus.",
+        "coord_gps": "49.2703814, 2.9680137",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:53:48",
+        "date_updated": "2025-08-18 09:53:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.015927,
+          49.201287
+        ]
+      },
+      "properties": {
+        "id": 10594,
+        "nom": "Patrice",
+        "adresse": "43 rue de la grande rue",
+        "code_postal": "Ivors",
+        "ville": "60141",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "A droite de la mairie. dans l abri de bus.",
+        "coord_gps": "49.2012875, 3.0159269",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:52:45",
+        "date_updated": "2025-08-18 09:52:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.945012,
+          49.278898
+        ]
+      },
+      "properties": {
+        "id": 10593,
+        "nom": "Patrice",
+        "adresse": "3 rue de la demoiselle",
+        "code_postal": "60127",
+        "ville": "Pondron",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans l abri de bus.",
+        "coord_gps": "49.2788976, 2.9450118",
+        "affichage": 1,
+        "date_created": "2025-08-13 09:36:48",
+        "date_updated": "2025-08-13 09:36:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.866824,
           50.695488
         ]

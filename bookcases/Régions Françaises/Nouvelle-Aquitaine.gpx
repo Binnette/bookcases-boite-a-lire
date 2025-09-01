@@ -1,5 +1,341 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.661221" lon="-0.002765">
+    <time>2025-08-18T09:55:22Z</time>
+    <name>Guingambrésil b10608</name>
+    <desc>Devant les toilettes publiques près de la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>40 route de poitiers, 86190 Chalandray, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.299225" lon="0.220679">
+    <time>2025-08-18T09:55:14Z</time>
+    <name>Guingambrésil b10607</name>
+    <desc>À vaux, sur l aire de jeux au croisement de la rue de l'Église.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Chemin de bouffard, 86700 Valence-en-poitou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.299796" lon="0.181924">
+    <time>2025-08-18T09:55:08Z</time>
+    <name>Guingambrésil b10606</name>
+    <desc>À ceaux-en-couhé, devant la salle des fêtes.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue de la mairie, 86700 Valence-en-poitou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.317841" lon="0.198533">
+    <time>2025-08-18T09:54:59Z</time>
+    <name>Guingambrésil b10605</name>
+    <desc>À châtillon, devant le parking de la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>13 le bourg châtillon, 86700 Valence-en-poitou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.340893" lon="0.210841">
+    <time>2025-08-18T09:54:46Z</time>
+    <name>Guingambrésil b10604</name>
+    <desc>À payré, devant la fontaine.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place saint-hilaire, 86700 Valence-en-poitou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.396493" lon="0.236983">
+    <time>2025-08-18T09:54:39Z</time>
+    <name>Guingambrésil b10603</name>
+    <desc>Au peu de thay, dans un abribus au croisement de la d27.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 rue de la fontaine, 86370 Vivonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.43374" lon="0.267189">
+    <time>2025-08-18T09:54:34Z</time>
+    <name>Guingambrésil b10602</name>
+    <desc>Dans la cour du complexe sportif.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>17 rue pierre et marie curie, 86370 Vivonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.436178" lon="0.267382">
+    <time>2025-08-18T09:54:28Z</time>
+    <name>Guingambrésil b10601</name>
+    <desc>Derrière le portail de la crèche framboisine, vraisemblablement accessible aux heures d ouverture de celle-ci.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>23 rue pierre et marie curie, 86370 Vivonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.850615" lon="1.259444">
+    <time>2025-08-18T09:54:22Z</time>
+    <name>Guingambrésil b10600</name>
+    <desc>Derrière le portail de l école la brégère, vraisemblablement accessible aux heures d'ouverture de celle-ci.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>110 avenue de louyat, 87000 Limoges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.839512" lon="1.242116">
+    <time>2025-08-18T09:54:16Z</time>
+    <name>Guingambrésilr b10599</name>
+    <desc>Au parc au croisement de la rue pradier.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue beaumarchais, 87000 Limoges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.823284" lon="1.266623">
+    <time>2025-08-18T09:54:09Z</time>
+    <name>Guingambrésil b10598</name>
+    <desc>Trois boîtes au jardin des lavandières, une au bord de la vienne, une au bout du parking à côté des arceaux de vélo et une autre derrière le mur le long du parking.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue de la font pinot, 87000 Limoges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.822747" lon="1.270981">
+    <time>2025-08-18T09:54:02Z</time>
+    <name>Guingambrésil b10597</name>
+    <desc>À l entrée du parc de l'auzette, près du terrain de pétanque.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue paul-antoine bonnaud, 86700 Limoges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.824003" lon="1.274937">
+    <time>2025-08-18T09:53:55Z</time>
+    <name>Guingambrésil b10596</name>
+    <desc>Devant l entrée de la résidence.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>15 rue de toulouse, 87000 Limoges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.597715" lon="0.531169">
+    <time>2025-08-04T09:57:10Z</time>
+    <name>Guingambrésil b10586</name>
+    <desc>Devant l église.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de l Église, 24360 Piégut-pluviers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.565537" lon="0.692128">
+    <time>2025-08-04T09:57:00Z</time>
+    <name>Guingambrésil b10585</name>
+    <desc>Devant le lavoir de puybégout.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>186 rue du lavoir, 24300 Augignac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.323555" lon="0.585304">
+    <time>2025-08-04T09:56:53Z</time>
+    <name>Guingambrésil b10584</name>
+    <desc>Dans un bâtiment à côté de la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 24310 Paussac-et-saint-vivien, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.451478" lon="0.451065">
+    <time>2025-08-04T09:56:46Z</time>
+    <name>Guingambrésil b10583</name>
+    <desc>Le long de la poste, devant le jardin public.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de la félibrée, 24340 Mareuil en périgord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.587026" lon="0.403208">
+    <time>2025-08-04T09:56:40Z</time>
+    <name>Guingambrésil b10582</name>
+    <desc>Dans l abribus devant le court de tennis.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue de la forge, 16380 Grassac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.89255" lon="0.46865">
+    <time>2025-08-04T09:56:29Z</time>
+    <name>Guingambrésil b10581</name>
+    <desc>Sur la place, derrière l abribus.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Avenue pasteur, 16450 Saint-claud, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.940816" lon="0.444306">
+    <time>2025-08-04T09:56:22Z</time>
+    <name>Guingambrésil b10580</name>
+    <desc>Sur le parking de la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 route du marronnier, 16450 Le grand-mandieu, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.078616" lon="0.371085">
+    <time>2025-08-04T09:56:15Z</time>
+    <name>Guingambrésil b10579</name>
+    <desc>Sous un préau à côté de la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>8 rue de la tour, 86250 Surin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.357665" lon="0.392806">
+    <time>2025-08-04T09:56:08Z</time>
+    <name>Guingambrésil b10578</name>
+    <desc>Derrière l église.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue anatole de briey, 86160 Magné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.589178" lon="0.362135">
+    <time>2025-08-04T09:56:00Z</time>
+    <name>Guingambrésil b10577</name>
+    <desc>Devant la résidence barangaï k2. celle de la rue de nimègue n existe plus.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>5 rue henri dunant, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.491001" lon="0.044159">
+    <time>2025-08-04T09:55:52Z</time>
+    <name>Guingambrésil b10576</name>
+    <desc>Dans le bâtiment qui abrite des toilettes près du musée du vitrail.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 route de sanxay, 86600 Curzay-sur-vonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.493916" lon="-0.00481">
+    <time>2025-08-04T09:55:47Z</time>
+    <name>Guingambrésil b10575</name>
+    <desc>Le long de la d62, derrière l église.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place du révérend père camille de la croix, 86600 Sanxay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.970492" lon="-0.252968">
+    <time>2025-08-04T09:55:39Z</time>
+    <name>Guingambrésil b10574</name>
+    <desc>Sur le chemin de la vallée du pressoir, entre le parking et la cascade des pommiers.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Vallée du pressoir, 79100 Thouars, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.908015" lon="-0.301607">
+    <time>2025-08-04T09:55:31Z</time>
+    <name>Guingambrésil b10573</name>
+    <desc>Devant la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>17 rue des rosiers, 79330 Luché-thouarsais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.923308" lon="-0.144762">
+    <time>2025-08-04T09:55:23Z</time>
+    <name>Guingambrésil b10572</name>
+    <desc>À auboué, dans un abribus au croisement du chemin des pêcheurs.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>18 rue du confluent, 79100 Plaine-et-vallées, taizé-maulais, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.152327" lon="-1.153137">
     <time>2025-07-17T10:06:02Z</time>
     <name>Guingambrésil b10567</name>

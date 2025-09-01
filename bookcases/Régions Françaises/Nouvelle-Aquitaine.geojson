@@ -6,6 +6,762 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.002765,
+          46.661221
+        ]
+      },
+      "properties": {
+        "id": 10608,
+        "nom": "Guingambrésil",
+        "adresse": "40 route de poitiers",
+        "code_postal": "86190",
+        "ville": "Chalandray",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant les toilettes publiques près de la mairie.",
+        "coord_gps": "46.6612212, -0.0027645",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:55:22",
+        "date_updated": "2025-08-18 09:55:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.220679,
+          46.299225
+        ]
+      },
+      "properties": {
+        "id": 10607,
+        "nom": "Guingambrésil",
+        "adresse": "Chemin de bouffard",
+        "code_postal": "86700",
+        "ville": "Valence-en-poitou",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À vaux, sur l aire de jeux au croisement de la rue de l'Église.",
+        "coord_gps": "46.299225, 0.220679",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:55:14",
+        "date_updated": "2025-08-18 09:55:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.181924,
+          46.299796
+        ]
+      },
+      "properties": {
+        "id": 10606,
+        "nom": "Guingambrésil",
+        "adresse": "Rue de la mairie",
+        "code_postal": "86700",
+        "ville": "Valence-en-poitou",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À ceaux-en-couhé, devant la salle des fêtes.",
+        "coord_gps": "46.2997956, 0.1819238",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:55:08",
+        "date_updated": "2025-08-18 09:55:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.198533,
+          46.317841
+        ]
+      },
+      "properties": {
+        "id": 10605,
+        "nom": "Guingambrésil",
+        "adresse": "13 le bourg châtillon",
+        "code_postal": "86700",
+        "ville": "Valence-en-poitou",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À châtillon, devant le parking de la mairie.",
+        "coord_gps": "46.3178406, 0.1985325",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:59",
+        "date_updated": "2025-08-18 09:54:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.210841,
+          46.340893
+        ]
+      },
+      "properties": {
+        "id": 10604,
+        "nom": "Guingambrésil",
+        "adresse": "Place saint-hilaire",
+        "code_postal": "86700",
+        "ville": "Valence-en-poitou",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À payré, devant la fontaine.",
+        "coord_gps": "46.3408926, 0.2108408",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:46",
+        "date_updated": "2025-08-18 09:54:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.236983,
+          46.396493
+        ]
+      },
+      "properties": {
+        "id": 10603,
+        "nom": "Guingambrésil",
+        "adresse": "2 rue de la fontaine",
+        "code_postal": "86370",
+        "ville": "Vivonne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au peu de thay, dans un abribus au croisement de la d27.",
+        "coord_gps": "46.396493, 0.2369831",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:39",
+        "date_updated": "2025-08-18 09:54:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.267189,
+          46.43374
+        ]
+      },
+      "properties": {
+        "id": 10602,
+        "nom": "Guingambrésil",
+        "adresse": "17 rue pierre et marie curie",
+        "code_postal": "86370",
+        "ville": "Vivonne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans la cour du complexe sportif.",
+        "coord_gps": "46.43374, 0.267189",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:34",
+        "date_updated": "2025-08-18 09:54:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.267382,
+          46.436178
+        ]
+      },
+      "properties": {
+        "id": 10601,
+        "nom": "Guingambrésil",
+        "adresse": "23 rue pierre et marie curie",
+        "code_postal": "86370",
+        "ville": "Vivonne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Derrière le portail de la crèche framboisine, vraisemblablement accessible aux heures d ouverture de celle-ci.",
+        "coord_gps": "46.436178, 0.267382",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:28",
+        "date_updated": "2025-08-18 09:54:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.259444,
+          45.850615
+        ]
+      },
+      "properties": {
+        "id": 10600,
+        "nom": "Guingambrésil",
+        "adresse": "110 avenue de louyat",
+        "code_postal": "87000",
+        "ville": "Limoges",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Derrière le portail de l école la brégère, vraisemblablement accessible aux heures d'ouverture de celle-ci.",
+        "coord_gps": "45.8506149, 1.2594443",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:22",
+        "date_updated": "2025-08-18 09:54:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.242116,
+          45.839512
+        ]
+      },
+      "properties": {
+        "id": 10599,
+        "nom": "Guingambrésilr",
+        "adresse": "Rue beaumarchais",
+        "code_postal": "87000",
+        "ville": "Limoges",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au parc au croisement de la rue pradier.",
+        "coord_gps": "45.839512, 1.242116",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:16",
+        "date_updated": "2025-08-18 09:54:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.266623,
+          45.823284
+        ]
+      },
+      "properties": {
+        "id": 10598,
+        "nom": "Guingambrésil",
+        "adresse": "Rue de la font pinot",
+        "code_postal": "87000",
+        "ville": "Limoges",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Trois boîtes au jardin des lavandières, une au bord de la vienne, une au bout du parking à côté des arceaux de vélo et une autre derrière le mur le long du parking.",
+        "coord_gps": "45.8232844, 1.2666233",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:09",
+        "date_updated": "2025-08-18 09:54:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.270981,
+          45.822747
+        ]
+      },
+      "properties": {
+        "id": 10597,
+        "nom": "Guingambrésil",
+        "adresse": "Rue paul-antoine bonnaud",
+        "code_postal": "86700",
+        "ville": "Limoges",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l entrée du parc de l'auzette, près du terrain de pétanque.",
+        "coord_gps": "45.8227466, 1.2709807",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:54:02",
+        "date_updated": "2025-08-18 09:54:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.274937,
+          45.824003
+        ]
+      },
+      "properties": {
+        "id": 10596,
+        "nom": "Guingambrésil",
+        "adresse": "15 rue de toulouse",
+        "code_postal": "87000",
+        "ville": "Limoges",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l entrée de la résidence.",
+        "coord_gps": "45.8240034, 1.2749373",
+        "affichage": 1,
+        "date_created": "2025-08-18 09:53:55",
+        "date_updated": "2025-08-18 09:53:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.531169,
+          45.597715
+        ]
+      },
+      "properties": {
+        "id": 10586,
+        "nom": "Guingambrésil",
+        "adresse": "Place de l Église",
+        "code_postal": "24360",
+        "ville": "Piégut-pluviers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l église.",
+        "coord_gps": "45.597715, 0.531169",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:57:10",
+        "date_updated": "2025-08-04 09:57:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.692128,
+          45.565537
+        ]
+      },
+      "properties": {
+        "id": 10585,
+        "nom": "Guingambrésil",
+        "adresse": "186 rue du lavoir",
+        "code_postal": "24300",
+        "ville": "Augignac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant le lavoir de puybégout.",
+        "coord_gps": "45.5655365, 0.6921284",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:57:00",
+        "date_updated": "2025-08-04 09:57:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.585304,
+          45.323555
+        ]
+      },
+      "properties": {
+        "id": 10584,
+        "nom": "Guingambrésil",
+        "adresse": "Place de la mairie",
+        "code_postal": "24310",
+        "ville": "Paussac-et-saint-vivien",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans un bâtiment à côté de la mairie.",
+        "coord_gps": "45.3235546, 0.5853037",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:53",
+        "date_updated": "2025-08-04 09:56:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.451065,
+          45.451478
+        ]
+      },
+      "properties": {
+        "id": 10583,
+        "nom": "Guingambrésil",
+        "adresse": "Place de la félibrée",
+        "code_postal": "24340",
+        "ville": "Mareuil en périgord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la poste, devant le jardin public.",
+        "coord_gps": "45.4514784, 0.4510652",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:46",
+        "date_updated": "2025-08-04 09:56:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.403208,
+          45.587026
+        ]
+      },
+      "properties": {
+        "id": 10582,
+        "nom": "Guingambrésil",
+        "adresse": "Rue de la forge",
+        "code_postal": "16380",
+        "ville": "Grassac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans l abribus devant le court de tennis.",
+        "coord_gps": "45.58702599999999, 0.403208",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:40",
+        "date_updated": "2025-08-04 09:56:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.46865,
+          45.89255
+        ]
+      },
+      "properties": {
+        "id": 10581,
+        "nom": "Guingambrésil",
+        "adresse": "Avenue pasteur",
+        "code_postal": "16450",
+        "ville": "Saint-claud",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur la place, derrière l abribus.",
+        "coord_gps": "45.89255, 0.4686497",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:29",
+        "date_updated": "2025-08-04 09:56:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.444306,
+          45.940816
+        ]
+      },
+      "properties": {
+        "id": 10580,
+        "nom": "Guingambrésil",
+        "adresse": "2 route du marronnier",
+        "code_postal": "16450",
+        "ville": "Le grand-mandieu",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking de la mairie.",
+        "coord_gps": "45.9408164, 0.4443056",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:22",
+        "date_updated": "2025-08-04 09:56:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.371085,
+          46.078616
+        ]
+      },
+      "properties": {
+        "id": 10579,
+        "nom": "Guingambrésil",
+        "adresse": "8 rue de la tour",
+        "code_postal": "86250",
+        "ville": "Surin",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous un préau à côté de la mairie.",
+        "coord_gps": "46.0786161, 0.3710852",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:15",
+        "date_updated": "2025-08-04 09:56:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.392806,
+          46.357665
+        ]
+      },
+      "properties": {
+        "id": 10578,
+        "nom": "Guingambrésil",
+        "adresse": "Rue anatole de briey",
+        "code_postal": "86160",
+        "ville": "Magné",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Derrière l église.",
+        "coord_gps": "46.357665, 0.392806",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:08",
+        "date_updated": "2025-08-04 09:56:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.362135,
+          46.589178
+        ]
+      },
+      "properties": {
+        "id": 10577,
+        "nom": "Guingambrésil",
+        "adresse": "5 rue henri dunant",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la résidence barangaï k2. celle de la rue de nimègue n existe plus.",
+        "coord_gps": "46.5891779, 0.362135",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:56:00",
+        "date_updated": "2025-08-04 09:56:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.044159,
+          46.491001
+        ]
+      },
+      "properties": {
+        "id": 10576,
+        "nom": "Guingambrésil",
+        "adresse": "2 route de sanxay",
+        "code_postal": "86600",
+        "ville": "Curzay-sur-vonne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans le bâtiment qui abrite des toilettes près du musée du vitrail.",
+        "coord_gps": "46.49100139999999, 0.0441586",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:55:52",
+        "date_updated": "2025-08-04 09:55:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00481,
+          46.493916
+        ]
+      },
+      "properties": {
+        "id": 10575,
+        "nom": "Guingambrésil",
+        "adresse": "Place du révérend père camille de la croix",
+        "code_postal": "86600",
+        "ville": "Sanxay",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la d62, derrière l église.",
+        "coord_gps": "46.493916, -0.00481",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:55:47",
+        "date_updated": "2025-08-04 09:55:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.252968,
+          46.970492
+        ]
+      },
+      "properties": {
+        "id": 10574,
+        "nom": "Guingambrésil",
+        "adresse": "Vallée du pressoir",
+        "code_postal": "79100",
+        "ville": "Thouars",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le chemin de la vallée du pressoir, entre le parking et la cascade des pommiers.",
+        "coord_gps": "46.9704919, -0.2529678",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:55:39",
+        "date_updated": "2025-08-04 09:55:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.301607,
+          46.908015
+        ]
+      },
+      "properties": {
+        "id": 10573,
+        "nom": "Guingambrésil",
+        "adresse": "17 rue des rosiers",
+        "code_postal": "79330",
+        "ville": "Luché-thouarsais",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la mairie.",
+        "coord_gps": "46.9080149, -0.3016067",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:55:31",
+        "date_updated": "2025-08-04 09:55:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.144762,
+          46.923308
+        ]
+      },
+      "properties": {
+        "id": 10572,
+        "nom": "Guingambrésil",
+        "adresse": "18 rue du confluent",
+        "code_postal": "79100",
+        "ville": "Plaine-et-vallées, taizé-maulais",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À auboué, dans un abribus au croisement du chemin des pêcheurs.",
+        "coord_gps": "46.92330800000001, -0.144762",
+        "affichage": 1,
+        "date_created": "2025-08-04 09:55:23",
+        "date_updated": "2025-08-04 09:55:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.153137,
           46.152327
         ]

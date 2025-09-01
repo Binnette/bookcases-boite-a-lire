@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.315138,
+          43.563682
+        ]
+      },
+      "properties": {
+        "id": 10609,
+        "nom": "Murieln",
+        "adresse": "Av. des vitarelles",
+        "code_postal": "31600",
+        "ville": "Plaisance-du-touch",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Pigeonnier de la campagne",
+        "coord_gps": "43.563682, 1.3151384",
+        "affichage": 1,
+        "date_created": "2025-08-25 09:48:26",
+        "date_updated": "2025-08-25 09:49:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.195358,
+          43.62844
+        ]
+      },
+      "properties": {
+        "id": 10592,
+        "nom": "Lishbks",
+        "adresse": "151, avenue jean moulin",
+        "code_postal": "30220",
+        "ville": "Saint-laurent-d aigouze",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte se trouve sur le trottoir. souvent très bien fournie. malheureusement les livres sont marqués au fluo sur la tranche de manière pas très élégante. je comprends qu on veuille dissuader les ventes, mais c'est dommage d'abîmer l'objet livre à ce point.",
+        "coord_gps": "43.62844, 4.195358",
+        "affichage": 1,
+        "date_created": "2025-08-12 10:32:28",
+        "date_updated": "2025-08-12 10:32:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.196182,
+          43.63384
+        ]
+      },
+      "properties": {
+        "id": 10591,
+        "nom": "Lishbks",
+        "adresse": "20, rue emile meoulet",
+        "code_postal": "30220",
+        "ville": "Saint-laurent-d aigouze",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "43.6338405, 4.1961819",
+        "affichage": 1,
+        "date_created": "2025-08-12 10:32:13",
+        "date_updated": "2025-08-12 10:32:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.334,
           42.864061
         ]

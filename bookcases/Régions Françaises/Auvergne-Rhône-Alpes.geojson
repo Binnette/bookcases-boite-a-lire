@@ -6,6 +6,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.203217,
+          45.827496
+        ]
+      },
+      "properties": {
+        "id": 10612,
+        "nom": "Thierry d.",
+        "adresse": "51 rue du vieux village",
+        "code_postal": "74410",
+        "ville": "Duingt",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située devant l association les marmottons.",
+        "coord_gps": "45.8274959, 6.2032171",
+        "affichage": 1,
+        "date_created": "2025-08-26 10:51:58",
+        "date_updated": "2025-08-26 10:51:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18843,
+          45.795852
+        ]
+      },
+      "properties": {
+        "id": 10611,
+        "nom": "Thierry d.",
+        "adresse": "92 route des droblesses",
+        "code_postal": "74410",
+        "ville": "Entrevernes",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située dans l abribus.",
+        "coord_gps": "45.7958516, 6.188430299999999",
+        "affichage": 1,
+        "date_created": "2025-08-26 10:51:51",
+        "date_updated": "2025-08-26 10:51:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.170715,
+          45.838287
+        ]
+      },
+      "properties": {
+        "id": 10610,
+        "nom": "Thierry d.",
+        "adresse": "Route du port",
+        "code_postal": "74410",
+        "ville": "Saint jorioz",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire dans l espace vert à coté de la fontaine à eau.",
+        "coord_gps": "45.8382868, 6.1707148",
+        "affichage": 1,
+        "date_created": "2025-08-26 10:51:41",
+        "date_updated": "2025-08-26 10:51:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.558863,
+          45.498125
+        ]
+      },
+      "properties": {
+        "id": 10590,
+        "nom": "Thierry d.",
+        "adresse": "90 rue de la mairie",
+        "code_postal": "73600",
+        "ville": "Pomblière st marcel",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Située sur la façade de la mairie de pomblière.",
+        "coord_gps": "45.49812499999999, 6.558863",
+        "affichage": 1,
+        "date_created": "2025-08-05 09:55:11",
+        "date_updated": "2025-08-05 09:55:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.459919,
+          45.241515
+        ]
+      },
+      "properties": {
+        "id": 10589,
+        "nom": "Thierry d.",
+        "adresse": "20 montée du pré chevalier",
+        "code_postal": "73140",
+        "ville": "Saint-martin-de-la-porte",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire située dans l abri à l'intersection de la montée du pré chevalier et de la route des alpages",
+        "coord_gps": "45.2415153, 6.4599194",
+        "affichage": 1,
+        "date_created": "2025-08-05 09:55:04",
+        "date_updated": "2025-08-05 09:55:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.445109,
+          45.239016
+        ]
+      },
+      "properties": {
+        "id": 10588,
+        "nom": "Thierry d.",
+        "adresse": "7 route la salette",
+        "code_postal": "73140",
+        "ville": "Saint-martin-de-la-porte",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Située à l arrière de l'école primaire",
+        "coord_gps": "45.239016, 6.445109",
+        "affichage": 1,
+        "date_created": "2025-08-05 09:54:54",
+        "date_updated": "2025-08-05 09:54:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.160806,
           44.995141
         ]
