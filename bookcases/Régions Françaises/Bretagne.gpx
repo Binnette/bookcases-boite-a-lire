@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.699556" lon="-3.454">
+    <time>2025-09-12T09:43:03Z</time>
+    <name>Sören b10634</name>
+    <desc>Camping le repp</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Camping le repp, 56270 Ploemeur, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.240138" lon="-4.065268">
     <time>2025-04-28T09:42:47Z</time>
     <name>Le rapid b10534</name>

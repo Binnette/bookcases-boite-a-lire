@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.454,
+          47.699556
+        ]
+      },
+      "properties": {
+        "id": 10634,
+        "nom": "Sören",
+        "adresse": "Camping le repp",
+        "code_postal": "56270",
+        "ville": "Ploemeur",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Camping le repp",
+        "coord_gps": "47.699556, -3.454",
+        "affichage": 1,
+        "date_created": "2025-09-12 09:43:03",
+        "date_updated": "2025-09-12 09:43:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.065268,
           48.240138
         ]

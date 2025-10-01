@@ -6,6 +6,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.26387,
+          45.477884
+        ]
+      },
+      "properties": {
+        "id": 10633,
+        "nom": "Thierry d.",
+        "adresse": "380 rue du grand village",
+        "code_postal": "73220",
+        "ville": "Saint-alban-d hurtières",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Jolie boite à lire façon chariot du far-west.",
+        "coord_gps": "45.47788449999999, 6.2638697",
+        "affichage": 1,
+        "date_created": "2025-09-02 10:17:10",
+        "date_updated": "2025-09-02 10:17:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214173,
+          45.507981
+        ]
+      },
+      "properties": {
+        "id": 10632,
+        "nom": "Thierry d.",
+        "adresse": "53 route de la chapelle",
+        "code_postal": "73390",
+        "ville": "Champlaurent",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire à coté de l église",
+        "coord_gps": "45.5079805, 6.214172599999999",
+        "affichage": 1,
+        "date_created": "2025-09-02 10:17:00",
+        "date_updated": "2025-09-02 10:17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205943,
+          45.48484
+        ]
+      },
+      "properties": {
+        "id": 10631,
+        "nom": "Thierry d.",
+        "adresse": "188 route de la mairie",
+        "code_postal": "73110",
+        "ville": "Bourget-en-huile",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "45.4848396, 6.205943299999999",
+        "affichage": 1,
+        "date_created": "2025-09-02 10:16:52",
+        "date_updated": "2025-09-02 10:16:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.184465,
+          45.47329
+        ]
+      },
+      "properties": {
+        "id": 10630,
+        "nom": "Thierry d.",
+        "adresse": "35rue du bassin",
+        "code_postal": "73110",
+        "ville": "La table",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "45.4732897, 6.1844649",
+        "affichage": 1,
+        "date_created": "2025-09-02 10:16:46",
+        "date_updated": "2025-09-02 10:16:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17193,
+          45.479983
+        ]
+      },
+      "properties": {
+        "id": 10629,
+        "nom": "Thierry d.",
+        "adresse": "1220 route de la table",
+        "code_postal": "73110",
+        "ville": "La table",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire contre le mur du four à pain.",
+        "coord_gps": "45.479983, 6.17193",
+        "affichage": 1,
+        "date_created": "2025-09-02 10:16:39",
+        "date_updated": "2025-09-02 10:16:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.474346,
+          45.216415
+        ]
+      },
+      "properties": {
+        "id": 10628,
+        "nom": "Thierry d.",
+        "adresse": "Place de la république",
+        "code_postal": "73140",
+        "ville": "Saint-michel-de-maurienne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire à coté du marché couvert.",
+        "coord_gps": "45.2164152, 6.4743458",
+        "affichage": 1,
+        "date_created": "2025-09-02 10:16:31",
+        "date_updated": "2025-09-02 10:16:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.203217,
           45.827496
         ]
@@ -17367,33 +17529,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.832137,
-          45.067915
-        ]
-      },
-      "properties": {
-        "id": 6780,
-        "nom": "Martine d",
-        "adresse": "Quai garçonnet",
-        "code_postal": "07300",
-        "ville": "Tournon sur rhone",
-        "pays": "France",
-        "creditimage": "",
-        "email": "",
-        "image": "boitealire_0.png",
-        "image_admin": null,
-        "remarque": "",
-        "coord_gps": "45.067915, 4.832137",
-        "affichage": 1,
-        "date_created": "2020-10-05 08:58:08",
-        "date_updated": "2020-10-05 08:58:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.746327,
           45.18843
         ]
@@ -30327,8 +30462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.828883,
-          45.069565
+          4.830272,
+          45.068789
         ]
       },
       "properties": {
@@ -30343,10 +30478,10 @@
         "image": "boitealire_0.png",
         "image_admin": null,
         "remarque": "Dans une ancienne cabine téléphonique en face de l'école.",
-        "coord_gps": "45.0695652, 4.8288829",
+        "coord_gps": "45.068788766830146, 4.83027219772339",
         "affichage": 1,
         "date_created": "2018-06-04 09:27:26",
-        "date_updated": "2018-06-04 09:27:26"
+        "date_updated": "2025-09-12 09:47:22"
       }
     },
     {

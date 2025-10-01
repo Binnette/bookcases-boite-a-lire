@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.477884" lon="6.26387">
+    <time>2025-09-02T10:17:10Z</time>
+    <name>Thierry d. b10633</name>
+    <desc>Jolie boite à lire façon chariot du far-west.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>380 rue du grand village, 73220 Saint-alban-d hurtières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.507981" lon="6.214173">
+    <time>2025-09-02T10:17:00Z</time>
+    <name>Thierry d. b10632</name>
+    <desc>Boite à lire à coté de l église</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>53 route de la chapelle, 73390 Champlaurent, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.48484" lon="6.205943">
+    <time>2025-09-02T10:16:52Z</time>
+    <name>Thierry d. b10631</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>188 route de la mairie, 73110 Bourget-en-huile, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.47329" lon="6.184465">
+    <time>2025-09-02T10:16:46Z</time>
+    <name>Thierry d. b10630</name>
+    <desc></desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>35rue du bassin, 73110 La table, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.479983" lon="6.17193">
+    <time>2025-09-02T10:16:39Z</time>
+    <name>Thierry d. b10629</name>
+    <desc>Boite à lire contre le mur du four à pain.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1220 route de la table, 73110 La table, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.216415" lon="6.474346">
+    <time>2025-09-02T10:16:31Z</time>
+    <name>Thierry d. b10628</name>
+    <desc>Boite à lire à coté du marché couvert.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de la république, 73140 Saint-michel-de-maurienne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.827496" lon="6.203217">
     <time>2025-08-26T10:51:58Z</time>
     <name>Thierry d. b10612</name>
@@ -7716,18 +7788,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.067915" lon="4.832137">
-    <time>2020-10-05T08:58:08Z</time>
-    <name>Martine d b6780</name>
-    <desc></desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>Quai garçonnet, 07300 Tournon sur rhone, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.18843" lon="5.746327">
     <time>2020-10-02T15:56:52Z</time>
     <name>Robin b6777</name>
@@ -13476,8 +13536,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.069565" lon="4.828883">
-    <time>2018-06-04T09:27:26Z</time>
+  <wpt lat="45.068789" lon="4.830272">
+    <time>2025-09-12T09:47:22Z</time>
     <name>Colette b2884</name>
     <desc>Dans une ancienne cabine téléphonique en face de l'école.</desc>
     <type>BoiteLire Auvergne-Rhône-Alpes</type>

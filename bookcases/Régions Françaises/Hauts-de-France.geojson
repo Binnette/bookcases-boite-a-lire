@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.409337,
+          50.965136
+        ]
+      },
+      "properties": {
+        "id": 10644,
+        "nom": "Veiovis",
+        "adresse": "4 rue de l église",
+        "code_postal": "59380",
+        "ville": "Bierne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Immense boite à lire posée sur la façade de la médiathèque. on peut se garer juste en face sur le parking.",
+        "coord_gps": "50.9651357, 2.4093374",
+        "affichage": 1,
+        "date_created": "2025-09-18 10:04:23",
+        "date_updated": "2025-09-18 10:04:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.599771,
+          50.548715
+        ]
+      },
+      "properties": {
+        "id": 10643,
+        "nom": "Sandrine jacquart",
+        "adresse": "5 rue du 8 mai",
+        "code_postal": "62920",
+        "ville": "Oblinghem",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "50.5487151, 2.5997707",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:24:19",
+        "date_updated": "2025-09-16 10:24:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.968014,
           49.270381
         ]

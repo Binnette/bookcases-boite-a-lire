@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.840713" lon="2.392375">
+    <time>2025-09-16T10:22:42Z</time>
+    <name>Guingambrésil b10641</name>
+    <desc>Au carrefour des associations parisiennes.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>181 avenue daumesnil, 75012 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.817349" lon="1.991241">
+    <time>2025-09-16T10:22:34Z</time>
+    <name>Guingambrésil b10640</name>
+    <desc>À la laverie du stade.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>64 rue du stade, 78000 Versailles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.793283" lon="2.153347">
+    <time>2025-09-16T10:22:05Z</time>
+    <name>Guingambrésilr b10639</name>
+    <desc>Installée sur le muret d un particulier.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>131 rue yves le coz, 78000 Versailles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.866846" lon="2.353108">
+    <time>2025-09-16T10:21:54Z</time>
+    <name>Guingambrésil b10638</name>
+    <desc>À l entrée du square Émile chautemps donnant sur le boulevard de sébastopol.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>98 bis boulevard de sébastopol, 75003 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.848344" lon="2.350049">
+    <time>2025-09-16T10:21:44Z</time>
+    <name>Guingambrésil b10637</name>
+    <desc>Sur l aire de jeux du square paul langevin.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>20 rue monge, 75005 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.839135" lon="2.330822">
+    <time>2025-09-16T10:21:34Z</time>
+    <name>Guingambrésil b10636</name>
+    <desc>Au square yves klein.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>241 boulevard raspail, 75014 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.829882" lon="2.263269">
     <time>2025-05-19T09:45:28Z</time>
     <name>Chaitanya b10546</name>

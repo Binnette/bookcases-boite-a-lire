@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.542504,
+          42.867999
+        ]
+      },
+      "properties": {
+        "id": 10635,
+        "nom": "Philippe caulier",
+        "adresse": "Calle del parador 12",
+        "code_postal": "01192",
+        "ville": "Argomaniz/elburgo",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au centre social, dans un frigo",
+        "coord_gps": "42.8679989, -2.5425041",
+        "affichage": 1,
+        "date_created": "2025-09-15 09:46:26",
+        "date_updated": "2025-09-15 09:46:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           55.290846,
           -20.937703
         ]

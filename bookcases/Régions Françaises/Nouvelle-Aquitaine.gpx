@@ -1,5 +1,197 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.583526" lon="0.338289">
+    <time>2025-09-16T10:24:08Z</time>
+    <name>Guingambrésil b10642</name>
+    <desc>À l entrée du théâtre auditorium de poitiers.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>1 boulevard de verdun, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.110239" lon="0.061922">
+    <time>2025-09-01T09:58:44Z</time>
+    <name>Guingambrésil b10627</name>
+    <desc>Sur le parking face à l église.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de l Église, 79190 Lorigné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.111301" lon="0.064804">
+    <time>2025-09-01T09:58:39Z</time>
+    <name>Guingambrésil b10626</name>
+    <desc>À la jarge, sur le puits au croisement de la rue de la brousse et de la rue des cerisiers.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des cerisiers, 79190 Lorigné, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.08059" lon="0.083709">
+    <time>2025-09-01T09:58:29Z</time>
+    <name>Guingambrésil b10625</name>
+    <desc>À tessé, dans un abribus.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>2 rue de la chôme blanche, 16240 La forêt-de-tessé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.013667" lon="0.079625">
+    <time>2025-09-01T09:58:22Z</time>
+    <name>Guingambrésil b10624</name>
+    <desc>Sur le parking de la place.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place du champ de foire, 16240 Villefagnan, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.183079" lon="-1.113823">
+    <time>2025-09-01T09:58:17Z</time>
+    <name>Guingambrésil b10623</name>
+    <desc>Au croisement de la rue alfred sisley.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>15 rue eugène delacroix, 17138 Puilboreau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.182738" lon="-1.125162">
+    <time>2025-09-01T09:58:10Z</time>
+    <name>Guingambrésil b10622</name>
+    <desc>Au croisement de la rue du languedoc.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>35 rue de normandie, 17138 Puilboreau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.17926" lon="-1.132818">
+    <time>2025-09-01T09:57:53Z</time>
+    <name>Guingambrésil b10621</name>
+    <desc>Au croisement de la rue racine.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>9 rue corneille, 17138 Puilboreau, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.176547" lon="-1.153199">
+    <time>2025-09-01T09:57:34Z</time>
+    <name>Guingambrésil b10620</name>
+    <desc>Au bord de la route, en face du parc des sources.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des gonthières, 17140 Lagord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.184464" lon="-1.143576">
+    <time>2025-09-01T09:57:27Z</time>
+    <name>Guingambrésil b10619</name>
+    <desc>Au bord de la route.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>5 rue de l Ébeaupain, 17140 Lagord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.185523" lon="-1.164427">
+    <time>2025-09-01T09:57:20Z</time>
+    <name>Guingambrésil b10618</name>
+    <desc>Près du monument aux morts.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Parc gabriel coll, 17140 Lagord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.189054" lon="-1.148656">
+    <time>2025-09-01T09:57:13Z</time>
+    <name>Guingambrésil b10617</name>
+    <desc>Près de l aire de jeux.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Parc andré charier, 17140 Lagord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.189523" lon="-1.167067">
+    <time>2025-09-01T09:57:06Z</time>
+    <name>Guingambrésil b10616</name>
+    <desc>Au bois de la boularde.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des godettes, 17140 Lagord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.182457" lon="-1.162624">
+    <time>2025-09-01T09:56:58Z</time>
+    <name>Guingambrésil b10615</name>
+    <desc>Près du stade urbain au croisement de la rue des pêchers.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des cerisiers, 17140 Lagord, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.437721" lon="0.600297">
+    <time>2025-09-01T09:56:47Z</time>
+    <name>Guingambrésil b10614</name>
+    <desc>Au parc.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des mésanges, 86410 Lhommaizé, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.462114" lon="0.648902">
+    <time>2025-09-01T09:56:32Z</time>
+    <name>Guingambrésil b10613</name>
+    <desc>Devant la conciergerie de la centrale nucléaire.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Route de la centrale nucléaire, 86320 Civaux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.661221" lon="-0.002765">
     <time>2025-08-18T09:55:22Z</time>
     <name>Guingambrésil b10608</name>

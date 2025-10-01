@@ -6,6 +6,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.392375,
+          48.840713
+        ]
+      },
+      "properties": {
+        "id": 10641,
+        "nom": "Guingambrésil",
+        "adresse": "181 avenue daumesnil",
+        "code_postal": "75012",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au carrefour des associations parisiennes.",
+        "coord_gps": "48.8407126, 2.3923755",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:22:42",
+        "date_updated": "2025-09-16 10:22:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.991241,
+          48.817349
+        ]
+      },
+      "properties": {
+        "id": 10640,
+        "nom": "Guingambrésil",
+        "adresse": "64 rue du stade",
+        "code_postal": "78000",
+        "ville": "Versailles",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À la laverie du stade.",
+        "coord_gps": "48.8173494, 1.9912411",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:22:34",
+        "date_updated": "2025-09-16 10:22:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.153347,
+          48.793283
+        ]
+      },
+      "properties": {
+        "id": 10639,
+        "nom": "Guingambrésilr",
+        "adresse": "131 rue yves le coz",
+        "code_postal": "78000",
+        "ville": "Versailles",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Installée sur le muret d un particulier.",
+        "coord_gps": "48.7932833, 2.1533465",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:22:05",
+        "date_updated": "2025-09-16 10:22:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353108,
+          48.866846
+        ]
+      },
+      "properties": {
+        "id": 10638,
+        "nom": "Guingambrésil",
+        "adresse": "98 bis boulevard de sébastopol",
+        "code_postal": "75003",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l entrée du square Émile chautemps donnant sur le boulevard de sébastopol.",
+        "coord_gps": "48.866846, 2.3531084",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:21:54",
+        "date_updated": "2025-09-16 10:21:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350049,
+          48.848344
+        ]
+      },
+      "properties": {
+        "id": 10637,
+        "nom": "Guingambrésil",
+        "adresse": "20 rue monge",
+        "code_postal": "75005",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur l aire de jeux du square paul langevin.",
+        "coord_gps": "48.8483436, 2.3500495",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:21:44",
+        "date_updated": "2025-09-16 10:21:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.330822,
+          48.839135
+        ]
+      },
+      "properties": {
+        "id": 10636,
+        "nom": "Guingambrésil",
+        "adresse": "241 boulevard raspail",
+        "code_postal": "75014",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au square yves klein.",
+        "coord_gps": "48.8391345, 2.3308217",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:21:34",
+        "date_updated": "2025-09-16 10:21:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.263269,
           48.829882
         ]

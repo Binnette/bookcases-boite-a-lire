@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.965136" lon="2.409337">
+    <time>2025-09-18T10:04:23Z</time>
+    <name>Veiovis b10644</name>
+    <desc>Immense boite à lire posée sur la façade de la médiathèque. on peut se garer juste en face sur le parking.</desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>4 rue de l église, 59380 Bierne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.548715" lon="2.599771">
+    <time>2025-09-16T10:24:19Z</time>
+    <name>Sandrine jacquart b10643</name>
+    <desc></desc>
+    <type>BoiteLire Hauts-de-France</type>
+    <extensions>
+      <osmand:address>5 rue du 8 mai, 62920 Oblinghem, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.270381" lon="2.968014">
     <time>2025-08-18T09:53:48Z</time>
     <name>Patrice b10595</name>

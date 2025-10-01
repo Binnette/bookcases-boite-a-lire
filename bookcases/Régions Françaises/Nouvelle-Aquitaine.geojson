@@ -6,6 +6,438 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.338289,
+          46.583526
+        ]
+      },
+      "properties": {
+        "id": 10642,
+        "nom": "Guingambrésil",
+        "adresse": "1 boulevard de verdun",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l entrée du théâtre auditorium de poitiers.",
+        "coord_gps": "46.5835261, 0.338289",
+        "affichage": 1,
+        "date_created": "2025-09-16 10:22:52",
+        "date_updated": "2025-09-16 10:24:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.061922,
+          46.110239
+        ]
+      },
+      "properties": {
+        "id": 10627,
+        "nom": "Guingambrésil",
+        "adresse": "Place de l Église",
+        "code_postal": "79190",
+        "ville": "Lorigné",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking face à l église.",
+        "coord_gps": "46.1102385, 0.0619219",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:58:44",
+        "date_updated": "2025-09-01 09:58:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.064804,
+          46.111301
+        ]
+      },
+      "properties": {
+        "id": 10626,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des cerisiers",
+        "code_postal": "79190",
+        "ville": "Lorigné",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À la jarge, sur le puits au croisement de la rue de la brousse et de la rue des cerisiers.",
+        "coord_gps": "46.111301, 0.064804",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:58:39",
+        "date_updated": "2025-09-01 09:58:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.083709,
+          46.08059
+        ]
+      },
+      "properties": {
+        "id": 10625,
+        "nom": "Guingambrésil",
+        "adresse": "2 rue de la chôme blanche",
+        "code_postal": "16240",
+        "ville": "La forêt-de-tessé",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À tessé, dans un abribus.",
+        "coord_gps": "46.08059, 0.08370899999999999",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:58:29",
+        "date_updated": "2025-09-01 09:58:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079625,
+          46.013667
+        ]
+      },
+      "properties": {
+        "id": 10624,
+        "nom": "Guingambrésil",
+        "adresse": "Place du champ de foire",
+        "code_postal": "16240",
+        "ville": "Villefagnan",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking de la place.",
+        "coord_gps": "46.0136669, 0.0796253",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:58:22",
+        "date_updated": "2025-09-01 09:58:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.113823,
+          46.183079
+        ]
+      },
+      "properties": {
+        "id": 10623,
+        "nom": "Guingambrésil",
+        "adresse": "15 rue eugène delacroix",
+        "code_postal": "17138",
+        "ville": "Puilboreau",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement de la rue alfred sisley.",
+        "coord_gps": "46.1830789, -1.113823",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:58:17",
+        "date_updated": "2025-09-01 09:58:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.125162,
+          46.182738
+        ]
+      },
+      "properties": {
+        "id": 10622,
+        "nom": "Guingambrésil",
+        "adresse": "35 rue de normandie",
+        "code_postal": "17138",
+        "ville": "Puilboreau",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement de la rue du languedoc.",
+        "coord_gps": "46.1827384, -1.1251616",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:58:10",
+        "date_updated": "2025-09-01 09:58:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.132818,
+          46.17926
+        ]
+      },
+      "properties": {
+        "id": 10621,
+        "nom": "Guingambrésil",
+        "adresse": "9 rue corneille",
+        "code_postal": "17138",
+        "ville": "Puilboreau",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement de la rue racine.",
+        "coord_gps": "46.1792599, -1.1328178",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:57:43",
+        "date_updated": "2025-09-01 09:57:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.153199,
+          46.176547
+        ]
+      },
+      "properties": {
+        "id": 10620,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des gonthières",
+        "code_postal": "17140",
+        "ville": "Lagord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au bord de la route, en face du parc des sources.",
+        "coord_gps": "46.176547, -1.1531991",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:57:34",
+        "date_updated": "2025-09-01 09:57:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.143576,
+          46.184464
+        ]
+      },
+      "properties": {
+        "id": 10619,
+        "nom": "Guingambrésil",
+        "adresse": "5 rue de l Ébeaupain",
+        "code_postal": "17140",
+        "ville": "Lagord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au bord de la route.",
+        "coord_gps": "46.1844642, -1.1435762",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:57:27",
+        "date_updated": "2025-09-01 09:57:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.164427,
+          46.185523
+        ]
+      },
+      "properties": {
+        "id": 10618,
+        "nom": "Guingambrésil",
+        "adresse": "Parc gabriel coll",
+        "code_postal": "17140",
+        "ville": "Lagord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Près du monument aux morts.",
+        "coord_gps": "46.185523, -1.164427",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:57:20",
+        "date_updated": "2025-09-01 09:57:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.148656,
+          46.189054
+        ]
+      },
+      "properties": {
+        "id": 10617,
+        "nom": "Guingambrésil",
+        "adresse": "Parc andré charier",
+        "code_postal": "17140",
+        "ville": "Lagord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Près de l aire de jeux.",
+        "coord_gps": "46.1890537, -1.1486562",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:57:13",
+        "date_updated": "2025-09-01 09:57:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.167067,
+          46.189523
+        ]
+      },
+      "properties": {
+        "id": 10616,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des godettes",
+        "code_postal": "17140",
+        "ville": "Lagord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au bois de la boularde.",
+        "coord_gps": "46.1895225, -1.1670674",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:57:06",
+        "date_updated": "2025-09-01 09:57:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.162624,
+          46.182457
+        ]
+      },
+      "properties": {
+        "id": 10615,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des cerisiers",
+        "code_postal": "17140",
+        "ville": "Lagord",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Près du stade urbain au croisement de la rue des pêchers.",
+        "coord_gps": "46.1824565, -1.162624",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:56:58",
+        "date_updated": "2025-09-01 09:56:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.600297,
+          46.437721
+        ]
+      },
+      "properties": {
+        "id": 10614,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des mésanges",
+        "code_postal": "86410",
+        "ville": "Lhommaizé",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au parc.",
+        "coord_gps": "46.437721, 0.600297",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:56:47",
+        "date_updated": "2025-09-01 09:56:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.648902,
+          46.462114
+        ]
+      },
+      "properties": {
+        "id": 10613,
+        "nom": "Guingambrésil",
+        "adresse": "Route de la centrale nucléaire",
+        "code_postal": "86320",
+        "ville": "Civaux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la conciergerie de la centrale nucléaire.",
+        "coord_gps": "46.462114, 0.6489015",
+        "affichage": 1,
+        "date_created": "2025-09-01 09:56:32",
+        "date_updated": "2025-09-01 09:56:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.002765,
           46.661221
         ]

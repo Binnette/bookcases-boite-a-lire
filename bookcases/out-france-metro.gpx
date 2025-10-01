@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.867999" lon="-2.542504">
+    <time>2025-09-15T09:46:26Z</time>
+    <name>Philippe caulier b10635</name>
+    <desc>Au centre social, dans un frigo</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Calle del parador 12, 01192 Argomaniz/elburgo, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="-20.937703" lon="55.290846">
     <time>2025-01-02T09:44:08Z</time>
     <name>Lecoquierre b10445</name>
