@@ -6,6 +6,195 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.360161,
+          48.856919
+        ]
+      },
+      "properties": {
+        "id": 10669,
+        "nom": "Guingambrésil",
+        "adresse": "10 rue des rosiers",
+        "code_postal": "75004",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au jardin des rosiers - joseph-migneret.",
+        "coord_gps": "48.8569191, 2.3601612",
+        "affichage": 1,
+        "date_created": "2025-10-20 10:06:34",
+        "date_updated": "2025-10-20 10:06:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361526,
+          48.833021
+        ]
+      },
+      "properties": {
+        "id": 10659,
+        "nom": "Guingambrésil",
+        "adresse": "130 boulevard vincent auriol",
+        "code_postal": "75013",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l espace tri et propreté vincent auriol.",
+        "coord_gps": "48.8330209, 2.3615261",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:32",
+        "date_updated": "2025-10-16 09:53:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.151067,
+          48.800076
+        ]
+      },
+      "properties": {
+        "id": 10658,
+        "nom": "Guingambrésil",
+        "adresse": "5 rue de metz",
+        "code_postal": "78000",
+        "ville": "Versailles",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la rue.",
+        "coord_gps": "48.80007579999999, 2.1510674",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:23",
+        "date_updated": "2025-10-16 09:53:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357828,
+          48.871744
+        ]
+      },
+      "properties": {
+        "id": 10657,
+        "nom": "Guingambrésil",
+        "adresse": "72 rue du faubourg saint-martin",
+        "code_postal": "75010",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l accueil de la mairie du 10e arrondissement.",
+        "coord_gps": "48.87174419999999, 2.357828",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:17",
+        "date_updated": "2025-10-16 09:53:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.154945,
+          48.794545
+        ]
+      },
+      "properties": {
+        "id": 10656,
+        "nom": "Guingambrésil",
+        "adresse": "86 rue yves le coz",
+        "code_postal": "78000",
+        "ville": "Versailles",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À la maison de quartier de porchefontaine.",
+        "coord_gps": "48.79454510000001, 2.1549446",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:09",
+        "date_updated": "2025-10-16 09:53:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315078,
+          48.862011
+        ]
+      },
+      "properties": {
+        "id": 10655,
+        "nom": "Guingambrésil",
+        "adresse": "Rue robert-esnault-pelterie",
+        "code_postal": "75007",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À un espace de travail de la station de métro invalides, derrière les portillons d accès en arrivant de la sortie 2.",
+        "coord_gps": "48.8620108, 2.3150778",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:04",
+        "date_updated": "2025-10-16 09:53:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33253,
+          48.850494
+        ]
+      },
+      "properties": {
+        "id": 10654,
+        "nom": "Guingambrésil",
+        "adresse": "78 rue bonaparte",
+        "code_postal": "75006",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l entrée de la mairie du 6e arrondissement.",
+        "coord_gps": "48.8504939, 2.3325297",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:52:57",
+        "date_updated": "2025-10-16 09:52:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.392375,
           48.840713
         ]

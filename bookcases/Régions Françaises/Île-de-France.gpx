@@ -1,5 +1,89 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.856919" lon="2.360161">
+    <time>2025-10-20T10:06:34Z</time>
+    <name>Guingambrésil b10669</name>
+    <desc>Au jardin des rosiers - joseph-migneret.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>10 rue des rosiers, 75004 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.833021" lon="2.361526">
+    <time>2025-10-16T09:53:32Z</time>
+    <name>Guingambrésil b10659</name>
+    <desc>À l espace tri et propreté vincent auriol.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>130 boulevard vincent auriol, 75013 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.800076" lon="2.151067">
+    <time>2025-10-16T09:53:23Z</time>
+    <name>Guingambrésil b10658</name>
+    <desc>Le long de la rue.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>5 rue de metz, 78000 Versailles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.871744" lon="2.357828">
+    <time>2025-10-16T09:53:17Z</time>
+    <name>Guingambrésil b10657</name>
+    <desc>Devant l accueil de la mairie du 10e arrondissement.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>72 rue du faubourg saint-martin, 75010 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.794545" lon="2.154945">
+    <time>2025-10-16T09:53:09Z</time>
+    <name>Guingambrésil b10656</name>
+    <desc>À la maison de quartier de porchefontaine.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>86 rue yves le coz, 78000 Versailles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.862011" lon="2.315078">
+    <time>2025-10-16T09:53:04Z</time>
+    <name>Guingambrésil b10655</name>
+    <desc>À un espace de travail de la station de métro invalides, derrière les portillons d accès en arrivant de la sortie 2.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue robert-esnault-pelterie, 75007 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.850494" lon="2.33253">
+    <time>2025-10-16T09:52:57Z</time>
+    <name>Guingambrésil b10654</name>
+    <desc>À l entrée de la mairie du 6e arrondissement.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>78 rue bonaparte, 75006 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.840713" lon="2.392375">
     <time>2025-09-16T10:22:42Z</time>
     <name>Guingambrésil b10641</name>

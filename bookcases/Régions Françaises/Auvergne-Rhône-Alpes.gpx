@@ -1,5 +1,125 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.212801" lon="6.467881">
+    <time>2025-10-20T10:06:24Z</time>
+    <name>Thierry d. b10668</name>
+    <desc>Belle boite à lire au croisement de la route de chamontain et de la route de l ecole.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>82 route de chamontain, 73140 Saint martin d arc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.194869" lon="6.44941">
+    <time>2025-10-20T10:06:18Z</time>
+    <name>Thierry d. b10667</name>
+    <desc>La boite à lire est dans la cabane sur le parking à coté des bacs de recyclage, à l intersection de la route du télégraphe et de la route de cense.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route du télégraphe, 73140 Saint martin d arc, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.689736" lon="5.818741">
+    <time>2025-10-16T09:54:23Z</time>
+    <name>Bibbliothèque b10665</name>
+    <desc>à côté de la porte de la biblio</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>75 rue albert blanc, 73170 Saint jean de chevelu, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.722859" lon="6.404757">
+    <time>2025-10-07T09:54:40Z</time>
+    <name>Thierry d. b10652</name>
+    <desc>Boite à lire au chalet de pêche du plan d eau de l'espignier.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Route du chef-lieu, 73400 Marthod, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.533" lon="6.055502">
+    <time>2025-10-07T09:54:33Z</time>
+    <name>Thierry d. b10651</name>
+    <desc>Boite à lire dans une cabine téléphonique sur le coté de la mairie et ecole.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>12 route du lac, 73190 La thuile, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.673401" lon="6.336776">
+    <time>2025-10-07T09:54:27Z</time>
+    <name>Thierry d. b10650</name>
+    <desc>Boite à lire dans l abribus devant l'école.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>1008 route de chevron, 73200 Mercury, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.571169" lon="6.739176">
+    <time>2025-10-07T09:54:20Z</time>
+    <name>Thierry d. b10649</name>
+    <desc>Boite à lire sous l abri à coté du bassin.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>70 route d hauteville, 73210 Landry, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.543771" lon="6.756965">
+    <time>2025-10-07T09:54:14Z</time>
+    <name>Thierry d. b10648</name>
+    <desc>Boite à lire située à coté des toilettes vers l office de tourisme.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de roscanvel, 73210 Peisey-nancroix, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.788841" lon="5.946688">
+    <time>2025-10-07T09:54:07Z</time>
+    <name>Thierry d. b10647</name>
+    <desc>La boite à lire est dans l abribus en face de l'école.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>360 rue du 8 mai 1945, 73410 Albens entrelacs, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.778426" lon="5.890997">
+    <time>2025-10-07T09:53:57Z</time>
+    <name>Thierry d. b10646</name>
+    <desc>Boite à lire à l entrée de l'école.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Place de l isérable, d58e, 73410 Saint germain la chambotte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.477884" lon="6.26387">
     <time>2025-09-02T10:17:10Z</time>
     <name>Thierry d. b10633</name>

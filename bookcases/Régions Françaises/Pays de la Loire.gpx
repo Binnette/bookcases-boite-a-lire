@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.197018" lon="-1.436999">
+    <time>2025-10-07T09:54:54Z</time>
+    <name>Stéphane chapuy b10653</name>
+    <desc>La boite à livres se trouve près du banc sous les arbres</desc>
+    <type>BoiteLire Pays de la Loire</type>
+    <extensions>
+      <osmand:address>2 impasse des tilleuls, 44115 Haute goulaine, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.204493" lon="-1.589948">
     <time>2025-07-16T10:33:08Z</time>
     <name>Julier b10562</name>
@@ -55,18 +67,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Médiathèque rue de l eglise, 85770 L ile d'elle, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.31211" lon="-1.284362">
-    <time>2025-04-01T09:23:59Z</time>
-    <name>Mairie de l aiguillon la presqu'île b10504</name>
-    <desc>Ancienne cabine téléphonique anglaise transformée en boîte à livres, au bord du plan d eau</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Plan d eau de l'aiguillon-sur-mer, 85460 L aiguillon-la-presqu'île, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -4452,18 +4452,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.671064" lon="-1.826995">
-    <time>2018-08-07T10:52:17Z</time>
-    <name>Déborah b3328</name>
-    <desc>La boîte à livres se situe devant l entrée du magasin vival.</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>8 rue georges clemenceau, 85220 L aiguillon-sur-vie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.133644" lon="-1.732578">
     <time>2018-08-06T11:48:13Z</time>
     <name>Emda b3323</name>
@@ -6559,18 +6547,6 @@
     <type>BoiteLire Pays de la Loire</type>
     <extensions>
       <osmand:address>Rue bonséjour, 85120 La châtaigneraie, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.331991" lon="-1.306408">
-    <time></time>
-    <name>Pauline cormier b341</name>
-    <desc>Boite à lire mise en place par le réseau des médiathèques du pays né de la mer</desc>
-    <type>BoiteLire Pays de la Loire</type>
-    <extensions>
-      <osmand:address>Avenue amiral courbet, 85460 L aiguillon sur mer, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

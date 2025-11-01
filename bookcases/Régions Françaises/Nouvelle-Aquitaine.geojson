@@ -6,6 +6,195 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.213749,
+          46.227638
+        ]
+      },
+      "properties": {
+        "id": 10666,
+        "nom": "Caseysom",
+        "adresse": "Lindadrews87@gmail.com",
+        "code_postal": "+1285403557",
+        "ville": "+12854035571",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Save money and be sustainable - https://is.gd/nwojq9",
+        "coord_gps": "46.227638, 2.213749",
+        "affichage": 1,
+        "date_created": "2025-10-20 10:06:05",
+        "date_updated": "2025-10-20 10:06:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.510811,
+          46.299916
+        ]
+      },
+      "properties": {
+        "id": 10664,
+        "nom": "Guingambrésil",
+        "adresse": "Rue de l Église",
+        "code_postal": "79000",
+        "ville": "Bessines",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au parc près de la salle de la grange.",
+        "coord_gps": "46.2999158, -0.5108106",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:54:14",
+        "date_updated": "2025-10-16 09:54:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515908,
+          46.302697
+        ]
+      },
+      "properties": {
+        "id": 10663,
+        "nom": "Guingambrésil",
+        "adresse": "8 rue du four",
+        "code_postal": "79000",
+        "ville": "Bessines",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À côté de la salle des fêtes.",
+        "coord_gps": "46.3026968, -0.5159081999999999",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:54:07",
+        "date_updated": "2025-10-16 09:54:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541605,
+          46.313172
+        ]
+      },
+      "properties": {
+        "id": 10662,
+        "nom": "Guingambrésil",
+        "adresse": "267 avenue du marais poitevin",
+        "code_postal": "79460",
+        "ville": "Magné",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur l aire de jeux derrière le stade.",
+        "coord_gps": "46.3131716, -0.5416054",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:54:01",
+        "date_updated": "2025-10-16 09:54:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.548993,
+          46.314906
+        ]
+      },
+      "properties": {
+        "id": 10661,
+        "nom": "Guingambrésil",
+        "adresse": "10 avenue de la brieserie",
+        "code_postal": "79460",
+        "ville": "Magné",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l espace associatif pierre waldeck-rousseau.",
+        "coord_gps": "46.3149062, -0.5489929",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:53",
+        "date_updated": "2025-10-16 09:53:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.526152,
+          46.36902
+        ]
+      },
+      "properties": {
+        "id": 10660,
+        "nom": "Guingambrésil",
+        "adresse": "8 rue du château d eau",
+        "code_postal": "79410",
+        "ville": "Saint-rémy",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking le long de la médiathèque.",
+        "coord_gps": "46.3690202, -0.5261524",
+        "affichage": 1,
+        "date_created": "2025-10-16 09:53:42",
+        "date_updated": "2025-10-16 09:53:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.494096,
+          46.264815
+        ]
+      },
+      "properties": {
+        "id": 10645,
+        "nom": "P.chotard",
+        "adresse": "10 grande rue",
+        "code_postal": "79270",
+        "ville": "Saint symphorien ",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": " abri-livres ouvert 24h /24h à l'entrée du parking de la maison des associations ",
+        "coord_gps": "46.2648151, -0.4940959999999999",
+        "affichage": 1,
+        "date_created": "2025-10-07 09:53:36",
+        "date_updated": "2025-10-07 09:53:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.338289,
           46.583526
         ]
@@ -3779,33 +3968,6 @@
         "affichage": 1,
         "date_created": "2024-07-18 10:02:57",
         "date_updated": "2024-07-18 10:02:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.213749,
-          46.227638
-        ]
-      },
-      "properties": {
-        "id": 10205,
-        "nom": "Violette",
-        "adresse": "Bryggestredet",
-        "code_postal": "05003",
-        "ville": "Bergen",
-        "pays": "France",
-        "creditimage": "",
-        "email": "",
-        "image": "boitealire_0.png",
-        "image_admin": null,
-        "remarque": "Ancienne cabine téléphonique rouge",
-        "coord_gps": "46.227638, 2.213749",
-        "affichage": 1,
-        "date_created": "2024-07-08 09:53:25",
-        "date_updated": "2024-07-08 09:53:25"
       }
     },
     {
