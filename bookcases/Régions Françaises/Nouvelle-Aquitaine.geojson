@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.373026,
+          46.574054
+        ]
+      },
+      "properties": {
+        "id": 10671,
+        "nom": "Guingambrésil",
+        "adresse": "2 avenue de lafayette",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Prés de l entrée ouest de la galerie beaulieu, en face du restaurant brut butcher.",
+        "coord_gps": "46.5740541, 0.3730263",
+        "affichage": 1,
+        "date_created": "2025-11-05 10:24:48",
+        "date_updated": "2025-11-05 10:24:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.368751,
+          46.56626
+        ]
+      },
+      "properties": {
+        "id": 10670,
+        "nom": "Guingambrésil",
+        "adresse": "111 rue de la gibauderie",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la maison de la gibauderie. se trouve également une boîte à dons à l intérieur.",
+        "coord_gps": "46.56626019999999, 0.3687514",
+        "affichage": 1,
+        "date_created": "2025-11-05 10:24:40",
+        "date_updated": "2025-11-05 10:24:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.213749,
           46.227638
         ]

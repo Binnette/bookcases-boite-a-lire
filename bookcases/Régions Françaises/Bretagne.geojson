@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.089742,
+          48.845801
+        ]
+      },
+      "properties": {
+        "id": 10675,
+        "nom": "Violette",
+        "adresse": "Kermen 6",
+        "code_postal": "26610",
+        "ville": "Lanmodez",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à livre en forme de bateau",
+        "coord_gps": "48.8458005, -3.0897423",
+        "affichage": 1,
+        "date_created": "2025-11-20 09:42:28",
+        "date_updated": "2025-11-20 09:42:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.454,
           47.699556
         ]

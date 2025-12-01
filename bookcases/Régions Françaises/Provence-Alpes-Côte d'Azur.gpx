@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.42142" lon="6.749347">
+    <time>2025-11-06T15:27:02Z</time>
+    <name>Victor b10672</name>
+    <desc>Située dans la capitainerie du port, en libre accès</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>54 passage des caryatides,  , 83600 Fréjus, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.944792" lon="6.553509">
     <time>2025-07-16T10:30:48Z</time>
     <name>Thierry d. b10558</name>

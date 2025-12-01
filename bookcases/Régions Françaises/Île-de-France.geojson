@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.791475,
+          49.081231
+        ]
+      },
+      "properties": {
+        "id": 10674,
+        "nom": "Xxx",
+        "adresse": "Rue des petits ormes",
+        "code_postal": "77178",
+        "ville": "Saint-pathus",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "49.081231, 2.791475",
+        "affichage": 1,
+        "date_created": "2025-11-17 15:44:36",
+        "date_updated": "2025-11-17 15:44:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.786075,
+          49.077957
+        ]
+      },
+      "properties": {
+        "id": 10673,
+        "nom": "Xxx",
+        "adresse": "Rue des alouettes",
+        "code_postal": "77178",
+        "ville": "Saint-pathus",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Rue des alouettes (proche de l'école perrault)",
+        "coord_gps": "49.0779569, 2.7860755",
+        "affichage": 1,
+        "date_created": "2025-11-17 15:43:39",
+        "date_updated": "2025-11-17 15:43:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.360161,
           48.856919
         ]
@@ -30720,11 +30774,11 @@
         "email": "",
         "image": "20170511115744-8848557.jpg",
         "image_admin": null,
-        "remarque": "",
+        "remarque": "Rond-point des anciens combattants, rue du capitaine leuridan",
         "coord_gps": "49.0714871, 2.8044209",
         "affichage": 1,
         "date_created": "2017-05-11 11:58:02",
-        "date_updated": "2017-05-11 11:58:02"
+        "date_updated": "2025-11-17 15:42:08"
       }
     },
     {

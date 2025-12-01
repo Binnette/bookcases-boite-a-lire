@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.749347,
+          43.42142
+        ]
+      },
+      "properties": {
+        "id": 10672,
+        "nom": "Victor",
+        "adresse": "54 passage des caryatides,  ",
+        "code_postal": "83600",
+        "ville": "Fréjus",
+        "pays": "France",
+        "creditimage": "Victor",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": "10672.jpg",
+        "remarque": "Située dans la capitainerie du port, en libre accès",
+        "coord_gps": "43.4214197, 6.749346900000001",
+        "affichage": 1,
+        "date_created": "2025-11-06 15:21:09",
+        "date_updated": "2025-11-06 15:27:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.553509,
           44.944792
         ]
