@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          44.720274,
+          41.845425
+        ]
+      },
+      "properties": {
+        "id": 10678,
+        "nom": "Leecep",
+        "adresse": "Zekisuquc419@gmail.com",
+        "code_postal": "Mtskheta",
+        "ville": "Mtskheta",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "41.8454251, 44.7202739",
+        "affichage": 1,
+        "date_created": "2025-12-15 09:48:42",
+        "date_updated": "2025-12-15 09:48:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.542504,
           42.867999
         ]

@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.336607,
+          46.442561
+        ]
+      },
+      "properties": {
+        "id": 10680,
+        "nom": "Guingambrésil",
+        "adresse": "Place de la mairie",
+        "code_postal": "86340",
+        "ville": "Aslonnes",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la mairie.",
+        "coord_gps": "46.4425613, 0.3366069",
+        "affichage": 1,
+        "date_created": "2025-12-17 10:14:39",
+        "date_updated": "2025-12-17 10:14:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.311742,
+          46.416115
+        ]
+      },
+      "properties": {
+        "id": 10679,
+        "nom": "Guingambrésil",
+        "adresse": "4 rue de la mairie",
+        "code_postal": "86370",
+        "ville": "Château-larcher",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous le préau le long de la mairie.",
+        "coord_gps": "46.4161147, 0.3117421",
+        "affichage": 1,
+        "date_created": "2025-12-17 10:14:29",
+        "date_updated": "2025-12-17 10:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.373026,
           46.574054
         ]

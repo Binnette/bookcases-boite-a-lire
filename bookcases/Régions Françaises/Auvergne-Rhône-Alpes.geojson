@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.160104,
+          45.832356
+        ]
+      },
+      "properties": {
+        "id": 10681,
+        "nom": "Thierry d.",
+        "adresse": "Allée des peupliers",
+        "code_postal": "74410",
+        "ville": "Saint jorioz",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boite à lire à coté de la passerelle en bois.",
+        "coord_gps": "45.8323557, 6.1601044",
+        "affichage": 1,
+        "date_created": "2025-12-29 09:13:29",
+        "date_updated": "2025-12-29 09:13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.467881,
           45.212801
         ]

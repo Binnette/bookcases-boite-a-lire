@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.374606,
+          47.745279
+        ]
+      },
+      "properties": {
+        "id": 10676,
+        "nom": "Sören",
+        "adresse": "43 bis avenue de jean jaurès",
+        "code_postal": "56100",
+        "ville": "Lorient",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Elle est située à côté de l auto-école.",
+        "coord_gps": "47.7452789, -3.374606",
+        "affichage": 1,
+        "date_created": "2025-12-01 10:10:47",
+        "date_updated": "2025-12-01 10:10:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.089742,
           48.845801
         ]

@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.442561" lon="0.336607">
+    <time>2025-12-17T10:14:39Z</time>
+    <name>Guingambrésil b10680</name>
+    <desc>Devant la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 86340 Aslonnes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.416115" lon="0.311742">
+    <time>2025-12-17T10:14:29Z</time>
+    <name>Guingambrésil b10679</name>
+    <desc>Sous le préau le long de la mairie.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>4 rue de la mairie, 86370 Château-larcher, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.574054" lon="0.373026">
     <time>2025-11-05T10:24:48Z</time>
     <name>Guingambrésil b10671</name>

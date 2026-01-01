@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.745279" lon="-3.374606">
+    <time>2025-12-01T10:10:47Z</time>
+    <name>Sören b10676</name>
+    <desc>Elle est située à côté de l auto-école.</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>43 bis avenue de jean jaurès, 56100 Lorient, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.845801" lon="-3.089742">
     <time>2025-11-20T09:42:28Z</time>
     <name>Violette b10675</name>

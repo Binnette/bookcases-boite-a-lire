@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="41.845425" lon="44.720274">
+    <time>2025-12-15T09:48:42Z</time>
+    <name>Leecep b10678</name>
+    <desc></desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>Zekisuquc419@gmail.com, Mtskheta Mtskheta, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="42.867999" lon="-2.542504">
     <time>2025-09-15T09:46:26Z</time>
     <name>Philippe caulier b10635</name>

@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.894579" lon="2.351067">
+    <time>2025-12-03T09:58:49Z</time>
+    <name>Philippe caulier b10677</name>
+    <desc>Dans le jardin henri sauvage</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue des amiraux, 75018 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.081231" lon="2.791475">
     <time>2025-11-17T15:44:36Z</time>
     <name>Xxx b10674</name>

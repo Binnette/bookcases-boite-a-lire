@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.351067,
+          48.894579
+        ]
+      },
+      "properties": {
+        "id": 10677,
+        "nom": "Philippe caulier",
+        "adresse": "Rue des amiraux",
+        "code_postal": "75018",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans le jardin henri sauvage",
+        "coord_gps": "48.8945787, 2.3510671",
+        "affichage": 1,
+        "date_created": "2025-12-03 09:58:49",
+        "date_updated": "2025-12-03 09:58:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.791475,
           49.081231
         ]
