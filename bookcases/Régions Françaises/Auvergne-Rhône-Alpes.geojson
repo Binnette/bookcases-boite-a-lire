@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.829629,
+          45.734298
+        ]
+      },
+      "properties": {
+        "id": 10687,
+        "nom": "Amelie",
+        "adresse": "Croisement rue andré bollier et rue marcel mérieux",
+        "code_postal": "69007",
+        "ville": "Lyon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Cette boîte est située au croisement de la rue andré bollier et rue marcel mérieux. elle est fixée contre le mur de l école berthelier. elle est accessible 24h/24h.",
+        "coord_gps": "45.7342976, 4.8296287",
+        "affichage": 1,
+        "date_created": "2026-01-28 14:50:27",
+        "date_updated": "2026-01-28 14:50:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837267,
+          45.737444
+        ]
+      },
+      "properties": {
+        "id": 10686,
+        "nom": "Amelie",
+        "adresse": "Croisement de la rue challemel lacour et de l avenue jean jaurès",
+        "code_postal": "69007",
+        "ville": "Lyon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Cette boîte est située au croisement de la rue challemel lacour et de l avenue jean jaurès. elle est fixée contre le mur de la résidence sénior jean jaurès. elle est accessible 24h/24h. elle est gérée par le conseil de quartier gerland.",
+        "coord_gps": "45.737444, 4.8372674",
+        "affichage": 1,
+        "date_created": "2026-01-28 14:50:16",
+        "date_updated": "2026-01-28 14:50:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894096,
+          45.753312
+        ]
+      },
+      "properties": {
+        "id": 10685,
+        "nom": "Amelie",
+        "adresse": "Arène de la cité jardin",
+        "code_postal": "69007",
+        "ville": "Lyon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ces deux boites en formes de robots sont situées dans l arène de la cité jardin, à l'intérieur des immeubles délimités à l'ouest par la rue georges gouy et au nord par la rue challemel lacour.",
+        "coord_gps": "45.7533123, 4.894095699999999",
+        "affichage": 1,
+        "date_created": "2026-01-28 14:50:07",
+        "date_updated": "2026-01-28 14:50:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.160104,
           45.832356
         ]
@@ -12824,33 +12905,6 @@
         "affichage": 1,
         "date_created": "2021-07-26 15:20:51",
         "date_updated": "2021-07-26 15:20:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.827335,
-          45.735723
-        ]
-      },
-      "properties": {
-        "id": 7847,
-        "nom": "Didou",
-        "adresse": "136 rue yves farge",
-        "code_postal": "69007",
-        "ville": "Lyon",
-        "pays": "France",
-        "creditimage": "",
-        "email": "",
-        "image": "boitealire_0.png",
-        "image_admin": null,
-        "remarque": "Une boîte située juste à côté de l arrêt de bus ayasse yves farge, proche du super u. nourrissez-là et partagez ainsi vos meilleures émotions, de toutes les façons de voir, de lire, de connaître, de comprendre, de voyager, etc. a vos livres ! bien à vous !",
-        "coord_gps": "45.7357225, 4.8273349",
-        "affichage": 1,
-        "date_created": "2021-07-26 15:20:27",
-        "date_updated": "2021-07-26 15:20:27"
       }
     },
     {
@@ -35693,33 +35747,6 @@
         "affichage": 1,
         "date_created": "2017-06-28 14:35:12",
         "date_updated": "2017-06-28 14:35:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.826831,
-          45.735696
-        ]
-      },
-      "properties": {
-        "id": 1207,
-        "nom": "Vergne laure",
-        "adresse": "136 boulevard yves farge",
-        "code_postal": "69007",
-        "ville": "Lyon",
-        "pays": "France",
-        "creditimage": "Vergne laure",
-        "email": "",
-        "image": "20170626101311-2986531.jpg",
-        "image_admin": null,
-        "remarque": "Co-réalisée par la commission culture du conseil de quartier de gerland et le foyer apf l'etincelle.",
-        "coord_gps": "45.7356963, 4.8268306",
-        "affichage": 1,
-        "date_created": "2017-06-26 10:10:53",
-        "date_updated": "2018-08-20 09:47:08"
       }
     },
     {

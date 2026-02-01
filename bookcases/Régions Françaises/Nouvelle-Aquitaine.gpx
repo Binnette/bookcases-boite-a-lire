@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.732727" lon="-0.643901">
+    <time>2026-01-27T09:51:49Z</time>
+    <name>Conseil citoyen de saintes b10684</name>
+    <desc>La malle aux livres se trouve dans la galerie marchande de bellevue, quartier bellevue. mise en place par le conseil citoyen, avec un stock important de livres, cet espace est aussi un espace d information concentré principalement sur les évènements des quartiers boiffiers et bellevue.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>6 av. de bellevue, 17100 saintes, 17100 Saintes, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.575329" lon="0.364404">
+    <time>2026-01-05T09:57:42Z</time>
+    <name>Guingambrésil b10683</name>
+    <desc>Biblio vore installé à côté de la boîte à lettres d'un particulier.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>1 rue auguste maître, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.579089" lon="0.339749">
+    <time>2026-01-05T09:57:32Z</time>
+    <name>Guingambrésil b10682</name>
+    <desc>À l entrée de la supérette le marché de léopold.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>20-22 rue magenta, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.442561" lon="0.336607">
     <time>2025-12-17T10:14:39Z</time>
     <name>Guingambrésil b10680</name>

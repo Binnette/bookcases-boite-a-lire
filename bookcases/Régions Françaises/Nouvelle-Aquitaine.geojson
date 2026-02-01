@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.643901,
+          45.732727
+        ]
+      },
+      "properties": {
+        "id": 10684,
+        "nom": "Conseil citoyen de saintes",
+        "adresse": "6 av. de bellevue, 17100 saintes",
+        "code_postal": "17100",
+        "ville": "Saintes",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La malle aux livres se trouve dans la galerie marchande de bellevue, quartier bellevue. mise en place par le conseil citoyen, avec un stock important de livres, cet espace est aussi un espace d information concentré principalement sur les évènements des quartiers boiffiers et bellevue.",
+        "coord_gps": "45.7327272, -0.6439009",
+        "affichage": 1,
+        "date_created": "2026-01-27 09:51:49",
+        "date_updated": "2026-01-27 09:51:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.364404,
+          46.575329
+        ]
+      },
+      "properties": {
+        "id": 10683,
+        "nom": "Guingambrésil",
+        "adresse": "1 rue auguste maître",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Biblio vore installé à côté de la boîte à lettres d'un particulier.",
+        "coord_gps": "46.5753293, 0.3644038",
+        "affichage": 1,
+        "date_created": "2026-01-05 09:57:42",
+        "date_updated": "2026-01-05 09:57:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.339749,
+          46.579089
+        ]
+      },
+      "properties": {
+        "id": 10682,
+        "nom": "Guingambrésil",
+        "adresse": "20-22 rue magenta",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l entrée de la supérette le marché de léopold.",
+        "coord_gps": "46.5790889, 0.3397491",
+        "affichage": 1,
+        "date_created": "2026-01-05 09:57:32",
+        "date_updated": "2026-01-05 09:57:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.336607,
           46.442561
         ]

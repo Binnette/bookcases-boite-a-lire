@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.734298" lon="4.829629">
+    <time>2026-01-28T14:50:27Z</time>
+    <name>Amelie b10687</name>
+    <desc>Cette boîte est située au croisement de la rue andré bollier et rue marcel mérieux. elle est fixée contre le mur de l école berthelier. elle est accessible 24h/24h.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Croisement rue andré bollier et rue marcel mérieux, 69007 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.737444" lon="4.837267">
+    <time>2026-01-28T14:50:16Z</time>
+    <name>Amelie b10686</name>
+    <desc>Cette boîte est située au croisement de la rue challemel lacour et de l avenue jean jaurès. elle est fixée contre le mur de la résidence sénior jean jaurès. elle est accessible 24h/24h. elle est gérée par le conseil de quartier gerland.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Croisement de la rue challemel lacour et de l avenue jean jaurès, 69007 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.753312" lon="4.894096">
+    <time>2026-01-28T14:50:07Z</time>
+    <name>Amelie b10685</name>
+    <desc>Ces deux boites en formes de robots sont situées dans l arène de la cité jardin, à l'intérieur des immeubles délimités à l'ouest par la rue georges gouy et au nord par la rue challemel lacour.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>Arène de la cité jardin, 69007 Lyon, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.832356" lon="6.160104">
     <time>2025-12-29T09:13:29Z</time>
     <name>Thierry d. b10681</name>
@@ -5695,18 +5731,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>L?hermet, 43110 Aurec sur loire, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.735723" lon="4.827335">
-    <time>2021-07-26T15:20:27Z</time>
-    <name>Didou b7847</name>
-    <desc>Une boîte située juste à côté de l arrêt de bus ayasse yves farge, proche du super u. nourrissez-là et partagez ainsi vos meilleures émotions, de toutes les façons de voir, de lire, de connaître, de comprendre, de voyager, etc. a vos livres ! bien à vous !</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>136 rue yves farge, 69007 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -15859,18 +15883,6 @@
     <type>BoiteLire Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:address>3 chemin du fort, 69340 Francheville, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.735696" lon="4.826831">
-    <time>2018-08-20T09:47:08Z</time>
-    <name>Vergne laure b1207</name>
-    <desc>Co-réalisée par la commission culture du conseil de quartier de gerland et le foyer apf l'etincelle.</desc>
-    <type>BoiteLire Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:address>136 boulevard yves farge, 69007 Lyon, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>
