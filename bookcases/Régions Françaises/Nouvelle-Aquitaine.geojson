@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.252937,
+          46.646285
+        ]
+      },
+      "properties": {
+        "id": 10688,
+        "nom": "Guingambrésil",
+        "adresse": "14 rue du sépulcre",
+        "code_postal": "79200",
+        "ville": "Parthenay",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant des portes de garage. les mercredis matins, le garage est ouvert et d autres livres sont à disposition.",
+        "coord_gps": "46.6462847, -0.2529371",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:21:30",
+        "date_updated": "2026-02-02 09:21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.643901,
           45.732727
         ]

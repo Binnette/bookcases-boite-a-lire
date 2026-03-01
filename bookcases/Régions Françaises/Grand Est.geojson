@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.134492,
+          49.093994
+        ]
+      },
+      "properties": {
+        "id": 10697,
+        "nom": "Fff",
+        "adresse": "44 av. jean-claude theobald",
+        "code_postal": "57160",
+        "ville": "Moulins-lès-metz",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans la galerie marchande carrefour",
+        "coord_gps": "49.093994, 6.134492",
+        "affichage": 1,
+        "date_created": "2026-02-04 16:36:24",
+        "date_updated": "2026-02-04 16:36:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.158504,
+          49.102974
+        ]
+      },
+      "properties": {
+        "id": 10696,
+        "nom": "Fff",
+        "adresse": "73, rue de pont-À-mousson",
+        "code_postal": "57900",
+        "ville": "Montigny-lès-metz",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "à proximité de la statue- parc du château de courcelles",
+        "coord_gps": "49.1029737, 6.1585044",
+        "affichage": 1,
+        "date_created": "2026-02-04 16:35:24",
+        "date_updated": "2026-02-04 16:35:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.162526,
+          49.104546
+        ]
+      },
+      "properties": {
+        "id": 10695,
+        "nom": "Fff",
+        "adresse": "27 rue de pont-à-mousson",
+        "code_postal": "57950",
+        "ville": "Montigny-lès-metz",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Entre le jardin des roses et les érables japonais, devant le séquoia centenaire",
+        "coord_gps": "49.1045459, 6.1625261",
+        "affichage": 1,
+        "date_created": "2026-02-04 16:34:15",
+        "date_updated": "2026-02-04 16:34:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.267133,
           48.871186
         ]
@@ -15416,33 +15497,6 @@
         "affichage": 1,
         "date_created": "2018-07-02 09:34:17",
         "date_updated": "2018-07-02 09:34:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.205223,
-          49.105273
-        ]
-      },
-      "properties": {
-        "id": 3024,
-        "nom": "Lainé",
-        "adresse": "Mélanie",
-        "code_postal": "57070",
-        "ville": "Metz",
-        "pays": "France",
-        "creditimage": "Lainé",
-        "email": "",
-        "image": "3024_20180702093227.png",
-        "image_admin": "3024.png",
-        "remarque": "Cour du centre socio culturel bon pasteur",
-        "coord_gps": "49.1052729, 6.205223",
-        "affichage": 1,
-        "date_created": "2018-07-02 09:33:42",
-        "date_updated": "2018-07-02 09:33:58"
       }
     },
     {

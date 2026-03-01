@@ -1,5 +1,125 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.328744" lon="0.590085">
+    <time>2026-02-24T09:46:16Z</time>
+    <name>Koenig b10707</name>
+    <desc>En libre accès, installée par la municipalité et gérée par l association les amis du livre et du patrimoine"</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Square du bicentenaire à miré, 37510 Ballan-miré, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.341729" lon="0.615172">
+    <time>2026-02-24T09:46:08Z</time>
+    <name>Koenig b10706</name>
+    <desc>Plus particulièrement consacré aux livres de cuisine ... mais souvent les gouts se mélangent ! géré par l équipe du restaurant et la municipalité</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>16 rue du général leclerc, 37510 Ballan-miré, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.353581" lon="0.639576">
+    <time>2026-02-24T09:45:58Z</time>
+    <name>Koenig b10705</name>
+    <desc>Idéalement placée sur la promenade autour du lac, avec un grand parking à côté, cette boite à livres est gérée par l association des mignardières de ballan miré</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Lac des bretonnières, 37300 Joue les tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.360026" lon="0.743123">
+    <time>2026-02-16T09:47:52Z</time>
+    <name>Guingambrésil b10704</name>
+    <desc>Devant le marché des onze arpents.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Mail rené cassin, 37550 Saint-avertin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.364852" lon="0.752733">
+    <time>2026-02-16T09:47:44Z</time>
+    <name>Guingambrésil b10703</name>
+    <desc>Le long de l avenue, au croisement de la rue jacquelin d'andigné.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>12 avenue de l orangerie, 37270 Larçay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.369064" lon="0.727735">
+    <time>2026-02-16T09:47:37Z</time>
+    <name>Guingambrésil b10702</name>
+    <desc>Au bord du lac de saint-avertin, devant le restaurant le clapotis.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>10 boulevard paul doumer, 37550 Saint-avertin, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.373479" lon="0.696556">
+    <time>2026-02-16T09:47:31Z</time>
+    <name>Guingambrésil b10701</name>
+    <desc>Près de l aire de jeux.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Square mendelssohn, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.377101" lon="0.680348">
+    <time>2026-02-16T09:47:22Z</time>
+    <name>Guingambrésil b10700</name>
+    <desc>Le long de la barre d immeubles, devant le square.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>1 allée des Érables, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.381958" lon="0.658259">
+    <time>2026-02-16T09:47:13Z</time>
+    <name>Guingambrésil b10699</name>
+    <desc>Sur l espace vert le long de la rue.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>8 rue Étienne jodelle, 37520 La riche, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.978683" lon="1.611131">
+    <time>2026-02-09T09:42:41Z</time>
+    <name>Tif b10698</name>
+    <desc>De tout en lecture, partagez vos lecture faites voyager ces livres</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>Place de la république, 36110 Levroux, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.079853" lon="1.350253">
     <time>2025-07-16T10:30:20Z</time>
     <name>Forton b10557</name>

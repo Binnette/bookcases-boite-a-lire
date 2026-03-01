@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.093994" lon="6.134492">
+    <time>2026-02-04T16:36:24Z</time>
+    <name>Fff b10697</name>
+    <desc>Dans la galerie marchande carrefour</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>44 av. jean-claude theobald, 57160 Moulins-lès-metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.102974" lon="6.158504">
+    <time>2026-02-04T16:35:24Z</time>
+    <name>Fff b10696</name>
+    <desc>à proximité de la statue- parc du château de courcelles</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>73, rue de pont-À-mousson, 57900 Montigny-lès-metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.104546" lon="6.162526">
+    <time>2026-02-04T16:34:15Z</time>
+    <name>Fff b10695</name>
+    <desc>Entre le jardin des roses et les érables japonais, devant le séquoia centenaire</desc>
+    <type>BoiteLire Grand Est</type>
+    <extensions>
+      <osmand:address>27 rue de pont-à-mousson, 57950 Montigny-lès-metz, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.871186" lon="5.267133">
     <time>2025-05-28T09:21:32Z</time>
     <name>Linard b10548</name>
@@ -6847,18 +6883,6 @@
     <type>BoiteLire Grand Est</type>
     <extensions>
       <osmand:address>Woippy plage, 57140 Woippy, France</osmand:address>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.105273" lon="6.205223">
-    <time>2018-07-02T09:33:58Z</time>
-    <name>Lainé b3024</name>
-    <desc>Cour du centre socio culturel bon pasteur</desc>
-    <type>BoiteLire Grand Est</type>
-    <extensions>
-      <osmand:address>Mélanie, 57070 Metz, France</osmand:address>
       <osmand:color>#ff5020</osmand:color>
       <osmand:background>square</osmand:background>
       <osmand:icon>public_bookcase</osmand:icon>

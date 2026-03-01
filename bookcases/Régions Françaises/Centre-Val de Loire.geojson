@@ -6,6 +6,276 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.590085,
+          47.328744
+        ]
+      },
+      "properties": {
+        "id": 10707,
+        "nom": "Koenig",
+        "adresse": "Square du bicentenaire à miré",
+        "code_postal": "37510",
+        "ville": "Ballan-miré",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "En libre accès, installée par la municipalité et gérée par l association  les amis du livre et du patrimoine\"",
+        "coord_gps": "47.328744, 0.590085",
+        "affichage": 1,
+        "date_created": "2026-02-24 09:46:16",
+        "date_updated": "2026-02-24 09:46:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.615172,
+          47.341729
+        ]
+      },
+      "properties": {
+        "id": 10706,
+        "nom": "Koenig",
+        "adresse": "16 rue du général leclerc",
+        "code_postal": "37510",
+        "ville": "Ballan-miré",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Plus particulièrement consacré aux livres de cuisine ... mais souvent les gouts se mélangent ! géré par l équipe du restaurant et la municipalité",
+        "coord_gps": "47.3417292, 0.6151719999999999",
+        "affichage": 1,
+        "date_created": "2026-02-24 09:46:08",
+        "date_updated": "2026-02-24 09:46:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.639576,
+          47.353581
+        ]
+      },
+      "properties": {
+        "id": 10705,
+        "nom": "Koenig",
+        "adresse": "Lac des bretonnières",
+        "code_postal": "37300",
+        "ville": "Joue les tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Idéalement placée sur la promenade autour du lac, avec un grand parking à côté, cette boite à livres est gérée par l association des mignardières de ballan miré",
+        "coord_gps": "47.3535809, 0.6395757",
+        "affichage": 1,
+        "date_created": "2026-02-24 09:45:58",
+        "date_updated": "2026-02-24 09:45:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.743123,
+          47.360026
+        ]
+      },
+      "properties": {
+        "id": 10704,
+        "nom": "Guingambrésil",
+        "adresse": "Mail rené cassin",
+        "code_postal": "37550",
+        "ville": "Saint-avertin",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant le marché des onze arpents.",
+        "coord_gps": "47.360026, 0.743123",
+        "affichage": 1,
+        "date_created": "2026-02-16 09:47:52",
+        "date_updated": "2026-02-16 09:47:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.752733,
+          47.364852
+        ]
+      },
+      "properties": {
+        "id": 10703,
+        "nom": "Guingambrésil",
+        "adresse": "12 avenue de l orangerie",
+        "code_postal": "37270",
+        "ville": "Larçay",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de l avenue, au croisement de la rue jacquelin d'andigné.",
+        "coord_gps": "47.3648523, 0.7527332",
+        "affichage": 1,
+        "date_created": "2026-02-16 09:47:44",
+        "date_updated": "2026-02-16 09:47:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.727735,
+          47.369064
+        ]
+      },
+      "properties": {
+        "id": 10702,
+        "nom": "Guingambrésil",
+        "adresse": "10 boulevard paul doumer",
+        "code_postal": "37550",
+        "ville": "Saint-avertin",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au bord du lac de saint-avertin, devant le restaurant le clapotis.",
+        "coord_gps": "47.3690643, 0.7277353999999999",
+        "affichage": 1,
+        "date_created": "2026-02-16 09:47:37",
+        "date_updated": "2026-02-16 09:47:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.696556,
+          47.373479
+        ]
+      },
+      "properties": {
+        "id": 10701,
+        "nom": "Guingambrésil",
+        "adresse": "Square mendelssohn",
+        "code_postal": "37000",
+        "ville": "Tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Près de l aire de jeux.",
+        "coord_gps": "47.3734789, 0.6965562",
+        "affichage": 1,
+        "date_created": "2026-02-16 09:47:31",
+        "date_updated": "2026-02-16 09:47:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.680348,
+          47.377101
+        ]
+      },
+      "properties": {
+        "id": 10700,
+        "nom": "Guingambrésil",
+        "adresse": "1 allée des Érables",
+        "code_postal": "37000",
+        "ville": "Tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la barre d immeubles, devant le square.",
+        "coord_gps": "47.3771014, 0.6803482",
+        "affichage": 1,
+        "date_created": "2026-02-16 09:47:22",
+        "date_updated": "2026-02-16 09:47:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.658259,
+          47.381958
+        ]
+      },
+      "properties": {
+        "id": 10699,
+        "nom": "Guingambrésil",
+        "adresse": "8 rue Étienne jodelle",
+        "code_postal": "37520",
+        "ville": "La riche",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur l espace vert le long de la rue.",
+        "coord_gps": "47.3819576, 0.6582595",
+        "affichage": 1,
+        "date_created": "2026-02-16 09:47:13",
+        "date_updated": "2026-02-16 09:47:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.611131,
+          46.978683
+        ]
+      },
+      "properties": {
+        "id": 10698,
+        "nom": "Tif",
+        "adresse": "Place de la république",
+        "code_postal": "36110",
+        "ville": "Levroux",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "De tout en lecture, partagez vos lecture faites voyager ces livres",
+        "coord_gps": "46.9786827, 1.6111312",
+        "affichage": 1,
+        "date_created": "2026-02-09 09:42:41",
+        "date_updated": "2026-02-09 09:42:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.350253,
           48.079853
         ]

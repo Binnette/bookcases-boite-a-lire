@@ -6,6 +6,168 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.918939,
+          48.743241
+        ]
+      },
+      "properties": {
+        "id": 10694,
+        "nom": "Guingambrésil",
+        "adresse": "Avenue de la gare",
+        "code_postal": "78310",
+        "ville": "Coignières",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Près du parc à vélo de la gare.",
+        "coord_gps": "48.7432408, 1.918939",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:23:37",
+        "date_updated": "2026-02-02 09:23:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93193,
+          48.766948
+        ]
+      },
+      "properties": {
+        "id": 10693,
+        "nom": "Guingambrésil",
+        "adresse": "Rue de penthièvre",
+        "code_postal": "78310",
+        "ville": "Maurepas",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l aire de jeux du chemin piéton parallèle à la rue de penthièvre.",
+        "coord_gps": "48.7669477, 1.9319297",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:23:09",
+        "date_updated": "2026-02-02 09:23:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.945644,
+          48.754242
+        ]
+      },
+      "properties": {
+        "id": 10692,
+        "nom": "Guingambrésil",
+        "adresse": "Rue marcel rivière",
+        "code_postal": "78320",
+        "ville": "La verrière",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au parc près du parking d intermarché.",
+        "coord_gps": "48.7542422, 1.9456438",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:22:57",
+        "date_updated": "2026-02-02 09:22:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375324,
+          48.831253
+        ]
+      },
+      "properties": {
+        "id": 10691,
+        "nom": "Guingambrésil",
+        "adresse": "Place jean de bueil",
+        "code_postal": "75013",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au bout des rues dunois et xaintrailles.",
+        "coord_gps": "48.8312531, 2.3753239",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:22:42",
+        "date_updated": "2026-02-02 09:22:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365631,
+          48.858985
+        ]
+      },
+      "properties": {
+        "id": 10690,
+        "nom": "Guingambrésil",
+        "adresse": "Rue de hesse",
+        "code_postal": "75003",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au square saint-gilles - grand-veneur - pauline-roland",
+        "coord_gps": "48.8589847, 2.3656313",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:21:54",
+        "date_updated": "2026-02-02 09:22:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36639,
+          48.863141
+        ]
+      },
+      "properties": {
+        "id": 10689,
+        "nom": "Guingambrésil",
+        "adresse": "1 boulevard du temple",
+        "code_postal": "75003",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la terrasse couverte du restaurant du barricou, vraisemblablement aux horaires d ouverture du magasin the rolling shop.",
+        "coord_gps": "48.8631407, 2.3663896",
+        "affichage": 1,
+        "date_created": "2026-02-02 09:21:43",
+        "date_updated": "2026-02-02 09:21:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.351067,
           48.894579
         ]

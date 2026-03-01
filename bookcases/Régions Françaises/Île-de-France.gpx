@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.743241" lon="1.918939">
+    <time>2026-02-02T09:23:37Z</time>
+    <name>Guingambrésil b10694</name>
+    <desc>Près du parc à vélo de la gare.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Avenue de la gare, 78310 Coignières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.766948" lon="1.93193">
+    <time>2026-02-02T09:23:09Z</time>
+    <name>Guingambrésil b10693</name>
+    <desc>À l aire de jeux du chemin piéton parallèle à la rue de penthièvre.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue de penthièvre, 78310 Maurepas, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.754242" lon="1.945644">
+    <time>2026-02-02T09:22:57Z</time>
+    <name>Guingambrésil b10692</name>
+    <desc>Au parc près du parking d intermarché.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue marcel rivière, 78320 La verrière, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.831253" lon="2.375324">
+    <time>2026-02-02T09:22:42Z</time>
+    <name>Guingambrésil b10691</name>
+    <desc>Au bout des rues dunois et xaintrailles.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Place jean de bueil, 75013 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.858985" lon="2.365631">
+    <time>2026-02-02T09:22:31Z</time>
+    <name>Guingambrésil b10690</name>
+    <desc>Au square saint-gilles - grand-veneur - pauline-roland</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Rue de hesse, 75003 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.863141" lon="2.36639">
+    <time>2026-02-02T09:21:43Z</time>
+    <name>Guingambrésil b10689</name>
+    <desc>Le long de la terrasse couverte du restaurant du barricou, vraisemblablement aux horaires d ouverture du magasin the rolling shop.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>1 boulevard du temple, 75003 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.894579" lon="2.351067">
     <time>2025-12-03T09:58:49Z</time>
     <name>Philippe caulier b10677</name>
