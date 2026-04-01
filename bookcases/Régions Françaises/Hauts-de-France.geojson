@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.920556,
+          50.322199
+        ]
+      },
+      "properties": {
+        "id": 10719,
+        "nom": "Comité des fêtes de tortefontaine",
+        "adresse": "8-10 rue d hesdin",
+        "code_postal": "62140",
+        "ville": "Tortefontane",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Ancien abri bus à l entrée du chemin entre le 8 et le 10 de la rue d'hesdin",
+        "coord_gps": "50.32219869999999, 1.9205561",
+        "affichage": 1,
+        "date_created": "2026-03-19 09:48:51",
+        "date_updated": "2026-03-19 09:48:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07159,
+          50.19454
+        ]
+      },
+      "properties": {
+        "id": 10711,
+        "nom": "Valerie rolland",
+        "adresse": "Gregrette59@yahoo.fr",
+        "code_postal": "62860",
+        "ville": "Sains les marquion",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "La boîte à livres est dans une ancienne cabine téléphonique sur la place du village. elle a été rénovée en mars 2026",
+        "coord_gps": "50.19454, 3.07159",
+        "affichage": 1,
+        "date_created": "2026-03-11 09:42:44",
+        "date_updated": "2026-03-11 09:42:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.409337,
           50.965136
         ]

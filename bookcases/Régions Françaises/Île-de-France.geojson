@@ -6,6 +6,141 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.406376,
+          48.878503
+        ]
+      },
+      "properties": {
+        "id": 10718,
+        "nom": "Guingambrésil",
+        "adresse": "18 boulevard sérurier",
+        "code_postal": "15019",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l angle de l'allée marius barroux.",
+        "coord_gps": "48.8785025, 2.4063761",
+        "affichage": 1,
+        "date_created": "2026-03-17 09:42:34",
+        "date_updated": "2026-03-17 09:42:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.410509,
+          48.873343
+        ]
+      },
+      "properties": {
+        "id": 10717,
+        "nom": "Guingambrésil",
+        "adresse": "2 rue léon frapié",
+        "code_postal": "75020",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Le long de la rue, prés du local du paris lady basket.",
+        "coord_gps": "48.8733426, 2.4105095",
+        "affichage": 1,
+        "date_created": "2026-03-17 09:42:27",
+        "date_updated": "2026-03-17 09:42:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40624,
+          48.861929
+        ]
+      },
+      "properties": {
+        "id": 10716,
+        "nom": "Guingambrésil",
+        "adresse": "148 rue de bagnolet",
+        "code_postal": "75020",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au jardin de l hospice debrousse.",
+        "coord_gps": "48.8619293, 2.4062401",
+        "affichage": 1,
+        "date_created": "2026-03-17 09:42:18",
+        "date_updated": "2026-03-17 09:42:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40481,
+          48.860672
+        ]
+      },
+      "properties": {
+        "id": 10715,
+        "nom": "Guingambrésil",
+        "adresse": "126 rue de bagnolet",
+        "code_postal": "75020",
+        "ville": "Paris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au square antoine blondin.",
+        "coord_gps": "48.8606718, 2.40481",
+        "affichage": 1,
+        "date_created": "2026-03-17 09:42:11",
+        "date_updated": "2026-03-17 09:42:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.130659,
+          48.814131
+        ]
+      },
+      "properties": {
+        "id": 10714,
+        "nom": "Guingambrésil",
+        "adresse": "15 rue des missionnaires",
+        "code_postal": "78000",
+        "ville": "Versailles",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous le porche d entrée du cimetière.",
+        "coord_gps": "48.8141306, 2.1306587",
+        "affichage": 1,
+        "date_created": "2026-03-17 09:41:54",
+        "date_updated": "2026-03-17 09:41:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.918939,
           48.743241
         ]

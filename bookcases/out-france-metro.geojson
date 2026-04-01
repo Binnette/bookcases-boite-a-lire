@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.787932,
+          45.478131
+        ]
+      },
+      "properties": {
+        "id": 10710,
+        "nom": "Stéphane pisani",
+        "adresse": "1, rue du gabbro",
+        "code_postal": "Gatineau",
+        "ville": "J8z2n7",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Cette cabane à livres a été entièrement réalisée à partir de matériaux recyclés. elle s appelle micro biblio du gabbro puisqu'elle est située devant chez nous au 1, rue du gabbro proche du parc de la gatineau et du parc du gabbro. c'est avec plaisir et gratitude que nous remercions les lectrices et lecteurs du quartier de l'avoir adopté et surtout de lui donner vie.",
+        "coord_gps": "45.4781314, -75.7879316",
+        "affichage": 1,
+        "date_created": "2026-03-09 10:10:35",
+        "date_updated": "2026-03-09 10:10:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           44.720274,
           41.845425
         ]

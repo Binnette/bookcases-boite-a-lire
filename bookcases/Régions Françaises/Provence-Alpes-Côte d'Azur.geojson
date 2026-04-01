@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.230179,
+          43.483267
+        ]
+      },
+      "properties": {
+        "id": 10709,
+        "nom": "Culioli nicolas",
+        "adresse": "Route départementale 1134 avenue de verdun",
+        "code_postal": "13340",
+        "ville": "Rognac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "43.4832672, 5.2301789",
+        "affichage": 1,
+        "date_created": "2026-03-04 09:53:57",
+        "date_updated": "2026-03-04 09:53:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3709,
+          43.302553
+        ]
+      },
+      "properties": {
+        "id": 10708,
+        "nom": "Culioli nicolas",
+        "adresse": "ThÉÂtre de la mer / l r de la mer 53 rue de la joliette",
+        "code_postal": "13002",
+        "ville": "Marseille",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "43.3025532, 5.3709004",
+        "affichage": 1,
+        "date_created": "2026-03-04 09:53:50",
+        "date_updated": "2026-03-04 09:53:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.749347,
           43.42142
         ]

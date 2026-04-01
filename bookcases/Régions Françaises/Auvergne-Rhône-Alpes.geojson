@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.07006,
+          45.783765
+        ]
+      },
+      "properties": {
+        "id": 10712,
+        "nom": "Sandrine",
+        "adresse": "26 avenue raymond bergougnan",
+        "code_postal": "63100",
+        "ville": "Clermont-ferrand",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Http://c.tile.openstreetmap.org/16/33327/23372.pngla boite est à quelques mètres après la barrière automatique de l entrée voiture.",
+        "coord_gps": "45.7837646, 3.0700602",
+        "affichage": 1,
+        "date_created": "2026-03-16 09:47:12",
+        "date_updated": "2026-03-16 09:47:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.829629,
           45.734298
         ]

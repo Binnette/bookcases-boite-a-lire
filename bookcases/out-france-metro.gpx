@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.478131" lon="-75.787932">
+    <time>2026-03-09T10:10:35Z</time>
+    <name>Stéphane pisani b10710</name>
+    <desc>Cette cabane à livres a été entièrement réalisée à partir de matériaux recyclés. elle s appelle micro biblio du gabbro puisqu'elle est située devant chez nous au 1, rue du gabbro proche du parc de la gatineau et du parc du gabbro. c'est avec plaisir et gratitude que nous remercions les lectrices et lecteurs du quartier de l'avoir adopté et surtout de lui donner vie.</desc>
+    <type>BoiteLire hors France métro</type>
+    <extensions>
+      <osmand:address>1, rue du gabbro, Gatineau J8z2n7, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="41.845425" lon="44.720274">
     <time>2025-12-15T09:48:42Z</time>
     <name>Leecep b10678</name>

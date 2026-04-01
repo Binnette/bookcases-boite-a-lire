@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.70099,
+          45.182633
+        ]
+      },
+      "properties": {
+        "id": 10713,
+        "nom": "Machenri",
+        "adresse": "35 avenue jean jaurès",
+        "code_postal": "24660",
+        "ville": "Coulounieix chamiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Manque un porte bouquins parfois humide",
+        "coord_gps": "45.1826333, 0.7009904",
+        "affichage": 1,
+        "date_created": "2026-03-16 09:47:23",
+        "date_updated": "2026-03-16 09:47:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.252937,
           46.646285
         ]

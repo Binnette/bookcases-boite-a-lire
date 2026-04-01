@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.878503" lon="2.406376">
+    <time>2026-03-17T09:42:34Z</time>
+    <name>Guingambrésil b10718</name>
+    <desc>À l angle de l'allée marius barroux.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>18 boulevard sérurier, 15019 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.873343" lon="2.410509">
+    <time>2026-03-17T09:42:27Z</time>
+    <name>Guingambrésil b10717</name>
+    <desc>Le long de la rue, prés du local du paris lady basket.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>2 rue léon frapié, 75020 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.861929" lon="2.40624">
+    <time>2026-03-17T09:42:18Z</time>
+    <name>Guingambrésil b10716</name>
+    <desc>Au jardin de l hospice debrousse.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>148 rue de bagnolet, 75020 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.860672" lon="2.40481">
+    <time>2026-03-17T09:42:11Z</time>
+    <name>Guingambrésil b10715</name>
+    <desc>Au square antoine blondin.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>126 rue de bagnolet, 75020 Paris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.814131" lon="2.130659">
+    <time>2026-03-17T09:41:54Z</time>
+    <name>Guingambrésil b10714</name>
+    <desc>Sous le porche d entrée du cimetière.</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>15 rue des missionnaires, 78000 Versailles, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.743241" lon="1.918939">
     <time>2026-02-02T09:23:37Z</time>
     <name>Guingambrésil b10694</name>

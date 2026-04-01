@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.783765" lon="3.07006">
+    <time>2026-03-16T09:47:12Z</time>
+    <name>Sandrine b10712</name>
+    <desc>Http://c.tile.openstreetmap.org/16/33327/23372.pngla boite est à quelques mètres après la barrière automatique de l entrée voiture.</desc>
+    <type>BoiteLire Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:address>26 avenue raymond bergougnan, 63100 Clermont-ferrand, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.734298" lon="4.829629">
     <time>2026-01-28T14:50:27Z</time>
     <name>Amelie b10687</name>
