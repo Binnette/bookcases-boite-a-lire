@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.258457,
+          48.989042
+        ]
+      },
+      "properties": {
+        "id": 10724,
+        "nom": "Elisabeth le levier",
+        "adresse": "Elislele2356@gmail.com",
+        "code_postal": "95120",
+        "ville": "Ermont",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Nommée  cabane à histoires\", située face au 64 rue des forges",
+        "coord_gps": "48.9890424, 2.2584566",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:49:59",
+        "date_updated": "2026-04-20 09:49:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.406376,
           48.878503
         ]

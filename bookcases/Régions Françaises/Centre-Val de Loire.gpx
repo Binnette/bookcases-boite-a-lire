@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.383765" lon="0.695937">
+    <time>2026-05-18T10:49:12Z</time>
+    <name>Guingambrésil b10750</name>
+    <desc>À l aire de jeux.</desc>
+    <type>BoiteLire Centre-Val de Loire</type>
+    <extensions>
+      <osmand:address>1 boulevard de lattre de tassigny 37000 tours, 37000 Tours, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.328744" lon="0.590085">
     <time>2026-02-24T09:46:16Z</time>
     <name>Koenig b10707</name>

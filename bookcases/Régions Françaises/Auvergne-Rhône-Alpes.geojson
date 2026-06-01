@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.844657,
+          45.055442
+        ]
+      },
+      "properties": {
+        "id": 10722,
+        "nom": "Coralie",
+        "adresse": "Les estreys",
+        "code_postal": "43000",
+        "ville": "Polignac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "45.0554424, 3.8446569",
+        "affichage": 1,
+        "date_created": "2026-04-13 09:55:26",
+        "date_updated": "2026-04-13 09:55:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.07006,
           45.783765
         ]

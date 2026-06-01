@@ -6,6 +6,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.896846,
+          47.062034
+        ]
+      },
+      "properties": {
+        "id": 10726,
+        "nom": "Guingambrésil",
+        "adresse": "Avenue de mocrat",
+        "code_postal": "49300",
+        "ville": "Cholet",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant le centre social pasteur.",
+        "coord_gps": "47.0620339, -0.8968458",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:14",
+        "date_updated": "2026-04-20 09:50:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.887165,
+          47.066777
+        ]
+      },
+      "properties": {
+        "id": 10725,
+        "nom": "Guingambrésil",
+        "adresse": "25 boulevard guy chouteau",
+        "code_postal": "49300",
+        "ville": "Cholet",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant l église du sacré-c?ur.",
+        "coord_gps": "47.0667768, -0.8871648",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:06",
+        "date_updated": "2026-04-20 09:50:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.204938,
+          47.315251
+        ]
+      },
+      "properties": {
+        "id": 10723,
+        "nom": "Conseil municipal des enfants de trignac 2025",
+        "adresse": "Parc océane",
+        "code_postal": "44570",
+        "ville": "Trignac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Boîte à livre en face du bâtiment l escale à certé.\r\ncette boîte est le fruit du travail du conseil municipal des enfants 2025",
+        "coord_gps": "47.3152507, -2.2049379",
+        "affichage": 1,
+        "date_created": "2026-04-15 09:39:09",
+        "date_updated": "2026-04-15 09:39:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.436999,
           47.197018
         ]

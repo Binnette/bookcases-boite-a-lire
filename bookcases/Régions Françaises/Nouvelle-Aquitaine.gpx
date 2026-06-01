@@ -1,5 +1,245 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.834953" lon="0.358935">
+    <time>2026-05-05T10:05:37Z</time>
+    <name>Guingambrésil b10745</name>
+    <desc>À artenac, au croisement avec la d91.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Route de la résistance, 16260 Saint-mary, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.818377" lon="0.39061">
+    <time>2026-05-05T10:05:30Z</time>
+    <name>Guingambrésil b10744</name>
+    <desc>Au croisement de la rue du moulin de la forge</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>7 route de la bonnieure, 16260 Les pins, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.800298" lon="0.31531">
+    <time>2026-05-05T10:05:23Z</time>
+    <name>Guingambrésil b10743</name>
+    <desc>Espace de dons avec une grande boîte à livres.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>503 route de la duchesse, 16110 La rochette, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.794258" lon="0.350704">
+    <time>2026-05-05T10:05:15Z</time>
+    <name>Guingambrésil b10742</name>
+    <desc>À la brousse, au croisement de la route de saint-claud.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>13 rue des perrats, 16110 Agris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.78625" lon="0.33955">
+    <time>2026-05-05T10:05:08Z</time>
+    <name>Guingambrésil b10741</name>
+    <desc>Sur le parking prés du rond-point.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>111 route de la rochefoucauld, 16110 Agris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.780552" lon="0.330091">
+    <time>2026-05-05T10:04:59Z</time>
+    <name>Guingambrésil b10740</name>
+    <desc>Sous le préau.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de la grange, 16110 Agris, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.752686" lon="0.359578">
+    <time>2026-05-05T10:04:52Z</time>
+    <name>Guingambrésil b10739</name>
+    <desc>Sous un préau sur le parking du stade raymond arrivé.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Le bourg, 16110 Rivières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.737037" lon="0.36037">
+    <time>2026-05-05T10:04:43Z</time>
+    <name>Guingambrésil b10738</name>
+    <desc>À saint-projet, sur le parking de l école et de la salle polyvalente.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>9 rue roger deville, 16110 La rochefoucauld-en-angoumois, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.746616" lon="0.388095">
+    <time>2026-05-05T10:03:30Z</time>
+    <name>Guingambrésil b10737</name>
+    <desc>Au croisement du boulevard marguerite de navarre</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Boulevard françois ier, 16110 La rochefoucauld-en-angoumois, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.752517" lon="0.361308">
+    <time>2026-05-05T10:03:19Z</time>
+    <name>Guingambrésil b10736</name>
+    <desc>Sur le parking devant la salle des fêtes.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place de la mairie, 16110 Bunzac, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.741552" lon="0.308294">
+    <time>2026-05-05T10:03:09Z</time>
+    <name>Guingambrésil b10735</name>
+    <desc>Prés de la maison forestière.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>La gros fayant, 16110 Rivières, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.633852" lon="0.356294">
+    <time>2026-04-20T09:51:07Z</time>
+    <name>Guingambrésil b10733</name>
+    <desc>Sur la clôture d un particulier.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>5 rue de gratte loup, 86360 Chasseneuil-du-poitou, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.370761" lon="0.40626">
+    <time>2026-04-20T09:50:58Z</time>
+    <name>Guingambrésil b10732</name>
+    <desc>À l intérieur de la laverie nature.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>13 rue du huit-mai 1945, 86160 Gençay, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.428625" lon="0.264076">
+    <time>2026-04-20T09:50:50Z</time>
+    <name>Guingambrésil b10731</name>
+    <desc>Sur la place, devant l office de tourisme.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Place du champ de foire, 86370 Vivonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.422052" lon="0.251345">
+    <time>2026-04-20T09:50:43Z</time>
+    <name>Guingambrésil b10730</name>
+    <desc>À l intérieur de la laverie nature.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>5 bis route de lusignan, 86370 Vivonne, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.850325" lon="-0.475462">
+    <time>2026-04-20T09:50:33Z</time>
+    <name>Guingambrésil b10729</name>
+    <desc>Au cinéma du fauteuil rouge.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>7 espace bocapole, 79300 Bressuire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.84198" lon="-0.49404">
+    <time>2026-04-20T09:50:27Z</time>
+    <name>Guingambrésil b10728</name>
+    <desc>Au cloître notre-dame.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>Rue des religieuses, 79300 Bressuire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.834747" lon="-0.491858">
+    <time>2026-04-20T09:50:21Z</time>
+    <name>Guingambrésil b10727</name>
+    <desc>Devant la piscine.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>8 impasse de la corderie, 79300 Bressuire, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.575747" lon="0.337983">
+    <time>2026-04-02T09:49:14Z</time>
+    <name>Guingambrésil b10721</name>
+    <desc>Au p tit local.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>16 place henri barbusse, 86000 Poitiers, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.871069" lon="-0.577291">
+    <time>2026-04-01T09:22:34Z</time>
+    <name>Roussel b10720</name>
+    <desc>Dans le square green square au niveau de l aire de jeux pour enfants.</desc>
+    <type>BoiteLire Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:address>45 allée de boutaut, 33520 Bruges, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.182633" lon="0.70099">
     <time>2026-03-16T09:47:23Z</time>
     <name>Machenri b10713</name>

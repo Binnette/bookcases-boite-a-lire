@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.003602,
+          47.25477
+        ]
+      },
+      "properties": {
+        "id": 10746,
+        "nom": "Alex andreoli",
+        "adresse": "10 rue paul verlaine",
+        "code_postal": "25000",
+        "ville": "Besançon",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "",
+        "coord_gps": "47.25477, 6.0036019",
+        "affichage": 1,
+        "date_created": "2026-05-06 09:44:57",
+        "date_updated": "2026-05-06 09:44:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.774657,
           47.506194
         ]

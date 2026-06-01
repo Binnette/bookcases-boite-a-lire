@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.695937,
+          47.383765
+        ]
+      },
+      "properties": {
+        "id": 10750,
+        "nom": "Guingambrésil",
+        "adresse": "1 boulevard de lattre de tassigny 37000 tours",
+        "code_postal": "37000",
+        "ville": "Tours",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l aire de jeux.",
+        "coord_gps": "47.3837652, 0.6959371",
+        "affichage": 1,
+        "date_created": "2026-05-18 10:49:12",
+        "date_updated": "2026-05-18 10:49:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.590085,
           47.328744
         ]

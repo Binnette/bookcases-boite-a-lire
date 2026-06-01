@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.123935" lon="0.103597">
+    <time>2026-05-13T16:05:23Z</time>
+    <name>Mairie de manerbe b10748</name>
+    <desc>Une boîte à livres, fabriquée par l?esat les ateliers du pays d?auge, est à votre disposition le long du petit parking en face du café de manerbe. vous pouvez y déposer ou échanger ou prendre gratuitement le ou les livres que vous souhaiteriez lire. l?objectif est de favoriser les échanges de livres, tout en évitant qu?ils soient détruits quand on en a plus l?utilité.</desc>
+    <type>BoiteLire Normandie</type>
+    <extensions>
+      <osmand:address>Le bourg, 14340 Manerbe, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.281837" lon="-0.702801">
     <time>2025-04-22T10:17:22Z</time>
     <name>A livres ouverts b10528</name>

@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.103597,
+          49.123935
+        ]
+      },
+      "properties": {
+        "id": 10748,
+        "nom": "Mairie de manerbe",
+        "adresse": "Le bourg",
+        "code_postal": "14340",
+        "ville": "Manerbe",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Une boîte à livres, fabriquée par l?esat les ateliers du pays d?auge, est à votre disposition le long du petit parking en face du café de manerbe.\r\nvous pouvez y déposer ou échanger ou prendre gratuitement le ou les livres que vous souhaiteriez lire. l?objectif est de favoriser les échanges de livres, tout en évitant qu?ils soient détruits quand on en a plus l?utilité.",
+        "coord_gps": "49.1239347, 0.1035968",
+        "affichage": 1,
+        "date_created": "2026-05-13 16:05:23",
+        "date_updated": "2026-05-13 16:05:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.702801,
           49.281837
         ]

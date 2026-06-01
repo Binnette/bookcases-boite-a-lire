@@ -6,6 +6,546 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.358935,
+          45.834953
+        ]
+      },
+      "properties": {
+        "id": 10745,
+        "nom": "Guingambrésil",
+        "adresse": "Route de la résistance",
+        "code_postal": "16260",
+        "ville": "Saint-mary",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À artenac, au croisement avec la d91.",
+        "coord_gps": "45.834953, 0.358935",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:05:37",
+        "date_updated": "2026-05-05 10:05:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39061,
+          45.818377
+        ]
+      },
+      "properties": {
+        "id": 10744,
+        "nom": "Guingambrésil",
+        "adresse": "7 route de la bonnieure",
+        "code_postal": "16260",
+        "ville": "Les pins",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement de la rue du moulin de la forge",
+        "coord_gps": "45.818377, 0.39061",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:05:30",
+        "date_updated": "2026-05-05 10:05:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.31531,
+          45.800298
+        ]
+      },
+      "properties": {
+        "id": 10743,
+        "nom": "Guingambrésil",
+        "adresse": "503 route de la duchesse",
+        "code_postal": "16110",
+        "ville": "La rochette",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Espace de dons avec une grande boîte à livres.",
+        "coord_gps": "45.8002978, 0.31531",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:05:23",
+        "date_updated": "2026-05-05 10:05:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.350704,
+          45.794258
+        ]
+      },
+      "properties": {
+        "id": 10742,
+        "nom": "Guingambrésil",
+        "adresse": "13 rue des perrats",
+        "code_postal": "16110",
+        "ville": "Agris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À la brousse, au croisement de la route de saint-claud.",
+        "coord_gps": "45.794258, 0.350704",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:05:15",
+        "date_updated": "2026-05-05 10:05:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33955,
+          45.78625
+        ]
+      },
+      "properties": {
+        "id": 10741,
+        "nom": "Guingambrésil",
+        "adresse": "111 route de la rochefoucauld",
+        "code_postal": "16110",
+        "ville": "Agris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking prés du rond-point.",
+        "coord_gps": "45.78625, 0.33955",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:05:08",
+        "date_updated": "2026-05-05 10:05:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.330091,
+          45.780552
+        ]
+      },
+      "properties": {
+        "id": 10740,
+        "nom": "Guingambrésil",
+        "adresse": "Place de la grange",
+        "code_postal": "16110",
+        "ville": "Agris",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous le préau.",
+        "coord_gps": "45.7805521, 0.3300915",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:04:59",
+        "date_updated": "2026-05-05 10:04:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.359578,
+          45.752686
+        ]
+      },
+      "properties": {
+        "id": 10739,
+        "nom": "Guingambrésil",
+        "adresse": "Le bourg",
+        "code_postal": "16110",
+        "ville": "Rivières",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sous un préau sur le parking du stade raymond arrivé.",
+        "coord_gps": "45.7526862, 0.3595778",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:04:52",
+        "date_updated": "2026-05-05 10:04:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.36037,
+          45.737037
+        ]
+      },
+      "properties": {
+        "id": 10738,
+        "nom": "Guingambrésil",
+        "adresse": "9 rue roger deville",
+        "code_postal": "16110",
+        "ville": "La rochefoucauld-en-angoumois",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À saint-projet, sur le parking de l école et de la salle polyvalente.",
+        "coord_gps": "45.7370372, 0.3603702",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:04:43",
+        "date_updated": "2026-05-05 10:04:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.388095,
+          45.746616
+        ]
+      },
+      "properties": {
+        "id": 10737,
+        "nom": "Guingambrésil",
+        "adresse": "Boulevard françois ier",
+        "code_postal": "16110",
+        "ville": "La rochefoucauld-en-angoumois",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au croisement du boulevard marguerite de navarre",
+        "coord_gps": "45.7466163, 0.3880946",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:03:30",
+        "date_updated": "2026-05-05 10:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.361308,
+          45.752517
+        ]
+      },
+      "properties": {
+        "id": 10736,
+        "nom": "Guingambrésil",
+        "adresse": "Place de la mairie",
+        "code_postal": "16110",
+        "ville": "Bunzac",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur le parking devant la salle des fêtes.",
+        "coord_gps": "45.7525172, 0.3613077",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:03:19",
+        "date_updated": "2026-05-05 10:03:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.308294,
+          45.741552
+        ]
+      },
+      "properties": {
+        "id": 10735,
+        "nom": "Guingambrésil",
+        "adresse": "La gros fayant",
+        "code_postal": "16110",
+        "ville": "Rivières",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Prés de la maison forestière.",
+        "coord_gps": "45.741552, 0.308294",
+        "affichage": 1,
+        "date_created": "2026-05-05 10:03:09",
+        "date_updated": "2026-05-05 10:03:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.356294,
+          46.633852
+        ]
+      },
+      "properties": {
+        "id": 10733,
+        "nom": "Guingambrésil",
+        "adresse": "5 rue de gratte loup",
+        "code_postal": "86360",
+        "ville": "Chasseneuil-du-poitou",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur la clôture d un particulier.",
+        "coord_gps": "46.6338521, 0.3562937",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:51:07",
+        "date_updated": "2026-04-20 09:51:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40626,
+          46.370761
+        ]
+      },
+      "properties": {
+        "id": 10732,
+        "nom": "Guingambrésil",
+        "adresse": "13 rue du huit-mai 1945",
+        "code_postal": "86160",
+        "ville": "Gençay",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l intérieur de la laverie nature.",
+        "coord_gps": "46.3707614, 0.4062598",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:58",
+        "date_updated": "2026-04-20 09:50:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.264076,
+          46.428625
+        ]
+      },
+      "properties": {
+        "id": 10731,
+        "nom": "Guingambrésil",
+        "adresse": "Place du champ de foire",
+        "code_postal": "86370",
+        "ville": "Vivonne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Sur la place, devant l office de tourisme.",
+        "coord_gps": "46.428625, 0.2640758",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:50",
+        "date_updated": "2026-04-20 09:50:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.251345,
+          46.422052
+        ]
+      },
+      "properties": {
+        "id": 10730,
+        "nom": "Guingambrésil",
+        "adresse": "5 bis route de lusignan",
+        "code_postal": "86370",
+        "ville": "Vivonne",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l intérieur de la laverie nature.",
+        "coord_gps": "46.4220517, 0.2513454",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:43",
+        "date_updated": "2026-04-20 09:50:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.475462,
+          46.850325
+        ]
+      },
+      "properties": {
+        "id": 10729,
+        "nom": "Guingambrésil",
+        "adresse": "7 espace bocapole",
+        "code_postal": "79300",
+        "ville": "Bressuire",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au cinéma du fauteuil rouge.",
+        "coord_gps": "46.8503246, -0.475462",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:33",
+        "date_updated": "2026-04-20 09:50:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49404,
+          46.84198
+        ]
+      },
+      "properties": {
+        "id": 10728,
+        "nom": "Guingambrésil",
+        "adresse": "Rue des religieuses",
+        "code_postal": "79300",
+        "ville": "Bressuire",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au cloître notre-dame.",
+        "coord_gps": "46.8419803, -0.4940396",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:27",
+        "date_updated": "2026-04-20 09:50:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.491858,
+          46.834747
+        ]
+      },
+      "properties": {
+        "id": 10727,
+        "nom": "Guingambrésil",
+        "adresse": "8 impasse de la corderie",
+        "code_postal": "79300",
+        "ville": "Bressuire",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Devant la piscine.",
+        "coord_gps": "46.8347475, -0.4918583",
+        "affichage": 1,
+        "date_created": "2026-04-20 09:50:21",
+        "date_updated": "2026-04-20 09:50:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.337983,
+          46.575747
+        ]
+      },
+      "properties": {
+        "id": 10721,
+        "nom": "Guingambrésil",
+        "adresse": "16 place henri barbusse",
+        "code_postal": "86000",
+        "ville": "Poitiers",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Au p tit local.",
+        "coord_gps": "46.5757474, 0.3379825",
+        "affichage": 1,
+        "date_created": "2026-04-02 09:49:14",
+        "date_updated": "2026-04-02 09:49:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.577291,
+          44.871069
+        ]
+      },
+      "properties": {
+        "id": 10720,
+        "nom": "Roussel",
+        "adresse": "45 allée de boutaut",
+        "code_postal": "33520",
+        "ville": "Bruges",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Dans le square green square au niveau de l aire de jeux pour enfants.",
+        "coord_gps": "44.871069, -0.577291",
+        "affichage": 1,
+        "date_created": "2026-04-01 09:22:23",
+        "date_updated": "2026-04-01 09:22:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.70099,
           45.182633
         ]

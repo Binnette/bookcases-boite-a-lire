@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.228312,
+          47.72547
+        ]
+      },
+      "properties": {
+        "id": 10749,
+        "nom": "Céline",
+        "adresse": "6 strandpromenade ",
+        "code_postal": "88690",
+        "ville": "Uhldingen-mühlhofen",
+        "pays": "Allemagne",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "À l'entrée du musée",
+        "coord_gps": "47.7254699, 9.2283124",
+        "affichage": 1,
+        "date_created": "2026-05-18 10:48:38",
+        "date_updated": "2026-05-18 10:49:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.787932,
           45.478131
         ]

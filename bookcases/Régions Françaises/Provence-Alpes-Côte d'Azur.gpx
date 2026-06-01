@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.526474" lon="5.257997">
+    <time>2026-05-12T11:00:34Z</time>
+    <name>Culioli nicolas b10747</name>
+    <desc>5 chem. du 1er triolet, 34200 sète</desc>
+    <type>BoiteLire Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:address>Nicolas.culioli@gmail.com, VELAUX 13880, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.483267" lon="5.230179">
     <time>2026-03-04T09:53:57Z</time>
     <name>Culioli nicolas b10709</name>

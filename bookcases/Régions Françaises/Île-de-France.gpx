@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.989042" lon="2.258457">
+    <time>2026-04-20T09:49:59Z</time>
+    <name>Elisabeth le levier b10724</name>
+    <desc>Nommée cabane à histoires", située face au 64 rue des forges</desc>
+    <type>BoiteLire Île-de-France</type>
+    <extensions>
+      <osmand:address>Elislele2356@gmail.com, 95120 Ermont, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.878503" lon="2.406376">
     <time>2026-03-17T09:42:34Z</time>
     <name>Guingambrésil b10718</name>

@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.066949,
+          48.576369
+        ]
+      },
+      "properties": {
+        "id": 10734,
+        "nom": "Céline",
+        "adresse": "Parking en face de l église",
+        "code_postal": "22200",
+        "ville": "Le merzer",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "Belle cabane en bois avec pour fenêtre un livre ouverte",
+        "coord_gps": "48.576369, -3.066949",
+        "affichage": 1,
+        "date_created": "2026-04-27 16:39:47",
+        "date_updated": "2026-04-27 16:39:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.374606,
           47.745279
         ]

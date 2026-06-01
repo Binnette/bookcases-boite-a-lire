@@ -6,6 +6,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.257997,
+          43.526474
+        ]
+      },
+      "properties": {
+        "id": 10747,
+        "nom": "Culioli nicolas",
+        "adresse": "Nicolas.culioli@gmail.com",
+        "code_postal": "VELAUX",
+        "ville": "13880",
+        "pays": "France",
+        "creditimage": "",
+        "email": "",
+        "image": "boitealire_0.png",
+        "image_admin": null,
+        "remarque": "5 chem. du 1er triolet, 34200 sète",
+        "coord_gps": "43.5264742, 5.2579968",
+        "affichage": 1,
+        "date_created": "2026-05-12 11:00:34",
+        "date_updated": "2026-05-12 11:00:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.230179,
           43.483267
         ]

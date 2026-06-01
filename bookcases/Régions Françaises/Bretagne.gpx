@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.576369" lon="-3.066949">
+    <time>2026-04-27T16:39:47Z</time>
+    <name>Céline b10734</name>
+    <desc>Belle cabane en bois avec pour fenêtre un livre ouverte</desc>
+    <type>BoiteLire Bretagne</type>
+    <extensions>
+      <osmand:address>Parking en face de l église, 22200 Le merzer, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.745279" lon="-3.374606">
     <time>2025-12-01T10:10:47Z</time>
     <name>Sören b10676</name>
